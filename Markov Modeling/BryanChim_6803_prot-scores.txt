@@ -1,0 +1,3146 @@
+   1.4	F7UQ11	Spore coat polysaccharide biosynthesis protein	spsC
+   0.5	P0DJF9	S-methyl-5'-thioadenosine phosphorylase	mtnP
+ -29.1	F7UPB0	Photosystem II D2 protein	psbD
+   2.4	F7UPL2	Transposase	slr1716
+   2.2	F7URU0	Transposase	slr0180
+ -20.5	F7USQ4	Photosystem Q(B) protein	psbA2
+  13.3	F7UTG5	Transposase	sll0699
+  -4.8	F7US32	Transposase	slr0350
+  13.8	F7UKM9	Transposase	slr0704
+  14.0	F7UMI3	Transposase	sll0431
+   3.0	F7UQ59	Bidirectional hydrogenase complex protein HoxE	sll1220
+ -14.4	F7UQW5	Glycerol kinase	glpK
+   6.1	F7UR74	Photosystem II lipoprotein Psb27	psbZ
+  -6.4	F7UQM6	Toxin secretion ABC transporter ATP-binding protein	hlyB
+  -8.9	F7URJ1	Cobalamin biosynthesis protein CobD	cbiB
+   3.8	F7UKB7	Photosystem II 12 kDa extrinsic protein	psbU
+   5.5	F7UKV1	7-cyano-7-deazaguanine synthase	exsB
+   8.1	F7UKY5	N5-carboxyaminoimidazole ribonucleotide mutase	purE
+-8986.3	F7URP5	CheA-like protein PilL/TaxAY3/Hik43	slr0322
+  -5.6	F7US14	Adaptive-response sensory-kinase SasA	sasA
+   3.7	F7ULR6	Putative uncharacterized protein sll1489	sll1489
+   8.4	F7UT05	Methionine aminopeptidase	map
+  -5.3	F7UT58	dTDP-glucose 4,6-dehydratase	rfbB
+   8.7	F7URV5	Pseudouridine synthase	slr0361
+  15.8	F7UMU2	Protein conferring resistance to acetazolamide	zam
+  12.3	F7UNB2	Cysteine synthase	cysK
+   1.8	F7UNP8	Phosphorylase	glgP
+   0.6	F7UNS1	Glyceraldehyde 3-phosphate dehydrogenase	gap1
+   7.2	F7UP33	Methylenetetrahydrofolate reductase	slr2141
+   9.1	F7UP89	Photosystem II reaction center Psb28 protein	slr1739
+   8.1	F7ULU6	ATP-binding subunit of an ABC-type osmolyte transporter	ggtA
+   8.7	F7UM84	CheA-like protein Hik39/TasAY2	sll1296
+  -2.1	F7UNP6	ABC-type transporter protein	glnHP
+ -35.7	F7URT7	Beta transducin-like protein	sll0163
+  -0.7	F7UNR1	Putative uncharacterized protein slr0878	slr0878
+   1.0	F7ULJ4	Bacterioferritin	bfr
+   2.1	F7UP72	Endonuclease III	nth
+  -4.9	F7UKR1	Pyruvate-flavodoxin oxidoreductase	nifJ
+   7.7	F7UT96	Photosystem II reaction center Psb28 protein	psbW
+  14.3	F7UR01	Phenylalanine--tRNA ligase beta subunit	pheT
+  -0.7	F7UKB9	UDP-glucose dehydrogenase	slr1299
+   2.0	F7UU41	Methionine aminopeptidase	map
+   9.1	F7USK9	Putative uncharacterized protein sll0685	sll0685
+   0.2	F7UNH0	Cytoplasmic membrane protein for maltose uptake	malK
+ -30.3	F7UMR5	Monovalent cation/H+ antiporter subunit D	ndhD6
+  -1.7	F7UTC3	Thioredoxin	trx
+   5.1	F7UPH5	Ferredoxin	slr2059
+-8989.9	F7UTH2	Phosphate-specific transport system accessory protein PhoU	phoU
+  -1.7	F7US48	Putative uncharacterized protein sll0024	sll0024
+   4.9	F7URN6	Lipoprotein NlpD	nlpD
+   4.6	F7UK66	NarL subfamily protein Rre1	ycf29
+-8996.9	F7UKZ9	UDP-glucose-4-epimerase	galE
+  -0.1	F7UR71	Ferredoxin-NADP oxidoreductase	petH
+   6.6	F7UMP9	Probable aspartoacylase	aspA
+-8999.4	F7UKA3	Demethylmenaquinone methyltransferase	menG
+   2.8	F7UML8	Carbamate kinase	arcC
+   3.6	F7UM16	NarL subfamily protein Rre9	slr1909
+-8987.5	F7UM89	Ribonuclease II	rnb
+   4.7	F7UPX9	Putative uncharacterized protein sll1418	sll1418
+ -30.4	F7ULB5	Putative uncharacterized protein slr1050	slr1050
+   3.9	F7UN42	DNA mismatch repair protein MutL	mutL
+  24.8	F7UTD9	Polyribonucleotide nucleotidyltransferase	pnp
+   1.2	F7UK28	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	ubiX
+   1.3	F7UPR1	UDP-glucose 4-epimerase	galE
+ -10.3	F7UT36	Cytochrome P450	cyp
+-9009.0	F7UML7	Ribonucleoside-diphosphate reductase subunit beta	slr0591
+   5.6	F7UR18	Putative uncharacterized protein slr0945	slr0945
+  32.5	F7UKS2	CheA like protein Hik18	sll0043
+  -1.4	F7UTL3	UPF0272 protein SYNGTS_0157	slr1411
+-18007.3	F7UM31	Glycolate oxidase subunit (Fe-S) protein	glcF
+  13.9	F7UKN5	DNA polymerase I	polA
+   7.1	F7UPP2	Potassium-transporting ATPase subunit D	kdpD
+   4.0	F7ULD3	Glycerol-3-phosphate dehydrogenase [NAD(P)+]	gpsA
+   3.3	F7UP42	NarL subfamily protein Rre17	sll1708
+  -2.7	F7UMX7	Bacterioferritin	bfr
+  11.7	F7UT17	Methionine aminopeptidase	map
+   2.4	F7ULJ0	Glyceraldehyde-3-phosphate dehydrogenase (NADP+)(Phosphorylating)	gap2
+   9.1	F7UU32	NarL subfamily protein Rre32	slr0312
+  10.0	F7UQK7	Putative uncharacterized protein sll1384	sll1384
+   5.4	F7ULE9	Putative uncharacterized protein sll1638	sll1638
+ -35.0	F7ULX3	Putative uncharacterized protein sll1946	sll1946
+  -0.5	F7UKY4	Ornithine carbamoyltransferase, catabolic	argF
+   2.7	F7UTX4	Thioredoxin	trxA
+   1.9	F7USB0	Thioredoxin	trxM
+   2.2	F7UQ55	Hydrogenase small subunit	hoxY
+   8.3	F7US11	Bifunctional protein FolD	folD
+-8989.8	F7UR89	Photosystem II manganese-stabilizing polypeptide	psbO
+ -28.7	F7UP69	Putative uncharacterized protein slr1820	slr1820
+   2.8	F7UTE2	Cysteine synthase	cysM
+  -7.7	F7UKT6	Putative uncharacterized protein sll0031	sll0031
+  -7.0	F7UMD8	Photosystem I reaction center subunit XI	psaL
+  -4.3	F7UNL3	Phosphorylase	glgP
+   3.9	F7UPU6	Thiol:disulfide interchange protein thioredoxin A	trxA
+   4.3	F7UMJ7	Putative uncharacterized protein slr1184	slr1184
+  -1.1	F7URB4	Putative uncharacterized protein sll0265	sll0265
+  24.8	F7UNY0	Endonuclease MutS2	mutS
+-8991.5	F7UNX3	Deoxyribose-phosphate aldolase	SYNGTS_1087
+   3.2	F7UMV2	Thioredoxin	trxA
+  13.0	F7URH3	Uridylate kinase	pyrH
+ -37.0	F7UN97	NADH dehydrogenase subunit 5	ndhF3
+-9000.4	F7UR03	NarL subfamily protein Ssp1/Rre25	sll0921
+   8.0	F7UPN6	NarL subfamily protein Rre19	sll1592
+   4.4	F7UQR0	CTP synthase	pyrG
+  -2.2	F7UN63	Putative uncharacterized protein slr2070	slr2070
+   0.1	F7UM73	tRNA (guanine-N(7)-)-methyltransferase	trmB
+   3.3	F7US88	Aldehyde decarbonylase	sll0208
+   4.2	F7UMS9	Cation-transporting ATPase E1-E2 ATPase	sll1920
+  27.3	F7UMA8	DNA ligase	lig
+  -8.7	F7UU44	Pre-B cell enhancing factor	slr0788
+-17983.0	F7UQ58	Hydrogenase subunit	hoxF
+-9025.9	F7UQR2	Nitrogen assimilation regulatory protein NtrX	slr1529
+ -26.7	F7UMR3	Monovalent cation/H+ antiporter subunit D	ndhD5
+-8986.3	F7UU11	Polyphosphate kinase	ppk
+   8.3	F7UPM2	Inosine 5-monophosphate dehydrogenase	guaB
+  -9.4	F7UPS0	Putative uncharacterized protein sll0242	sll0242
+ -12.2	F7UPM3	Lactose transport system permease protein LacG	lacG
+ -30.2	F7UPS3	Putative uncharacterized protein sll0238	sll0238
+   3.5	F7UPS8	Putative uncharacterized protein ssr3532	ssr3532
+   1.2	F7UPT9	Transposase	sll1985
+   6.0	F7UPU3	Putative uncharacterized protein slr2092	slr2092
+   5.6	F7UPU7	Putative uncharacterized protein sll1979	sll1979
+  -3.2	F7UPU9	Transposase	slr2095
+   6.3	F7UPV1	Cyanoglobin	glbN
+   5.8	F7UPU8	D-fructose 1,6-bisphosphatase class 2/sedoheptulose 1,7-bisphosphatase	glpX
+   7.3	F7UPW3	Resolvase	ssl2789
+  -1.6	F7UPV8	Hybrid sensory kinase Hik22	slr2104
+   6.7	F7UPY1	Putative uncharacterized protein slr1513	slr1513
+   3.0	F7UQ01	Putative uncharacterized protein ssr3571	ssr3571
+  -5.6	F7UQ15	Putative uncharacterized protein slr2118	slr2118
+ -11.2	F7UQ02	Probable polysaccharide ABC transporter permease protein	kpsM
+   1.6	F7UQ18	Putative uncharacterized protein slr2121	slr2121
+   2.9	F7UQ28	Ycf7	petL
+  -0.9	F7UQ20	D-isomer specific 2-hydroxyacid dehydrogenase family protein	slr2123
+   1.1	F7UQ42	Putative uncharacterized protein slr1327	slr1327
+  -9.0	F7UQ45	Mannosyltransferase	mtfB
+   6.2	F7UQ60	Transposase	ssr2227
+-8993.6	F7UQ56	Bidirectional hydrogenase complex protein HoxU	hoxU
+  -6.5	F7UQ69	Photosystem I subunit III	psaF
+   2.2	F7UQ87	Putative uncharacterized protein sll0811	sll0811
+   3.5	F7UQ70	tRNA N6-adenosine threonylcarbamoyltransferase	tsaD
+   1.7	F7UQ93	Putative uncharacterized protein ssr1391	ssr1391
+  -2.3	F7UK41	Putative uncharacterized protein sll1033	sll1033
+   6.1	F7UK46	Carbon dioxide concentrating mechanism protein CcmK	ccmK2
+-8988.0	F7UK47	NADH-glutamate synthase small subunit	gltD
+ -13.0	F7UK55	High affinity sulfate transporter	slr1776
+  12.2	F7UK34	Elongation factor EF-G	fus
+   4.3	F7UK56	Proton extrusion protein PcxA	ycf10
+-8997.4	F7UK64	Methionine sulfoxide reductase B	msrB
+   5.6	F7UK60	Alanine dehydrogenase	sll1682
+  11.6	F7UK74	Putative uncharacterized protein slr1789	slr1789
+   4.6	F7UK86	Putative uncharacterized protein ssr3000	ssr3000
+  -0.2	F7UK87	Mitochondrial outer membrane 72K protein	mom72
+  13.3	F7UK90	Putative uncharacterized protein sll1665	sll1665
+ -15.4	F7UK76	Hybrid sensory kinase Hik12	sll1672
+  -5.8	F7UK91	Putative uncharacterized protein sll1664	sll1664
+   0.2	F7UK97	Putative uncharacterized protein sll1658	sll1658
+ -12.0	F7UQ94	Glucosyltransferase	slr0820
+  19.9	F7UQA7	Elongation factor Ts	tsf
+-8997.1	F7UQC7	Carbonic anhydrase	icfA
+   7.9	F7UQC8	Serine acetyltransferase	cysE
+   7.0	F7UK71	Putative uncharacterized protein sll1675	sll1675
+   2.2	F7UQD3	Cytochrome CytM	cytM
+  -7.2	F7UQE8	Putative uncharacterized protein sll1895	sll1895
+   4.2	F7UQG3	Putative uncharacterized protein ssl3549	ssl3549
+   1.9	F7UQG1	Putative uncharacterized protein slr1971	slr1971
+  -5.6	F7UQF8	Hybrid sensory kinase CikA/Hik24	slr1969
+   1.4	F7UQH2	Putative uncharacterized protein sll1880	sll1880
+ -14.3	F7UQH3	Two-component response regulator Rre23	ycf55
+  10.3	F7UQI2	Putative uncharacterized protein sll1873	sll1873
+   0.2	F7UQI1	Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase	chlAII
+   4.1	F7UQI5	CheY subfamily protein Rre21	slr1982
+  -3.1	F7UQI6	Regulatory component of sensory transduction system Rre22	slr1983
+  -8.1	F7UQI8	3-chlorobenzoate-3,4-dioxygenase	cbaB
+   5.7	F7UQI9	30S ribosomal protein S1	rps1
+   1.8	F7UQJ6	Putative uncharacterized protein sll1388	sll1388
+   4.7	F7UQJ0	DNA primase	dnaG
+   6.0	F7UQK2	50S ribosomal protein L34	rpmH
+  -6.6	F7UQL7	Putative uncharacterized protein sll1376	sll1376
+ -24.8	F7UQL8	Melibiose carrier protein	melB
+   4.1	F7UQI7	ABC transporter	sll1870
+-9006.9	F7UQM8	Nodulation protein	sll1178
+   8.5	F7UQM1	Catabolite gene activator protein	sll1371
+   4.8	F7UQN2	Putative uncharacterized protein slr1270	slr1270
+  -0.4	F7UQN7	Putative uncharacterized protein slr1275	slr1275
+-8999.5	F7UQP0	Putative uncharacterized protein sll1174	sll1174
+   8.7	F7UQQ3	Putative uncharacterized protein ssr2130	ssr2130
+  -3.4	F7UQP9	Putative uncharacterized protein sll1170	sll1170
+  -1.0	F7UQQ0	Putative uncharacterized protein sll1169	sll1169
+ -10.3	F7UQQ5	Putative uncharacterized protein slr1288	slr1288
+  -8.0	F7UQT0	Putative uncharacterized protein sll1102	sll1102
+   3.8	F7UQT8	Putative uncharacterized protein slr1160	slr1160
+  -0.6	F7UQU1	Putative uncharacterized protein slr1161	slr1161
+ -24.3	F7UQU3	Putative uncharacterized protein slr1163	slr1163
+  -1.9	F7UQV3	Putative uncharacterized protein slr1169	slr1169
+-9017.2	F7UQV7	Sodium-coupled permease	sll1087
+  24.2	F7UQT3	Elongation factor G	fus
+   2.1	F7UQW2	Glycerol-3-phosphate dehydrogenase	glpD
+  -1.2	F7UQX4	Alpha-isopropylmalate synthase	leuA
+ -14.0	F7UQX8	Putative uncharacterized protein sll1563	sll1563
+-9003.3	F7UQY5	Transposase	slr1684
+   5.4	F7UQY6	Soluble hydrogenase 42 kDa subunit	sll1559
+   5.6	F7UQY8	Hydrogenase component	ssl3044
+   2.5	F7UQZ1	Succinyl-CoA synthetase	sucD
+   4.2	F7UQZ5	Formamidopyrimidine-DNA glycosylase	mutM
+   2.8	F7UR05	Putative uncharacterized protein ssl1762	ssl1762
+   6.5	F7UR02	Eukaryotic protein kinase	pknA
+  -1.5	F7UR14	Aldehyde reductase	slr0942
+   3.6	F7UR07	Nicotinate-nucleotide pyrophosphorylase	nadC
+   0.4	F7UR21	Putative uncharacterized protein slr0948	slr0948
+  -3.4	F7UR30	Fructose-1,6-bisphosphatase class 1	fbp
+   0.7	F7UR37	Maf-like protein SYNGTS_1851	maf
+ -16.2	F7UR38	Putative uncharacterized protein slr0959	slr0959
+   3.6	F7UR43	Inorganic pyrophosphatase	ppa
+  -6.0	F7UR49	Putative uncharacterized protein slr1627	slr1627
+  12.4	F7UR23	ABC transporter	sll0912
+-17992.9	F7UR51	Putative uncharacterized protein slr1628	slr1628
+   0.9	F7UR57	Putative uncharacterized protein sll1532	sll1532
+   2.7	F7UR61	Putative uncharacterized protein slr1638	slr1638
+ -27.4	F7UR63	Putative uncharacterized protein sll1531	sll1531
+   2.3	F7UR79	Chromophore lyase CpcT/CpeT	slr1649
+   4.4	F7UR86	Putative uncharacterized protein ssr0757	ssr0757
+   3.4	F7UR91	Putative uncharacterized protein sll0426	sll0426
+   1.1	F7URA4	Putative uncharacterized protein sll0274	sll0274
+   4.9	F7URC2	Hemolysin	sll0260
+-8990.7	F7UR96	Adenylosuccinate lyase	purB
+   8.4	F7URC3	30S ribosomal protein S16	rpsP
+   6.6	F7URD2	Putative uncharacterized protein slr0294	slr0294
+   1.6	F7URD4	Putative uncharacterized protein slr0393	slr0393
+   4.2	F7URF0	Putative uncharacterized protein ssr0657	ssr0657
+ -10.9	F7URF8	Putative uncharacterized protein hat	hat
+   0.5	F7URG0	Putative uncharacterized protein slr0145	slr0145
+   3.4	F7URG6	Putative uncharacterized protein slr0151	slr0151
+ -11.1	F7URH0	Putative uncharacterized protein sll0147	sll0147
+ -17.7	F7URH1	High-affinity branched-chain amino acid transport protein BraE	sll0146
+  -4.3	F7URH6	Putative uncharacterized protein slr0157	slr0157
+  40.6	F7URH5	ClpB protein	clpB
+  -3.3	F7URI8	Transposase	slr0166
+   8.2	F7UK99	Putative uncharacterized protein slr1800	slr1800
+ -32.1	F7UKA8	NAD(P)H-quinone oxidoreductase chain 4	ndhD2
+ -13.8	F7UKB0	Putative uncharacterized protein slr1293	slr1293
+ -10.5	F7UKB6	Putative uncharacterized protein slr1298	slr1298
+   8.7	F7UKB5	6-phosphofructokinase	pfkA
+  -5.5	F7UKE5	Aspartate transaminase	sll0938
+  -3.4	F7UKM1	Putative uncharacterized protein slr0702	slr0702
+   2.5	F7UK81	Shikimate kinase	aroK
+ -13.1	F7UL47	Lipophilic protein	lim
+  -4.3	F7ULH8	Putative uncharacterized protein sll0524	sll0524
+   7.8	F7UM39	(Dimethylallyl)adenosine tRNA methylthiotransferase MiaB	sll0996
+   4.2	F7UMC2	Putative uncharacterized protein ssr1258	ssr1258
+   9.7	F7UM57	Single-stranded DNA-binding protein	slr1034
+   3.1	F7UMU8	Putative uncharacterized protein sll1084	sll1084
+   3.6	F7UMP0	Phosphoribosyl-ATP pyrophosphohydrolase	hisI
+   3.6	F7UN25	Transposase	sll1791
+-9013.9	F7UNL1	Putative uncharacterized protein sll1359	sll1359
+  -4.6	F7UPB9	Neopullulanase	nplT
+-8994.9	F7UPZ5	Transposase	slr1523
+   4.5	F7UPP6	Cob(I)yrinic acid a,c-diamide adenosyltransferase	cobO
+   0.1	F7UQ52	Hydrogenase large subunit	hoxH
+ -11.3	F7UQ79	Putative uncharacterized protein sll0814	sll0814
+  -0.1	F7UR46	Beta-glucosidase	bgl
+   4.3	F7URE9	Putative uncharacterized protein slr0404	slr0404
+  -6.0	F7URU7	Putative uncharacterized protein sll0157	sll0157
+   3.1	F7USE3	Carbonic anhydrase	icfA
+-8995.2	F7USZ3	Molybdopterin (MPT) converting factor, subunit2	moaE
+   2.6	F7UT11	Putative uncharacterized protein slr0921	slr0921
+   5.1	F7UTE8	Putative uncharacterized protein slr0723	slr0723
+  -2.1	F7UTK8	Potential FMN-protein	sll0219
+   7.1	F7UTU0	Putative uncharacterized protein sll0478	sll0478
+-8998.6	F7UTV5	Ribose-phosphate pyrophosphokinase	prsA
+-8999.0	F7UU05	Transposase	ssl0172
+   0.3	F7UKG5	Putative uncharacterized protein slr0976	slr0976
+   5.2	F7UNB8	Putative uncharacterized protein sll1714	sll1714
+ -20.5	F7UKI9	Nickel resistance protein	nreB
+  12.4	F7UQC1	Putative uncharacterized protein sll1252	sll1252
+   4.7	F7UQS4	Putative uncharacterized protein slr1533	slr1533
+  -1.1	F7USE6	Glutathione S-transferase	gst
+ -13.5	F7UTN0	Putative uncharacterized protein sll1040	sll1040
+   6.7	F7UND3	RNA polymerase sigma-E factor	rpoE
+ -13.2	F7UKC6	Putative uncharacterized protein slr1303	slr1303
+  -9.2	F7UKC7	Glycolate oxidase subunit GlcE	glcE
+  -8.3	F7UKE0	Putative uncharacterized protein slr0964	slr0964
+   1.5	F7UKF6	Allophycocyanin-B	apcD
+   7.7	F7UKE2	Tryptophan synthase alpha chain	trpA
+  -2.2	F7UKI2	Putative uncharacterized protein slr1618	slr1618
+   4.9	F7UKF7	S-adenosylmethionine synthase	metX
+   5.3	F7UKJ6	OmpR subfamily protein Rre34/CopR	sll0789
+   3.3	F7UKJ7	Putative uncharacterized protein sll0788	sll0788
+  -0.1	F7UKJ1	Cation-transporting ATPase E1-E2 ATPase	slr0797
+   1.1	F7UKK3	Putative uncharacterized protein sll0785	sll0785
+   6.6	F7UKL7	Putative uncharacterized protein slr0698	slr0698
+  -6.3	F7UKM2	Putative uncharacterized protein sll0678	sll0678
+   1.2	F7UKM4	Transposase	ssl1277
+   0.9	F7UKP7	Putative uncharacterized protein ycf35	ycf35
+   4.6	F7UKP8	Putative uncharacterized protein ssl1263	ssl1263
+  -1.6	F7UKQ1	Queuine tRNA-ribosyltransferase	tgt
+-26989.6	F7UKR8	Putative uncharacterized protein slr0022	slr0022
+   5.4	F7UKS6	CheY subfamily protein PixH/PisH/Rre35	sll0039
+  14.5	F7UKS4	Phytochrome-like photoreceptor protein for positive phototaxis	pixJ1
+  -5.2	F7UKR3	ABC transporter	sll0739
+  -3.8	F7UKS7	PatA subfamily protein PixG/PisG/TaxP1/Rer1/Rre36	sll0038
+   4.9	F7UKT0	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C	slr0033
+   1.1	F7UKT9	LysR family transcriptional regulator	cmpR
+   4.7	F7UKV8	Sensory transduction histidine kinase Hik10	slr0533
+   1.4	F7UKV9	Soluble lytic transglycosylase	slt
+   6.8	F7UKV0	3-methyl-2-oxobutanoate hydroxymethyltransferase	panB
+  -2.5	F7UKW2	Ap-4-A phosphorylase II	sll0509
+   4.5	F7UKW1	Uroporphyrinogen decarboxylase	hemE
+   0.9	F7UKW8	Diaminopimelate decarboxylase	lysA
+  -5.4	F7UKX1	Putative uncharacterized protein sll0501	sll0501
+   6.8	F7UKX3	ATP-dependent Clp protease proteolytic subunit	clpP
+  -0.5	F7UKX7	Putative uncharacterized protein sll0498	sll0498
+ -15.5	F7UL05	Putative uncharacterized protein slr1073	slr1073
+  -2.7	F7UL21	Putative uncharacterized protein sll1025	sll1025
+ -16.8	F7UKY7	4-hydroxybenzoate-octaprenyl transferase	ubiA
+  -6.4	F7UL25	Putative uncharacterized protein sll1022	sll1022
+  27.5	F7UL26	Putative uncharacterized protein sll1021	sll1021
+   0.8	F7UL27	Putative uncharacterized protein sll1020	sll1020
+  -0.7	F7UL40	Fmu and Fmv protein	fmu/fmv
+   5.0	F7UL46	OmpR subfamily protein Rre3	sll0649
+  16.9	F7UL62	Putative uncharacterized protein ycf45	ycf45
+   2.0	F7UKT2	Putative uncharacterized protein sll0036	sll0036
+-8996.6	F7UL63	Thiamine-phosphate synthase	thiE
+   5.5	F7UL53	Urease accessory protein UreG	ureG
+ -12.8	F7UL80	Putative uncharacterized protein sll1511	sll1511
+   5.1	F7UL84	Putative uncharacterized protein slr1600	slr1600
+ -19.5	F7UL81	Putative uncharacterized protein sll1510	sll1510
+   2.0	F7UL85	Photosystem I reaction center subunit XII	psaM
+   4.6	F7UL86	Putative uncharacterized protein slr1601	slr1601
+   2.2	F7UL96	Putative uncharacterized protein sll1504	sll1504
+  -5.8	F7ULA4	Long-chain-fatty-acid CoA ligase	slr1609
+  14.5	F7ULB2	Putative uncharacterized protein slr1048	slr1048
+   3.4	F7URN0	Putative uncharacterized protein slr1949	slr1949
+   3.1	F7ULB6	Enoyl-[acyl-carrier-protein] reductase [NADH]	envM
+  -0.1	F7URN8	Octanoyltransferase	lipB
+-8995.0	F7URP1	Putative uncharacterized protein sll0944	sll0944
+  -4.5	F7URP9	Putative uncharacterized protein sll0301	sll0301
+  -1.9	F7URQ9	Photosystem I iron-sulfur center	psaC
+   0.8	F7URV6	Putative uncharacterized protein slr0362	slr0362
+  -3.5	F7URU1	Transposase	sll0161
+   3.8	F7URV8	Photosystem II reaction center protein I	psbI
+ -11.3	F7URX2	Putative uncharacterized protein slr0380	slr0380
+  -0.6	F7URW3	Phosphate regulon regulator SphS/Hik07	sphS
+   0.1	F7URX4	3-ketoacyl-acyl carrier protein reductase	fabG
+   7.5	F7URX8	Putative uncharacterized protein sll0328	sll0328
+  11.1	F7URZ3	50S ribosomal protein L20	rplT
+   6.8	F7URZ4	50S ribosomal protein L35	rpmI
+  -6.1	F7US19	Putative uncharacterized protein sll0325	sll0325
+   3.4	F7US05	Photosystem II reaction center protein T	psbT
+-18002.8	F7US25	Transcriptional regulatory protein HypF	hypF
+  -1.2	F7US26	Putative uncharacterized protein sll0321	sll0321
+ -11.7	F7US27	Putative uncharacterized protein slr0347	slr0347
+   1.7	F7US34	Transposase	sll0317
+   4.6	F7US36	Transposase	sll0315
+ -27.5	F7URR6	Putative uncharacterized protein slr0337	slr0337
+  -4.0	F7US37	Putative uncharacterized protein slr0353	slr0353
+   9.3	F7US40	30S ribosomal protein S21	rpsU
+   3.5	F7US42	Putative uncharacterized protein slr0356	slr0356
+   9.7	F7URZ8	High-affinity branched-chain amino acid transport ATP-binding protein	livG
+   5.2	F7US47	Putative uncharacterized protein sll0309	sll0309
+  -7.1	F7US49	Putative uncharacterized protein sll0023	sll0023
+   8.1	F7US52	Putative uncharacterized protein sll0021	sll0021
+  -0.3	F7US58	Putative uncharacterized protein slr0006	slr0006
+   6.4	F7US59	Putative uncharacterized protein slr0007	slr0007
+   3.1	F7US62	Possible Rubisco chaperonin	rbcX
+   5.1	F7US64	Putative uncharacterized protein slr0013	slr0013
+   0.9	F7US86	Putative uncharacterized protein ssr0349	ssr0349
+   0.1	F7US84	Cobinamide kinase/cobinamide phosphate guanylyltransferase	cobU
+  35.8	F7USB2	60 kDa chaperonin	groEL-2
+   2.6	F7USB7	Putative uncharacterized protein ssl0788	ssl0788
+   1.6	F7USE1	Putative uncharacterized protein sll0071	sll0071
+   1.1	F7USC8	Glycolate oxidase subunit GlcD	glcD
+  15.5	F7USA2	ATP-dependent zinc metalloprotease FtsH	ftsH
+-18012.0	F7USE5	Putative uncharacterized protein sll0068	sll0068
+  22.3	F7USG3	Chaperone protein DnaK	dnaK
+-8989.0	F7USH6	Putative uncharacterized protein slr0468	slr0468
+   2.6	F7USJ3	Putative uncharacterized protein slr0489	slr0489
+   2.5	F7USK0	Putative uncharacterized protein slr0496	slr0496
+  -4.5	F7ULC8	Transposase	ssl1920
+   0.5	F7ULE2	Putative uncharacterized protein sll1642	sll1642
+   1.3	F7ULF7	Putative uncharacterized protein ssl1707	ssl1707
+   4.7	F7ULG9	Putative uncharacterized protein slr0551	slr0551
+  -2.4	F7ULH2	Putative uncharacterized protein slr0554	slr0554
+   2.2	F7ULI5	Putative uncharacterized protein slr1419	slr1419
+   0.1	F7ULJ8	Putative uncharacterized protein sll1336	sll1336
+  -3.1	F7ULL6	Helicase of the snf2/rad54 family	sll1366
+ -13.7	F7ULL7	Putative uncharacterized protein slr1461	slr1461
+   7.1	F7ULM2	NifU protein	ssl2667
+  -3.5	F7ULM8	Photosystem I reaction center subunit PsaK	psaK
+   5.8	F7ULM5	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	hisA
+   2.1	F7ULL2	Sulfate transport system permease protein	cysA
+   4.8	F7ULN5	Oligopeptidase A	prlC
+  13.4	F7ULN6	Pyrroline-5-carboxylate reductase	proC
+-17990.7	F7ULP6	Aconitate hydratase 2	slr0665
+   3.4	F7ULP8	Putative uncharacterized protein slr0667	slr0667
+ -19.2	F7ULR2	Putative uncharacterized protein slr1566	slr1566
+-26973.9	F7ULQ0	Ferredoxin-dependent glutamate synthase	gltB
+  -1.4	F7ULS0	Putative uncharacterized protein slr1572	slr1572
+  -3.8	F7ULS8	Putative uncharacterized protein sll1485	sll1485
+   1.4	F7ULS9	Type 2 NADH dehydrogenase	ndb
+   7.2	F7ULS5	Putative uncharacterized protein slr1577	slr1577
+   1.5	F7ULT6	Putative uncharacterized protein slr1583	slr1583
+  -0.3	F7ULT9	Phycobilisome rod-core linker polypeptide CpcG2	cpcG2
+   0.7	F7ULT7	Chromatic acclimation sensor CcaS/ScaS/Hik32	ccaS
+   2.9	F7ULU9	Putative uncharacterized protein slr0748	slr0748
+   3.0	F7ULU4	Regulatory component of sensory transduction system Ssp2/Rre39	slr1588
+  -0.1	F7ULV7	Putative uncharacterized protein ssl1378	ssl1378
+   2.5	F7ULW3	Glutaredoxin	slr1846
+   4.8	F7UM04	Phycobilisome rod-core linker polypeptide CpcG1	cpcG1
+   0.5	F7ULY1	Photosystem II reaction center protein J	psbJ
+   4.0	F7UM06	Putative uncharacterized protein sll1934	sll1934
+   3.8	F7UM22	Putative uncharacterized protein slr1914	slr1914
+   7.5	F7UM25	Putative uncharacterized protein slr1915	slr1915
+  -9.3	F7UM27	Putative uncharacterized protein slr1917	slr1917
+   7.6	F7UM10	Serine hydroxymethyltransferase	gylA
+  -1.2	F7UM33	ABC1-like	slr1919
+   3.4	F7UM36	Putative uncharacterized protein ssl1911	ssl1911
+  -2.3	F7UM37	Putative uncharacterized protein slr1019	slr1019
+   2.3	F7UM44	Potassium channel	sll0993
+  -1.3	F7UM46	Putative uncharacterized protein slr1023	slr1023
+  -2.3	F7UM50	Glutathione-dependent formaldehyde dehydrogenase	sll0990
+   7.9	F7UM58	Putative uncharacterized protein slr1035	slr1035
+   2.6	F7USK3	Probable transcription regulator	vapC
+  -9.1	F7USK8	Putative uncharacterized protein sll0686	sll0686
+  11.9	F7USL8	Plasma membrane protein essential for thylakoid formation	vipp1
+   0.5	F7USL9	Putative uncharacterized protein slr0630	slr0630
+   6.0	F7USM2	Putative uncharacterized protein sll0614	sll0614
+   2.6	F7USM9	Putative uncharacterized protein slr0637	slr0637
+  40.9	F7USM0	Protein translocase subunit SecA	secA
+   7.9	F7USP1	Putative uncharacterized protein slr0645	slr0645
+  -0.3	F7USN2	Sensory transduction histidine kinase Hik27/ManS	slr0640
+   4.5	F7USP5	Putative uncharacterized protein slr0650	slr0650
+ -16.7	F7USQ9	Iron(III) dicitrate transport system permeaseprotein	fecD
+   4.3	F7USS8	Putative uncharacterized protein ssr0693	ssr0693
+   7.5	F7USR4	OmpR subfamily protein Rre28	sll0396
+   0.9	F7USV3	Putative uncharacterized protein slr0195	slr0195
+  -7.9	F7USU1	Putative uncharacterized protein sll0371	sll0371
+   0.1	F7UST8	Gamma-glutamyl phosphate reductase	proA
+   5.3	F7USV5	Competence protein ComA	comA
+   0.1	F7USW6	Putative uncharacterized protein sll0180	sll0180
+   7.3	F7USX2	Putative uncharacterized protein slr0209	slr0209
+  -0.8	F7USX8	Putative uncharacterized protein ssr0336	ssr0336
+-17996.3	F7USX7	5-methyltetrahydrofolate--homocysteine methyltransferase	metH
+ -19.7	F7USW3	ABC transporter	sll0182
+   5.4	F7USY0	Putative uncharacterized protein sll0888	sll0888
+  -1.0	F7USZ1	Molybdenum cofactor biosynthesis protein C	moaC
+   4.6	F7USZ5	Putative uncharacterized protein slr0904	slr0904
+  -0.0	F7UT12	Peptidyl-tRNA hydrolase	pth
+   2.9	F7UT08	Aspartate 1-decarboxylase	panD
+   3.6	F7UT13	Probable 30S ribosomal protein PSRP-3	slr0923
+  -0.8	F7UT19	Putative uncharacterized protein sll0553	sll0553
+  -0.4	F7UT33	Putative uncharacterized protein slr0573	slr0573
+   8.6	F7UT37	Putative uncharacterized protein slr0575	slr0575
+   2.8	F7UT43	Putative uncharacterized protein slr0582	slr0582
+ -13.7	F7UT47	Putative uncharacterized protein slr0825	slr0825
+   6.5	F7UT48	50S ribosomal protein L33	rpmG
+   7.4	F7UT49	30S ribosomal protein S18	rpsR
+  -9.8	F7UT52	Low affinity sulfate transporter	sll0834
+ -12.3	F7UT53	OppC in a binding protein-dependent transport system	sll0833
+-8997.5	F7UT62	Methyltransferase	rapQ
+   0.3	F7UT61	Phosphoribosylformylglycinamidine cyclo-ligase	purM
+  12.3	F7UST4	Transcription-repair coupling factor	mfd
+ -45.4	F7UT70	NADH dehydrogenase subunit 5	ndhF1
+   1.8	F7UT72	Putative uncharacterized protein slr0845	slr0845
+-17989.8	F7UT78	Regulatory protein PcrR	pcrR
+-9020.0	F7UT80	Ferrichrome-iron receptor	fhuA
+   6.0	F7UT81	Biopolymer transport ExbD proteinhomologue	sll1405
+   4.7	F7UT99	Putative uncharacterized protein sll1396	sll1396
+  -7.6	F7UTA0	Hydrogenase isoenzymes formation protein HypD	hypD
+  -3.4	F7UTA5	Putative uncharacterized protein slr1501	slr1501
+   0.6	F7UTC9	Phosphoglycerate mutase	gpmB
+  -7.4	F7UT97	Putative uncharacterized protein slr1495	slr1495
+  -1.4	F7UTE0	Signal peptidase I	lepB
+   6.1	F7UTE1	Malic enzyme	me
+   4.7	F7UM64	Putative uncharacterized protein sll0982	sll0982
+   4.8	F7UM68	Putative uncharacterized protein slr1376	slr1376
+   3.8	F7UM76	Putative uncharacterized protein ssr2315	ssr2315
+   2.2	F7UM86	Putative uncharacterized protein sll1293	sll1293
+   3.0	F7UM83	Ferredoxin	ssl2559
+ -24.4	F7UM94	Ferrous iron transport protein B	feoB
+  -2.6	F7UM99	Putative uncharacterized protein slr1395	slr1395
+   7.5	F7UM98	Putative uncharacterized protein sll1286	sll1286
+   4.3	F7UMA1	Putative uncharacterized protein slr1397	slr1397
+-17992.2	F7UMA7	Putative uncharacterized protein sll1584	sll1584
+   3.2	F7UMB8	Phycocyanin b subunit	cpcB
+  -0.3	F7UMC0	Putative uncharacterized protein ssr1256	ssr1256
+  -4.5	F7UMD4	Putative uncharacterized protein slr1652	slr1652
+   0.8	F7UMD1	ApxIC gene product hemolysin activation protein	sll0720
+  -2.6	F7UME2	Putative uncharacterized protein slr1658	slr1658
+   0.3	F7UME3	Putative uncharacterized protein slr1659	slr1659
+  -0.6	F7UME4	Putative uncharacterized protein slr1660	slr1660
+  -5.2	F7UMH1	Putative uncharacterized protein sll0441	sll0441
+   1.1	F7UMF0	Diaminopimelate epimerase	dapF
+ -23.1	F7UMH3	Probable phosphoketolase	slr0453
+   5.6	F7UMH4	Putative uncharacterized protein ssl0832	ssl0832
+  -6.3	F7UMH6	Cation or drug efflux system protein	slr0454
+   0.2	F7UMH8	Putative uncharacterized protein slr0456	slr0456
+-8990.0	F7UMG9	Antiviral protein	ski2
+   4.5	F7UMI4	Transposase	ssr0817
+  11.6	F7UMI6	Heat shock protein	htpG
+  -2.4	F7UMJ9	Putative uncharacterized protein slr1186	slr1186
+  -3.8	F7UML0	Putative uncharacterized protein sll0577	sll0577
+  -4.2	F7UMK9	Phosphoribosyl aminoimidazole carboxylase	purK
+  -5.7	F7UML1	Putative uncharacterized protein slr0588	slr0588
+   5.1	F7UML3	Putative uncharacterized protein slr0590	slr0590
+   5.9	F7UMM3	Putative uncharacterized protein slr0594	slr0594
+   0.2	F7UMM1	cAMP protein kinase regulatory chain	slr0593
+  -2.8	F7UMM5	Creatinine amidohydrolase	slr0596
+   7.5	F7UMN0	Serine/threonine kinase	slr0599
+  -9.7	F7UMN7	Putative uncharacterized protein slr0605	slr0605
+ -13.5	F7UMP2	Slr0610 protein	slr0610
+   5.5	F7UMP3	Solanesyl diphosphate synthase	sds
+  12.0	F7UMM2	Protein RecA	recA
+   2.7	F7UMP8	Putative uncharacterized protein sll1573	sll1573
+   0.1	F7UMT8	Putative uncharacterized protein sll1913	sll1913
+  -7.7	F7UMU7	Putative uncharacterized protein slr1135	slr1135
+ -11.4	F7UMV1	Cytochrome c oxidase subunit III	ctaE
+  -4.9	F7UMU9	Cytochrome c oxidase subunit 2	ctaC
+   6.2	F7UMV6	Putative uncharacterized protein sll1080	sll1080
+   8.1	F7UMY3	30S ribosomal protein S9	rps9
+-17988.6	F7UMI7	Glucose-1-phosphate adenylyltransferase	agp
+-8999.6	F7UMW2	Zinc exporter	ziaA
+   6.8	F7UMZ1	Translation initiation factor IF-1	infA
+  14.0	F7UMZ5	30S ribosomal protein S5	rpsE
+   6.9	F7UN03	50S ribosomal protein L29	rpmC
+  -0.1	F7UN12	Putative uncharacterized protein slr1894	slr1894
+   2.6	F7UN15	Putative uncharacterized protein slr1896	slr1896
+   2.1	F7UN31	Putative uncharacterized protein sll1123	sll1123
+  -3.3	F7UN22	Transposase	slr1902
+ -19.7	F7UN43	Urea transport system permease protein	livH
+  14.6	F7UN50	Putative uncharacterized protein slr1207	slr1207
+   3.6	F7UN51	Putative uncharacterized protein ssr2016	ssr2016
+  -1.1	F7UN52	Short-chain alcohol dehydrogenase family	slr1208
+-8997.1	F7UN65	Putative uncharacterized protein sll1969	sll1969
+   5.5	F7UTF3	Putative uncharacterized protein slr0729	slr0729
+   6.2	F7UTF6	NifS protein	nifS
+  -3.9	F7UTG3	Putative uncharacterized protein slr0734	slr0734
+   2.5	F7UTH5	Putative uncharacterized protein ssr1238	ssr1238
+  11.8	F7UMX4	Acyl carrier protein	acpP
+   1.0	F7UTI4	Bacterioferritin comigratory protein	bcp
+   8.3	F7UTK5	Putative uncharacterized protein slr0254	slr0254
+   0.2	F7UTI8	Photosystem II reaction center protein M	psbM
+   8.7	F7UTL8	ATP synthase subunit b'	atpG
+  -6.4	F7UTM3	Sensory transduction histidine kinase Hik11	slr1414
+   2.0	F7UTN6	Putative uncharacterized protein slr0846	slr0846
+  11.0	F7UTN9	Putative uncharacterized protein slr0848	slr0848
+   7.8	F7UTL6	ATP synthase subunit delta	atpH
+   5.2	F7UTM5	MorR protein	morR
+  -9.2	F7UTP3	Fe-S assembly protein SufB	ycf24
+   6.0	F7UTP7	Putative uncharacterized protein sll0086	sll0086
+   8.3	F7UTQ6	Ribosomal protein S12 methylthiotransferase RimO	slr0082
+   0.0	F7UTR5	Aldehyde dehydrogenase	slr0091
+  13.7	F7UTS1	ABC transporter	sll0489
+  -7.9	F7UTT6	Putative uncharacterized protein slr0510	slr0510
+   7.3	F7UTT9	Putative uncharacterized protein sll0479	sll0479
+   3.6	F7UTU4	Putative uncharacterized protein slr0516	slr0516
+ -17.3	F7UTV8	Putative uncharacterized protein sll0597	sll0597
+  -1.5	F7UTV9	Putative uncharacterized protein sll0596	sll0596
+   2.1	F7UTW5	Putative uncharacterized protein ssr1038	ssr1038
+  -8.1	F7UTW6	Putative uncharacterized protein slr0617	slr0617
+   4.8	F7UTW8	Cobyric acid synthase	cobQ
+   8.8	F7UTY6	Putative uncharacterized protein sll0103	sll0103
+  -4.2	F7UTT1	Protochlorophyllide oxido-reductase	pcr
+   6.2	F7UTY9	Putative uncharacterized protein slr0106	slr0106
+   2.0	F7UTZ0	Putative uncharacterized protein sll0101	sll0101
+-8994.3	F7UTZ6	Putative uncharacterized protein sll0096	sll0096
+  -8.1	F7UTZ8	Sensory transduction histidine kinase Hik37	sll0094
+  11.9	F7UU06	Transposase	sll0092
+  -1.3	F7UU07	Phosphomethylpyrimidine synthase	thiC
+   3.4	F7UU25	Putative uncharacterized protein sll0284	sll0284
+  -3.0	F7UU42	Putative uncharacterized protein sll0800	sll0800
+  -0.0	F7UN66	Photomixotrophic growth related protein	pmgA
+   1.1	F7UN75	Putative uncharacterized protein slr2078	slr2078
+  12.2	F7UN72	10 kDa chaperonin	groS
+   3.5	F7UN76	Putative uncharacterized protein ssl3712	ssl3712
+   6.1	F7UN81	50S ribosomal protein L11	rplK
+  -9.7	F7UN89	Putative uncharacterized protein sll1737	sll1737
+  12.2	F7UN82	Transcription termination/antitermination protein nusG	nusG
+   3.3	F7UN90	Ferredoxin	petF
+  -4.5	F7UNA3	LPS glycosyltransferase	icsA
+   4.8	F7UNA8	Carbon dioxide concentrating mechanism protein CcmK	ccmK
+   6.6	F7UNA9	Carbon dioxide concentrating mechanism protein CcmK	ccmK
+-9008.5	F7UNB1	Putative uncharacterized protein slr1841	slr1841
+  -1.0	F7UNC1	Putative uncharacterized protein sll1469	sll1469
+  -4.7	F7UND6	Putative uncharacterized protein sll1466	sll1466
+   4.4	F7UNE2	Stationary phase survival protein SurE homolog	surE
+  -2.2	F7UNE7	Putative uncharacterized protein sll1456	sll1456
+ -41.7	F7UNE8	Putative uncharacterized protein slr1552	slr1552
+   1.3	F7UNE9	Putative uncharacterized protein sll1455	sll1455
+  -3.1	F7UNG1	Putative uncharacterized protein slr1752	slr1752
+   5.7	F7UNG3	Putative uncharacterized protein slr1218	slr1218
+  13.4	F7UNG2	Ribosomal RNA small subunit methyltransferase H	mraW
+   7.4	F7UU14	Probable septum site-determining protein MinC	minC
+-8982.5	F7UNB4	UvrABC system protein A	uvrA
+  10.4	F7UNH5	Peptide chain release factor 3	prfC
+   5.7	F7UNH4	Chloroplast import-associated channel IAP75	IAP75
+   4.0	F7UNH3	Phosphoribosylaminoimidazole-succinocarboxamide synthase	purC
+   3.6	F7UNI3	Protein kinase C inhibitor	slr1234
+   6.1	F7UNJ5	Glutathione synthetase	gshB
+   2.9	F7UNK1	Putative uncharacterized protein ssr2067	ssr2067
+   0.1	F7UNK5	Putative uncharacterized protein slr1437	slr1437
+   4.2	F7UNL0	Putative uncharacterized protein slr1440	slr1440
+   6.0	F7UNL4	Putative uncharacterized protein slr1441	slr1441
+  -4.3	F7UNP1	BioY protein	bioY
+  -0.0	F7UNP4	Putative uncharacterized protein sll1272	sll1272
+   6.8	F7UNN5	ABC transporter	sll1276
+  -9.8	F7UNL2	Putative uncharacterized protein sll1358	sll1358
+  -7.2	F7UNQ4	Putative uncharacterized protein sll0877	sll0877
+ -12.2	F7UNQ7	Putative uncharacterized protein sll0875	sll0875
+   1.1	F7UNS5	Putative uncharacterized protein sll0867	sll0867
+   7.7	F7UNS4	Lipoyl synthase	lipA
+-8995.9	F7UNT4	Putative uncharacterized protein sll0864	sll0864
+   3.8	F7UNT9	Apocytochrome f	petA
+   1.7	F7UNU1	Photosystem II reaction center protein H	psbH
+  -0.7	F7UNV0	Beta transducin-like protein	slr1409
+   2.6	F7UNV1	Beta transducin-like protein	slr1410
+  -6.4	F7UNV4	Putative uncharacterized protein sll1305	sll1305
+  -6.1	F7UNV5	Putative uncharacterized protein sll1304	sll1304
+  -2.9	F7UNX9	Transcriptional regulator	slr1871
+   2.2	F7UNY1	Putative uncharacterized protein sll1771	sll1771
+   4.7	F7UNY5	Putative uncharacterized protein ssl3382	ssl3382
+   6.5	F7UNZ2	2-hydroxyhepta-2,4-diene-1,7dioate isomerase	hpcE
+   1.0	F7UNZ7	Putative uncharacterized protein sll1763	sll1763
+  -0.8	F7UP07	Putative uncharacterized protein sll1757	sll1757
+  -8.6	F7UNT5	Putative uncharacterized protein sll0863	sll0863
+   5.0	F7UP09	Putative uncharacterized protein ssl3364	ssl3364
+  -0.1	F7UP38	Adenine-specific DNA methylase	mbpA
+  -6.9	F7UP51	Putative uncharacterized protein sll1698	sll1698
+ -16.2	F7UP58	Putative uncharacterized protein slr1816	slr1816
+   0.1	F7UP74	Putative uncharacterized protein sll1631	sll1631
+  -5.8	F7UP70	Sensory histidine kinase Hik17	sll1687
+-17999.1	F7UP78	Glucose 6-phosphate dehydrogenase effector OpcA	opcA
+-8989.8	F7UP87	Putative uncharacterized protein slr1738	slr1738
+   6.2	F7UP94	N-acetylmuramoyl-L-alanine amidase	amiA
+-9001.3	F7UPB2	Putative uncharacterized protein sll0847	sll0847
+  -0.6	F7UP83	ABC transporter	sll1623
+-8998.7	F7UPB7	tRNA-specific 2-thiouridylase MnmA	mnmA
+   6.0	F7ULZ4	Putative uncharacterized protein sll1938	sll1938
+ -15.0	F7UN44	Putative uncharacterized protein slr1201	slr1201
+ -11.8	F7UNN1	Putative uncharacterized protein sll1280	sll1280
+   2.8	F7UP52	Putative uncharacterized protein sll1697	sll1697
+   3.3	F7UPC8	Putative uncharacterized protein slr0870	slr0870
+   1.8	F7UPD6	Adenylate cyclase	sll1161
+   5.5	F7UPD7	Putative uncharacterized protein sll1160	sll1160
+-8996.0	F7UPE0	Transcriptional regulator	slr1245
+   5.6	F7UPF1	Peptidyl-prolyl cis-trans isomerase	cyp
+  -4.0	F7UPC7	Putative uncharacterized protein slr0869	slr0869
+   4.8	F7UPF6	Putative uncharacterized protein slr1253	slr1253
+  -2.0	F7UPG7	Putative uncharacterized protein slr1263	slr1263
+  -5.4	F7UPG1	Putative uncharacterized protein slr1257	slr1257
+  10.8	F7UPH8	Putative uncharacterized protein sll1954	sll1954
+   2.4	F7UPH9	Putative uncharacterized protein ssl3692	ssl3692
+   1.1	F7UPI3	Putative uncharacterized protein sll1949	sll1949
+   2.7	F7UPI6	Phycobilisome 7.8 kDa linker polypeptide, allophycocyanin-associated, core	apcC
+-8996.3	F7UPI7	Ribosomal protein L11 methyltransferase	prmA
+  -4.1	F7UPJ5	Hybrid sensory kinase Hik19	sll1905
+  -0.1	F7US10	Putative uncharacterized protein ycf33	ycf33
+   4.1	F7UPK6	tRNA modification GTPase MnmE	mnmE
+ -14.4	F7USA0	Putative uncharacterized protein slr0226	slr0226
+   6.7	F7USH1	Biotin carboxylase	accC
+  -1.1	F7UPK9	Folyl-polyglutamate synthetase	folC
+   4.2	F7UKD4	Heme oxygenase	ho1
+   5.2	F7UL43	Histidinol dehydrogenase	hisD
+-9000.6	F7ULD5	Glutamine synthetase	glnA
+-8988.1	F7ULC5	Sensory transduction histidine kinase Hik13	sll1003
+   2.3	F7ULR8	Putative uncharacterized protein slr1570	slr1570
+  -3.3	F7UMD2	Putative uncharacterized protein sll1552	sll1552
+  -1.8	F7ULZ5	Ferric uptake regulation protein	fur
+ -14.8	F7UQ82	Glycosyltransferase family II protein	slr0813
+   4.1	F7UQC4	Putative uncharacterized protein ssl2471	ssl2471
+  -5.1	F7URB6	Putative uncharacterized protein sll0263	sll0263
+-8995.0	F7USH3	Putative uncharacterized protein sll0051	sll0051
+   2.8	F7USK4	PEMI-like protein homologue	ssl1300
+  10.4	F7USP6	Deoxyguanosinetriphosphate triphosphohydrolase-like protein	dgt
+  -7.4	F7UPK2	Putative uncharacterized protein sll1902	sll1902
+  22.2	F7UPK0	Cyanophycin synthetase	cphA
+  -5.3	F7UPY0	Putative uncharacterized protein slr1512	slr1512
+   7.9	F7ULB4	50S ribosomal protein L32	rps32
+  10.4	F7ULG4	ATP-dependent Clp protease ATP-binding subunit ClpX	clpX
+   6.6	F7ULW4	Nucleoid-associated protein SYNGTS_0503	slr1847
+  -5.5	F7UMK3	Putative uncharacterized protein sll1107	sll1107
+   5.6	F7UMW5	Putative uncharacterized protein sml0011	sml0011
+  10.6	F7UPV4	Regulatory component of sensory transduction system Rre20	slr2100
+ -17.1	F7UQ30	Cation or drug efflux system protein	slr2131
+  -7.4	F7UQE9	Putative uncharacterized protein slr1963	slr1963
+  -2.1	F7UR06	Putative uncharacterized protein slr0935	slr0935
+-8996.1	F7UR00	Activator of photopigment and puc expression	slr1694
+  -2.5	F7UR94	Putative uncharacterized protein sll0423	sll0423
+   1.6	F7URJ7	Putative uncharacterized protein slr1929	slr1929
+   5.1	F7URZ5	DNA repair protein RadC	radC
+  -0.1	F7UT22	Flavoprotein	sll0550
+  -0.3	F7UT42	Putative uncharacterized protein slr0581	slr0581
+   2.7	F7UTJ2	Photosystem I assembly protein Ycf4	ycf4
+  -2.0	F7UTS6	NarL subfamily protein Rre30	sll0485
+  -2.0	F7UT87	Ferrichrome-iron receptor	fhuA
+  -2.4	F7UU34	Bromoperoxidase	slr0314
+   1.2	F7UN28	Putative uncharacterized protein sll1786	sll1786
+-8996.8	F7UNB7	Probable ribonuclease VapC	sll1715
+ -11.8	F7UK40	Putative uncharacterized protein slr1107	slr1107
+-9007.7	F7UKC5	Putative uncharacterized protein slr1302	slr1302
+ -18.0	F7ULD2	Putative uncharacterized protein slr1753	slr1753
+  -4.1	F7UM43	Putative uncharacterized protein sll0994	sll0994
+   6.1	F7ULF9	Crossover junction endodeoxyribonuclease RuvC	ruvC
+   9.3	F7UMY7	DNA-directed RNA polymerase subunit alpha	rpoA
+ -13.0	F7UKV6	Membrane bound sugar transport protein	slr0531
+   4.6	F7UL79	Lipoyl synthase	lipA
+  -1.5	F7UNI4	Putative uncharacterized protein slr1235	slr1235
+   5.1	F7UP46	Putative uncharacterized protein sll1702	sll1702
+   2.3	F7UQS8	Glutamine-binding protein	glnH
+  -6.4	F7UR29	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	slr0951
+  -2.7	F7USK5	Na/H+ antiporter	sll0689
+   5.6	F7UTD8	Mutator MutT protein	mutT
+   7.3	F7UU40	Putative uncharacterized protein ssl0511	ssl0511
+   1.9	F7UNF1	Nitrate transport protein subunit NrtD	nrtD
+   4.1	F7UKX5	Putative uncharacterized protein sll0499	sll0499
+   0.2	F7UMS4	Putative uncharacterized protein slr2016	slr2016
+   3.4	F7UMF3	Response regulator like protein Rre40	sll1544
+  -3.9	F7ULI0	NAD(P)H-quinone oxidoreductase subunit 4L	ndhE
+  11.1	F7UN04	50S ribosomal protein L16	rplP
+ -17.0	F7UNM1	Sensory transduction histidine kinase Hik15	sll1353
+   2.0	F7UNA6	OmpR subfamily protein ManR/Rre16	slr1837
+  -4.8	F7UQH8	Putative uncharacterized protein slr1980	slr1980
+  -6.7	F7UR99	Putative uncharacterized protein sll0419	sll0419
+   6.4	F7URR3	Putative uncharacterized protein ssr0536	ssr0536
+   3.9	F7UPC3	Orotidine 5'-phosphate decarboxylase	pyrF
+   2.2	F7UTR1	Putative uncharacterized protein slr0086	slr0086
+   0.1	F7US39	ABC transporter	slr0354
+-9001.0	F7UKE3	Putative uncharacterized protein slr0967	slr0967
+   2.1	F7UKH2	CDP-glucose-4,6-dehydratase	rfbG
+   0.6	F7ULV0	Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein	chlL
+  10.5	F7ULV4	Enolase	eno
+ -13.3	F7UM55	Putative uncharacterized protein slr1033	slr1033
+  -0.5	F7UMA2	Putative uncharacterized protein slr1398	slr1398
+  10.7	F7UQ96	Transposase	sll0808
+   1.8	F7UR39	Putative uncharacterized protein slr0960	slr0960
+-8993.3	F7UQP5	NAD(P)H-quinone oxidoreductase subunit K	ndhK
+  -3.4	F7URL2	Putative uncharacterized protein sll1851	sll1851
+-8987.8	F7URS7	Putative uncharacterized protein sll0175	sll0175
+  -2.6	F7US91	Putative uncharacterized protein sll0205	sll0205
+   1.8	F7UK42	Putative uncharacterized protein ccmN	ccmN
+-8991.6	F7UTS8	Cobalamin synthesis protein CobW homolog	cobW
+   0.3	F7UK93	Chorismate mutase /prephenate dehydratase	pheA
+   0.7	F7UL20	Putative uncharacterized protein slr1087	slr1087
+   3.8	F7UKM5	Putative uncharacterized protein sll0676	sll0676
+   0.4	F7UKR9	Sucrose phosphate synthase	sps
+-9012.5	F7UKV3	Putative uncharacterized protein sll0514	sll0514
+   7.9	F7ULB7	Putative uncharacterized protein slr1052	slr1052
+  -3.3	F7ULD6	Hybrid sensory kinase Hik14	slr1759
+   2.9	F7ULW0	Photosystem II reaction center protein K	psbK
+   4.8	F7UM54	Putative uncharacterized protein slr1032	slr1032
+   1.1	F7UMS0	Monovalent cation/H+ antiporter subunit B	mrpB
+ -11.5	F7ULL0	Sulfate transport system permease protein	cysT
+  -1.6	F7UMT3	Oxygen-independent coprophorphyrinogen III oxidase	hemN
+  10.3	F7UN00	50S ribosomal protein L24	rpl24
+-9002.6	F7UPM4	Putative uncharacterized protein sll1601	sll1601
+  29.0	F7ULM0	Elongation factor G	fus
+   2.3	F7UQ37	Putative uncharacterized protein ssr2194	ssr2194
+  -4.8	F7UPT7	Acetolactate synthase 3 catalytic subunit	ilvG
+  -2.1	F7URM4	Dolichol phosphate mannose synthase	dpm1
+  -4.9	F7USN7	Putative uncharacterized protein sll0606	sll0606
+   0.8	F7URD0	Putative uncharacterized protein sll0257	sll0257
+   2.0	F7USS4	Putative uncharacterized protein sll0382	sll0382
+   3.3	F7UT34	Putative uncharacterized protein sgl0001	sgl0001
+   5.7	F7UTA1	dTDP-6-deoxy-L-mannose-dehydrogenase	rfbD
+  -0.2	F7UND2	Putative uncharacterized protein slr1544	slr1544
+   1.4	F7UNC8	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ispF
+   2.5	F7UNN7	Putative uncharacterized protein slr1362	slr1362
+ -16.0	F7UPE8	Phosphate transport system permease protein PstC	pstC
+  21.1	F7UPH4	DNA topoisomerase	topA
+  -5.5	F7UQQ8	Putative uncharacterized protein sll1446	sll1446
+ -21.1	F7UL71	Na/H antiporter	slr1595
+  10.2	F7UM42	Putative uncharacterized protein sll0995	sll0995
+   4.4	F7UPK3	Putative uncharacterized protein ssr3402	ssr3402
+   0.7	F7US74	Putative uncharacterized protein sll0008	sll0008
+   4.8	F7UND7	Sec-independent protein translocase protein TatA	ssl2823
+  -0.1	F7UT86	Regulatory protein PchR	pchR
+  11.5	F7UTC7	Putative uncharacterized protein sll1053	sll1053
+   1.7	F7UKS1	Putative uncharacterized protein sll0044	sll0044
+  -1.6	F7UKI0	Carbamoyl phosphate synthase-like-protein	slr1616
+   4.6	F7UL95	Putative uncharacterized protein sll1505	sll1505
+  14.2	F7ULL9	Putative uncharacterized protein slr1462	slr1462
+  -0.8	F7ULQ6	Shikimate dehydrogenase	aroE
+   1.2	F7UMR4	Putative uncharacterized protein mrpC	mrpC
+   7.7	F7UNN6	Pyruvate kinase	pykF
+  -4.6	F7UP39	Transposase	sll1710
+  -0.9	F7UMY0	Adenylosuccinate synthetase	purA
+   8.7	F7UPD0	Putative uncharacterized protein slr0872	slr0872
+  -3.3	F7UP99	Ribosomal-protein-alanine acetyltransferase	rimI
+   4.3	F7UPN1	Circadian clock protein KaiB	kaiB2
+  -9.6	F7UPS1	Putative uncharacterized protein sll0241	sll0241
+  -1.3	F7UQA1	Putative uncharacterized protein sll0804	sll0804
+  18.9	F7UPV6	Signal recognition particle receptor FtsY	ftsY
+   2.5	F7UQJ3	Putative uncharacterized protein sll1390	sll1390
+   0.9	F7UQJ7	Cytochrome b6-f complex subunit 5	petG
+   8.5	F7US30	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	slr0348
+-8999.2	F7USC1	o-succinylbenzoate synthase	sll0409
+-8994.9	F7UT18	Ferredoxin-thioredoxin reductase, catalytic chain	ftrC
+   0.4	F7UTV6	ATP-dependent dethiobiotin synthetase BioD	bioD
+   1.5	F7UTW1	Transcriptional regulatory protein	sll0594
+   2.7	F7USS1	ABC transporter	sll0385
+  -6.5	F7UK35	Putative uncharacterized protein sll1037	sll1037
+  -3.1	F7UL04	GDP-D-mannose dehydratase	yefA
+ -11.9	F7ULP3	Thiol:disulfide interchange protein DsbD	dsbD
+   3.5	F7ULY5	Putative uncharacterized protein slr2037	slr2037
+   0.9	F7ULX8	Cytochrome b559 subunit alpha	psbE
+  -5.4	F7UMA4	Serine esterase	sll1284
+   2.7	F7UMF6	Putative uncharacterized protein slr1668	slr1668
+   0.4	F7UMF8	Putative uncharacterized protein sll1542	sll1542
+   0.7	F7UN93	Putative uncharacterized protein sll1736	sll1736
+   4.3	F7UNJ9	Putative uncharacterized protein slr1240	slr1240
+  18.9	F7UNG0	Carboxyl-terminal protease	prc
+   0.3	F7UQ88	Putative uncharacterized protein sll0810	sll0810
+  -2.3	F7UQG4	Putative uncharacterized protein slr1972	slr1972
+   2.6	F7UQH4	ABC transporter	sll1878
+   7.3	F7UQK3	Ribonuclease P protein component	rnpA
+   8.5	F7UPN9	Potassium-transporting ATPase B chain	kdpB
+-8985.7	F7UQV0	Geranylgeranyl reductase	chlP
+   8.3	F7UR52	Pseudouridine synthase	slr1629
+  -0.9	F7URY5	Putative uncharacterized protein slr0771	slr0771
+   1.5	F7USF0	Endoribonuclease YbeY	slr0053
+   0.7	F7UT29	Putative uncharacterized protein ssl1047	ssl1047
+   6.6	F7USB3	ABC transporter	sll0415
+   3.6	F7UT39	Putative uncharacterized protein slr0579	slr0579
+  25.1	F7UTQ7	ATP-dependent RNA helicase DeaD	deaD
+  13.3	F7UK65	Protease	hhoA
+   1.5	F7UL29	High light inducible protein	hliA
+  -1.1	F7ULV2	Putative uncharacterized protein sll0733	sll0733
+  -5.7	F7UNR8	Putative uncharacterized protein slr0882	slr0882
+   7.2	F7UNT7	N-acetylmuramic acid 6-phosphate etherase	murQ
+  -4.9	F7UQ53	Putative uncharacterized protein sll1225	sll1225
+  -1.2	F7UQB3	Putative uncharacterized protein slr1338	slr1338
+  -0.2	F7UQ76	tRNA dimethylallyltransferase	miaA
+  17.0	F7UQD4	50S ribosomal protein L9	rplI
+   5.1	F7UQD7	Putative uncharacterized protein slr1956	slr1956
+  -1.3	F7UPS2	ABC transporter	sll0240
+   6.4	F7UR95	Asparaginase	sll0422
+   3.0	F7USN8	tRNA-dihydrouridine synthase	slr0644
+   3.5	F7USP9	Putative uncharacterized protein slr0613	slr0613
+-17995.9	F7UU20	Putative uncharacterized protein slr0303	slr0303
+   3.8	F7UK51	Putative uncharacterized protein sll1686	sll1686
+  -3.7	F7UKH4	Putative uncharacterized protein slr1610	slr1610
+   1.8	F7UKT3	Aspartate aminotransferase	aspC
+-8991.9	F7ULQ2	Carbamoyl-phosphate synthase small chain	carA
+   8.2	F7UL90	ATP-dependent zinc metalloprotease FtsH	ftsH
+  -4.2	F7UMJ0	Anhydro-N-acetylmuramic acid kinase	anmK
+  -3.7	F7UN14	Putative uncharacterized protein slr1895	slr1895
+  -8.4	F7UPN5	Na+/H+ exchanger	slr1727
+  -6.2	F7UL49	Adenylate cyclase	cyaA
+ -19.9	F7UQE2	Protoheme IX farnesyltransferase	ctaB
+  14.4	F7UQS0	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	pet112
+  -6.5	F7UR54	Putative uncharacterized protein sll1534	sll1534
+-9019.0	F7UNW4	Glycogen operon protein GlgX	glgX
+   0.7	F7USJ4	Putative uncharacterized protein slr0491	slr0491
+   1.1	F7USK6	Putative uncharacterized protein sll0688	sll0688
+  -0.6	F7USR3	Regulatory protein PchR	pchR
+-8997.3	F7USZ0	Cyclic pyranopterin monophosphate synthase	moaA
+  -2.0	F7UM26	Esterase	slr1916
+   0.2	F7USH5	Conserved component of ABC transporter for natural amino acids	natA
+   5.4	F7UPE5	Putative uncharacterized protein sll1155	sll1155
+  -3.1	F7UTX5	Putative uncharacterized protein sll0585	sll0585
+   2.0	F7UKQ3	Putative uncharacterized protein sll0658	sll0658
+   4.2	F7ULA1	Glucose dehydrogenase-B	gdhB
+   0.2	F7UPW7	Putative uncharacterized protein sll1426	sll1426
+   0.3	F7UMA5	Sporulation protein SpoIID homolog	spoIID
+   3.2	F7UP55	Putative uncharacterized protein slr1813	slr1813
+   6.7	F7UME1	Putative uncharacterized protein pleD	pleD
+   3.2	F7UTI0	Transposase	ssl0426
+ -17.0	F7UTX8	Putative uncharacterized protein slr0625	slr0625
+   3.4	F7UKW9	Putative uncharacterized protein sll0503	sll0503
+  -0.9	F7ULE1	Putative uncharacterized protein slr1763	slr1763
+  12.3	F7UMK1	Chloroplast membrane-associated 30 kD protein	im30
+  -9.2	F7UNY6	Probable oligopeptide ABC transporter permease protein	sll1768
+  -3.7	F7UQW3	Alpha,alpha-trehalose-phosphate synthase	otsA
+   7.1	F7UQZ0	Mannose-1-phosphate guanyltransferase	sll1558
+   4.7	F7URM3	Putative uncharacterized protein ssr3304	ssr3304
+   2.7	F7US94	Hybrid sensory kinase Hik25/GidA	slr0222
+   0.8	F7UKC2	Putative uncharacterized protein sll1191	sll1191
+  11.8	F7ULU1	Transposase	slr1585
+ -19.3	F7ULG2	Ammonium/methylammonium permease	amt3
+ -23.7	F7UM72	Cytochrome oxidase d subunit II	cydB
+   2.9	F7UMC5	Circadian clock protein KaiA	kaiA
+   8.2	F7UML9	Putative uncharacterized protein sll0572	sll0572
+  -5.2	F7UMQ0	Dihydroflavonol 4-reductase	dfrA
+  -5.1	F7UNK4	Putative uncharacterized protein slr1436	slr1436
+  -3.3	F7UPG9	Putative uncharacterized protein sll1960	sll1960
+  12.8	F7UPZ4	Transposase	slr1522
+ -10.9	F7UQS2	Putative uncharacterized protein sll1433	sll1433
+  -7.1	F7URF7	Putative uncharacterized protein slr0142	slr0142
+-9004.7	F7USF7	Putative uncharacterized protein sll0062	sll0062
+ -13.4	F7UU36	Putative uncharacterized protein slr0316	slr0316
+  -8.1	F7US20	Cytochrome b6	petB
+   6.6	F7UKP6	Bacterial type ferredoxin family protein	sll0662
+  13.4	F7USV2	Ribose-5-phosphate isomerase A	rpiA
+ -11.1	F7UNK6	Putative uncharacterized protein slr1438	slr1438
+   6.9	F7UQL1	Putative uncharacterized protein sll1381	sll1381
+  -2.9	F7ULE8	Urease accessory protein UreD	ureD
+  -2.9	F7UM07	Putative uncharacterized protein slr2053	slr2053
+   1.1	F7UN49	Putative uncharacterized protein slr1206	slr1206
+   0.4	F7UMA3	FO synthase subunit 1	cofG
+-8987.1	F7UQD5	Putative uncharacterized protein slr1353	slr1353
+  -3.3	F7UQ35	Release factor glutamine methyltransferase	hemK
+   6.2	F7UQ98	Ribulose-phosphate 3-epimerase	cfxE
+  -4.7	F7UQZ8	Putative uncharacterized protein slr1692	slr1692
+ -18.5	F7URU5	Putative uncharacterized protein sll0160	sll0160
+   4.7	F7UTG2	Putative uncharacterized protein ssl1326	ssl1326
+   0.6	F7USX0	Putative uncharacterized protein slr0208	slr0208
+   3.5	F7UT51	PleD gene product homolog	slr0829
+   9.0	F7UTS9	Putative uncharacterized protein slr0503	slr0503
+  -0.2	F7URY7	Putative uncharacterized protein slr0773	slr0773
+   2.9	F7UL61	Putative uncharacterized protein sll0638	sll0638
+ -12.1	F7UPR9	Putative uncharacterized protein sll0243	sll0243
+  -1.0	F7UPZ7	Putative uncharacterized protein sll1411	sll1411
+  -2.4	F7UPX8	3-oxoacyl-[acyl-carrier-protein] synthase 3	fabH
+   1.6	F7UQ13	Spore coat polysaccharide biosynthesis protein	spsA
+   0.4	F7US00	Putative uncharacterized protein sll0761	sll0761
+ -13.0	F7UTM0	ATP synthase subunit a	atpB
+  -4.4	F7UT65	Putative uncharacterized protein sll0827	sll0827
+-8996.0	F7UKS0	Putative uncharacterized protein slr0023	slr0023
+  -1.1	F7ULX1	Putative uncharacterized protein slr1851	slr1851
+ -20.4	F7UM71	Cytochrome oxidase d subunit I	cydA
+  -2.7	F7UMP6	Serine/threonine protein kinase	sll1575
+   2.5	F7UMR9	Putative uncharacterized protein slr2011	slr2011
+  -0.3	F7UP36	Putative uncharacterized protein sll2002	sll2002
+  17.5	F7UN08	50S ribosomal protein L2	rpl2
+   0.9	F7UPD9	Putative uncharacterized protein sll1158	sll1158
+  -7.3	F7UQ51	3-oxoacyl-(Acyl carrier protein) synthase II	fabF
+   1.0	F7UQT6	Putative uncharacterized protein sll1095	sll1095
+   0.8	F7URE2	Putative uncharacterized protein slr0397	slr0397
+   4.9	F7URN9	Putative uncharacterized protein ssl1807	ssl1807
+   8.3	F7US08	Thiol-specific antioxidant protein	sll0755
+  -5.2	F7URZ1	Protein-export membrane protein SecF	secF
+   4.2	F7US60	Carboxyl-terminal processing protease	ctpA
+   2.8	F7USQ2	Putative uncharacterized protein sll1213	sll1213
+-8997.2	F7US56	Glutamate-1-semialdehyde 2,1-aminomutase	hemL
+  13.5	F7USG4	Protein GrpE	grpE
+ -24.1	F7USY5	Putative uncharacterized protein slr0896	slr0896
+  -9.0	F7UTR3	Methyltransferase	slr0089
+   7.1	F7USY8	Cyanate hydratase	cynS
+   7.4	F7UN41	Rehydrin	slr1198
+ -13.6	F7URG9	Putative uncharacterized protein sll0148	sll0148
+  -0.6	F7UPU4	Acetolactate synthase	ilvB
+  -8.3	F7UT91	ABC transporter	slr1494
+ -25.2	F7UTF2	Putative uncharacterized protein slr0728	slr0728
+  -7.1	F7UKD8	Putative uncharacterized protein sll0943	sll0943
+   1.7	F7UL64	Photosystem I biogenesis protein	btpA
+   4.9	F7ULJ5	Putative uncharacterized protein sll1340	sll1340
+  -6.8	F7ULR7	Putative uncharacterized protein sll1488	sll1488
+  11.6	F7UMI2	Transposase	slr0460
+  -5.6	F7UMW9	Putative uncharacterized protein slr1150	slr1150
+   5.0	F7ULH1	Dephospho-CoA kinase	slr0553
+   2.0	F7UNR3	Secreted protein MPB70	slr0880
+   1.0	F7UQ21	Short-chain alcohol dehydrogenase family protein	slr2124
+   4.2	F7UQK1	Putative uncharacterized protein slr1468	slr1468
+  -0.5	F7USH2	Putative uncharacterized protein slr0069	slr0069
+  11.4	F7USU6	CinA-like protein	slr0427
+  -1.7	F7UTK6	Bacterioferritin comigratory protein	bcp
+   0.1	F7UTM1	Putative uncharacterized protein atp1	atp1
+  -0.2	F7UTM2	Putative uncharacterized protein slr1413	slr1413
+   2.1	F7UKL4	Putative uncharacterized protein sll0775	sll0775
+   9.3	F7UMY2	50S ribosomal protein L31	rpmE
+   6.7	F7UN37	Putative uncharacterized protein slr1196	slr1196
+   8.2	F7UPI1	Hemolysin	sll1951
+  18.2	F7UNT2	UvrABC system protein C	uvrC
+  -1.7	F7UPN0	Transposase	ssr2898
+   2.8	F7UQ65	Putative uncharacterized protein ssr1375	ssr1375
+  -6.9	F7UQE4	Putative uncharacterized protein slr1959	slr1959
+   6.2	F7UQT1	30S ribosomal protein S10	rpsJ
+   2.2	F7UQL3	Aspartate carbamoyltransferase	pyrB
+   3.1	F7UR48	Putative uncharacterized protein slr1626	slr1626
+  -2.4	F7URG2	Putative uncharacterized protein slr0147	slr0147
+   1.2	F7URM0	Putative uncharacterized protein ssr3300	ssr3300
+   4.6	F7UKP4	NADPH-dependent 7-cyano-7-deazaguanine reductase	slr0711
+ -22.3	F7URQ2	Iron utilization protein	hitB
+  37.9	F7URW0	Putative uncharacterized protein slr0364	slr0364
+-8995.9	F7UTD4	Putative uncharacterized protein slr1127	slr1127
+   4.7	F7UTS4	Putative uncharacterized protein sll0487	sll0487
+   4.9	F7UKY1	Asparagine--tRNA ligase	asnS
+   1.1	F7UKZ1	Putative uncharacterized protein ssr1558	ssr1558
+   6.3	F7ULS2	UPF0296 protein SYNGTS_3011	ssl2874
+   2.3	F7UKU3	Nitrate transport protein subunit NrtC	nrtC
+  12.7	F7UMS3	Putative uncharacterized protein slr2015	slr2015
+  14.4	F7UMY9	30S ribosomal protein S13	rpsM
+  25.4	F7UN27	DNA-directed RNA polymerase subunit beta	rpoB
+  15.4	F7UNN2	30S ribosomal protein S1	rps1
+   5.0	F7UNY3	Putative uncharacterized protein sll1769	sll1769
+   4.1	F7UR10	Precorrin isomerase	cbiC
+   1.7	F7UQ68	Photosystem I reaction center subunit IX	psaJ
+   6.5	F7UPH1	Histidinol-phosphate aminotransferase	hisC
+  13.4	F7UR28	Putative uncharacterized protein sll0909	sll0909
+  40.1	F7UR68	ClpB protein	clpB
+  -5.4	F7URK3	Transposase	sll1861
+   1.9	F7URR5	Phycobilisome LCM core-membrane linker polypeptide ApcE	apcE
+   7.5	F7USB9	Putative uncharacterized protein sll0412	sll0412
+   4.5	F7US93	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO	gidA
+ -11.1	F7USD1	Putative uncharacterized protein slr0439	slr0439
+   3.8	F7USJ7	Putative uncharacterized protein sll0456	sll0456
+  -7.7	F7UTF8	Putative uncharacterized protein sll0703	sll0703
+   1.8	F7UPZ8	Putative uncharacterized protein ssl2749	ssl2749
+ -12.2	F7UR84	Putative uncharacterized protein sll0428	sll0428
+  -1.7	F7UKX9	Aldo/keto reductase	slr0545
+   2.1	F7UT67	Putative uncharacterized protein slr0842	slr0842
+  -0.9	F7UL59	Putative uncharacterized protein slr0689	slr0689
+   6.2	F7UMT1	CheY subfamily protein Rre13	slr2024
+  -1.7	F7UKK5	Putative uncharacterized protein sll0783	sll0783
+  -3.6	F7UL72	Putative uncharacterized protein sll1516	sll1516
+   5.9	F7UL75	Putative uncharacterized protein slr1597	slr1597
+   7.3	F7ULJ1	UDP-N-acetylmuramate--L-alanine ligase	murC
+   4.1	F7ULV3	Putative uncharacterized protein slr0751	slr0751
+  -2.9	F7UQ99	Cation-transporting ATPase E1-E2 ATPase	slr0822
+   3.2	F7UMU6	Putative uncharacterized protein slr1134	slr1134
+   2.3	F7UNU2	Protein PsbN	psbN
+   2.0	F7UMX3	3-oxoacyl-[acyl-carrier-protein] synthase 2	fabF
+   7.7	F7UP97	NADH dehydrogenase	ndh
+   5.7	F7UPB5	LmbP protein	lmbP
+   3.0	F7UPI5	Allophycocyanin b chain	apcB
+   4.2	F7UPK8	Putative uncharacterized protein sll1613	sll1613
+   7.5	F7UPQ0	Putative uncharacterized protein slr0262	slr0262
+-8997.3	F7ULL3	Type 4 pilin-like protein	pilA4
+   5.7	F7UQW8	Probable hydrogenase nickel incorporation protein HypA	hypA
+  12.1	F7UQ29	3-dehydroquinate synthase	aroB
+   1.3	F7UPK7	Cation-transporting ATPase E1-E2 ATPase	pma1
+   0.7	F7URK7	Pyruvate dehydrogenase E1 component, alphasubunit	slr1934
+  -0.1	F7USD7	Putative uncharacterized protein slr0049	slr0049
+  -9.4	F7USA4	Sec-independent protein translocase protein TatC	ycf43
+   2.7	F7USI1	CheY subfamily protein Rcp1/Rcp/Rre27	rcp1
+-8978.7	F7USG5	General secretion pathway protein E	gspE
+   0.3	F7UT30	Putative uncharacterized protein slr0572	slr0572
+   4.7	F7UU35	Putative uncharacterized protein slr0315	slr0315
+   3.4	F7UTD7	Ribonuclease HII	rhnB
+  10.3	F7UK39	Prohibitin	phb
+-8995.3	F7UNJ4	Glutaredoxin 3	grxC
+  -4.7	F7UQH1	Renin-binding protein	slr1975
+   7.9	F7USM5	Putative uncharacterized protein slr0634	slr0634
+  -7.0	F7URP7	Probable oligopeptide ABC transporter permease protein	slr0324
+ -19.3	F7UTI3	Putative uncharacterized protein slr0241	slr0241
+  -1.7	F7UP62	Putative uncharacterized protein sll1693	sll1693
+   4.5	F7UM11	Transposase	sll1930
+   3.9	F7UMT9	Putative uncharacterized protein sll1912	sll1912
+  -2.3	F7UPC5	Putative uncharacterized protein slr0867	slr0867
+  -1.3	F7UN92	Poly(3-hydroxyalkanoate) synthase	phbC
+  -6.7	F7UPN7	Sensory transduction histidine kinase Hik20	sll1590
+  -3.4	F7UKG4	Putative uncharacterized protein sll0922	sll0922
+  -4.5	F7UKQ9	Putative uncharacterized protein sll0743	sll0743
+  -0.8	F7UL78	Putative uncharacterized protein sll1512	sll1512
+   0.4	F7ULZ9	Putative uncharacterized protein ssr3467	ssr3467
+   4.9	F7UN69	Cell division protein sepF	slr2073
+   5.6	F7UNN4	DNA replication and repair protein RecF	recF
+ -14.9	F7UP76	DNA photolyase	phr
+  -6.6	F7UNY7	D-alanine--D-alanine ligase	ddlA
+  -4.7	F7UP90	Extracellular solute-binding protein	slr1740
+  -0.3	F7UQA3	Putative uncharacterized protein sll0802	sll0802
+  -5.8	F7UQD6	Putative uncharacterized protein sll1242	sll1242
+ -11.8	F7UQM0	Putative uncharacterized protein sll1372	sll1372
+   2.6	F7UQZ3	Hybrid sensory kinase Hik42	sll1555
+   5.2	F7URH9	Twitching motility protein	pilT
+   0.6	F7URL0	Putative uncharacterized protein sll1853	sll1853
+  14.9	F7URW7	Cell division cycle protein	slr0374
+   3.6	F7USH0	ATP-binding protein involved in chromosome partitioning MRP	slr0067
+   3.5	F7URZ0	Protein translocase subunit SecD	secD
+   4.9	F7UU02	Putative uncharacterized protein slr0114	slr0114
+   5.1	F7UMW6	Sensory transduction histidine kinase Hik2	slr1147
+  -0.5	F7UND4	Putative uncharacterized protein slr1546	slr1546
+  -3.5	F7UPJ0	Adenylate cyclase	cyaA
+  -0.0	F7UQF0	Putative uncharacterized protein slr1964	slr1964
+   3.2	F7UR32	Putative uncharacterized protein ssr1600	ssr1600
+  -0.1	F7UTX1	Putative uncharacterized protein sll0588	sll0588
+  -3.1	F7UQW4	Putative uncharacterized protein slr1670	slr1670
+   7.0	F7UM70	Putative uncharacterized protein slr1378	slr1378
+ -16.4	F7UP96	Putative uncharacterized protein slr1747	slr1747
+   5.8	F7UNG7	DNA helicase II	uvrD
+  -5.7	F7URJ0	D-alanyl-D-alanine carboxypeptidase	slr1924
+   6.1	F7URQ0	Riboflavin synthase alpha chain	ribC
+  -0.3	F7USA7	Putative uncharacterized protein slr0231	slr0231
+   1.3	F7UKB4	Putative uncharacterized protein ssl2384	ssl2384
+  -8.7	F7ULU7	Putative uncharacterized protein sll0736	sll0736
+-8993.1	F7UNF6	Putative uncharacterized protein slr1748	slr1748
+-8995.5	F7UPM5	Putative uncharacterized protein slr1724	slr1724
+   4.7	F7UQE5	Putative uncharacterized protein sll1897	sll1897
+-8999.9	F7USF9	Putative uncharacterized protein slr0059	slr0059
+   2.5	F7UT14	Putative uncharacterized protein slr0924	slr0924
+   4.2	F7UTP2	Putative uncharacterized protein sll0088	sll0088
+  -3.4	F7UKG2	Putative uncharacterized protein sll0924	sll0924
+  27.5	F7UM08	DnaJ protein	dnaJ
+   1.3	F7UM03	Chromophore lyase CpcS/CpeS	slr2049
+ -17.3	F7UKG6	ABC transporter	slr0977
+  -3.6	F7UMI1	Putative uncharacterized protein slr0459	slr0459
+-9001.7	F7UMU4	Sigma factor SigG regulation protein RsbU	slr2031
+  21.1	F7UMJ1	Peptide chain release factor 1	prfA
+ -12.3	F7UN19	Urease accessory protein UreF	ureF
+   0.8	F7UQU4	Putative uncharacterized protein ssl2148	ssl2148
+   1.9	F7UQK9	Ferredoxin	petF
+  -7.3	F7UQF2	Lysozyme	slr1966
+  -1.7	F7UQU7	Putative uncharacterized protein slr1166	slr1166
+  -2.4	F7UR22	Putative uncharacterized protein sll0913	sll0913
+   5.3	F7UR62	SsrA-binding protein	smpB
+  13.1	F7USH7	30S ribosomal protein S4	rps4
+-9010.8	F7USH8	Putative uncharacterized protein sll0462	sll0462
+  -6.0	F7UT46	Putative uncharacterized protein slr0583	slr0583
+  -4.5	F7UT73	Succinate dehydrogenase iron-sulfur protein	sdhB
+   2.5	F7UTH7	Putative uncharacterized protein slr0236	slr0236
+   1.5	F7UTI9	Acetylpolyamine aminohydolase	slr0245
+-9003.8	F7UKV5	Membrane bound sugar transport protein	slr0530
+-9001.9	F7UKK7	Putative uncharacterized protein sll0782	sll0782
+  33.0	F7ULM9	RNA polymerase sigma factor	rpoDI
+   7.7	F7UMY6	50S ribosomal protein L17	rplQ
+   5.2	F7UP04	Ferredoxin	ssr3184
+   0.9	F7UPS9	Putative uncharacterized protein slr2080	slr2080
+  11.0	F7UPU2	Transposase	sll1982
+   2.9	F7UQR1	Putative uncharacterized protein sll1442	sll1442
+  -6.2	F7UQW9	Putative uncharacterized protein slr1676	slr1676
+   1.4	F7US50	Putative uncharacterized protein sll0022	sll0022
+  -5.6	F7USB4	Putative uncharacterized protein sll0414	sll0414
+  -0.6	F7UU27	P-methylase	slr0309
+   6.2	F7UTG8	Anthranilate synthase component I	trpE
+-8992.2	F7USU5	GTP cyclohydrolase 1	folE
+  -0.1	F7UKB8	Putative uncharacterized protein sll1193	sll1193
+   0.1	F7UKN0	Transposase	ssr1176
+  -6.0	F7UMR8	Putative uncharacterized protein ssr3410	ssr3410
+   2.0	F7UNN9	Putative uncharacterized protein slr1363	slr1363
+ -13.7	F7UR24	Neutral amino acid transport system permease protein NatD	natD
+   0.7	F7US69	Putative uncharacterized protein slr0016	slr0016
+-8991.1	F7UPF0	Phosphate transport ATP-binding protein PstB	pstB
+   7.1	F7UKY6	Single-stranded DNA-binding protein	ssb
+ -20.4	F7UM96	Phytochrome-like sensory transduction histidine kinase Hik1	slr1393
+   3.2	F7UK84	Putative uncharacterized protein slr1794	slr1794
+   3.2	F7UMC1	Putative uncharacterized protein slr0755	slr0755
+   0.1	F7UMC7	Circadian clock protein kinase KaiC	kaiC1
+  -9.1	F7UMQ2	Probable peptidase M23	slr1708
+  -3.6	F7UNG6	Putative uncharacterized protein slr1222	slr1222
+  -6.9	F7UPR6	Putative uncharacterized protein slr0271	slr0271
+   3.6	F7UQ57	Putative uncharacterized protein sll1222	sll1222
+   2.6	F7UQK5	Inner membrane protein	slr1471
+   7.3	F7UQR5	Putative uncharacterized protein slr1530	slr1530
+   5.9	F7URN7	Light repressed protein	lrtA
+   2.9	F7URW8	Putative uncharacterized protein slr0376	slr0376
+   3.7	F7USS5	Putative uncharacterized protein sll0381	sll0381
+  -5.9	F7UKW3	Putative uncharacterized protein sll0508	sll0508
+  -4.8	F7UL03	Putative uncharacterized protein slr1071	slr1071
+-9004.5	F7UMD6	Putative uncharacterized protein sll1550	sll1550
+  -0.7	F7UMW7	Putative uncharacterized protein slr1148	slr1148
+   3.5	F7UP31	Putative uncharacterized protein ssl3829	ssl3829
+-8992.1	F7UN68	L-threonine deaminase	ilvA
+ -28.7	F7UQ92	Apolipoprotein N-acyltransferase	int
+  -6.6	F7URF3	Putative uncharacterized protein sll0354	sll0354
+  12.8	F7US45	Putative uncharacterized protein slr0358	slr0358
+-8998.7	F7UMP1	Cobalamin synthesis protein P47K/CobW	slr0609
+   6.7	F7UN40	Putative uncharacterized protein ssr2009	ssr2009
+  -1.3	F7UTB3	Putative uncharacterized protein sll1063	sll1063
+   5.1	F7UTS7	ABC transporter	sll0484
+-8991.3	F7UP53	Putative uncharacterized protein slr1811	slr1811
+   1.3	F7USM6	Putative uncharacterized protein slr0635	slr0635
+  -2.3	F7UKN3	Putative uncharacterized protein sll0670	sll0670
+  -4.4	F7UKQ2	Putative uncharacterized protein sll0659	sll0659
+  20.8	F7ULT2	ABC-transporter DevB homolog	sll1481
+   4.2	F7ULL5	Phycobilisome core component	apcF
+  -3.8	F7UP10	Tryptophan--tRNA ligase	trpS
+  -5.4	F7UQC9	Glucose-6-phosphate isomerase	pgi
+ -17.8	F7UQD0	Fatty acid desaturase	desA
+  20.2	F7UPZ3	GTPase HflX	hflX
+   2.7	F7URQ7	Putative uncharacterized protein sll0296	sll0296
+   3.3	F7UTG0	Putative uncharacterized protein ssl1328	ssl1328
+   1.2	F7UU24	Putative uncharacterized protein sll0286	sll0286
+   0.0	F7UQB8	Putative uncharacterized protein slr1342	slr1342
+  14.1	F7UKE7	Putative uncharacterized protein sll0936	sll0936
+   4.0	F7UKG3	Exopolysaccharide export protein	epsB
+   0.9	F7UKW4	Putative uncharacterized protein slr0537	slr0537
+   2.9	F7UKX0	Arginine--tRNA ligase	argS
+   0.8	F7UMW0	Putative uncharacterized protein slr1142	slr1142
+  16.5	F7UN78	50S ribosomal protein L7/L12	rpl12
+ -25.7	F7UN96	NADH dehydrogenase subunit 4	ndhD3
+  -2.3	F7UNL8	Putative uncharacterized protein slr1444	slr1444
+  -8.6	F7UNA5	Putative uncharacterized protein sll1722	sll1722
+   4.4	F7UPT3	Putative uncharacterized protein slr2084	slr2084
+   4.2	F7UQ72	dTDP-glucose 4-6-dehydratase	rfbB
+  -7.3	F7UQG2	Sensory transduction histidine kinase Hik5	sll1888
+   5.6	F7UQT9	Ribose phosphate isomerase B	rpiB
+  16.0	F7UR20	OmpR subfamily protein Ycf27/Rre26	rpaB
+   6.0	F7URA3	DNA repair protein radA	sms
+   0.4	F7URD9	Putative uncharacterized protein sll0361	sll0361
+   5.8	F7URS3	IMP dehydrogenase	guaB
+   3.5	F7URS5	Putative uncharacterized protein sll0176	sll0176
+  -0.8	F7UT44	Putative uncharacterized protein sll0540	sll0540
+ -14.6	F7UTH8	Glycogen operon protein GlgX	glgX
+   2.6	F7UTL2	Putative uncharacterized protein sll0216	sll0216
+   4.3	F7UTP9	D,D-heptose 1,7-bisphosphate phosphatase	hisB
+   0.3	F7UU43	Putative uncharacterized protein slr0787	slr0787
+  13.7	F7UMN6	Elongation factor 4	lepA
+   0.3	F7UKC9	Putative uncharacterized protein slr1306	slr1306
+   6.7	F7ULJ6	Recombination protein RecR	recR
+   9.1	F7UMZ9	50S ribosomal protein L5	rplE
+ -22.9	F7UN30	Sensory transduction histidine kinase PlpA/Hik3	sll1124
+   3.3	F7UNP7	Putative uncharacterized protein ssl2501	ssl2501
+  -4.1	F7UPS4	Putative uncharacterized protein sll0237	sll0237
+   9.6	F7UQ77	Putative uncharacterized protein sll0816	sll0816
+   3.2	F7UQA2	Putative uncharacterized protein sll0803	sll0803
+   2.7	F7URS4	Putative uncharacterized protein sll0177	sll0177
+   2.8	F7ULY7	Putative uncharacterized protein sll1942	sll1942
+   9.7	F7US77	ABC1-like	sll0005
+   0.7	F7URX3	Putative uncharacterized protein slr0381	slr0381
+  -0.3	F7UM78	Putative uncharacterized protein ssr2317	ssr2317
+   3.6	F7UQ04	Transposase	sll1999
+  -2.3	F7UQZ6	Putative uncharacterized protein slr1690	slr1690
+   1.0	F7UTZ3	Probable dual-specificity RNA methyltransferase RlmN	sll0098
+   0.2	F7URG8	Putative uncharacterized protein sll0149	sll0149
+   0.5	F7ULJ2	UDP-N-acetylenolpyruvoylglucosamine reductase	murB
+   0.9	F7UNQ6	Holliday junction ATP-dependent DNA helicase RuvA	ruvA
+ -10.3	F7UPH3	Aquaporin Z	apqZ
+  -4.5	F7USR1	Iron(III) dicitrate transport system permeaseprotein	fecB
+   5.6	F7ULP1	Putative uncharacterized protein sll0623	sll0623
+  -7.1	F7UMG7	Putative uncharacterized protein sll0444	sll0444
+   3.4	F7UNV9	Putative uncharacterized protein slr1852	slr1852
+   0.6	F7UPY4	Putative uncharacterized protein ssr2549	ssr2549
+ -11.8	F7UPT2	Cytochrome c oxidase subunit III	ctaE
+   2.2	F7UPV3	Hybrid sensory kinase Hik40	slr2099
+   3.4	F7USF8	Putative uncharacterized protein slr0058	slr0058
+  10.4	F7URI0	Pilin biogenesis protein	pilC
+   2.9	F7UTJ4	Putative uncharacterized protein sll0224	sll0224
+   2.6	F7ULQ7	ATP phosphoribosyltransferase regulatory subunit	hisS
+  -3.6	F7UMJ5	Putative uncharacterized protein slr1182	slr1182
+   4.2	F7UMT0	Malonyl CoA-acyl carrier protein transacylase	fabD
+  -6.7	F7UMX2	Transketolase	tktA
+   8.4	F7UNE1	Putative uncharacterized protein sll1461	sll1461
+  -1.5	F7UNZ6	Putative uncharacterized protein sll1764	sll1764
+   1.4	F7UPD4	Putative uncharacterized protein sll1163	sll1163
+   1.6	F7UPP9	NAD(P)H-quinone oxidoreductase subunit H	ndhH
+  -0.2	F7UQP8	Transposase	slr1283
+ -13.6	F7UQ12	Putative uncharacterized protein slr2115	slr2115
+ -16.1	F7UT40	Delta-9 desaturase	desC
+ -19.4	F7URG7	Serine/threonine protein kinase	slr0152
+ -13.8	F7UTV1	Putative uncharacterized protein slr0521	slr0521
+  -3.9	F7UKA1	Biotin [acetyl-CoA-carboxylase] ligase	birA
+   4.5	F7UKJ8	Transposase	slr0799
+  -1.9	F7UKQ6	Putative uncharacterized protein slr0765	slr0765
+  -0.5	F7UL14	Putative uncharacterized protein ssr1768	ssr1768
+ -13.1	F7UTW3	ABC transporter	slr0615
+  -2.7	F7UL36	Alkaline phosphatase	sll0654
+   1.2	F7UQF1	Riboflavin biosynthesis protein RibBA	ribA
+ -22.6	F7UQN0	Rod-shape-determining protein	mrdB
+   1.7	F7UR90	Putative uncharacterized protein slr0443	slr0443
+   5.5	F7URG1	Putative uncharacterized protein slr0146	slr0146
+  -4.7	F7URR4	Putative uncharacterized protein sll0295	sll0295
+  -7.8	F7USJ2	Putative uncharacterized protein slr0488	slr0488
+   5.5	F7USC4	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	accB
+  -2.9	F7USN4	Putative uncharacterized protein sll0608	sll0608
+  -6.1	F7USS3	Cobalamin biosynthesis protein M	cbiM
+   2.3	F7UM20	Anti-sigma factor antagonist	slr1912
+   2.4	F7ULY0	Photosystem II reaction center protein L	psbL
+   7.4	F7UMH2	Dihydroxy-acid dehydratase	ilvD
+  -0.2	F7UPF4	Putative uncharacterized protein ssr2087	ssr2087
+  -4.2	F7UU16	Putative uncharacterized protein slr0299	slr0299
+   3.9	F7UU38	Putative uncharacterized protein slr0318	slr0318
+   0.1	F7ULF1	Ferripyochelin binding protein	fbp
+  -2.0	F7ULR5	Putative uncharacterized protein slr1568	slr1568
+   4.8	F7UQ73	Putative uncharacterized protein slr0810	slr0810
+  -2.3	F7UNA1	Putative uncharacterized protein sll1726	sll1726
+  -1.7	F7UPE4	Transposase	sll1156
+   1.8	F7UPX3	Putative uncharacterized protein slr1506	slr1506
+   5.6	F7UQZ4	Photosystem I reaction center subunit IV	psaE
+   0.0	F7UQZ9	PatA subfamily protein PixE/Rre24	slr1693
+  -7.7	F7URD5	Putative uncharacterized protein sll0364	sll0364
+  20.5	F7URH8	Putative uncharacterized protein sll0141	sll0141
+ -14.7	F7US43	OppB in a binding protein-dependent transportsystem	sll0312
+   5.7	F7USC7	Putative uncharacterized protein sll0405	sll0405
+   9.7	F7UK82	Transaldolase	talB
+  -6.2	F7UL83	Putative uncharacterized protein slr1599	slr1599
+  -7.8	F7ULA9	Putative uncharacterized protein slr1045	slr1045
+  -0.2	F7UMF9	Putative uncharacterized protein sll0451	sll0451
+-9005.3	F7UNM6	Putative uncharacterized protein sll1350	sll1350
+   9.6	F7UNR9	Regulation of penicillin binding protein 5 production	psr
+  -1.4	F7UQF6	Putative uncharacterized protein sll1891	sll1891
+-9005.6	F7UP23	UDP-N-acetylmuramoylalanine--D-glutamate ligase	murD
+   7.0	F7UPX1	Global nitrogen regulator	ntcA
+  -2.6	F7URS8	Putative uncharacterized protein sll0174	sll0174
+  16.3	F7UP27	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	ispG
+  -1.3	F7USU8	Putative uncharacterized protein sll0188	sll0188
+  -0.1	F7URZ2	UDP-3-O-acylglucosamine N-acyltransferase	lpxD
+ -17.2	F7USZ8	Putative uncharacterized protein slr0907	slr0907
+-9012.9	F7UTA3	Glycogen synthase	glgA
+  -0.8	F7UKE9	Putative uncharacterized protein slr0971	slr0971
+   3.9	F7UKI6	Putative uncharacterized protein slr0793	slr0793
+   1.3	F7ULY4	Transposase	slr2036
+   5.6	F7UMV3	3-amino-5-hydroxybenzoic acid synthase	slr1140
+   5.0	F7UPL3	Putative uncharacterized protein sll1609	sll1609
+ -14.3	F7UPX6	Na+-ATPase subunit J	ntpJ
+-8995.3	F7UQD1	Putative uncharacterized protein sll1247	sll1247
+   4.6	F7UQ74	Ribosomal RNA small subunit methyltransferase I	sll0818
+  -8.5	F7URJ5	Putative uncharacterized protein slr1927	slr1927
+  -8.0	F7UPY2	Probable inorganic polyphosphate/ATP-NAD kinase	ppnK
+  -0.7	F7USY3	Putative uncharacterized protein sll0886	sll0886
+  -0.2	F7UU15	Heterocyst-to-vegetative cell connection protein homolog	fraH
+   0.2	F7UU04	Phycocyanobilin:ferredoxin oxidoreductase	slr0116
+-8996.9	F7UKC8	Regulatory component of sensory transduction system Rre41	slr1305
+   0.1	F7UKL5	Ssr1169 protein	ssr1169
+   2.5	F7UTL9	ATP synthase subunit c	atpH
+   4.1	F7UKY9	Putative uncharacterized protein slr0929	slr0929
+  -6.7	F7UL08	Putative uncharacterized protein slr1076	slr1076
+   2.3	F7UL15	Putative uncharacterized protein slr1081	slr1081
+ -12.0	F7UM88	PatA subfamily protein Rre12/TaxP2	sll1291
+   6.2	F7UMN9	Putative uncharacterized protein slr0607	slr0607
+   1.0	F7UMX8	Aklaviketone reductase	sll1825
+   8.9	F7UNS6	3-oxoacyl-[acyl-carrier protein] reductase	fabG
+   4.5	F7UMZ8	30S ribosomal protein S8	rpsH
+   6.3	F7UPL9	DrgA protein homolog	drgA
+   2.0	F7UQ62	Putative uncharacterized protein sll1219	sll1219
+  -2.4	F7URR7	Putative uncharacterized protein sll0294	sll0294
+  -0.4	F7URM8	Putative uncharacterized protein slr1946	slr1946
+   3.8	F7US55	Fructose-1,6-bisphosphate aldolase, class II	fbaA
+  -7.1	F7US83	Undecaprenyl-diphosphatase	sll0210
+   6.8	F7US90	Glycine--tRNA ligase beta subunit	glyS
+   0.3	F7UTP0	Ribosomal RNA small subunit methyltransferase G	gidB
+ -16.4	F7UTY2	Ammonium/methylammonium permease	amt1
+  -5.5	F7UNX0	Putative uncharacterized protein slr1865	slr1865
+  11.3	F7UKM6	Transposase	ssr1175
+   1.1	F7UTZ2	Precorrin-6y C5,15-methyltransferase (Decarboxylating)	cbiE
+ -28.6	F7UL35	Extracellular nuclease	nucH
+  -6.2	F7UPT6	Cytochrome c biogenesis protein CcsB	ycf44
+   5.5	F7UPY8	3-isopropylmalate dehydrogenase	leuB
+   1.3	F7UPR4	Phycobilisome degradation protein NblA	nblA2
+   7.9	F7UQA0	Photosystem I assembly protein ycf3	ycf3
+   7.7	F7UQG0	Putative uncharacterized protein slr1970	slr1970
+  -1.3	F7UQV4	Putative uncharacterized protein slr1170	slr1170
+  28.4	F7UQR7	Signal recognition particle protein	ffh
+   9.4	F7USL5	SphX protein	sphX
+  -3.4	F7USN1	Putative uncharacterized protein slr0639	slr0639
+  -0.6	F7USU7	UPF0102 protein SYNGTS_2445	sll0189
+  -0.4	F7UST0	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	lpxA
+  -2.4	F7ULG0	Ammonium transport protein	cysQ
+   0.8	F7UMF5	Putative uncharacterized protein slr1667	slr1667
+   5.2	F7USV0	Putative uncharacterized protein slr0192	slr0192
+   1.3	F7UPC6	Putative uncharacterized protein slr0868	slr0868
+-9001.3	F7UT64	6-aminohexanoate-cyclic-dimer hydrolase	nylA
+ -14.1	F7UTJ3	Putative uncharacterized protein sll0225	sll0225
+  -3.9	F7UU45	Putative uncharacterized protein slr0789	slr0789
+  -4.3	F7UQJ8	Putative uncharacterized protein sll1387	sll1387
+ -23.8	F7UMG5	Putative uncharacterized protein sll0446	sll0446
+   4.6	F7UQ83	Putative uncharacterized protein sll0812	sll0812
+   3.8	F7UKI5	OmpR subfamily protein NrsR/RppA/Rre33	sll0797
+  -8.5	F7USP7	Putative uncharacterized protein sll0397	sll0397
+   1.8	F7URK5	dTDP-4-dehydrorhamnose 3,5-epimerase	rfbC
+   6.4	F7UT55	Putative uncharacterized protein ssr1407	ssr1407
+   9.4	F7UN10	50S ribosomal protein L4	rpl4
+  13.2	F7UN80	50S ribosomal protein L1	rplA
+   5.7	F7UNZ3	Phycocyanin alpha phycocyanobilin lyase CpcE	cpcE
+   3.3	F7UP63	Putative uncharacterized protein slr1818	slr1818
+ -24.2	F7UPA9	Photosystem II CP43 protein	psbC
+   9.4	F7UPI8	Phosphoglycerate dehydrogenase	serA
+   2.0	F7ULB9	Iron-regulated protein	frpC
+   3.0	F7UKH6	Putative uncharacterized protein slr1612	slr1612
+   7.2	F7UNZ0	Putative uncharacterized protein slr1876	slr1876
+  -0.1	F7UQE7	Putative uncharacterized protein slr1962	slr1962
+-9000.5	F7UKJ5	Sensory transduction histidine kinase Hik31	sll0790
+   3.0	F7UL58	Putative uncharacterized protein ssr1155	ssr1155
+-8993.6	F7UNZ8	Putative uncharacterized protein sll1762	sll1762
+   1.6	F7URT4	Putative uncharacterized protein sll0168	sll0168
+   7.9	F7UKA5	Isocitrate dehydrogenase [NADP]	icd
+   2.0	F7UKZ4	Putative uncharacterized protein slr1062	slr1062
+   3.9	F7ULZ1	Putative uncharacterized protein sll1940	sll1940
+  -6.9	F7ULM6	L-aspartate oxidase	nadB
+   1.6	F7UMD7	Putative uncharacterized protein sll1549	sll1549
+  10.9	F7UN20	Putative uncharacterized protein slr1900	slr1900
+   2.2	F7UN46	Putative uncharacterized protein slr1203	slr1203
+   0.5	F7UMX9	50S ribosomal protein L25	rpl25
+   6.7	F7UNR6	Putative uncharacterized protein slr0881	slr0881
+  -1.8	F7UPC4	Putative uncharacterized protein sll0837	sll0837
+-8999.8	F7UPG5	Putative uncharacterized protein slr1261	slr1261
+  -0.5	F7UPI2	Putative uncharacterized protein sll1950	sll1950
+  12.5	F7UPW6	Protease	hhoB
+  -0.2	F7UQ36	Hybrid sensory kinase Hik23	slr1324
+  -2.2	F7US89	Glucose-1-phosphate thymidylyltransferase	rfbA
+   0.0	F7USR6	Putative uncharacterized protein sll0394	sll0394
+-17997.9	F7USV9	Heterodisulfide reductase subunit B	hdrB
+   2.4	F7UTF9	Putative uncharacterized protein sll0702	sll0702
+-8994.8	F7UTC4	Phosphoribosylformylglycinamidine synthase 2	purL
+  -8.6	F7UTN3	Putative uncharacterized protein sll1039	sll1039
+ -13.3	F7URA8	Putative uncharacterized protein slr0280	slr0280
+   1.0	F7UR75	Ribonuclease 3	rnc
+   7.2	F7ULD8	Peptidyl-prolyl cis-trans isomerase	ytfC
+   6.8	F7UTB9	Putative uncharacterized protein ssr1853	ssr1853
+  -9.6	F7UTS0	Putative uncharacterized protein slr0498	slr0498
+   1.0	F7UMQ8	ABC transporter	sll1927
+  -0.3	F7UKH3	dTDP-6-deoxy-L-mannose-dehydrogenase	rfbC
+   2.5	F7UKI3	UmuC protein	umuC
+ -11.2	F7UKU1	Putative uncharacterized protein cmpB	cmpB
+   3.1	F7ULR1	Putative uncharacterized protein slr1565	slr1565
+   8.2	F7ULW5	Histidinol dehydrogenase	hisD
+  -7.0	F7UNV6	Putative uncharacterized protein sll1785	sll1785
+ -23.1	F7ULC0	Mg-chelatase subunit	chlH
+-8998.3	F7UPE2	Transposase	slr1246
+   3.9	F7UQC5	Putative uncharacterized protein sll1250	sll1250
+  -1.3	F7UR16	Putative uncharacterized protein sll0914	sll0914
+   2.7	F7US44	Histidine--tRNA ligase	hisS
+   5.8	F7UN32	Putative uncharacterized protein sll1121	sll1121
+ -35.7	F7UT02	Putative uncharacterized protein slr0914	slr0914
+   1.6	F7UTI6	Putative uncharacterized protein sll0230	sll0230
+   9.8	F7UTY7	Putative uncharacterized protein sll0102	sll0102
+   5.4	F7UML5	ATP-binding protein	rfbB
+  17.3	F7URA7	N utilization substance protein B homolog	nusB
+  -1.7	F7UKX6	ABC transporter	slr0544
+   3.7	F7ULI8	Putative uncharacterized protein sll1344	sll1344
+  14.6	F7ULI9	Aminopeptidase	ape2
+   8.4	F7UM47	Putative uncharacterized protein slr1024	slr1024
+   7.6	F7UMY8	30S ribosomal protein S11	rpsK
+  -2.2	F7UNH8	Putative uncharacterized protein sll1135	sll1135
+   0.1	F7UP64	Putative uncharacterized protein sll1692	sll1692
+   1.8	F7UPD8	Putative uncharacterized protein sll1159	sll1159
+   5.4	F7UPG8	Putative uncharacterized protein sll1961	sll1961
+   7.8	F7UPW2	Putative uncharacterized protein sll1429	sll1429
+-8998.0	F7UPY7	Superoxide dismutase	sodB
+ -21.2	F7URF2	Putative uncharacterized protein sll0355	sll0355
+   2.7	F7UQ27	Delta-aminolevulinic acid dehydratase	hemB
+   1.8	F7US99	Plastocyanin	petE
+  -1.8	F7USN3	Putative uncharacterized protein sll0609	sll0609
+   3.3	F7UTT0	Putative uncharacterized protein slr0505	slr0505
+-8999.4	F7UTX3	Putative uncharacterized protein sll0586	sll0586
+   2.2	F7ULC9	Putative uncharacterized protein ycf22	ycf22
+  -2.6	F7URW4	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	accD
+   3.3	F7UMK7	Putative uncharacterized protein slr0586	slr0586
+   3.2	F7ULP2	Quinolinate synthase A	nadA
+  -0.5	F7UNX7	Putative uncharacterized protein slr1870	slr1870
+   0.3	F7UPA3	RNA polymerase sigma-E factor	rpoE
+   6.3	F7UK62	Putative uncharacterized protein slr1780	slr1780
+  -4.6	F7UMD0	Putative uncharacterized protein sll0721	sll0721
+  -5.9	F7UKL0	PleD gene product homolog	sll0779
+  -6.7	F7UNB9	Histidinol-phosphate aminotransferase	hisC
+ -13.2	F7UNH1	Protein kinase PknA	pknA
+   5.4	F7UNI2	Putative uncharacterized protein ssr2049	ssr2049
+   6.9	F7UQK4	Putative uncharacterized protein slr1470	slr1470
+-8997.9	F7UQB5	Putative uncharacterized protein slr1340	slr1340
+  -1.4	F7UQM2	GDP-mannose pyrophosphorylase	rfbM
+   1.7	F7UR53	Galactosyl-1-phosphate transferase	rfbP
+-9003.0	F7UR77	Putative uncharacterized protein slr1648	slr1648
+   8.1	F7URD6	Phosphoglycerate kinase	pgk
+   5.2	F7URE3	Putative uncharacterized protein slr0398	slr0398
+  15.9	F7URP3	RNA polymerase sigma factor	rpoD
+   0.1	F7UPA1	Putative uncharacterized protein sll0858	sll0858
+   4.9	F7UMQ6	Penicillin-binding protein 1B	mrcB
+   1.5	F7UQF7	CobN protein	cobN
+  21.9	F7UQM5	Hemolysin secretion protein	hlyD
+  -1.7	F7UQW7	Putative uncharacterized protein slr1674	slr1674
+ -13.2	F7UKP5	Putative uncharacterized protein slr0712	slr0712
+   5.3	F7UKR6	Putative uncharacterized protein sll0048	sll0048
+ -10.1	F7UQA5	Putative uncharacterized protein sll1263	sll1263
+   7.5	F7ULF6	Putative ribosome biogenesis GTPase RsgA	sll0898
+   7.4	F7UMZ4	50S ribosomal protein L15	rpl15
+   4.8	F7UN06	50S ribosomal protein L22	rpl22
+   0.7	F7UP59	Putative uncharacterized protein sll1696	sll1696
+   0.8	F7UKD9	Ferredoxin--sulfite reductase	sir
+   1.4	F7UP92	Putative uncharacterized protein slr1742	slr1742
+   8.9	F7UPM0	Aspartate--tRNA ligase	aspS
+   4.0	F7UPR3	Putative uncharacterized protein slr0270	slr0270
+  -4.8	F7UQS5	Putative uncharacterized protein slr1534	slr1534
+   1.2	F7ULV9	Thymidylate synthase ThyX	dgt
+   2.8	F7URC7	Cytochrome c-550	psbV
+   4.9	F7URE7	Non-canonical purine NTP pyrophosphatase	slr0402
+  -9.0	F7UTL0	Potential FMN-protein	sll0217
+  -1.4	F7UTR6	Putative uncharacterized protein slr0092	slr0092
+  14.3	F7UTR0	Threonine--tRNA ligase	thrS
+  12.2	F7UU12	Cell division topological specificity factor	minE
+   0.2	F7UN98	Putative uncharacterized protein sll1730	sll1730
+  -0.5	F7UTW9	Putative uncharacterized protein slr0619	slr0619
+  -4.6	F7UTQ8	N-acetyl-gamma-glutamyl-phosphate reductase	argC
+   2.7	F7UK67	Biliverdin reductase	bvdR
+   9.1	F7UKY3	Putative uncharacterized protein sll0493	sll0493
+   1.7	F7ULF2	Putative uncharacterized protein slr1770	slr1770
+  -7.1	F7UMC8	Putative uncharacterized protein sll0723	sll0723
+  22.1	F7ULF8	Chaperone protein DnaJ	dnaJ
+ -15.1	F7UPT8	Squalene-hopene-cyclase	shc
+  -6.9	F7UQ22	Putative uncharacterized protein slr2125	slr2125
+   8.3	F7UT07	Putative uncharacterized protein slr0920	slr0920
+   6.9	F7UKU8	RNA binding protein	rbpA
+  -5.1	F7UK72	Thiamine-monophosphate kinase	slr1787
+   2.3	F7ULB1	Putative uncharacterized protein pleD	pleD
+   6.8	F7UL37	Adenylyl-sulfate kinase	cysC
+   5.8	F7ULD1	Putative uncharacterized protein ssl1918	ssl1918
+  -5.2	F7UME7	Putative uncharacterized protein slr1661	slr1661
+ -19.1	F7ULI3	NAD(P)H-quinone oxidoreductase subunit 1	ndhA
+  -1.4	F7UM45	Acetylornithine aminotransferase	argD
+   0.5	F7UMV8	Probable hydrogenase nickel incorporation protein HypA	sll1078
+   2.4	F7UMV9	Agmatine ureohydrolase	speB
+ -11.1	F7UMX1	Putative uncharacterized protein sll1071	sll1071
+  -1.1	F7UP44	Cell-cell signaling protein, C-factor	csgA
+   6.4	F7UPS5	50S ribosomal protein L12 homolog	ssl0438
+  -3.6	F7UQ78	Putative uncharacterized protein sll0815	sll0815
+   2.1	F7UQH0	Putative uncharacterized protein sll1882	sll1882
+   4.1	F7USE9	Putative uncharacterized protein ssr0109	ssr0109
+ -34.4	F7URU6	1,4-alpha-glucan branching enzyme GlgB	glgB
+   0.5	F7URY6	Light-independent protochlorophyllide reductase subunit B	chlB
+  -2.5	F7USI0	Cyanobacterial phytochrome Cph1/Hik35	cph1
+  -1.0	F7UTY5	Putative uncharacterized protein slr0104	slr0104
+  -5.0	F7UMH0	Putative uncharacterized protein sll0442	sll0442
+   2.1	F7UKT7	Putative uncharacterized protein slr0038	slr0038
+   0.3	F7UL99	Putative uncharacterized protein ssr2708	ssr2708
+   7.7	F7ULE3	cAMP binding protein	capA
+-8986.3	F7ULW6	Mercuric reductase	merA
+   6.7	F7UM62	CheY subfamily protein Rre10	slr1037
+  50.7	F7UTH6	Translation initiation factor IF-2	infB
+   5.1	F7UMC6	Circadian clock protein KaiB	kaiB1
+   7.7	F7UME5	Putative Holliday junction resolvase	sll1547
+   5.5	F7UL28	GTPase obg	obgE
+   3.4	F7UNM9	6,7-dimethyl-8-ribityllumazine synthase	ribH
+ -38.1	F7UPT1	Cytochrome c oxidase subunit I	ctaD
+   1.9	F7UQB6	Transposase	sll1255
+   7.7	F7UQY4	Transposase	slr1683
+   2.5	F7UQY3	Transposase	sll1560
+  -3.3	F7US18	Putative uncharacterized protein slr0341	slr0341
+   2.9	F7USE0	Putative uncharacterized protein sll0072	sll0072
+   8.6	F7URJ2	Peptide chain release factor	prfB
+-8991.5	F7UK31	Putative uncharacterized protein slr1102	slr1102
+   6.7	F7UNC6	Putative uncharacterized protein slr1540	slr1540
+ -11.7	F7UP85	Putative uncharacterized protein slr1737	slr1737
+   8.0	F7UPP7	Putative uncharacterized protein ssl0467	ssl0467
+   4.5	F7USA1	Putative uncharacterized protein sll0198	sll0198
+   9.2	F7US80	Penicillin-binding protein 1A	ponA
+  -2.9	F7UKC1	Putative fluoride ion transporter CrcB	sll1192
+  -1.4	F7ULZ6	Zinc transport system substrate-binding protein	zntC
+  -0.5	F7UM02	Putative uncharacterized protein slr2048	slr2048
+   1.7	F7UM59	Transposase	sll0986
+  -7.8	F7ULL1	Sulfate transport system permease protein	cysW
+   3.2	F7UN85	Putative uncharacterized protein slr1826	slr1826
+-18015.6	F7UMJ4	Photosystem Q(B) protein	psbA
+ -50.6	F7UN99	Photosystem I P700 chlorophyll a apoprotein A1	psaA
+   0.8	F7URV1	Hypothetical 35.6 kD protein	sll0154
+   2.0	F7US15	Putative uncharacterized protein sll0749	sll0749
+   2.5	F7USF4	Putative uncharacterized protein sll0064	sll0064
+  -9.6	F7USS9	Mannosyl transferase	rfbW
+   4.8	F7USG8	Riboflavin biosynthesis protein RibD	ribG
+  -2.8	F7USH9	Gamma-glutamyl phosphate reductase	proA
+   7.6	F7USZ4	Putative uncharacterized protein ssr1528	ssr1528
+-9002.0	F7UTU3	Putative uncharacterized protein slr0514	slr0514
+   1.7	F7UM63	Putative uncharacterized protein sll0983	sll0983
+   0.2	F7UTK4	Cytochrome b6-f complex subunit 8	petN
+  -1.3	F7UPF8	Phytoene synthase	pys
+ -40.0	F7UNU6	Integrin alpha-and beta4-subunit domain homolog	slr1403
+   8.2	F7UTF0	Putative uncharacterized protein slr0725	slr0725
+  -3.8	F7UQV9	Putative uncharacterized protein slr1173	slr1173
+  -2.3	F7UKL2	Putative uncharacterized protein sll0777	sll0777
+  -0.4	F7ULX0	Putative uncharacterized protein ssl3342	ssl3342
+   0.6	F7UM61	Putative uncharacterized protein sll0984	sll0984
+   1.4	F7UME8	Glutathione S-transferase	gst1
+   4.2	F7UNC4	Putative uncharacterized protein slr1537	slr1537
+  -1.8	F7UN55	Cobalt-chelatase subunit CobN	cobN
+  -3.9	F7UP22	7-carboxy-7-deazaguanine synthase	sll2011
+   2.8	F7US41	Putative uncharacterized protein slr0355	slr0355
+  -8.0	F7UQA9	H+/Ca2+ exchanger	slr1336
+  -7.2	F7USJ5	O-succinylbenzoic acid--CoA ligase	menE
+  -7.8	F7UKN6	Putative uncharacterized protein slr0708	slr0708
+   1.6	F7ULE6	Putative uncharacterized protein slr1767	slr1767
+  -8.3	F7ULS7	Putative uncharacterized protein sll1486	sll1486
+   4.0	F7ULZ7	ABC transporter	slr2044
+   4.1	F7UMN2	Putative uncharacterized protein slr0601	slr0601
+ -11.8	F7UPR2	Putative uncharacterized protein slr0269	slr0269
+  -0.4	F7UPT0	Prephenate dehydrogenase	tyrA
+  -0.0	F7UQJ4	Putative uncharacterized protein ssl2717	ssl2717
+  -9.7	F7ULZ8	Putative uncharacterized protein slr2045	slr2045
+  -0.2	F7URP8	Putative uncharacterized protein slr0325	slr0325
+   2.2	F7UQP6	NAD(P)H-quinone oxidoreductase subunit J	ndhJ
+   1.8	F7US70	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	murZ
+   5.2	F7USK1	Phenylalanine--tRNA ligase alpha subunit	pheS
+   6.5	F7UTJ1	Peptidyl-prolyl cis-trans isomerase	ppiB
+   2.2	F7UTU6	Putative uncharacterized protein sll0473	sll0473
+  13.4	F7UTY1	Transposase	slr0099
+   0.2	F7UU33	Putative uncharacterized protein slr0313	slr0313
+   6.3	F7UKD0	Putative uncharacterized protein sll1188	sll1188
+   3.2	F7ULR9	Putative uncharacterized protein slr1571	slr1571
+   4.7	F7UMK8	Putative uncharacterized protein slr0587	slr0587
+ -11.1	F7UQL6	Putative uncharacterized protein slr1478	slr1478
+  -7.6	F7UT31	Putative uncharacterized protein sll0543	sll0543
+   2.1	F7UTM8	Putative uncharacterized protein sll1318	sll1318
+-8990.4	F7UKK8	Putative uncharacterized protein sll0781	sll0781
+  -0.7	F7UL12	UDP-glucose-4-epimerase	galE
+  16.7	F7ULN3	Aspartokinase	lysC
+   6.7	F7UM69	Signal peptidase I	lepB
+   4.9	F7ULF4	Bifunctional protein GlmU	glmU
+   1.1	F7UM95	High light-inducible protein	hliA
+   4.5	F7UMN3	Putative uncharacterized protein slr0602	slr0602
+   4.0	F7UMZ0	50S ribosomal protein L36	rpl36
+   0.7	F7UN16	Cytochrome c6	petJ
+ -23.7	F7UND5	Putative uncharacterized protein slr1547	slr1547
+   1.7	F7UNK8	Putative uncharacterized protein ssr2406	ssr2406
+   3.6	F7UNW7	Putative uncharacterized protein slr1861	slr1861
+   9.5	F7UQK6	Putative uncharacterized protein slr1472	slr1472
+-17985.4	F7UNP0	Biotin synthase	bioB
+  -1.8	F7UQN3	UDP-N-acetyl-D-mannosaminuronic acid transferase	rffM
+   4.9	F7UQW0	Putative uncharacterized protein ssr1951	ssr1951
+   7.2	F7URB0	Putative uncharacterized protein sll0269	sll0269
+   3.5	F7UP61	General secretion pathway protein G	hofG
+ -17.2	F7URX0	7-beta-(4-carboxybutanamido)cephalosporanic acid acylase	slr0378
+  11.2	F7US09	Ribosome-binding factor A	sll0754
+ -31.2	F7UT01	Putative uncharacterized protein slr0913	slr0913
+   6.8	F7USC2	Putative uncharacterized protein sll0408	sll0408
+ -10.1	F7UPB8	Putative uncharacterized protein sll0843	sll0843
+-8995.6	F7UKI1	Putative uncharacterized protein slr1617	slr1617
+   0.2	F7UKQ0	Cytochrome b6-f complex subunit 7	petM
+ -23.8	F7UL06	Putative uncharacterized protein slr1074	slr1074
+   2.0	F7UL39	Putative uncharacterized protein slr0678	slr0678
+   3.1	F7UM81	Putative uncharacterized protein ssr2318	ssr2318
+-8991.8	F7UPI0	Transposase	slr2062
+   9.6	F7UN77	Chorismate synthase	aroC
+  -8.9	F7UPM1	Putative uncharacterized protein slr1721	slr1721
+   0.3	F7UPQ5	Putative uncharacterized protein ssl0461	ssl0461
+   7.1	F7UPT4	33 kDa chaperonin	hsp33
+  17.4	F7UQM7	DNA-directed RNA polymerase	rpoC1
+-8998.9	F7URX6	Putative uncharacterized protein slr0384	slr0384
+-8998.0	F7US33	Putative uncharacterized protein slr0351	slr0351
+   4.6	F7UTG7	Photosystem I subunit II	psaD
+  -3.8	F7UPF3	Putative uncharacterized protein sll1151	sll1151
+   0.5	F7UKF8	tRNA-dihydrouridine synthase	dusA
+  -2.3	F7UTV0	Phosphoribosylformylglycinamidine synthase 1	purL
+   0.8	F7UQH9	Oxygen-independent coprophorphyrinogen III oxidase	hemN
+   6.5	F7URG3	Probable ferredoxin	slr0148
+   6.0	F7UT59	Putative uncharacterized protein ssl1552	ssl1552
+   8.4	F7UKD6	50S ribosomal protein L28	rpmB
+   3.1	F7UKM8	Transposase	smr0002
+  -3.3	F7ULX7	Ycf48-like protein	ycf48
+  -6.5	F7UKJ0	Cobalt-dependent transcriptional regulator	corR
+   3.9	F7UM14	Putative uncharacterized protein slr1907	slr1907
+  -1.5	F7UNJ6	Putative uncharacterized protein ssr2062	ssr2062
+   0.3	F7UNX8	Putative uncharacterized protein sll1773	sll1773
+ -18.8	F7UPL4	Putative uncharacterized protein sll1608	sll1608
+   1.5	F7UPR5	Phycobilisome degradation protein NblA	nblA1
+-9004.4	F7UPS7	Glutaminase	slr2079
+  -7.4	F7UQ90	Isochorismate synthase	entC
+-9002.5	F7UR40	Putative carotenoid oxygenase	sll1541
+  -1.8	F7UQM3	Putative uncharacterized protein sll1369	sll1369
+   1.0	F7UR93	Putative uncharacterized protein sll0424	sll0424
+  -4.5	F7URU9	Putative uncharacterized protein slr0184	slr0184
+  -0.5	F7US87	Putative uncharacterized protein sll0209	sll0209
+   3.5	F7UPW1	Adenine phosphoribosyltransferase	apt
+  13.1	F7USU4	Bifunctional protein PyrR	pyrR
+ -16.0	F7USM8	Cobalamin synthase	slr0636
+  -4.5	F7USW0	Putative uncharacterized protein ssl0353	ssl0353
+  20.1	F7USV8	RNA polymerase sigma factor	rpoD
+-8992.9	F7UK30	Universal stress protein	slr1101
+  -7.9	F7UL09	Putative uncharacterized protein slr1077	slr1077
+   4.3	F7ULB3	Putative uncharacterized protein sll1011	sll1011
+   7.8	F7UM01	Phosphate starvation-inducible protein	phoH
+-17990.1	F7UTM9	ABC transporter	sll1041
+  -0.7	F7UML2	Putative uncharacterized protein slr0589	slr0589
+  -3.9	F7UMR0	Putative uncharacterized protein slr2005	slr2005
+  -9.2	F7USP4	Methionine--tRNA ligase	metS
+  -7.3	F7UNF3	Nitrate transport protein subunit NrtB	nrtB
+   3.5	F7UNK0	Putative uncharacterized protein slr1241	slr1241
+   2.7	F7UNW3	Anti-sigma factor antagonist	slr1856
+   0.2	F7UQA6	NAD(P)H-quinone oxidoreductase subunit N	sll1262
+   3.2	F7UP06	Bifunctional riboflavin kinase/FMN adenylyltransferase	ribF
+  14.1	F7UQA8	30S ribosomal protein S2	rps2
+  -2.5	F7UQK0	Precorrin isomerase	slr1467
+  -3.7	F7URI7	Transposase	ssr0256
+   0.6	F7US72	Putative uncharacterized protein sll0010	sll0010
+  -2.7	F7UTG6	Sensory histidine kinase NblS/DspA/Dfr/Hik33	ycf26
+ -16.8	F7USR7	Na(+)/H(+) antiporter	napA
+   4.0	F7UMI0	Putative uncharacterized protein slr0458	slr0458
+  -5.1	F7UKS5	Putative uncharacterized protein sll0040	sll0040
+   4.4	F7UL34	Putative uncharacterized protein slr0670	slr0670
+   8.1	F7ULA0	Putative uncharacterized protein ssr2711	ssr2711
+   4.8	F7UM65	Putative uncharacterized protein sll0981	sll0981
+   4.1	F7URL1	Nucleoside diphosphate kinase	ndkR
+   3.7	F7USR0	Iron(III) dicitrate transport system permeaseprotein	fecE
+   8.1	F7UL74	Putative uncharacterized protein sll1515	sll1515
+  -0.3	F7UL89	Putative uncharacterized protein slr1603	slr1603
+   6.2	F7UQY9	Putative uncharacterized protein slr1687	slr1687
+  -7.5	F7UPL6	Putative uncharacterized protein sll1606	sll1606
+   6.6	F7US75	Putative uncharacterized protein sll0007	sll0007
+  -2.5	F7UTB8	Putative uncharacterized protein ssl2069	ssl2069
+   4.4	F7USZ2	Putative uncharacterized protein ssr1527	ssr1527
+  -4.7	F7UL48	Putative uncharacterized protein sll0647	sll0647
+   1.6	F7UNT0	Putative uncharacterized protein ssr1499	ssr1499
+   6.4	F7UP54	Putative uncharacterized protein slr1812	slr1812
+ -27.7	F7URV4	Putative uncharacterized protein slr0360	slr0360
+  -9.9	F7UMS7	ABC transporter	slr2019
+   2.5	F7UK52	Putative uncharacterized protein ssr2972	ssr2972
+ -15.3	F7ULT4	Putative uncharacterized protein sll1477	sll1477
+-17987.4	F7UNI1	Succinate dehydrogenase flavoprotein subunit	frdA
+  -5.3	F7UQQ6	Putative uncharacterized protein sll1166	sll1166
+ -11.9	F7US03	Putative uncharacterized protein slr0779	slr0779
+-9002.7	F7UKV7	Putative uncharacterized protein sll0513	sll0513
+   7.2	F7UM32	Putative uncharacterized protein sll1830	sll1830
+  -0.5	F7UMB1	Putative uncharacterized protein ssr2843	ssr2843
+  -3.9	F7ULS3	Putative uncharacterized protein slr1575	slr1575
+   2.5	F7UMN4	Putative uncharacterized protein sll0563	sll0563
+  -2.0	F7UMQ9	Putative uncharacterized protein sll1926	sll1926
+   5.7	F7UNQ9	RNA-binding protein	ssr1480
+  -3.7	F7UPQ6	Putative uncharacterized protein sll0249	sll0249
+  -0.1	F7UNN0	Photosystem II reaction center protein Z	psbZ
+  10.4	F7USB1	Putative uncharacterized protein sll0191	sll0191
+  11.3	F7UQY0	Delta-1-pyrroline-5-carboxylate dehydrogenase	putA
+  -7.9	F7USV7	Putative uncharacterized protein slr0199	slr0199
+   0.9	F7UMJ3	5'-nucleotidase SurE	surE
+  17.8	F7UP67	RNA polymerase sigma factor	rpoD2-V
+  12.1	F7UKN8	Transposase	sll0667
+   9.6	F7UK75	Regulatory component of sensory transduction system Rre2	sll1673
+   8.8	F7UKP1	Putative uncharacterized protein sll0664	sll0664
+   1.9	F7UKR2	Putative uncharacterized protein sll0740	sll0740
+-9005.8	F7UKQ5	Phospho-N-acetylmuramoyl-pentapeptide-transferase	mraY
+  -6.7	F7UKX2	Putative uncharacterized protein slr0541	slr0541
+  -3.2	F7UL67	Putative uncharacterized protein slr1591	slr1591
+   5.8	F7ULK1	Putative uncharacterized protein slr1429	slr1429
+   3.3	F7UN67	Putative uncharacterized protein sll1967	sll1967
+   5.5	F7UNF7	Rare lipoprotein A	repA
+   2.7	F7UNN8	Putative uncharacterized protein sll1274	sll1274
+  -7.1	F7UNK7	Isoleucine--tRNA ligase	ileS
+ -14.5	F7UNQ0	Phosphatidate cytidylyltransferase	cdsA
+   4.5	F7UNW5	Anti-sigma factor antagonist	slr1859
+   7.4	F7UP11	Putative uncharacterized protein ssr3189	ssr3189
+  -6.2	F7UPD5	Putative uncharacterized protein sll1162	sll1162
+-8992.6	F7UQ08	Putative uncharacterized protein slr2111	slr2111
+  -4.4	F7UP81	Succinate dehydrogenase iron-sulphur protein subunit	sdhB
+  -4.0	F7UQ19	Putative uncharacterized protein slr2122	slr2122
+ -10.6	F7UQQ1	Sensory transduction histidine kinase Hik34	slr1285
+   1.2	F7UR08	Putative uncharacterized protein slr0937	slr0937
+   1.1	F7UR50	Molybdopterin biosynthesis protein MoeB	moeB
+   2.8	F7UR31	Putative uncharacterized protein slr0953	slr0953
+   7.3	F7UR58	DNA-directed RNA polymerase subunit omega	ssl2982
+  -7.6	F7UR76	Putative uncharacterized protein slr1647	slr1647
+ -11.5	F7US71	Fumarate hydratase class II	fumC
+   5.1	F7USJ0	Sensory transduction histidine kinase Hik26	slr0484
+ -13.9	F7UST9	Putative uncharacterized protein sll0372	sll0372
+  -6.4	F7UT45	Putative uncharacterized protein sll0539	sll0539
+   1.5	F7UTQ1	6-carboxy-5,6,7,8-tetrahydropterin synthase	slr0078
+  -9.6	F7UKZ8	Putative uncharacterized protein slr1066	slr1066
+  -6.0	F7ULH9	Valine--tRNA ligase	valS
+   5.3	F7ULQ5	Putative uncharacterized protein sll1495	sll1495
+   4.7	F7UMK4	Putative uncharacterized protein sll1106	sll1106
+   1.7	F7UMG4	Putative uncharacterized protein sll0447	sll0447
+ -17.9	F7UMS6	Putative uncharacterized protein slr2018	slr2018
+   2.0	F7UNC5	Putative cobalt-precorrin-6A synthase [deacetylating]	cbiD
+  -1.3	F7UNJ0	Putative uncharacterized protein sll1130	sll1130
+   2.1	F7UP02	Putative uncharacterized protein slr1880	slr1880
+   5.9	F7UP40	Glucose dehydrogenase	gdh
+   4.5	F7UP24	Processing protease	sll2009
+   3.2	F7UP88	Putative uncharacterized protein sll1620	sll1620
+  -4.2	F7UPJ8	Putative uncharacterized protein slr2000	slr2000
+  -0.8	F7UPA6	Chromophore lyase CpcS/CpeS	sll0853
+  -1.3	F7UQ38	Putative uncharacterized protein sll1236	sll1236
+   0.8	F7UR97	Putative uncharacterized protein slr0445	slr0445
+  -9.0	F7UQ47	Hybrid sensory kinase Hik4	sll1228
+  -1.6	F7UNM8	Epoxyqueuosine reductase	sll1348
+   0.8	F7URT9	Putative uncharacterized protein slr0179	slr0179
+  -5.5	F7US61	Ribulose bisphosphate carboxylase large chain	cbbL
+  -3.6	F7USE4	Putative uncharacterized protein sll0069	sll0069
+   2.4	F7USR5	Putative uncharacterized protein sll0395	sll0395
+  -2.8	F7UTM6	Putative uncharacterized protein slr1417	slr1417
+   5.8	F7UKS9	Branched-chain amino acid aminotransferase	ilvE
+   6.1	F7UKU7	Putative uncharacterized protein sll0518	sll0518
+  -8.2	F7UKR4	Molybdate-binding periplasmic protein	modA
+   2.2	F7UKX8	Putative uncharacterized protein sll0497	sll0497
+  -0.2	F7ULK9	Putative uncharacterized protein ssr2439	ssr2439
+  -2.7	F7URA9	Primosomal protein N'	priA
+   5.6	F7UQS3	Hydrogenase isoenzymes formation protein HypB	hypB
+-8991.2	F7UMN5	DNA polymerase III alpha subunit	dnaE
+  -2.6	F7UMR7	Putative uncharacterized protein ssr3409	ssr3409
+   3.5	F7UP56	Putative uncharacterized protein slr1814	slr1814
+  10.9	F7UPD1	DNA mismatch repair protein MutS	mutS
+  -4.9	F7UQ23	Putative uncharacterized protein slr2126	slr2126
+   1.9	F7UPL7	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ	fabZ
+   2.3	F7UQ86	Putative uncharacterized protein slr0816	slr0816
+  -8.1	F7URF9	Putative uncharacterized protein slr0144	slr0144
+   7.4	F7URI6	Putative uncharacterized protein ssl0241	ssl0241
+   3.9	F7URF1	N-(5'-phosphoribosyl)anthranilate isomerase	trpF
+-9015.4	F7URL8	Putative uncharacterized protein slr1939	slr1939
+   6.0	F7USD3	Aspartate aminotransferase	aspC
+   2.9	F7USS7	Putative uncharacterized protein ssl0750	ssl0750
+  -1.3	F7UNR5	CAB/ELIP/HLIP superfamily protein	ssl1633
+  -7.9	F7UPA5	Putative uncharacterized protein sll0854	sll0854
+  -3.6	F7URJ8	Putative uncharacterized protein slr1930	slr1930
+  -9.1	F7UKK1	Putative uncharacterized protein sll0787	sll0787
+-17988.5	F7UKM0	Mercuric resistance operon regulatory protein MerR	merR
+   6.0	F7UKS3	Methyl-accepting chemotaxis protein II	tar
+-9003.4	F7UM15	Putative uncharacterized protein slr1908	slr1908
+  -2.3	F7UM18	Putative uncharacterized protein slr1911	slr1911
+-9003.9	F7UMG2	Putative uncharacterized protein sll0449	sll0449
+   2.0	F7UN48	Rieske (2Fe-2S) domain protein	slr1205
+-27001.7	F7UNF0	Nitrate reductase	narB
+  -1.3	F7UNQ2	Putative uncharacterized protein sll1267	sll1267
+   5.2	F7UQ97	Putative uncharacterized protein slr0821	slr0821
+   4.1	F7UQA4	Putative uncharacterized protein ssl1498	ssl1498
+  13.8	F7UQG8	Putative uncharacterized protein sll1884	sll1884
+  -1.2	F7UR47	Putative uncharacterized protein sll1537	sll1537
+  -2.9	F7URF5	Putative uncharacterized protein slr0407	slr0407
+   4.9	F7USD2	Transposase	ssl0769
+   1.4	F7USD4	Citrate synthase	gltA
+   3.6	F7USW2	Putative uncharacterized protein ssl0352	ssl0352
+   4.5	F7UT35	Putative uncharacterized protein ssl1045	ssl1045
+   7.5	F7UT94	Putative uncharacterized protein ssl2733	ssl2733
+   3.7	F7USL1	Phosphate transport ATP-binding protein PstB	pstB
+   3.5	F7UTT7	Transposase	ssr0871
+  -1.6	F7UNV3	Putative uncharacterized protein sll1306	sll1306
+ -22.8	F7UP34	Putative uncharacterized protein sll2003	sll2003
+   0.6	F7UPG3	Putative uncharacterized protein slr1259	slr1259
+  -2.4	F7US04	Amidophosphoribosyltransferase	purF
+-8987.9	F7UU19	PleD gene product homolog	slr0302
+   2.2	F7UL65	Putative uncharacterized protein slr0695	slr0695
+   5.2	F7UL30	Hydroxyacylglutathione hydrolase	HAGH1
+-8995.2	F7UMK2	Putative uncharacterized protein slr1189	slr1189
+  -2.0	F7UN36	Putative uncharacterized protein slr1195	slr1195
+   4.0	F7UN94	Secreted protein MPB70	sll1735
+  -3.9	F7UQ81	Type III pantothenate kinase	slr0812
+-9003.1	F7UKI4	Sensory transduction histidine kinase NrsS/RppB/Hik30	sll0798
+  -1.3	F7UQD2	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	murF
+   1.7	F7UQE6	Putative uncharacterized protein ssl3573	ssl3573
+   6.8	F7UQI3	Membrane bound protein LytR	lytR
+  -2.4	F7USF1	Diacylglycerol kinase	dgkA
+   3.5	F7USF2	Anthranilate synthase component II	trpG
+   6.3	F7UTC5	Putative uncharacterized protein slr1122	slr1122
+   0.1	F7UTA8	Putative uncharacterized protein slr1115	slr1115
+  -0.4	F7UU23	Putative uncharacterized protein slr0306	slr0306
+-8992.6	F7UP79	ABC transporter	slr1735
+  -3.0	F7UKB1	Putative uncharacterized protein ycf19	ycf19
+   7.6	F7UKD2	Putative uncharacterized protein sll1186	sll1186
+   1.5	F7ULK2	Putative uncharacterized protein sll1333	sll1333
+-8995.9	F7ULU5	Glucosylglycerolphosphate phosphatase	stpA
+ -12.0	F7ULK5	Inositol monophosphatase	sll1329
+  -3.0	F7UM40	Sulfolipid biosynthesis protein SqdB	sqdB
+  -2.8	F7UMH5	Putative uncharacterized protein sll0436	sll0436
+   9.0	F7UMU1	Putative uncharacterized protein sll1911	sll1911
+   1.3	F7UPM6	Putative uncharacterized protein ssl3127	ssl3127
+  -2.0	F7UPW0	Putative uncharacterized protein slr2105	slr2105
+  -2.0	F7UQ66	D-alanyl-D-alanine carboxypeptidase	dacB
+  -2.7	F7UPW4	P3 protein	sll1428
+ -10.7	F7UQH6	Putative uncharacterized protein slr1978	slr1978
+   2.8	F7UR85	Putative uncharacterized protein ssr0756	ssr0756
+   4.0	F7URA6	Putative uncharacterized protein sll0272	sll0272
+   1.5	F7URH4	Putative uncharacterized protein ssl0259	ssl0259
+   3.2	F7URI3	Aminopeptidase P	pepP
+   5.4	F7URV9	Putative uncharacterized protein slr0363	slr0363
+ -10.7	F7UTH1	Putative uncharacterized protein sll0696	sll0696
+  17.2	F7UM52	Mg chelatase subunit	chlI
+   9.3	F7US06	Transcriptional repressor NrdR	slr0780
+  -2.6	F7UKN7	Transposase	sll0668
+   6.0	F7ULC6	Putative uncharacterized protein ssl1923	ssl1923
+  10.8	F7UK61	Pyridoxine 5'-phosphate synthase	pdxJ
+   8.1	F7ULF0	Putative uncharacterized protein slr1768	slr1768
+   1.9	F7ULT8	Putative uncharacterized protein sll1472	sll1472
+   2.7	F7ULW8	Urease subunit alpha	ureC
+   3.0	F7UN35	Putative uncharacterized protein slr1194	slr1194
+   2.1	F7UNB0	Putative uncharacterized protein slr1840	slr1840
+   5.8	F7UNU7	Putative uncharacterized protein sll1308	sll1308
+   2.7	F7UP12	Putative uncharacterized protein slr1885	slr1885
+   4.1	F7UPQ1	Putative uncharacterized protein slr0263	slr0263
+  -5.4	F7UNC3	ATP-dependent DNA helicase RecQ	recQ
+   4.2	F7UQH5	Putative uncharacterized protein slr1977	slr1977
+ -11.2	F7URB3	Putative uncharacterized protein sll0266	sll0266
+   0.2	F7URM7	Putative uncharacterized protein ycf47	ycf47
+-9016.7	F7URB7	Delta-6 desaturase	desD
+ -14.7	F7US01	Putative uncharacterized protein ycf38	ycf38
+  -5.3	F7US21	Cytochrome b6-f complex subunit 4	petD
+   3.3	F7USK7	Putative uncharacterized protein sll0687	sll0687
+-8998.4	F7USW7	1,4-dihydroxy-2-naphthoyl-CoA hydrolase	slr0204
+   6.7	F7UTJ8	Putative uncharacterized protein cobK	cobK
+   7.1	F7UTC2	4-hydroxy-tetrahydrodipicolinate reductase	dapB
+   3.3	F7UTJ7	ABC transporter	slr0251
+  11.2	F7USM3	Holliday junction ATP-dependent DNA helicase RuvB	ruvB
+   1.8	F7UTV7	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	queA
+   6.7	F7UST3	Uroporphyrin-III C-methyltransferase	cobA
+   8.7	F7UQ49	ATP synthase epsilon chain	atpE
+  -4.9	F7UTQ0	Phosphoheptose isomerase	gmhA
+  -4.9	F7UNS7	Putative uncharacterized protein slr0887	slr0887
+  20.3	F7UP21	RNA polymerase sigma factor	rpoD
+   2.0	F7UR15	Fructose-bisphosphate aldolase class 1	fda
+  -5.4	F7UKN9	Transposase	sll0666
+  -7.1	F7ULK6	Putative uncharacterized protein slr1451	slr1451
+  -1.3	F7ULX6	Rubredoxin	rub
+  10.6	F7UN09	50S ribosomal protein L23	rpl23
+   7.7	F7UN29	30S ribosomal protein S20	rpsT
+   5.6	F7UP98	Putative uncharacterized protein slr0852	slr0852
+   4.3	F7UQJ9	Putative uncharacterized protein sll1386	sll1386
+  -9.2	F7UQL5	UDPglucose:diacylglycerol glucosyltransferase	mgdA
+   6.7	F7UR26	Putative uncharacterized protein sll0911	sll0911
+  10.2	F7URC0	Putative uncharacterized protein slr0285	slr0285
+   1.7	F7UPQ4	Bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase	dfp
+   2.4	F7UPM8	Mn transporter subunit	mntA
+  -3.5	F7UR80	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	pgsA
+   3.4	F7URT5	Putative uncharacterized protein sll0167	sll0167
+  13.7	F7US35	Transposase	slr0352
+   0.6	F7UTF7	Putative uncharacterized protein slr0732	slr0732
+  29.6	F7UTH4	N utilization substance protein	nusA
+ -21.4	F7UTM7	Putative uncharacterized protein sll1319	sll1319
+-8990.4	F7US81	GMP synthase [glutamine-hydrolyzing]	guaA
+   0.6	F7UKD5	Putative uncharacterized protein slr1307	slr1307
+  -0.8	F7UL91	Transposase	ssr2699
+   6.0	F7ULC3	Nucleoside triphosphate pyrophosphohydrolase	mazG
+-9003.0	F7ULK0	Putative uncharacterized protein sll1334	sll1334
+   3.1	F7UMB4	Phycocyanin associated linker protein	cpcD
+   5.9	F7UMX5	Putative uncharacterized protein sll1068	sll1068
+-9021.5	F7UPY5	Putative uncharacterized protein slr1515	slr1515
+   5.9	F7UPY3	Protein thf1	psb29
+  -6.6	F7UPZ1	Nitrogen assimilation regulatory protein NtrX	ntrX
+  -3.9	F7UQ80	Cytochrome c oxidase subunit 2	ctaC
+-9007.6	F7UQC2	Putative uncharacterized protein slr1344	slr1344
+ -25.0	F7UPN8	Potassium-transporting ATPase A chain	kdpA
+  -3.9	F7UR42	Dolichyl-phosphate-mannose synthase	dpm1
+   6.4	F7UR98	Urease subunit beta	ureB
+ -10.1	F7URM1	Putative uncharacterized protein sll1845	sll1845
+  -3.4	F7USB8	Putative uncharacterized protein sll0413	sll0413
+   1.3	F7USW5	Putative uncharacterized protein ssl0350	ssl0350
+   2.4	F7USY9	Molybdopterin biosynthesis protein MoeA	moeA
+  -8.3	F7UT00	Putative uncharacterized protein slr0912	slr0912
+  -1.4	F7UT06	Putative uncharacterized protein slr0919	slr0919
+  -3.2	F7UTF4	Putative uncharacterized protein slr0730	slr0730
+   7.6	F7UTN5	Putative uncharacterized protein sll0822	sll0822
+   8.3	F7UU29	Putative uncharacterized protein sll0281	sll0281
+ -13.4	F7UT85	ABC transporter	slr1488
+  -4.9	F7UMW8	ABC transporter	slr1149
+   3.7	F7UN01	50S ribosomal protein L14	rplN
+   3.1	F7UP08	Putative uncharacterized protein ssr3188	ssr3188
+  -1.7	F7UP86	Membrane protein	sll1621
+  20.3	F7UTR7	DnaJ protein	dnaJ
+   8.0	F7UP49	Putative uncharacterized protein slr1809	slr1809
+   0.9	F7ULM7	Putative uncharacterized protein sll0630	sll0630
+  45.6	F7UM09	Chaperone protein DnaK	dnaK
+   5.7	F7UK73	Putative uncharacterized protein slr1788	slr1788
+  -8.4	F7ULL8	Putative uncharacterized protein sll1365	sll1365
+   3.8	F7ULS4	Putative uncharacterized protein slr1576	slr1576
+-9000.5	F7ULT1	ABC-transporter DevC homolog	sll1482
+  -4.6	F7UMI5	Transposase	slr0462
+  -4.7	F7UN38	Putative uncharacterized protein slr1197	slr1197
+  -2.6	F7UN91	Putative uncharacterized protein slr1829	slr1829
+  -1.9	F7UNU9	Putative uncharacterized protein slr1407	slr1407
+   5.3	F7UNE3	Peptide deformylase	def
+ -27.9	F7UNW9	Putative uncharacterized protein slr1864	slr1864
+   4.5	F7UPG2	Putative uncharacterized protein slr1258	slr1258
+   3.8	F7UR35	Putative uncharacterized protein slr0957	slr0957
+  -9.4	F7UQZ7	NH(3)-dependent NAD(+) synthetase	nadE
+-8993.2	F7URP2	Putative uncharacterized protein slr0320	slr0320
+   1.5	F7USW8	Glutamate--tRNA ligase	gltX
+   6.2	F7UT03	Putative endonuclease	slr0915
+  -5.5	F7URN1	Cation-transporting ATPase E1-E2 ATPase	slr1950
+ -13.4	F7UT77	Ferrichrome-iron receptor	fhuA
+   1.5	F7UTP5	Putative uncharacterized protein slr0076	slr0076
+  -7.4	F7UTR4	4-hydroxyphenylpyruvic acid dioxygenase	ppd
+   9.6	F7UTZ9	Putative uncharacterized protein slr0110	slr0110
+  49.0	F7UN26	DNA-directed RNA polymerase subunit beta'	rpoC2
+  -0.8	F7UNA4	Putative uncharacterized protein sll1723	sll1723
+   2.9	F7UQJ2	Putative uncharacterized protein sll1866	sll1866
+  -0.1	F7UNL7	Protein kinase PknA	pknA
+-8994.0	F7UTW0	Putative uncharacterized protein sll0595	sll0595
+  -1.6	F7URQ5	Putative uncharacterized protein sll0298	sll0298
+  -0.8	F7US51	Putative uncharacterized protein slr0001	slr0001
+  -0.4	F7UP01	Homoserine kinase	thrB
+   5.0	F7UTG1	Tyrosine recombinase XerC	xerC
+  -2.6	F7UK48	Erythroid ankyrin	ank
+ -25.2	F7UKA9	Putative uncharacterized protein sll1200	sll1200
+  -0.6	F7UL70	PatA subfamily protein Rre5	slr1594
+   8.0	F7UPQ9	Ribosome biogenesis GTPase A	rbgA
+   3.1	F7UQX5	ABC transporter	ssr2802
+   9.2	F7URC4	Putative uncharacterized protein slr0287	slr0287
+   6.6	F7UR70	Phosphoribulokinase	prk
+  -0.3	F7URK6	Putative uncharacterized protein sll1858	sll1858
+   7.2	F7URN2	Putative uncharacterized protein slr1951	slr1951
+   8.5	F7USE8	Acetolactate synthase	ilvN
+   3.6	F7URT6	Uroporphyrin-III synthase	hemD
+-8997.2	F7US54	1-deoxy-D-xylulose 5-phosphate reductoisomerase	sll0019
+ -16.6	F7USN6	Putative uncharacterized protein slr0643	slr0643
+   4.6	F7UKF1	Putative uncharacterized protein sll0933	sll0933
+  -5.2	F7UKZ0	Putative uncharacterized protein slr0930	slr0930
+   0.4	F7UMC4	Phosphoglucomutase	pgm
+  -1.9	F7UP47	Putative uncharacterized protein slr1807	slr1807
+  12.0	F7UP48	Glutamyl-tRNA reductase	hemA
+ -16.5	F7UPJ4	44.5-kDa chlorophyll synthase subunit	sll1906
+ -17.1	F7UPK4	Putative uncharacterized protein slr2004	slr2004
+ -18.7	F7UPL0	Putative uncharacterized protein sll1611	sll1611
+  -3.5	F7UPM9	Mn transporter subunit	mntC
+   2.1	F7UPY6	Putative uncharacterized protein ssr2551	ssr2551
+   5.7	F7UQF9	Putative uncharacterized protein ssr3341	ssr3341
+   4.9	F7UN61	Mg2+ transporter	mgtE
+  -0.3	F7UQR6	Putative uncharacterized protein sll1439	sll1439
+   8.3	F7UQK8	Probable myo-inositol-1-monophosphatase	suhB
+   6.4	F7URI2	ATP-dependent Clp protease proteolytic subunit	clpP
+   3.5	F7URK2	Putative uncharacterized protein sll1862	sll1862
+  -1.0	F7URS0	Putative uncharacterized protein slr0168	slr0168
+  -4.1	F7UTQ3	Putative uncharacterized protein sll0082	sll0082
+   5.1	F7UT10	NAD(P)H-quinone oxidoreductase subunit O	ssl1690
+-8999.0	F7UQN9	General secretion pathway protein D	gspD
+   4.1	F7UMF7	Putative uncharacterized protein ssr2786	ssr2786
+  -0.3	F7USL0	Phosphate transport ATP-binding protein PstB	pstB
+-9001.3	F7UP50	Extracellular solute-binding protein	sll1699
+   9.4	F7UN57	AraC subfamily protein Rre14	slr1213
+   6.7	F7UP75	Putative uncharacterized protein sll1630	sll1630
+   7.0	F7UPB6	Putative uncharacterized protein slr0863	slr0863
+   0.1	F7UT82	Biopolymer transport ExbB protein	exbB
+  -0.2	F7UTN1	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase	folK
+   1.0	F7UTZ1	N-acyl-L-amino acid amidohydrolase	ama
+  -0.9	F7UQG5	Putative uncharacterized protein sll1886	sll1886
+  -9.4	F7UQQ4	Putative uncharacterized protein slr1287	slr1287
+-135.5	F7URF6	Putative uncharacterized protein slr0408	slr0408
+  15.9	F7URH2	Ribosome-recycling factor	frr
+   7.9	F7URZ6	UPF0176 protein SYNGTS_2160	sll0765
+-8998.8	F7UL50	Putative uncharacterized protein sll0645	sll0645
+   5.6	F7UMB5	Phycocyanin associated linker protein	cpcC
+   1.6	F7UK38	Uracil phosphoribosyltransferase	upp
+   0.7	F7UMD5	N-acyl-L-amino acid amidohydrolase	ama
+   0.3	F7UMF1	Pleiotropic regulatory protein DegT	degT
+-9002.2	F7UMK5	Zinc-containing alcohol dehydrogenase family	slr1192
+  10.7	F7UMY4	50S ribosomal protein L13	rpl13
+   0.6	F7UN64	Putative uncharacterized protein slr2071	slr2071
+-9018.4	F7UNP5	Putative uncharacterized protein sll1271	sll1271
+   7.1	F7UN21	ABC transporter	slr1901
+  -0.9	F7UNS3	Leucyl/phenylalanyl-tRNA--protein transferase	aat
+  -1.0	F7UNS8	Putative uncharacterized protein slr0888	slr0888
+ -19.1	F7UP84	Putative uncharacterized protein ubiA	ubiA
+   4.9	F7US31	Putative uncharacterized protein sll0318	sll0318
+  -5.1	F7UT20	Putative uncharacterized protein sll0552	sll0552
+  -5.7	F7UTV2	Putative uncharacterized protein slr0522	slr0522
+   4.1	F7UU09	Putative uncharacterized protein slr0120	slr0120
+  -7.2	F7UL57	Putative uncharacterized protein slr0688	slr0688
+  -5.8	F7ULA5	PatA subfamily protein PilG/TaxP3/Rre6	slr1041
+   5.7	F7ULK4	OmpR subfamily protein Rre37	sll1330
+   2.4	F7UM23	Putative uncharacterized protein sll1835	sll1835
+  -2.0	F7UNR0	Glutamyl-tRNA(Gln) amidotransferase subunit A	gatA
+   5.4	F7UP15	Porphobilinogen deaminase	hemC
+   2.2	F7UP20	Putative uncharacterized protein sll2013	sll2013
+  -2.5	F7UQ89	Putative uncharacterized protein sll0809	sll0809
+  -6.0	F7UR56	Putative uncharacterized protein slr1634	slr1634
+   5.5	F7URQ6	Putative uncharacterized protein sll0297	sll0297
+  -7.8	F7UT24	Putative uncharacterized protein slr0569	slr0569
+   5.5	F7UTT2	Putative uncharacterized protein sll0482	sll0482
+   4.4	F7UTI2	Putative uncharacterized protein slr0240	slr0240
+   7.1	F7UTY8	Putative uncharacterized protein slr0105	slr0105
+   1.4	F7UU28	Putative uncharacterized protein sll0282	sll0282
+-8995.1	F7UU18	Phosphoenolpyruvate synthase	ppsA
+  -6.2	F7UR65	Putative uncharacterized protein sll1528	sll1528
+  -0.0	F7UKI8	Lysozyme	slr0795
+  -0.4	F7UKP0	Transposase	sll0665
+   6.9	F7UKF2	30S ribosomal protein S15	rpsO
+  -4.0	F7UL51	Esterase	sll0644
+   1.7	F7UL92	Virulence associated protein C	vapC
+   0.1	F7ULH0	Putative uncharacterized protein slr0552	slr0552
+   4.1	F7ULQ8	Glutaredoxin	grxC
+   4.2	F7UMG3	Putative uncharacterized protein sll0448	sll0448
+ -40.0	F7UMG0	Cytochrome b subunit of nitric oxide reductase	norB
+ -18.0	F7UMQ4	Putative uncharacterized protein sll1571	sll1571
+   7.8	F7UMX6	Putative uncharacterized protein ssl3451	ssl3451
+-8989.3	F7UNA7	Pyruvate dehydrogenase E1 beta subunit	pdhB
+  13.6	F7UNN3	Transposase	slr1357
+   9.0	F7UNR2	Glycine cleavage system H protein	gcvH
+ -13.0	F7UPA0	Deoxyribopyrimidine photolyase	phr
+   9.4	F7UPX7	Phosphate acyltransferase	plsX
+  -6.5	F7UNA2	ABC transporter	sll1725
+-8984.2	F7UQ40	Adenosylhomocysteinase	ahcY
+   5.4	F7ULB0	Sec-independent protein translocase protein TatA	slr1046
+   0.7	F7UQG9	Arginine biosynthesis bifunctional protein ArgJ	argJ
+   0.3	F7UU22	Putative uncharacterized protein slr0305	slr0305
+   4.5	F7UKW5	Magnesium/cobalt transport protein	sll0507
+  -0.1	F7UKA4	Putative uncharacterized protein sll1652	sll1652
+  26.6	F7UKD7	Putative uncharacterized protein slr0962	slr0962
+   7.3	F7UKG7	Putative uncharacterized protein slr0978	slr0978
+-9001.2	F7UKN1	Cation-transporting ATPase E1-E2 ATPase	sll0672
+   4.1	F7ULG3	Putative uncharacterized protein sll0536	sll0536
+  -1.8	F7ULN9	Putative uncharacterized protein sll0624	sll0624
+   6.5	F7UM56	Tyrosyl tRNA synthetase	tyrS
+  -1.1	F7UMD9	Photosystem I reaction center subunit VIII	psaI
+  -2.8	F7ULS1	Putative uncharacterized protein slr1573	slr1573
+ -16.5	F7UMW4	Glutamate permease	gltS
+ -17.9	F7UN45	Lactose transport system permease protein LacF	lacF
+  -0.2	F7UKU0	Bicarbonate transporter	cmpA
+   2.1	F7UNG9	Putative cell division inhibitor SulA	sulA
+   1.1	F7UNK3	PmbA protein	pmbA
+ -13.0	F7UNQ1	Putative uncharacterized protein sll1268	sll1268
+-8995.9	F7UNS0	Putative uncharacterized protein sll0871	sll0871
+   2.2	F7UNY8	Exopolysaccharide synthesis protein	exoD
+   3.3	F7UNY9	ATP-dependent Clp protease adapter protein ClpS	clpS
+  -3.7	F7UQ43	Putative uncharacterized protein sll1233	sll1233
+-8985.2	F7UQ39	(P)ppGpp 3'-pyrophosphohydrolase	spoT
+ -15.5	F7UQB9	Putative uncharacterized protein slr1343	slr1343
+ -10.7	F7UQF5	Putative uncharacterized protein slr1968	slr1968
+ -18.8	F7UQW1	Putative uncharacterized protein slr1174	slr1174
+ -20.1	F7URY9	Glucose transport protein	glcP
+-8995.0	F7UQZ2	Isopentenyl-diphosphate delta-isomerase	sll1556
+   7.5	F7US67	Lipid-A-disaccharide synthase	lpxB
+   0.2	F7USV6	Putative uncharacterized protein sll0185	sll0185
+-18024.0	F7UTA7	Putative uncharacterized protein slr1114	slr1114
+  -1.0	F7UTP8	Putative uncharacterized protein sll0085	sll0085
+  15.3	F7UTQ2	General secretion pathway protein E	gspE
+   2.5	F7UL66	Putative uncharacterized protein slr1590	slr1590
+  -0.4	F7URR9	Putative uncharacterized protein slr0338	slr0338
+   5.4	F7ULR4	Putative uncharacterized protein slr1567	slr1567
+   4.9	F7URS1	Putative uncharacterized protein slr0169	slr0169
+  -3.1	F7URW9	Putative uncharacterized protein slr0377	slr0377
+   5.3	F7URZ9	Sll0762 protein	sll0762
+   1.1	F7US57	Membrane-bound lytic transglycosylase A	mltA
+  -3.3	F7UL33	Hybrid sensory kinase Hik38	slr1400
+-8997.1	F7USD9	Ribonuclease Z	slr0050
+  -8.0	F7USQ8	Iron(III) dicitrate transport system permeaseprotein	fecC
+  15.2	F7UM29	Penicillin-binding protein	ftsI
+   2.1	F7UT09	Malate dehydrogenase	citH
+   1.4	F7UM87	CheY subfamily protein Rre11/TaxY2	sll1292
+   9.8	F7UN02	30S ribosomal protein S17	rps17
+-8992.2	F7UN71	Putative uncharacterized protein sll1965	sll1965
+  -7.1	F7UN86	Putative uncharacterized protein slr1827	slr1827
+-8995.4	F7UNG8	Putative uncharacterized protein sll1142	sll1142
+   3.6	F7UNJ8	NAD(P) transhydrogenase subunit alpha	pntA
+   7.0	F7UP65	Putative uncharacterized protein sll1691	sll1691
+  16.7	F7UPB3	Phosphoribosylglycinamide formyltransferase 2	purT
+-9011.2	F7UPE6	Quinolene resistance protein NorA	norA
+ -11.9	F7UTB1	Putative uncharacterized protein sll1064	sll1064
+-9001.3	F7UTD0	Zeaxanthin glucosyl transferase	crtX
+   7.1	F7UTK0	Putative uncharacterized protein ssl0410	ssl0410
+   4.5	F7URX5	Putative uncharacterized protein slr0383	slr0383
+  -1.9	F7UPC1	Putative uncharacterized protein slr0865	slr0865
+  13.5	F7UL45	Transposase	sll0650
+   1.8	F7ULK7	Putative uncharacterized protein sll1367	sll1367
+   8.8	F7ULM4	Putative uncharacterized protein slr0651	slr0651
+  -5.3	F7ULQ9	Putative uncharacterized protein slr1563	slr1563
+-8993.6	F7ULW7	Putative uncharacterized protein sll1751	sll1751
+   9.5	F7UMC9	Putative uncharacterized protein sll0722	sll0722
+  -4.8	F7UN13	Putative uncharacterized protein ycf21	ycf21
+   0.9	F7UN88	Putative uncharacterized protein sll1738	sll1738
+   7.4	F7UPN3	Putative uncharacterized protein slr1726	slr1726
+  -0.0	F7UQP1	Putative uncharacterized protein sll1173	sll1173
+-8994.4	F7URL5	Putative uncharacterized protein sll1849	sll1849
+ -17.8	F7URB2	Putative uncharacterized protein sll0267	sll0267
+ -13.7	F7US17	Putative uncharacterized protein slr0784	slr0784
+-9001.8	F7US46	Putative uncharacterized protein sll0310	sll0310
+   5.4	F7USJ1	Putative uncharacterized protein slr0487	slr0487
+   7.1	F7USQ3	GDP-D-mannose dehydratase	rfbD
+  -3.3	F7USV4	Putative uncharacterized protein slr0196	slr0196
+  -4.4	F7UTK2	Alkaline phosphatase	phoA
+ -19.1	F7USZ7	Photosystem II CP47 protein	psbB
+   7.2	F7UNC7	Putative uncharacterized protein slr1541	slr1541
+-9000.0	F7UNI9	Cytosine deaminase	codA
+  18.2	F7UNE5	Lysine--tRNA ligase	lysS
+   0.1	F7UP41	Putative uncharacterized protein ssl3291	ssl3291
+  -2.1	F7UP93	NADH dehydrogenase	ndh
+   6.6	F7ULR0	RNA polymerase sigma-37	rpoF
+  -1.0	F7UMK0	Putative uncharacterized protein slr1187	slr1187
+   2.0	F7UMY1	Putative uncharacterized protein ssl3446	ssl3446
+  -1.6	F7UT38	Acetyl-coenzyme A synthetase	acs
+  -2.4	F7UK58	Putative uncharacterized protein slr1778	slr1778
+   1.8	F7UKG9	Putative uncharacterized protein slr0981	slr0981
+   8.4	F7UK85	Peptide methionine sulfoxide reductase MsrA	msrA
+   1.8	F7UKH9	Perosamine synthetase	rfbE
+  -2.6	F7UKZ7	Putative uncharacterized protein slr1065	slr1065
+ -20.6	F7UL32	Ammonium/methylammonium permease	amt2
+  -0.2	F7ULG8	4-hydroxy-tetrahydrodipicolinate synthase	dapA
+  -0.5	F7ULZ2	Putative uncharacterized protein sll1939	sll1939
+  -3.3	F7UM28	Putative uncharacterized protein slr1918	slr1918
+  -1.8	F7UNZ5	Putative uncharacterized protein sll1765	sll1765
+  -1.6	F7UNU0	Cytochrome b6-f complex iron-sulfur subunit	petC
+-17987.0	F7UP68	Threonine synthase	thrC
+  -6.1	F7UP71	Putative uncharacterized protein slr1821	slr1821
+  -7.1	F7UQ61	Putative uncharacterized protein slr1334	slr1334
+   4.6	F7UQ63	Putative uncharacterized protein ycf39	ycf39
+   2.0	F7UPV0	Transposase	slr2096
+   1.5	F7UQI0	Heme oxygenase	ho2
+-9009.8	F7UR66	Putative uncharacterized protein sll1527	sll1527
+  -0.1	F7UPP0	Putative uncharacterized protein ssr2912	ssr2912
+ -11.6	F7URM5	Putative uncharacterized protein slr1944	slr1944
+  -4.2	F7URP0	Glycogen synthase	glgA
+   2.8	F7US12	Putative uncharacterized protein ycf22	ycf22
+   0.2	F7USM1	Transmembrane protein FT27	sll0615
+   5.3	F7USS6	Putative uncharacterized protein ssr0692	ssr0692
+   5.9	F7UTB6	Putative uncharacterized protein sll1061	sll1061
+   2.9	F7UU37	Putative uncharacterized protein slr0317	slr0317
+  11.2	F7UKF0	3-deoxy-7-phosphoheptulonate synthase	ccmA
+   3.0	F7UKE8	Precorrin methylase	cbiH
+  -1.0	F7UKK9	Putative uncharacterized protein sll0780	sll0780
+   1.3	F7UKW7	Putative uncharacterized protein sll0505	sll0505
+   6.0	F7UMG1	Probable transcriptional regulator DNR	slr0449
+   8.3	F7UMP7	Putative uncharacterized protein sll1574	sll1574
+   1.0	F7UNK2	NAD(P) transhydrogenase subunit beta	pntB
+ -20.7	F7UNM2	Putative uncharacterized protein sll1352	sll1352
+   5.2	F7UP95	Glutamate racemase	murI
+   0.7	F7UPF7	Phytoene desaturase	pds
+  -7.7	F7UPG6	Putative uncharacterized protein slr1262	slr1262
+   5.5	F7UPQ7	Flavodoxin	isiB
+   9.9	F7UTL5	ATP synthase subunit alpha	atpA
+-8995.1	F7UQF4	Putative uncharacterized protein sll1892	sll1892
+  11.6	F7UQT5	30S ribosomal protein S12	rpsL
+   4.8	F7UQV2	Putative uncharacterized protein slr1168	slr1168
+   4.6	F7URB1	Putative uncharacterized protein sll0268	sll0268
+   0.4	F7URG5	Ferredoxin	petF
+  -3.7	F7URJ9	Putative uncharacterized protein slr1931	slr1931
+   0.1	F7USI9	Putative uncharacterized protein slr0483	slr0483
+   8.6	F7URD7	Transcriptional activator protein NtcB	ntcB
+  -2.1	F7UT93	Putative uncharacterized protein sll1400	sll1400
+ -13.5	F7UTC0	Type 4 prepilin-like proteins leader peptide-processing enzyme	hofD
+-9003.7	F7UT27	Putative uncharacterized protein sll0545	sll0545
+   9.6	F7UTD5	Putative uncharacterized protein slr1128	slr1128
+   5.4	F7USI3	Putative uncharacterized protein slr0476	slr0476
+  14.5	F7US78	DNA recombinase	recG
+   9.9	F7UKH0	ABC transporter	rfbB
+  -3.3	F7UK50	Putative uncharacterized protein slr1772	slr1772
+  -1.4	F7ULM1	Putative uncharacterized protein slr1464	slr1464
+   6.3	F7UM35	LysR transcriptional regulator	sll0998
+   3.6	F7UND8	UPF0061 protein SYNGTS_0902	sll1464
+   2.0	F7UMU3	Putative uncharacterized protein slr2030	slr2030
+  -5.6	F7ULI4	Dihydroorotate dehydrogenase (quinone)	pyrD
+  -2.4	F7UNW2	Putative uncharacterized protein slr1855	slr1855
+   3.5	F7UP29	Putative uncharacterized protein sll2006	sll2006
+   0.2	F7UP60	General secretion pathway protein G	hofG
+-8993.6	F7UQ85	Putative uncharacterized protein slr0815	slr0815
+   1.2	F7UQP2	tRNA(Ile)-lysidine synthase	slr1278
+  10.7	F7US29	Putative uncharacterized protein sll0319	sll0319
+   2.9	F7USC6	Putative uncharacterized protein sll0406	sll0406
+   0.9	F7UKE4	Putative uncharacterized protein sll0939	sll0939
+-9018.1	F7USF3	Chlorophyll a synthase	chlG
+  -3.4	F7UTE7	Putative uncharacterized protein slr0722	slr0722
+   6.2	F7UTV4	Putative uncharacterized protein sll0470	sll0470
+ -20.2	F7UTW7	Putative uncharacterized protein sll0590	sll0590
+-8993.5	F7UTY0	Putative uncharacterized protein slr0626	slr0626
+-9011.4	F7UU08	Ribonuclease BN	rbn
+   7.4	F7UT57	MoxR protein	moxR
+   6.3	F7URP4	GTPase Era	era
+  -0.5	F7UK80	Heat-inducible transcription repressor hrcA	hrcA
+   5.5	F7UL73	Proton extrusion protein PcxA	pxcA
+   5.9	F7UM75	Dienelactone hydrolase	clcD
+  -1.5	F7UMA6	Putative uncharacterized protein slr1699	slr1699
+ -10.2	F7UMG8	Putative uncharacterized protein sll0443	sll0443
+ -29.5	F7UNI7	Putative uncharacterized protein sll1132	sll1132
+  -6.1	F7UP03	Phosphoglucosamine mutase	glmM
+  21.3	F7UPX0	Putative uncharacterized protein sll1424	sll1424
+   4.2	F7UPJ1	Glutathione peroxidase	slr1992
+   6.9	F7UQX6	Putative uncharacterized protein ssr2803	ssr2803
+  12.8	F7UQX1	50S ribosomal protein L21	rplU
+  13.7	F7URE8	Nitrogen regulatory protein P-II	glnB
+  -8.2	F7UT75	Putative uncharacterized protein sll1203	sll1203
+   0.9	F7UTN2	Putative uncharacterized protein slr1094	slr1094
+   4.9	F7UTS3	Putative uncharacterized protein sll0488	sll0488
+   5.6	F7UTS2	Imidazoleglycerol-phosphate dehydratase	hisB
+   6.1	F7UU10	Putative uncharacterized protein slr0121	slr0121
+   1.9	F7URX1	Thymidylate kinase	slr0379
+  -6.1	F7UKS8	Putative uncharacterized protein slr0031	slr0031
+   6.3	F7UMP4	Putative uncharacterized protein ssr2848	ssr2848
+   9.3	F7UL76	16.6 kDa small heat shock protein, molecular chaperon	hsp17
+ -18.2	F7UND0	B-carotene hydroxylase	bhy
+  -5.4	F7UNV7	Putative uncharacterized protein sll1784	sll1784
+   0.4	F7UQQ7	Putative uncharacterized protein sll1447	sll1447
+ -21.2	F7UPP3	Putative uncharacterized protein sll1586	sll1586
+  -0.9	F7US07	Putative uncharacterized protein sll0756	sll0756
+   5.4	F7USW9	Putative uncharacterized protein slr0207	slr0207
+   3.8	F7UNI6	Glycoprotein 64	ssl2250
+   0.3	F7UTI1	Precorrin methylase	cbiF
+   6.7	F7UKT5	Putative uncharacterized protein sll0033	sll0033
+   5.2	F7URR8	Putative uncharacterized protein sll0293	sll0293
+  -6.3	F7UT84	Putative uncharacterized protein slr1485	slr1485
+ -12.9	F7UKF3	Putative uncharacterized protein sll0932	sll0932
+   4.5	F7UKG8	Putative uncharacterized protein slr0980	slr0980
+  -3.1	F7UL01	Putative uncharacterized protein slr1069	slr1069
+   4.0	F7ULP5	Putative uncharacterized protein slr0664	slr0664
+  -1.7	F7UPZ2	Putative uncharacterized protein slr1520	slr1520
+ -14.9	F7UQL9	Putative uncharacterized protein sll1373	sll1373
+   7.4	F7UR92	3-phosphoshikimate 1-carboxyvinyltransferase	aroA
+  13.2	F7UNF8	Cell division protein FtsZ	ftsZ
+  -1.2	F7UT88	Iron(III) dicitrate-binding periplasmic protein	fecB
+   7.3	F7URT1	Aminomethyltransferase	gcvT
+-8995.0	F7URL6	Methylthioribose-1-phosphate isomerase	mtnA
+  -2.5	F7UTU8	Similar to alpha-L-arabinofuranosidase B	abfB
+   1.5	F7UKF9	Putative uncharacterized protein sll0925	sll0925
+-9007.1	F7UL23	Putative uncharacterized protein sll1024	sll1024
+  -0.6	F7ULC7	Transposase	ssl1922
+   1.9	F7ULU0	OmpR subfamily protein CcaR/ScaR/Rre38	slr1584
+   0.3	F7UMW1	Putative uncharacterized protein slr1143	slr1143
+   0.0	F7UMJ8	Cytochrome b6-f complex iron-sulfur subunit	petC
+  -7.3	F7UMZ3	Protein translocase subunit SecY	secY
+-8999.5	F7UMD3	Haemolysin secretion ATP-binding protein	hlyB
+-9008.5	F7UN56	Ethylene response sensor protein	ETR1
+  -1.7	F7UN74	Putative uncharacterized protein slr2077	slr2077
+  -2.5	F7UQ84	NAD(P)H-quinone oxidoreductase subunit L	ndhL
+ -19.9	F7UPQ8	Iron-stress chlorophyll-binding protein	isiA
+ -11.5	F7UQE3	Putative uncharacterized protein sll1898	sll1898
+  12.6	F7URT8	Putative uncharacterized protein sll0162	sll0162
+   0.0	F7UTJ9	Photosystem I reaction center subunit PsaK	psaK
+   3.4	F7UL41	Putative uncharacterized protein slr0680	slr0680
+-9014.9	F7UK94	Putative uncharacterized protein pleD	pleD
+  -5.0	F7ULI1	NADH dehydrogenase subunit 6	ndhG
+  -4.9	F7ULD9	Putative uncharacterized protein sll1643	sll1643
+  -1.8	F7ULN1	Putative uncharacterized protein slr0655	slr0655
+   6.6	F7ULP4	Putative uncharacterized protein ssr1114	ssr1114
+ -30.7	F7UM12	ComE ORF3	comE
+   4.4	F7UMQ7	Fibrillin	sll1568
+  -3.0	F7UNM3	Fructokinase	cscK
+  -3.1	F7UNR4	Carboxynorspermidine decarboxylase	napC
+   6.9	F7UPJ7	Putative uncharacterized protein slr1999	slr1999
+  -4.5	F7UPQ2	Putative uncharacterized protein slr0264	slr0264
+   3.5	F7UQ32	Putative uncharacterized protein sll1240	sll1240
+  -7.3	F7URU8	Putative uncharacterized protein sll0156	sll0156
+ -29.9	F7URP6	Alpha-mannosidase	ams1
+   7.3	F7USL7	30S ribosomal protein S14	rpsN
+   8.6	F7USR8	Putative uncharacterized protein slr0416	slr0416
+   5.7	F7USY2	Putative uncharacterized protein sll0887	sll0887
+  -4.3	F7UT66	Putative uncharacterized protein slr0841	slr0841
+  -1.9	F7UTU5	Sensory transduction histidine kinase Hik28	sll0474
+  -8.1	F7UTY4	Putative uncharacterized protein slr0103	slr0103
+  -4.1	F7UK54	Putative uncharacterized protein slr1774	slr1774
+   0.1	F7UK88	DnaJ protein	dnaJ
+ -15.2	F7UKD1	Prolipoprotein diacylglyceryl transferase	lgt
+  -1.9	F7UKG1	Putative uncharacterized protein slr0975	slr0975
+  23.8	F7ULQ3	Putative uncharacterized protein slr1557	slr1557
+-8996.1	F7UMI8	Putative uncharacterized protein slr1177	slr1177
+  -1.2	F7UL87	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase	lpxC
+ -26.4	F7UMT7	Putative uncharacterized protein slr2027	slr2027
+  -8.4	F7UNJ2	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	todF
+   0.7	F7UNS9	ABC1-like	slr0889
+ -11.1	F7UPV7	Putative uncharacterized protein slr2103	slr2103
+-8994.9	F7UPH2	Arsenical resistance operon repressor	arsA
+   3.5	F7UQB7	Hemolysin-like protein	sll1254
+  10.9	F7UQP7	Transposase	slr1282
+   8.1	F7UQX2	50S ribosomal protein L27	rpmA
+   4.0	F7UR72	Putative uncharacterized protein sll1524	sll1524
+   3.4	F7URY1	NifS protein	nifS
+   7.5	F7URZ7	Putative uncharacterized protein ssr3001	ssr3001
+   3.2	F7UTB0	Putative uncharacterized protein slr1117	slr1117
+  -9.6	F7UT95	Putative uncharacterized protein sll1399	sll1399
+ -33.7	F7UTB7	UPF0182 protein SYNGTS_0061	sll1060
+  -5.3	F7ULK3	Putative uncharacterized protein slr1431	slr1431
+   4.8	F7UMJ2	Putative uncharacterized protein sll1109	sll1109
+   1.2	F7UR73	Putative uncharacterized protein slr1644	slr1644
+   2.5	F7UN83	Protein translocase subunit SecE	secE
+ -23.0	F7UNC9	DNA-damage-inducible protein	slr1543
+   2.0	F7USQ7	Putative uncharacterized protein slr1315	slr1315
+  -0.0	F7UL60	Putative uncharacterized protein sll0639	sll0639
+   1.8	F7ULS6	Putative uncharacterized protein slr1579	slr1579
+  -6.1	F7UM92	Putative uncharacterized protein slr1391	slr1391
+  -1.4	F7UMM8	Putative uncharacterized protein sll0564	sll0564
+   2.4	F7UNW0	Putative uncharacterized protein slr1853	slr1853
+  -2.0	F7UPS6	Putative uncharacterized protein sll0236	sll0236
+  -3.2	F7UQV8	Putative uncharacterized protein sll1086	sll1086
+  -2.7	F7URC1	Putative uncharacterized protein slr0286	slr0286
+ -10.9	F7USN5	Integral membrane protein	slr0642
+  -4.3	F7UST2	Putative uncharacterized protein slr0421	slr0421
+  -0.8	F7ULK8	Sulfate binding protein SbpA	sbpA
+-9008.6	F7UPH6	Putative uncharacterized protein slr2060	slr2060
+   4.5	F7UR60	Putative uncharacterized protein slr1636	slr1636
+  -3.7	F7USS0	Putative uncharacterized protein slr0418	slr0418
+  20.6	F7UKC4	Putative uncharacterized protein slr1301	slr1301
+ -17.1	F7ULL4	Chromate transport protein	chrA
+  10.4	F7UMH7	Putative uncharacterized protein slr0455	slr0455
+  -3.1	F7UQ46	Hybrid sensory kinase Hik41	sll1229
+  -7.2	F7UTT5	Alkaline phosphatase like protein	slr0509
+  -3.5	F7UM82	Phenoxybenzoate dioxygenase	pobA
+   7.7	F7UNM7	Phosphoglycolate phosphatase	cbbZp
+  -3.6	F7UTU7	Putative uncharacterized protein slr0517	slr0517
+   1.1	F7UK26	Putative uncharacterized protein slr1097	slr1097
+   4.7	F7UKJ3	Transcriptional repressor SmtB	smtB
+   3.5	F7ULA6	CheY subfamily protein PilH/TaxY3/Rre7	slr1042
+   9.7	F7ULT0	Transforming growth factor induced protein	sll1483
+ -19.4	F7ULJ9	Putative uncharacterized protein slr1428	slr1428
+ -17.3	F7ULV6	Probable transport protein	slr0753
+   7.6	F7UMQ3	DNA polymerase III alpha subunit	dnaE
+  -0.6	F7UMR6	Putative uncharacterized protein slr2010	slr2010
+  -6.3	F7UNW6	ICFG protein	ICFG
+   4.5	F7UNZ9	Precorrin-2methyltransferase	cobI
+  -1.1	F7UME0	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	murG
+   6.0	F7UP73	Putative uncharacterized protein slr1732	slr1732
+   4.0	F7UP32	Photosystem II protein Y	psbY
+  -0.7	F7UQN5	Putative uncharacterized protein slr1273	slr1273
+  -2.2	F7URQ4	Xylose repressor	xylR
+  15.8	F7UR82	DNA repair protein RecN	recN
+  -1.0	F7URW5	Putative uncharacterized protein sll0335	sll0335
+   4.9	F7URW6	Putative uncharacterized protein slr0373	slr0373
+  -3.1	F7USM4	ThiG protein	thiG
+ -10.8	F7USX5	Putative uncharacterized protein slr0211	slr0211
+  -7.6	F7USN0	Glycine--tRNA ligase alpha subunit	glyQ
+-17987.3	F7UT92	Putative uncharacterized protein sll1401	sll1401
+  -3.1	F7UTN7	Putative uncharacterized protein sll0821	sll0821
+   1.1	F7UTQ9	Imidazole glycerol phosphate synthase subunit HisH	hisH
+  -7.8	F7UTX6	Putative uncharacterized protein ycf36	ycf36
+   4.2	F7UTL4	ATP synthase gamma chain	atpG
+  -9.7	F7UKF5	Putative uncharacterized protein sll0930	sll0930
+   3.3	F7UKA7	Putative uncharacterized protein sll1201	sll1201
+  -7.9	F7UKY2	Putative uncharacterized protein sll0494	sll0494
+  -9.4	F7UL98	Ferredoxin-dependent glutamate synthase	gltB
+  -0.6	F7UM77	Putative uncharacterized protein slr1383	slr1383
+   8.7	F7ULG1	Indole-3-glycerol phosphate synthase	trpC
+  11.5	F7UN11	50S ribosomal protein L3	rpl3
+  11.3	F7UN79	50S ribosomal protein L10	rplJ
+   9.4	F7UNH2	Putative uncharacterized protein sll1138	sll1138
+  12.0	F7UN84	50S ribosomal protein L19	rplS
+   1.7	F7UNI0	Putative uncharacterized protein ssr2047	ssr2047
+  10.6	F7UNZ1	30S ribosomal protein S6	rpsF
+ -19.7	F7UP14	Putative uncharacterized protein sll1755	sll1755
+-8999.4	F7UPC2	Putative uncharacterized protein sll0839	sll0839
+   1.2	F7URJ6	Putative uncharacterized protein slr1928	slr1928
+   2.1	F7UPF2	Putative pterin-4-alpha-carbinolamine dehydratase	dcoH
+   8.2	F7USC3	Elongation factor P	efp
+  -1.0	F7USI6	Putative uncharacterized protein slr0479	slr0479
+  10.4	F7USU0	Putative uncharacterized protein ssl0738	ssl0738
+   2.9	F7UT41	Putative uncharacterized protein slr0580	slr0580
+   8.5	F7UTC6	Putative uncharacterized protein sll1054	sll1054
+  -1.8	F7UTF1	Putative uncharacterized protein slr0727	slr0727
+  -1.2	F7UTI5	Putative uncharacterized protein slr0243	slr0243
+   2.7	F7UTJ6	Putative uncharacterized protein slr0250	slr0250
+  -2.2	F7UTM4	Putative uncharacterized protein slr1415	slr1415
+   3.8	F7UU01	Putative uncharacterized protein slr0112	slr0112
+  -1.7	F7UKL8	Putative uncharacterized protein slr0699	slr0699
+   4.5	F7UKR0	Putative uncharacterized protein sll0742	sll0742
+  -7.0	F7UKN2	Magnesium/cobalt transport protein	sll0671
+  -2.6	F7UKY0	Putative uncharacterized protein sll0496	sll0496
+ -19.4	F7UKZ5	Putative uncharacterized protein slr1063	slr1063
+  -9.8	F7UL02	Putative uncharacterized protein slr1070	slr1070
+   7.8	F7ULH5	Putative uncharacterized protein slr0556	slr0556
+  12.0	F7ULA8	Methyl-accepting chemotaxis protein	mcpA
+  -8.2	F7ULI6	Putative uncharacterized protein slr1420	slr1420
+  32.7	F7UM85	Methyl-accepting chemotaxis protein(MCP) homolog	pilJ
+   6.1	F7UMF2	Putative uncharacterized protein ssr2781	ssr2781
+  -5.3	F7UMS5	Putative uncharacterized protein slr2017	slr2017
+   7.2	F7UN39	UPF0145 protein SYNGTS_0803	sll1118
+   3.2	F7UMM6	Bifunctional purine biosynthesis protein PurH	purH
+  -7.7	F7UPF5	Putative uncharacterized protein sll1150	sll1150
+  -6.9	F7UNM0	Single-strand-DNA-specific exonuclease	recJ
+  -4.3	F7UPF9	Glutathione S-transferase	sll1147
+   1.9	F7UPX2	Putative uncharacterized protein ssl2781	ssl2781
+   2.2	F7UPW8	Proline--tRNA ligase	proS
+   4.7	F7UPY9	Putative uncharacterized protein ssr2554	ssr2554
+   2.0	F7UQ95	Transposase	ssl1507
+ -12.6	F7UPM7	Mn transporter subunit	mntB
+  -2.2	F7UQX9	Putative uncharacterized protein sll1562	sll1562
+  -1.5	F7US65	Mg2+ transport ATPase	mgtC
+  -3.1	F7UKW0	Serine proteinase	slr0535
+   0.5	F7UTQ4	Ribonuclease H	rnhA
+   5.8	F7UTQ5	OmpR subfamily protein PhoB/HisB/SphR/Rre29	slr0081
+  12.0	F7UK25	Dihydrolipoyl dehydrogenase	phdD
+  -5.1	F7UQ17	Putative uncharacterized protein slr2120	slr2120
+-8992.8	F7UQN1	Gamma-glutamyltranspeptidase	ggt
+   8.3	F7UQ71	Ribosome maturation factor RimM	slr0808
+ -12.7	F7UQS6	Putative uncharacterized protein slr1152	slr1152
+  -3.0	F7UKV2	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	murE
+ -14.3	F7UNZ4	Putative arylsulfatase regulatory protein	aslB
+  -0.6	F7URC9	Putative uncharacterized protein slr0292	slr0292
+   2.4	F7UMV7	Hydrogenase expression/formation protein HypB	hypB
+  -0.6	F7USF5	Putative uncharacterized protein ssl0105	ssl0105
+   1.9	F7USY7	Ferredoxin--nitrite reductase	nirA
+  -8.3	F7USP0	Putative uncharacterized protein sll0602	sll0602
+  -2.4	F7USP2	Penicillin-binding protein 4	dacB
+   0.9	F7UTA6	ABC transporter	slr1113
+  -3.9	F7UK53	Putative uncharacterized protein slr1773	slr1773
+-8998.9	F7ULV5	Putative uncharacterized protein sll0732	sll0732
+  -0.8	F7UQ34	Putative uncharacterized protein slr1322	slr1322
+ -17.7	F7URK8	Putative uncharacterized protein slr1935	slr1935
+  -1.9	F7UU17	Putative uncharacterized protein slr0300	slr0300
+  -1.2	F7UK89	Putative uncharacterized protein slr1796	slr1796
+  14.1	F7UKG0	Translation initiation factor IF-3	infC
+  -2.3	F7UL52	Putative uncharacterized protein slr0686	slr0686
+   0.9	F7UKX4	Tryptophan synthase beta chain	trpB
+  -6.0	F7ULN8	Putative uncharacterized protein sll0625	sll0625
+  -0.9	F7UM34	Putative uncharacterized protein slr1920	slr1920
+-17979.8	F7UME6	Exopolyphosphatase	ppx
+   3.5	F7ULY8	DNA gyrase A subunit	gyrA
+-8995.7	F7UNB3	Glucose-6-phosphate 1-dehydrogenase	zwf
+   2.0	F7UNF9	Putative uncharacterized protein sll1632	sll1632
+   9.2	F7UMB9	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	accA
+   1.0	F7URC8	Putative uncharacterized protein ssl0483	ssl0483
+   1.4	F7URR1	Putative uncharacterized protein slr0333	slr0333
+  -1.1	F7URU3	DNA repair protein RecO	slr0181
+-9005.8	F7US13	Amine oxidase	slr0782
+ -15.1	F7USA8	Putative uncharacterized protein sll0192	sll0192
+   2.2	F7USI8	Putative uncharacterized protein slr0482	slr0482
+   5.2	F7UTB5	Putative uncharacterized protein sll1062	sll1062
+   1.6	F7UTK7	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	glmS
+   1.6	F7UT50	Alanine racemase	SYNGTS_2548
+  13.4	F7UTX2	Pyruvate kinase	pykF
+   0.7	F7UM21	Putative uncharacterized protein slr1913	slr1913
+   2.5	F7UNJ3	Putative uncharacterized protein ssr2060	ssr2060
+ -14.0	F7ULF3	Putative uncharacterized protein slr1771	slr1771
+  -0.4	F7UMJ6	Putative uncharacterized protein slr1183	slr1183
+  14.0	F7UQ05	Transposase	sll1998
+   6.8	F7UQJ5	Putative uncharacterized protein sll1389	sll1389
+   5.3	F7UR88	Putative uncharacterized protein ssr0761	ssr0761
+  -0.4	F7UQQ9	3-isopropylmalate dehydratase small subunit	leuD
+  -4.3	F7USA9	Putative uncharacterized protein slr0232	slr0232
+-8999.6	F7USQ5	Biosynthetic arginine decarboxylase	speA
+   3.0	F7UMV4	Nitrate transport protein subunit NrtD	nrtD
+   4.3	F7UT68	PolyA polymerase	pcnB
+   9.5	F7UTF5	Putative uncharacterized protein slr0731	slr0731
+  10.4	F7UU31	Sensory transduction histidine kinase Hik29	slr0311
+  -5.1	F7UNH6	Putative uncharacterized protein slr1229	slr1229
+   7.4	F7UPC9	Putative uncharacterized protein slr0871	slr0871
+   5.0	F7UKE6	Putative uncharacterized protein ssl1792	ssl1792
+  -2.0	F7UU39	Beta-lactamase	blaOXA-3
+   3.9	F7UL93	Virulence associated protein B	vapB
+  -0.3	F7UQ91	Putative uncharacterized protein slr0818	slr0818
+   6.1	F7UP82	Regulatory component of sensory transduction system Rre18	sll1624
+-17975.0	F7USU2	Carbamoyl-phosphate synthase large chain	carB
+ -14.4	F7URW1	Cation or drug efflux system protein	slr0369
+  -1.6	F7USX3	Sensory transduction histidine kinase Hik9	slr0210
+   6.9	F7UL94	Putative uncharacterized protein ssl2920	ssl2920
+   2.0	F7UK96	FO synthase subunit 2	cofH
+   4.8	F7UMB3	Serine--tRNA ligase	serS
+  -5.0	F7UMY5	tRNA pseudouridine synthase A	truA
+   2.7	F7UPN4	Rubisco operon transcriptional regulator	rbcR
+   2.0	F7UNQ5	Large-conductance mechanosensitive channel	mscL
+  -8.3	F7UPP8	Putative uncharacterized protein sll0252	sll0252
+   6.1	F7UPW9	Putative uncharacterized protein slr1505	slr1505
+   5.0	F7URK1	Putative uncharacterized protein sll1863	sll1863
+   7.9	F7UQG7	GTPase Der	slr1974
+   1.1	F7US22	Mannosyl transferase	rfbW
+ -16.1	F7USY6	Endo-1,4-beta-glucanase	slr0897
+   2.6	F7USA5	3-hydroxyisobutyrate dehydrogenase	mmsB
+   8.3	F7UKF4	Putative uncharacterized protein sll0931	sll0931
+   2.5	F7UKE1	DNA polymerase III subunit beta	dnaN
+   2.7	F7UTA2	Peptide methionine sulfoxide reductase MsrA	msrA
+   1.7	F7UL82	Putative uncharacterized protein ycf20	ycf20
+-9005.6	F7UM38	Putative uncharacterized protein sll0997	sll0997
+-8995.4	F7UML4	Putative sugar-nucleotide epimerase/dehydratase	sll0576
+   4.5	F7UMT2	Putative uncharacterized protein slr2025	slr2025
+  -6.8	F7UNB5	Putative uncharacterized protein sll1717	sll1717
+  10.0	F7UNC0	DNA binding protein HU	hupA
+   4.4	F7UNT1	Putative uncharacterized protein slr0890	slr0890
+   9.1	F7UP45	Protease IV	sppA
+   5.3	F7UPL8	Probable 2-phosphosulfolactate phosphatase	comB
+  11.4	F7UQ50	Processing protease	ymxG
+   3.9	F7UQU0	Transposase	sll1094
+   2.7	F7UQR4	Pyridoxine/pyridoxamine 5'-phosphate oxidase	pdxH
+ -18.8	F7URE0	Putative uncharacterized protein sll0360	sll0360
+   2.7	F7URS6	Putative uncharacterized protein ssl0312	ssl0312
+  -1.3	F7URN5	Putative tRNA (cytidine(34)-2'-O)-methyltransferase	slr0992
+  -5.1	F7URT0	Putative uncharacterized protein sll0172	sll0172
+-9014.6	F7USF6	Putative uncharacterized protein sll0063	sll0063
+   7.7	F7UT26	Putative uncharacterized protein sll0546	sll0546
+ -16.4	F7UTW4	Putative uncharacterized protein slr0616	slr0616
+   2.9	F7UK29	Putative uncharacterized protein slr1100	slr1100
+  -2.0	F7UTE3	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	ipk
+  -2.0	F7UKA0	Putative uncharacterized protein sll1656	sll1656
+  -0.9	F7ULX2	Putative uncharacterized protein ssr3129	ssr3129
+  -3.6	F7URU2	Transposase	ssl0296
+ -17.1	F7UPA4	Putative uncharacterized protein sll0855	sll0855
+   8.0	F7UMB2	Putative uncharacterized protein slr1702	slr1702
+  10.2	F7UQ31	Putative uncharacterized protein sll1241	sll1241
+  -6.5	F7USW1	Putative uncharacterized protein sll0183	sll0183
+   5.0	F7UQI4	Sensory transduction histidine kinase Hik6	sll1871
+  -5.4	F7URN4	Putative uncharacterized protein slr0990	slr0990
+  -5.5	F7UK49	Putative uncharacterized protein slr1110	slr1110
+   7.9	F7UKH7	Putative uncharacterized protein slr1613	slr1613
+  -0.4	F7UKD3	Coproporphyrinogen-III oxidase, aerobic	hemF
+   0.4	F7UKJ9	Transposase	slr0800
+  -1.8	F7UKK2	Putative uncharacterized protein sll0786	sll0786
+  -0.3	F7UL24	Succinate--CoA ligase	sucC
+   5.1	F7UM17	N-acetylmuramoyl-L-alanine amidase	amiA
+   9.3	F7UMB6	Phycocyanin associated linker protein	cpcC
+   2.6	F7UN23	Transposase	slr1903
+ -31.4	F7UMV0	Cytochrome c oxidase subunit I	ctaD
+  -0.3	F7UNF4	Nitrate transport 45kD protein	nrtA
+   3.8	F7UPL5	Putative uncharacterized protein slr1717	slr1717
+  10.5	F7UPZ9	Probable cytosol aminopeptidase	lap
+  18.1	F7UND9	ATP-dependent zinc metalloprotease FtsH	ftsH
+   7.1	F7UQ54	Putative uncharacterized protein ssl2420	ssl2420
+   0.1	F7UQN4	Putative uncharacterized protein slr1272	slr1272
+   6.6	F7UQN6	Membrane protein	pilM
+   3.4	F7URA1	DNA polymerase III subunit	dnaX
+  -6.8	F7URB9	Putative uncharacterized protein slr0284	slr0284
+  -4.0	F7US23	Putative uncharacterized protein slr0345	slr0345
+  13.4	F7US79	Protease IV	sppA
+  10.6	F7USI7	Putative uncharacterized protein ycf46	ycf46
+   2.0	F7USI4	Photosystem II reaction center X protein	psbX
+  -3.2	F7USZ9	Putative uncharacterized protein slr0909	slr0909
+  15.9	F7UTL1	Carboxyl-terminal protease	ctpB
+   7.2	F7UNP3	Putative uncharacterized protein sll1273	sll1273
+   4.3	F7UTN8	Phosphopantetheine adenylyltransferase	coaD
+   4.7	F7UNP9	Precorrin-6B methylase	cobL
+  -3.1	F7UKT1	Putative uncharacterized protein sll0037	sll0037
+  -7.9	F7UL42	Putative uncharacterized protein slr0681	slr0681
+  -5.2	F7UL31	Dihydroorotase	pyrC
+-8996.5	F7UL69	Putative uncharacterized protein slr1593	slr1593
+ -17.5	F7ULC2	Putative uncharacterized protein sll1006	sll1006
+  -1.1	F7ULP7	Putative uncharacterized protein slr0666	slr0666
+   0.0	F7UNE4	Putative uncharacterized protein ssr2611	ssr2611
+   0.9	F7UMB7	Phycocyanin a subunit	cpcA
+   7.5	F7UNW1	Putative uncharacterized protein slr1854	slr1854
+  -8.0	F7UNK9	DNA polymerase III subunit	dnaX
+   2.1	F7UP57	Putative uncharacterized protein slr1815	slr1815
+   4.1	F7UPB1	Chromosomal replication initiator protein DnaA	dnaA
+   5.5	F7URC6	Putative uncharacterized protein slr0291	slr0291
+   6.1	F7URQ1	Putative uncharacterized protein slr0326	slr0326
+   6.2	F7USB5	Putative uncharacterized protein slr0431	slr0431
+  11.6	F7UTC8	Guanylate kinase	gmk
+   0.8	F7UTX9	Chorismate mutase	aroH
+  -5.2	F7UKB2	Iron transport protein	sufA
+   3.3	F7UKC3	Putative uncharacterized protein ssr2153	ssr2153
+  -3.8	F7ULD4	Putative uncharacterized protein sll1647	sll1647
+   1.5	F7ULJ3	Putative uncharacterized protein slr1425	slr1425
+-9002.2	F7UNQ8	Putative uncharacterized protein slr0876	slr0876
+  -4.2	F7UNX1	Putative uncharacterized protein slr1866	slr1866
+   5.1	F7UQN8	Putative uncharacterized protein slr1276	slr1276
+  13.4	F7UQ09	Transposase	slr2112
+ -15.0	F7UQG6	Putative uncharacterized protein sll1885	sll1885
+ -13.0	F7UQU2	Putative uncharacterized protein slr1162	slr1162
+  -1.5	F7UKH8	Putative uncharacterized protein slr1614	slr1614
+   1.9	F7UKN4	Putative uncharacterized protein sll0669	sll0669
+   4.1	F7UL10	Putative uncharacterized protein ssr1765	ssr1765
+   8.7	F7UN47	Serine protease	htrA
+   3.0	F7UR11	Protease	pqqE
+-8991.1	F7UN18	Acetylglutamate kinase	argB
+-8997.4	F7URI9	Putative uncharacterized protein slr1923	slr1923
+-8991.9	F7UR33	Mini-ribonuclease 3	slr0954
+   7.5	F7URY4	Putative uncharacterized protein slr0770	slr0770
+  18.1	F7USI2	UvrABC system protein B	uvrB
+  26.2	F7UTD6	Ribonuclease E	rne
+ -12.7	F7USZ6	Mg-protoporphyrin IX monomethyl ester oxidative cyclase	chlE
+  -7.8	F7UTE4	Putative uncharacterized protein sll0710	sll0710
+   3.0	F7UTE5	Restriction enzyme LlaI protein	sll0709
+   2.1	F7UKT8	Putative uncharacterized protein slr0039	slr0039
+   1.5	F7UKZ6	Mannosyltransferase B	rfbU
+  14.2	F7UTL7	ATP synthase subunit b	atpF
+   3.5	F7UMA0	Putative uncharacterized protein slr1396	slr1396
+   1.5	F7UNU8	Putative uncharacterized protein slr1406	slr1406
+   2.3	F7UL17	Putative uncharacterized protein slr1083	slr1083
+   0.2	F7UNX2	Anthranilate phosphoribosyltransferase	trpD
+ -10.1	F7UPE9	Phosphate transport system permease protein PstA	pstA
+   5.6	F7UPV5	Putative uncharacterized protein slr2101	slr2101
+  -2.3	F7UQX0	Putative uncharacterized protein slr1677	slr1677
+  -1.4	F7UQW6	rRNA methylase	spoU
+   7.0	F7UQY2	Transposase	slr1682
+  -6.1	F7URB8	Potassium channel	sll0261
+  -1.6	F7URX7	6-phosphogluconate dehydrogenase, decarboxylating	gnd
+ -24.8	F7US73	Putative uncharacterized protein slr0019	slr0019
+   0.3	F7USE7	Putative uncharacterized protein sll0066	sll0066
+  14.6	F7USQ6	DNA ligase	ligA
+   8.6	F7USV1	RNA-binding protein	slr0193
+   3.1	F7USY1	Putative uncharacterized protein ssr1513	ssr1513
+   3.8	F7UTE9	HtaR suppressor protein	sohA
+   1.2	F7US38	Putative uncharacterized protein sll0314	sll0314
+-9002.5	F7UQ26	Putative uncharacterized protein sll1995	sll1995
+  -4.6	F7URL9	Putative uncharacterized protein slr1940	slr1940
+ -10.7	F7US96	Putative uncharacterized protein slr0224	slr0224
+   0.2	F7USU9	Amidase enhancer	lytB
+  -4.4	F7UT89	Iron(III) dicitrate-binding periplasmic protein	fecB
+   2.6	F7UN24	Transposase	sll1792
+   0.9	F7ULV1	Light-independent protochlorophyllide reductase subunit N	chlN
+   1.3	F7UPK5	Putative uncharacterized protein slr1712	slr1712
+  -3.7	F7URC5	Glutamate--ammonia ligase	glnN
+   0.3	F7UT56	Replicative DNA helicase	dnaB
+   3.6	F7UTK3	Putative uncharacterized protein sgl0002	sgl0002
+ -19.1	F7UKU5	NADH dehydrogenase subunit 4	ndhD4
+  -0.9	F7ULY6	Putative uncharacterized protein slr2038	slr2038
+  -0.9	F7UM97	Putative uncharacterized protein slr1394	slr1394
+   1.1	F7UME9	Putative uncharacterized protein slr1664	slr1664
+   5.9	F7UMK6	Argininosuccinate synthase	argG
+   7.2	F7ULD0	ABC transporter	sll1001
+  -5.0	F7UNB6	Transposase	sll1716
+   1.0	F7UND1	High light inducible protein	ssr2595
+  -2.9	F7UNL5	Putative uncharacterized protein sll1355	sll1355
+   2.3	F7UPE3	Transposase	sll1157
+ -12.4	F7UPR8	Putative uncharacterized protein slr0273	slr0273
+  -3.9	F7UPV2	Hybrid sensory kinase Hik21	slr2098
+   6.0	F7UQP3	Threonine synthase	thrC
+   2.1	F7US76	Aspartate aminotransferase	aspC
+ -20.5	F7UR17	Putative uncharacterized protein slr0944	slr0944
+  -5.7	F7USG7	Putative uncharacterized protein slr0065	slr0065
+  -4.3	F7UTU1	Putative uncharacterized protein sll0477	sll0477
+ -15.4	F7UU26	Putative uncharacterized protein sll0283	sll0283
+ -17.2	F7ULH4	Putative uncharacterized protein sll0528	sll0528
+  -2.7	F7UM24	Putative uncharacterized protein sll1834	sll1834
+  -3.8	F7UM79	Putative uncharacterized protein slr1384	slr1384
+  -6.4	F7UMG6	Putative uncharacterized protein sll0445	sll0445
+ -14.3	F7UNC2	Putative uncharacterized protein slr1535	slr1535
+  15.7	F7UN05	30S ribosomal protein S3	rps3
+   3.5	F7UNE0	Hydrogenase expression/formation protein HypE	hypE
+  14.7	F7UKJ4	Zinc-transporting P-type ATPase	ziaA
+  -9.2	F7UPD3	Putative uncharacterized protein sll1164	sll1164
+   5.6	F7UQE1	Hydrogenase expression/formation protein HypC	hypC
+  -5.9	F7URY8	Putative uncharacterized protein sll0772	sll0772
+  -9.3	F7UQP4	NAD(P)H-quinone oxidoreductase subunit 3	ndhC
+-9002.1	F7UR36	Cysteine--tRNA ligase	cysS
+   2.3	F7USQ1	Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase	sll1214
+  -9.8	F7UK33	Putative uncharacterized protein slr1104	slr1104
+   7.1	F7UK37	Putative uncharacterized protein ssl2009	ssl2009
+-8984.7	F7USR9	DNA gyrase subunit A	gyrA
+  -0.1	F7UKA6	Putative uncharacterized protein slr1290	slr1290
+   3.8	F7UKK0	Putative uncharacterized protein ssl1464	ssl1464
+   4.6	F7UKZ2	ATP phosphoribosyltransferase	hisG
+  -0.8	F7UL18	Putative uncharacterized protein slr1084	slr1084
+   1.3	F7ULM3	Ketol-acid reductoisomerase	ilvC
+   7.9	F7ULP9	Putative uncharacterized protein slr0668	slr0668
+  -2.0	F7UNI8	Putative uncharacterized protein sll1131	sll1131
+   4.9	F7ULY2	Glutamate 5-kinase	proB
+  -1.5	F7UPU5	Putative uncharacterized protein ssl3769	ssl3769
+  -8.5	F7UPW5	Putative uncharacterized protein slr1503	slr1503
+   9.5	F7UQ24	Putative uncharacterized protein slr2127	slr2127
+   5.6	F7UMZ2	Adenylate kinase	adk
+-8999.9	F7UQH7	Anthranilate synthase component I	trpE
+   1.7	F7UR69	Putative uncharacterized protein ssl2971	ssl2971
+-8998.6	F7USD6	Putative uncharacterized protein slr0440	slr0440
+   2.5	F7USG0	Putative uncharacterized protein slr0060	slr0060
+   6.9	F7USX1	Ferredoxin thioredoxin reductase variable chain	ftrV
+   2.3	F7UTP6	NifS protein	nifS
+   8.9	F7URV0	Orotate phosphoribosyltransferase	umpS
+  -0.1	F7UTU2	Periplasmic iron-binding protein	slr0513
+   7.9	F7UU30	Putative uncharacterized protein sll0280	sll0280
+   3.9	F7UKH5	Putative uncharacterized protein slr1611	slr1611
+  -0.8	F7UST7	Urea transport system ATP-binding protein	urtE
+-9031.0	F7UMC3	Putative uncharacterized protein sll0727	sll0727
+   4.9	F7UQ48	ATP synthase subunit beta	atpD
+   3.0	F7UQX7	Putative uncharacterized protein ssr2806	ssr2806
+   2.0	F7URJ4	Putative uncharacterized protein slr1926	slr1926
+ -23.8	F7UKL1	ABC transporter	sll0778
+   0.2	F7URY2	Putative uncharacterized protein slr0388	slr0388
+  -2.8	F7UK63	Putative uncharacterized protein sll1681	sll1681
+  -2.5	F7ULH6	Putative uncharacterized protein sll0525	sll0525
+  -2.9	F7ULN2	Putative uncharacterized protein slr0656	slr0656
+  -8.6	F7UNT3	N-acetylmuramoyl-L-alanine amidase	amiA
+   1.1	F7UMT4	Probable nicotinate-nucleotide adenylyltransferase	nadD
+  -8.2	F7UPP4	Putative uncharacterized protein sll0254	sll0254
+ -15.3	F7UQR3	Delta 15 desaturase	desB
+   3.7	F7UR45	Putative uncharacterized protein slr1624	slr1624
+  -5.1	F7UR64	Putative uncharacterized protein sll1530	sll1530
+  -1.7	F7URK0	Putative uncharacterized protein slr1932	slr1932
+   2.3	F7US63	Ribulose bisphosphate carboxylase small subunit	rbcS
+   2.5	F7US85	Putative uncharacterized protein slr0217	slr0217
+  -1.4	F7UT21	Putative uncharacterized protein slr0565	slr0565
+   3.9	F7UTA4	Putative uncharacterized protein sll1392	sll1392
+ -13.2	F7USL3	Phosphate transport system permease protein PstC	pstC
+  -0.6	F7UP05	High-affinity branched-chain amino acid transport ATP-binding protein BraG	livF
+   0.6	F7UTZ7	Putative uncharacterized protein sll0095	sll0095
+   1.6	F7UKV4	Putative uncharacterized protein slr0529	slr0529
+  13.5	F7UPA7	Transposase	slr0856
+   0.8	F7USL6	Putative uncharacterized protein slr0719	slr0719
+  -4.7	F7UTD1	Putative uncharacterized protein sll1052	sll1052
+   8.2	F7UU13	Site-determining protein	minD
+  -0.4	F7UL19	Putative uncharacterized protein slr1085	slr1085
+ -16.7	F7UKL9	Putative uncharacterized protein slr0700	slr0700
+   0.5	F7ULA7	Putative uncharacterized protein slr1043	slr1043
+ -11.9	F7ULH3	Putative uncharacterized protein sll0529	sll0529
+   1.2	F7UNH9	Putative uncharacterized protein slr1232	slr1232
+  -1.9	F7UNX6	Putative uncharacterized protein slr1869	slr1869
+  -0.4	F7UU21	Putative uncharacterized protein slr0304	slr0304
+  -3.8	F7UK59	Lysine decarboxylase	cad
+   3.9	F7UK77	Putative uncharacterized protein sll1671	sll1671
+-9000.3	F7UKH1	Alpha-D-glucose-1-phosphatecytidylyltransferase	rfbF
+  -1.5	F7UKZ3	Putative uncharacterized protein slr1619	slr1619
+   0.4	F7ULE7	Putative uncharacterized protein sll1640	sll1640
+   4.7	F7ULW2	Putative uncharacterized protein ssr3122	ssr3122
+   3.1	F7UM66	Putative uncharacterized protein sll0980	sll0980
+  -9.7	F7UMQ5	Putative uncharacterized protein sll1570	sll1570
+  14.8	F7UMZ7	50S ribosomal protein L6	rplF
+   0.0	F7UN54	Putative uncharacterized protein slr1210	slr1210
+  -0.6	F7UM74	Acetate kinase	ackA
+   3.2	F7UNL9	Putative uncharacterized protein ssr2422	ssr2422
+  -5.6	F7UQC0	PolyA polymerase	pcnB
+  11.2	F7UQT4	30S ribosomal protein S7	rps7
+   2.8	F7UR44	NAD(P)H-quinone oxidoreductase subunit M	slr1623
+   1.2	F7UTD2	Phycocyanin alpha phycocyanobilin lyase CpcF	cpcF
+   4.3	F7UK44	Carbon dioxide concentrating mechanism protein CcmL	ccmL
+   1.0	F7ULF5	Putative uncharacterized protein ssr1562	ssr1562
+  -8.8	F7UMR1	Putative uncharacterized protein sll1925	sll1925
+  -7.3	F7UN17	Periplasmic sugar-binding protein of ABC transporter	srrA
+  -1.6	F7UPV9	Glycerol-3-phosphate acyltransferase	sll1973
+  -1.2	F7UQV6	Putative uncharacterized protein sll1089	sll1089
+   0.6	F7UR41	Putative uncharacterized protein ssr2723	ssr2723
+   3.9	F7UR78	Putative uncharacterized protein ssr2754	ssr2754
+  28.3	F7UQT2	Elongation factor Tu	tufA
+   4.1	F7UST5	Putative uncharacterized protein sll0376	sll0376
+   6.5	F7ULY9	Cell division response regulator DivK/Rre42	divK
+ -33.8	F7URR0	NAD(P)H-quinone oxidoreductase chain 4	ndhD1
+-8992.9	F7UT54	Putative uncharacterized protein sll0832	sll0832
+-8996.1	F7UTJ5	Putative uncharacterized protein slr0249	slr0249
+   4.1	F7UL13	Putative uncharacterized protein slr1079	slr1079
+-8995.8	F7UK69	Spore maturation protein B	sll1677
+  -2.0	F7UQC3	Putative uncharacterized protein sll1251	sll1251
+  -0.6	F7UMW3	Leucine--tRNA ligase	leuS
+   5.6	F7UKA2	Putative uncharacterized protein sll1654	sll1654
+  -2.7	F7UKJ2	UPF0060 membrane protein SYNGTS_2742	sll0793
+   8.4	F7UKL3	Eukaryotic protein kinase	pknA
+  -2.2	F7ULU2	Transposase	slr1586
+-9006.3	F7UN95	Putative uncharacterized protein sll1734	sll1734
+ -14.0	F7UMM0	Putative uncharacterized protein slr0592	slr0592
+   8.0	F7UP19	Sugar fermentation stimulation protein homolog	sfsA
+  -0.8	F7UQ75	Putative uncharacterized protein ssl1520	ssl1520
+ -13.2	F7UP43	Sensory transduction histidine kinase Hik16	slr1805
+  -0.8	F7UR13	Putative uncharacterized protein slr0941	slr0941
+   7.8	F7UQF3	Imidazole glycerol phosphate synthase subunit HisF	hisF
+   1.2	F7URK9	Exodeoxyribonuclease III	xthA
+   4.1	F7USD8	Putative uncharacterized protein ycf40	ycf40
+  -3.0	F7UTK9	Putative uncharacterized protein sll0218	sll0218
+   5.4	F7UTH3	Ribosome maturation factor RimP	slr0742
+   1.5	F7UTX7	UDP-N-acetylglucosamine 2-epimerase	slr0624
+  -1.3	F7UK27	Putative uncharacterized protein slr1098	slr1098
+  -4.2	F7UK68	Spore maturation protein A	sll1678
+-26984.7	F7ULT5	Putative uncharacterized protein sll1476	sll1476
+   5.5	F7UKB3	tRNA (guanine-N(1)-)-methyltransferase	trmD
+   4.3	F7UNT8	Putative uncharacterized protein sll0860	sll0860
+   1.3	F7UQ06	Transposase	sll1997
+  -6.4	F7ULA2	Cobyrinic acid A,C-diamide synthase	cbiA
+   4.0	F7UNF2	Nitrate transport protein subunit NrtC	nrtC
+  -1.0	F7UQV1	Glycerol dehydrogenase	gldA
+   4.8	F7UN07	30S ribosomal protein S19	rpsS
+  -6.6	F7UR81	Putative uncharacterized protein sll1521	sll1521
+   5.3	F7URI1	ATP-dependent Clp protease proteolytic subunit	clpP4
+   5.5	F7URI5	Putative uncharacterized protein ssl0242	ssl0242
+   4.4	F7UST6	Rare lipoprotein A	rlpA
+ -15.4	F7UT16	Putative uncharacterized protein sll0556	sll0556
+   3.1	F7UTB4	Putative uncharacterized protein slr1119	slr1119
+   1.6	F7UTU9	Putative uncharacterized protein slr0519	slr0519
+  -9.6	F7UN34	Putative uncharacterized protein sll1119	sll1119
+  -1.1	F7UPK1	Putative uncharacterized protein slr2003	slr2003
+  11.0	F7UNG5	Putative uncharacterized protein slr1220	slr1220
+   2.3	F7UNM5	Putative uncharacterized protein slr1450	slr1450
+  -0.8	F7UPD2	Putative uncharacterized protein slr1243	slr1243
+   7.3	F7UTP4	ABC transporter subunit Ycf16	ycf16
+ -22.0	F7USX9	Putative uncharacterized protein sll0178	sll0178
+  11.8	F7UPR0	Putative uncharacterized protein ychF	ychF
+   1.7	F7URV7	Putative uncharacterized protein sll0350	sll0350
+   4.6	F7UT25	Putative uncharacterized protein sll0547	sll0547
+   0.8	F7UTH0	Putative uncharacterized protein slr0740	slr0740
+   6.5	F7UTC1	Adenylate kinase	adk
+ -11.0	F7UK70	4-alpha-glucanotransferase	malQ
+   2.1	F7ULV8	Modification methylase	sll0729
+ -12.5	F7UM49	Esterase	sll0992
+  -2.6	F7UMP5	Putative uncharacterized protein slr1704	slr1704
+   1.9	F7UP25	Processing protease	sll2008
+-9000.1	F7UNY2	ABC1-like	sll1770
+   8.2	F7UP18	Putative uncharacterized protein sll2015	sll2015
+   6.5	F7UPN2	Circadian clock protein KaiC homolog	kaiC2
+   2.7	F7UQV5	Glutathione peroxidase	slr1171
+   5.0	F7UQX3	Putative uncharacterized protein slr1679	slr1679
+   6.8	F7URE1	Putative uncharacterized protein sll0359	sll0359
+   6.6	F7URQ3	Low molecular weight phosphotyrosine protein phosphatase	slr0328
+  16.6	F7UP30	DNA gyrase subunit B	gyrB
+   4.3	F7URR2	Putative uncharacterized protein slr0334	slr0334
+   2.9	F7USD0	Putative uncharacterized protein sll0403	sll0403
+  -5.4	F7UT76	Putative uncharacterized protein sll1202	sll1202
+-9009.2	F7USN9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	menD
+   0.9	F7UTY3	2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase	eda
+   0.2	F7UTE6	Ribosomal RNA small subunit methyltransferase A	rsmA
+  -0.5	F7UKI7	Cation or drug efflux system protein	slr0794
+   4.5	F7UKU9	Mg-protoporphyrin IX methyl transferase	chlM
+  -1.8	F7UQS7	Putative uncharacterized protein ssl2162	ssl2162
+   9.1	F7URD3	Putative uncharacterized protein slr0392	slr0392
+  41.7	F7US53	ATP-dependent Clp protease regulatory subunit	clpC
+  -1.8	F7UPP1	Potassium-transporting ATPase C chain	kdpC
+  20.8	F7UPC0	ABC transporter	slr0864
+   9.3	F7UTI7	Putative uncharacterized protein slr0244	slr0244
+  -3.6	F7UTZ5	Putative uncharacterized protein slr0109	slr0109
+   3.9	F7ULX4	Putative uncharacterized protein ycf23	ycf23
+   7.2	F7UP80	SOS function regulatory protein LexA	lexA
+   5.0	F7UPP5	Putative uncharacterized protein sll0253	sll0253
+   2.2	F7UQB4	Putative uncharacterized protein slr1339	slr1339
+ -15.0	F7UQS9	Putative uncharacterized protein sll1103	sll1103
+   2.8	F7UNV2	Putative uncharacterized protein sll1307	sll1307
+-8996.2	F7UQ67	Putative uncharacterized protein slr0806	slr0806
+  -4.3	F7UQL2	Putative uncharacterized protein sll1380	sll1380
+  -0.9	F7UQL4	Putative uncharacterized protein sll1378	sll1378
+  10.1	F7URM9	Dihydrolipoamide acetyltransferase component(E2) of pyruvate dehydrogenase complex	odhB
+  -1.2	F7UK43	Carbon dioxide concentrating mechanism protein CcmM	ccmM
+ -50.2	F7UKR5	Putative uncharacterized protein sll0737	sll0737
+-8986.1	F7UKW6	Isoprenyl transferase	sll0506
+   6.5	F7UL22	UPF0367 protein SYNGTS_0366	ssl1972
+  -0.0	F7UL38	Biopolymer transport ExbB protein	exbB
+   4.0	F7UL68	Pseudouridine synthase	slr1592
+ -17.3	F7UL77	Cytochrome c biogenesis protein CcsA	ccsA
+  -4.6	F7ULQ1	2-hydroxyaciddehydrogenase	ddh
+   1.3	F7ULT3	6-phosphogluconolactonase	pgl
+   2.5	F7UMH9	tRNA pseudouridine synthase B	truB
+ -18.8	F7UPI9	Putative uncharacterized protein slr1990	slr1990
+   7.0	F7UPG0	Urease subunit gamma	ureA
+   3.4	F7UMS2	Putative uncharacterized protein sll1924	sll1924
+  -1.8	F7UPR7	Putative uncharacterized protein slr0272	slr0272
+   8.0	F7UQC6	Bifunctional pantothenate synthetase/cytidylate kinase	panC/kcy
+   4.4	F7URM2	Circadian clock protein KaiC	kaiC3
+  -0.2	F7URW2	Succinate-semialdehyde dehydrogenase (NADP+)	gabD
+ -14.1	F7URJ3	Chloride channel protein	sll1864
+   0.5	F7USX4	Putative uncharacterized protein ssr0332	ssr0332
+  -0.4	F7USX6	Putative membrane protein insertion efficiency factor	ssl0331
+-8999.7	F7UKP9	4-hydroxythreonine-4-phosphate dehydrogenase	pdxA
+   1.5	F7UKQ4	Putative uncharacterized protein ssl1255	ssl1255
+ -16.1	F7ULN7	LIM17 protein	lim17
+  11.5	F7UT60	Elongation factor EF-G	fus
+  -2.2	F7UQU8	Putative uncharacterized protein sll1092	sll1092
+  -2.4	F7URA0	Sterol-C-methyltransferase	sll0418
+  26.7	F7UN33	Chromosome partition protein Smc	sll1120
+-9002.7	F7URB5	Putative uncharacterized protein sll0264	sll0264
+ -16.7	F7URV3	Putative uncharacterized protein slr0359	slr0359
+   8.4	F7UTG9	Geranylgeranyl pyrophosphate synthase	crtE
+   4.1	F7USP3	Putative uncharacterized protein sll0601	sll0601
+   4.3	F7USP8	Pseudouridine synthase	slr0612
+   5.4	F7UT15	Periplasmic binding protein of ABC transporter for natural amino acids	natB
+  13.0	F7US02	ABC transporter	sll0759
+   2.1	F7UTT4	LL-diaminopimelate aminotransferase	sll0480
+   6.0	F7UU03	OmpR subfamily protein RpaA/Ycf27/Crr31/Rre31	rpaA
+   0.0	F7UNH7	Putative uncharacterized protein slr1230	slr1230
+   0.2	F7UK32	Putative uncharacterized protein slr1103	slr1103
+  -3.1	F7UMT5	Putative uncharacterized protein sll1915	sll1915
+   1.0	F7URL7	Putative uncharacterized protein sll1848	sll1848
+  -6.3	F7USS2	Putative uncharacterized protein sll0384	sll0384
+  -8.1	F7USK2	Putative uncharacterized protein sll0691	sll0691
+   0.2	F7UK36	Putative uncharacterized protein sll1036	sll1036
+   1.0	F7ULN4	Putative uncharacterized protein slr0658	slr0658
+  -1.1	F7ULU3	3-isopropylmalate dehydratase large subunit	leuC
+   3.6	F7UM41	Putative uncharacterized protein ssr1698	ssr1698
+-9007.3	F7UM80	Putative uncharacterized protein slr1385	slr1385
+   3.9	F7UP37	Putative uncharacterized protein slr2144	slr2144
+   8.9	F7UR04	Phosphoenolpyruvate carboxylase	ppc
+   3.2	F7UR25	Putative uncharacterized protein slr0950	slr0950
+   1.9	F7US28	Ribonuclease D	rnd
+ -18.0	F7UT74	Putative uncharacterized protein sll1204	sll1204
+  -1.7	F7USJ9	4'-phosphopantetheinyl transferase	hetI
+  -2.4	F7ULZ0	Putative uncharacterized protein slr2042	slr2042
+   1.7	F7UMM7	Putative uncharacterized protein sll0565	sll0565
+   5.0	F7UNR7	Putative uncharacterized protein sll0872	sll0872
+   5.7	F7UN70	Mannose-6-phosphate isomerase	manA
+   2.9	F7UQU9	Putative uncharacterized protein ssl2138	ssl2138
+   2.7	F7ULG7	Aspartate-semialdehyde dehydrogenase	asd
+  -4.3	F7UNF5	Putative uncharacterized protein sll1634	sll1634
+  -2.2	F7UR09	Putative uncharacterized protein slr0938	slr0938
+   3.7	F7USG9	Processing protease	sll0055
+   0.3	F7UT69	Putative uncharacterized protein ycf34	ycf34
+   0.4	F7UT90	Putative uncharacterized protein slr1493	slr1493
+  34.7	F7ULG6	Trigger factor	tig
+  -2.2	F7UKU4	Nitrate transport protein subunit NrtD	nrtD
+  -1.1	F7UM48	Putative uncharacterized protein slr1025	slr1025
+   5.8	F7UMB0	GumB protein	gumB
+  -1.3	F7UN58	PatA subfamily protein Rre15	slr1214
+  -0.4	F7UQ44	Putative uncharacterized protein sll1232	sll1232
+  -1.3	F7UPJ9	Cyanophycinase	slr2001
+   1.5	F7UP13	Ribosomal silencing factor RsfS	slr1886
+   6.0	F7UQY7	Putative uncharacterized protein slr1686	slr1686
+  10.7	F7URV2	2-isopropylmalate synthase	leuA
+  -4.5	F7UTT8	Transposase	slr0511
+  12.2	F7UU00	Putative uncharacterized protein slr0111	slr0111
+   5.1	F7ULE5	Putative uncharacterized protein ssr2962	ssr2962
+-8998.5	F7UP35	Isopenicillin N epimerase	cefD
+ -26.8	F7UL55	Putative uncharacterized protein sll0641	sll0641
+   8.3	F7UMU0	Putative uncharacterized protein ssl3615	ssl3615
+  -0.1	F7UNI5	Putative uncharacterized protein slr1236	slr1236
+   2.1	F7UNS2	Putative uncharacterized protein slr0885	slr0885
+   2.0	F7UPE1	Transposase	ssr2078
+   6.2	F7URH7	Cation or drug efflux system protein	sll0142
+  -1.2	F7UTR2	B-carotene ketolase	crtO
+   4.5	F7UP91	Putative uncharacterized protein sll1618	sll1618
+  33.6	F7UN73	60 kDa chaperonin	groL
+-9001.6	F7UP16	Putative uncharacterized protein slr1888	slr1888
+  -0.0	F7UQD9	Putative uncharacterized protein slr1958	slr1958
+  -1.4	F7UQU6	Sulfate adenylyltransferase	met3
+   1.6	F7URE5	Probable inorganic polyphosphate/ATP-NAD kinase	slr0400
+  -6.1	F7URF4	Dihydroorotase	pyrC
+ -10.1	F7URS9	Putative uncharacterized protein sll0173	sll0173
+   7.3	F7USG1	Putative uncharacterized protein slr0061	slr0061
+  -8.8	F7USE2	Phosphoribosylglycinamide formyltransferase	purU
+  -7.7	F7USQ0	Putative uncharacterized protein sll0558	sll0558
+   4.3	F7UT04	7-keto-8-aminopelargonic acid synthetase	bioF
+  -0.1	F7UT79	Putative uncharacterized protein sll1407	sll1407
+   2.1	F7UTX0	Ssr1041 protein	ssr1041
+ -31.3	F7UKU6	NADH dehydrogenase subunit 5	ndhF4
+   7.6	F7UL11	Putative uncharacterized protein ssr1766	ssr1766
+   0.3	F7UL16	Putative uncharacterized protein slr1082	slr1082
+   5.4	F7ULH7	Putative uncharacterized protein ssl1004	ssl1004
+-8999.2	F7ULN0	Putative uncharacterized protein slr0654	slr0654
+   2.2	F7UM60	Putative uncharacterized protein sll0985	sll0985
+ -15.1	F7UMA9	Putative uncharacterized protein sll1582	sll1582
+   4.3	F7UM00	Fat protein	slr2046
+   9.6	F7UMZ6	50S ribosomal protein L18	rpl18
+-8995.4	F7UMT6	Dihydropteroate pyrophosphorylase	folP
+   3.0	F7UNJ1	Putative uncharacterized protein ssl2245	ssl2245
+   1.2	F7UNU3	YciI-like-protein	hliB
+  -5.7	F7UP66	Putative uncharacterized protein slr1819	slr1819
+   1.9	F7UPE7	Phosphate-binding protein	pstS
+  -1.8	F7UPH0	Probable inositol monophosphatase	suhB
+  -0.3	F7UQE0	Acetyltransferase	act
+  10.5	F7UPJ3	3-ketoacyl-acyl carrier protein reductase	fabG
+  -2.2	F7UK95	Putative uncharacterized protein sll1660	sll1660
+   0.7	F7URG4	Putative uncharacterized protein slr0149	slr0149
+ -10.8	F7ULC4	Putative uncharacterized protein sll1004	sll1004
+-8990.3	F7ULD7	Regulatory component of sensory transduction system Rre8	slr1760
+   4.2	F7UMF4	Putative uncharacterized protein sll1543	sll1543
+ -12.6	F7UNQ3	Putative uncharacterized protein sll1265	sll1265
+   7.0	F7USJ6	Phosphomannose isomerase	rfbM
+ -14.0	F7UML6	Probable lipopolysaccharide ABC transporter permease protein	sll0574
+-8998.8	F7UTV3	Putative uncharacterized protein sll0471	sll0471
+-8989.8	F7USA3	ATP-dependent proteinase BsgA	sll0195
+   6.4	F7UK92	Putative uncharacterized protein sll1663	sll1663
+-8993.7	F7UKC0	2-octaprenyl-6-methoxyphenyl hydroxylase	ubiH
+   5.9	F7UNJ7	Naphthoate synthase	menB
+  -8.1	F7UP26	Hydrogenase accessory protein	hupE
+  -3.0	F7UKQ8	Putative uncharacterized protein sll0744	sll0744
+   5.7	F7UQ41	Putative uncharacterized protein ssr2201	ssr2201
+   1.0	F7UQS1	Penicillin-binding protein 1B	mrcA
+   6.3	F7UR19	Arsenate reductase	arsC
+  10.0	F7UR34	Putative uncharacterized protein slr0955	slr0955
+   2.3	F7UQ03	Probable polysaccharide ABC transporter ATP-binding protein	kpsT
+   7.8	F7USJ8	Homoserine dehydrogenase	thrA
+   1.9	F7USL4	Phosphate-binding protein	pstS
+  -7.7	F7UTT3	Putative uncharacterized protein sll0481	sll0481
+   6.1	F7UTS5	Clock protein KaiB	kaiB3
+  -3.4	F7UT63	Ferrochelatase	hemH
+  -0.3	F7ULW1	Putative uncharacterized protein sll1752	sll1752
+  -4.6	F7UNM4	Putative uncharacterized protein slr1449	slr1449
+  -2.2	F7UP77	Putative uncharacterized protein sll1628	sll1628
+-8993.0	F7UR83	Putative uncharacterized protein slr0442	slr0442
+   1.0	F7UPJ2	Acetyl coenzyme A acetyltransferase	thl
+   6.2	F7UT83	Putative uncharacterized protein slr1484	slr1484
+  24.3	F7UK57	Mg chelatase subunit	chlD
+   9.1	F7UK83	Putative uncharacterized protein ssr2998	ssr2998
+   2.6	F7UKP2	Putative uncharacterized protein slr0709	slr0709
+  -4.3	F7US24	Ribonuclease 3	rnc
+  -0.0	F7ULJ7	Putative uncharacterized protein sll1338	sll1338
+   1.9	F7UL54	Probable two-component response regulator Rre4	pleD
+  -1.8	F7UM13	Putative uncharacterized protein slr1906	slr1906
+  -5.3	F7UNU4	Putative uncharacterized protein sll1315	sll1315
+ -11.6	F7UNW8	Putative uncharacterized protein slr1862	slr1862
+   4.1	F7UR87	Putative uncharacterized protein ssr0759	ssr0759
+   7.8	F7URN3	Probable transcriptional regulatory protein SYNGTS_2047	slr0989
+   6.6	F7US95	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	mnmG
+   4.9	F7USD5	Putative uncharacterized protein sll0400	sll0400
+  -0.2	F7UTB2	UDP-N-acetyl-D-mannosaminuronic acid transferase	rffM
+  -2.8	F7UT28	Putative uncharacterized protein sll0544	sll0544
+  -2.7	F7UL97	Putative uncharacterized protein sll1503	sll1503
+   1.3	F7UMR2	Monovalent cation/H+ antiporter subunit C	mrpC
+   2.6	F7UNE6	RfbJ protein	rfbJ
+   3.9	F7UQ00	Putative uncharacterized protein ssr3570	ssr3570
+   2.3	F7UQD8	Putative uncharacterized protein slr1957	slr1957
+  -2.5	F7UT23	Putative uncharacterized protein sll0549	sll0549
+   2.6	F7UL00	Putative uncharacterized protein slr1068	slr1068
+  -2.2	F7UPA2	Putative uncharacterized protein sll0857	sll0857
+   3.2	F7UQ64	Putative uncharacterized protein sll1217	sll1217
+  -0.1	F7UQB0	Putative uncharacterized protein sll1258	sll1258
+   0.3	F7UQY1	Putative uncharacterized protein slr1681	slr1681
+-8998.7	F7UKR7	Putative uncharacterized protein sll0047	sll0047
+  -0.4	F7UM30	Putative uncharacterized protein sll1832	sll1832
+-9002.9	F7UPX4	Putative uncharacterized protein slr1507	slr1507
+   0.1	F7UQM9	Putative uncharacterized protein slr1266	slr1266
+   1.5	F7UKP3	Glutamate dehydrogenase	gdhA
+   2.5	F7ULE0	Putative uncharacterized protein slr1762	slr1762
+-8995.9	F7UM90	Putative uncharacterized protein sll1289	sll1289
+   6.4	F7ULI2	NAD(P)H-quinone oxidoreductase subunit I	ndhI
+   2.7	F7ULX5	1-deoxy-D-xylulose-5-phosphate synthase	dxs
+  -6.8	F7UQ14	Putative uncharacterized protein slr2117	slr2117
+   4.4	F7UQ25	Putative uncharacterized protein slr2128	slr2128
+  -1.5	F7UR67	Putative uncharacterized protein sll1526	sll1526
+   6.5	F7USC5	Carbon dioxide concentrating mechanism protein CcmK	ccmK
+  -0.1	F7US68	Ferredoxin	petF
+  -2.6	F7USU3	Putative uncharacterized protein sll0369	sll0369
+  -6.3	F7USL2	Phosphate transport system permease protein PstA	pstA
+-9000.9	F7UMN1	Putative uncharacterized protein slr0600	slr0600
+ -10.0	F7UMV5	Integral membrane components of other binding-protein-dependent transport system	sll1081
+   4.8	F7UN53	Putative uncharacterized protein slr1209	slr1209
+   3.9	F7UNV8	Putative uncharacterized protein sll1783	sll1783
+  -2.4	F7UTP1	Sensory transduction histidine kinase Hik36/PilL	slr0073
+  21.9	F7UM91	ATP-dependent zinc metalloprotease FtsH	ftsH
+   8.0	F7UK45	Carbon dioxide concentrating mechanism protein CcmK	ccmK1
+-9026.6	F7UNX4	Putative uncharacterized protein sll1775	sll1775
+ -13.9	F7UL56	Sulfur deprivation response regulator	Sac1
+-8996.1	F7UKQ7	6-phosphofructokinase	pfkA
+  -1.0	F7ULR3	Beta transducin-like protein	sll1491
+   4.3	F7ULY3	Transposase	ssr3452
+  -3.5	F7UM05	Putative uncharacterized protein slr2052	slr2052
+   4.7	F7UM93	Putative uncharacterized protein ssr2333	ssr2333
+-8998.5	F7UPG4	Putative uncharacterized protein slr1260	slr1260
+  19.3	F7UPZ6	Transposase	slr1524
+   3.3	F7UQL0	Putative uncharacterized protein slr1474	slr1474
+ -14.6	F7URE6	Spermidine/putrescine-binding periplasmic protein	slr0401
+   2.5	F7URY0	Putative uncharacterized protein slr0386	slr0386
+   5.8	F7URM6	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	yibO
+   6.2	F7US92	Putative uncharacterized protein ssl0385	ssl0385
+  -2.7	F7USG6	Putative uncharacterized protein slr0064	slr0064
+  -1.0	F7USY4	Putative uncharacterized protein slr0895	slr0895
+   0.3	F7UKK4	Nitrilase	merR
+  -1.9	F7ULC1	Putative uncharacterized protein slr1056	slr1056
+   7.1	F7UMM4	Ferric uptake regulation protein	fur
+   5.1	F7UMQ1	Putative uncharacterized protein ssr2857	ssr2857
+   1.6	F7ULX9	Cytochrome b559 subunit beta	psbF
+   4.8	F7UN87	Putative uncharacterized protein sll1739	sll1739
+  11.9	F7UMU5	Argininosuccinate lyase	argH
+   9.7	F7UPI4	Allophycocyanin a chain	apcA
+  -4.8	F7UPQ3	Transposase	slr0265
+-9000.6	F7UR12	Zeta-carotene desaturase	crtQ
+   1.9	F7URA2	Negative aliphatic amidase regulator	amiC
+  -9.8	F7URD1	Glycine dehydrogenase [decarboxylating]	gcvP
+   3.2	F7URU4	Putative uncharacterized protein ssl0294	ssl0294
+  33.7	F7URT2	Chaperone protein DnaK	dnaK
+ -16.0	F7USG2	Putative uncharacterized protein sll0060	sll0060
+  -3.5	F7UST1	Putative uncharacterized protein slr0420	slr0420
+   2.7	F7UT71	Putative uncharacterized protein ssl1533	ssl1533
+  -4.5	F7UTA9	Putative uncharacterized protein slr1116	slr1116
+   3.4	F7USI5	Phosphoribosylglycinamide formyltransferase	purN
+  -3.2	F7UTJ0	Arginase	sll0228
+-9015.0	F7UKU2	Putative uncharacterized protein slr0042	slr0042
+   2.7	F7ULZ3	Putative uncharacterized protein ssr3465	ssr3465
+  -4.1	F7ULE4	Glutamate decarboxylase	gad
+   3.4	F7UMS1	Putative uncharacterized protein slr2013	slr2013
+  -3.4	F7UQ16	Putative uncharacterized protein slr2119	slr2119
+   4.6	F7URS2	Photosystem I assembly protein Ycf37	ycf37
+  -6.1	F7URA5	Na+/H+ exchanger	sll0273
+   6.3	F7UL88	Putative uncharacterized protein sll1507	sll1507
+   7.2	F7UQT7	Phosphoribosylamine--glycine ligase	purD
+  -0.2	F7ULI7	Putative uncharacterized protein slr1421	slr1421
+ -13.0	F7UN59	Putative uncharacterized protein slr1215	slr1215
+   1.5	F7UQ07	Putative uncharacterized protein slr2110	slr2110
+  -1.5	F7USC9	Putative uncharacterized protein slr0438	slr0438
+  -1.0	F7USR2	Ferric aerobactin receptor	iutA
+  -5.1	F7UTZ4	Putative uncharacterized protein slr0108	slr0108
+-8992.5	F7UT32	Putative uncharacterized protein ssl1046	ssl1046
+   0.5	F7UQQ2	Penicillin-binding protein 4	pbp
+   2.5	F7UQM4	Cytochrome b6/f complex iron-sulfur subunit	petC
+   1.2	F7URE4	Chaperon-like protein for quinone binding in photosystem II	ycf39
+  -2.0	F7URY3	Putative uncharacterized protein slr0769	slr0769
+   2.9	F7USM7	Putative uncharacterized protein sll0611	sll0611
+  -9.3	F7USW4	Putative uncharacterized protein sll0181	sll0181
+  -4.9	F7US82	Cytosine-specific methyltransferase	slr0214
+   2.6	F7UMI9	Putative uncharacterized protein slr1178	slr1178
+  -4.1	F7UK79	Phosphoadenosine phosphosulfate reductase	cysH
+-8999.5	F7ULP0	Biosynthetic arginine decarboxylase	speA
+   3.2	F7ULW9	Putative uncharacterized protein sll1749	sll1749
+   3.5	F7UM53	Tyrosine--tRNA ligase	tyrS
+   7.1	F7UMX0	Putative uncharacterized protein sll1072	sll1072
+  -5.6	F7ULA3	UPF0284 protein SYNGTS_0447	sll1500
+ -50.1	F7UNA0	Photosystem I P700 chlorophyll a apoprotein A2	psaB
+  -5.2	F7UNP2	Lipoprotein signal peptidase	lspA
+   2.6	F7UNX5	Putative uncharacterized protein sll1774	sll1774
+   3.2	F7UP28	Putative uncharacterized protein sll2007	sll2007
+   1.5	F7UPH7	Putative uncharacterized protein sll1956	sll1956
+  -3.8	F7UPX5	DGDG synthase	dgdA
+   9.1	F7UR55	Twitching mobility protein	pilT
+   5.3	F7USC0	Putative uncharacterized protein sll0410	sll0410
+ -13.7	F7UPZ0	1,4-dihydroxy-2-naphtoic acid prenyltransferase	menA
+ -13.4	F7UPT5	Catalase-peroxidase	katG
+   8.2	F7ULB8	Putative uncharacterized protein slr1053	slr1053
+   7.1	F7ULG5	ATP-dependent Clp protease proteolytic subunit	clpP
+   1.4	F7ULQ4	Mannose-1-phosphate guanyltransferase	sll1496
+  -2.2	F7UM19	Putative uncharacterized protein sll1837	sll1837
+   0.6	F7UMM9	Putative uncharacterized protein slr0598	slr0598
+  -0.6	F7UN60	3-dehydroquinate dehydratase	aroQ
+  -3.3	F7UP00	Putative uncharacterized protein sll1761	sll1761
+   1.5	F7UN62	Putative uncharacterized protein sll1971	sll1971
+   1.1	F7USB6	Putative uncharacterized protein ssl0787	ssl0787
+-18008.3	F7UQU5	Ribonucleoside-diphosphate reductase	nrdA
+   5.1	F7USH4	Methionyl-tRNA formyltransferase	fmt
+   7.2	F7UTN4	Putative uncharacterized protein slr1095	slr1095
+   7.0	F7UTR8	O-methyltransferase	slr0095
+   0.5	F7UTW2	Glucokinase	glk
+  -4.6	F7UK78	Putative uncharacterized protein slr1790	slr1790
+   0.0	F7UNY4	Putative uncharacterized protein ssl3383	ssl3383
+   1.2	F7UM67	Putative uncharacterized protein slr1039	slr1039
+-8996.3	F7UKL6	Putative uncharacterized protein slr0697	slr0697
+ -17.6	F7UNL6	Putative uncharacterized protein slr1442	slr1442
+  -3.8	F7UMN8	Putative uncharacterized protein slr0606	slr0606
+   2.3	F7UPB4	Putative uncharacterized protein sll0846	sll0846
+   1.5	F7UP17	Phosphate acetyltransferase	pta
+-8992.3	F7URQ8	Response regulator OpmR-like protein PedR	ssl0564
+  20.2	F7URD8	Alanine--tRNA ligase	alaS
+   5.1	F7URT3	Putative uncharacterized protein sll0169	sll0169
+-9006.7	F7UTD3	Putative uncharacterized protein sll1049	sll1049
+  -1.8	F7US16	Triosephosphate isomerase	tpi
+ -17.4	F7UTK1	NAD(P)H-quinone oxidoreductase subunit 2	ndhB
+-118.5	F7UM51	Integrin alpha subunit protein homolog	slr1028
+   3.4	F7UMS8	Putative uncharacterized protein sll1921	sll1921
+  -1.2	F7UNU5	C4-dicarboxylase binding protein	dctP
+   7.4	F7UPJ6	Putative uncharacterized protein slr1998	slr1998
+   0.5	F7UTH9	Putative uncharacterized protein slr0238	slr0238
+   3.2	F7UK98	Putative uncharacterized protein slr1799	slr1799
+   6.7	F7UQ33	Putative uncharacterized protein sll1239	sll1239
+   6.9	F7URX9	Putative uncharacterized protein sll0327	sll0327
+  -2.7	F7UKK6	Putative uncharacterized protein slr0801	slr0801
+  -9.8	F7ULU8	Putative uncharacterized protein sll0735	sll0735
+   6.4	F7UNG4	Urease accessory protein E	ureE
+  -3.7	F7UR27	Putative uncharacterized protein sll0910	sll0910
+   0.7	F7UKT4	Putative uncharacterized protein sll0034	sll0034
+ -11.0	F7UNT6	Putative uncharacterized protein sll0862	sll0862
+ -12.3	F7UTR9	Low affinity sulfate transporter	slr0096
