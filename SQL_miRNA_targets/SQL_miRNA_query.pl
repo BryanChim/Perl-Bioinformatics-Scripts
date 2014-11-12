@@ -1,4 +1,26 @@
 #!/usr/local/bin/perl
+
+#### SQL_miRNA_query
+
+#	 VERSION 1 (does not filter by minimum TOOL number)
+#    PURPOSE: An exercise in querying an SQL database (MAPI_ts)
+#		directly from within a Perl script. MAPI_ts stores
+#		gene and miRNA target information in 4 tables:
+#		- tbl_genes 
+#		- tbl_predicted_targets
+#		- tbl_expression
+#		- tbl_unigene_refseq
+#		** See accompanying README for more details
+#		
+#    INPUT: Query parameters, $miRNA and $tissue, via command-line shift
+#		- SQL User name, from $username, via command-line shift
+#		- SQL password, from $password, via command-line shift 
+#
+#    OUTPUT: From file $outputfile, via command-line shift
+#		- Output is a SQL table:
+#			- miRNA gene unigene_id type tissue chromosome ch_start ch_end description
+
+############### LIBRARIES AND PRAGMAS ###############
 use warnings;
 use strict;
 use DBI;

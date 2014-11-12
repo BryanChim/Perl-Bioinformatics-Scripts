@@ -1,4 +1,20 @@
 #!/usr/local/bin/perl
+
+#### BryanChim_Contig_Hit_Parse
+
+#	 VERSION 1 - does not filter by e-value or number contig hits
+#
+#    PURPOSE: Extracts and outputs BLASTp hits
+#		
+#    INPUT: From file $filein, FHT 
+#
+#    OUTPUT: To standard output:
+#		- contig ID
+#		- gene name
+#		- protein description
+#		- evalue
+
+
 $|++;
 use warnings;
 use strict;

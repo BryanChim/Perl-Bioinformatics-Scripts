@@ -1,10 +1,25 @@
 #!/usr/local/bin/perl
+
+#### BryanChim_Contig_Hit_Parse
+
+#	 VERSION 2 - filters by e-value and number of contig matches
+#
+#    PURPOSE: Extracts and outputs BLASTp hits
+#		
+#    INPUT: From file $filein, FHT 
+#
+#    OUTPUT: To standard output:
+#		- contig ID
+#		- gene name
+#		- protein description
+#		- evalue
+
 $|++;
 use warnings;
 use strict;
 
 # e-value and contig-match-count cutoffs -- can be changed.
-my $eval_cutoff = "1e-50"; # <-- current minimum is 1e-200
+my $eval_cutoff = "1e-50"; # 
 my $contigmatch_cutoff = 1; # <-- filter out genes that do not match MORE than this number of contigs
 
 #open filehandle for read-in

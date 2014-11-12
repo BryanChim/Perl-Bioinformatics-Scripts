@@ -1,6 +1,9 @@
 #!/usr/bin/perl -w
-# FINDMOTIF
-#    VERSION: Version 4 (27 October 2003)
+
+# FINDMOTIF_mod
+#
+#    ORIGINAL AUTHORS: Jeff Elhai and Paul Fawcett (Fall 2003)
+#	 MODIFICATIONS BY: Bryan Chim (Fall 2013 - VERSION 5)
 #    PURPOSE: Calculates position-specific scoring matrix
 #		       from aligned sequence
 #             Finds sequences in genome sequence that PSSM
@@ -20,6 +23,10 @@
 #                 Calc_nucleotide_counts
 #                 Calc_nucleotide_frequencies
 
+#	DIFFERS FROM VERSION 4 -- information content is calculated for each position
+#			  Functionality is combined with the subroutine CALC_NUCLEOTIDE_COUNTS () into:
+#				CALC_NUCLEOTIDE_COUNTS_ANDINFO (motif sequences) - LINES 230-283
+#
 # REMOVE FOLLOWING LINE IN READ_CONTIGS AFTER TESTING !!!!
 #
 #      if (length($sequence) < 500000) {$line=""}  ### TESTING ONLY! ###
@@ -214,11 +221,14 @@
   }
        #### PSSM CONSTRUCTION SUBROUTINES ####
 
-#### CALC_NUCLEOTIDE_COUNTS (motif sequences)
+#### CALC_NUCLEOTIDE_COUNTS_ANDINFO (motif sequences)
 #    Accumulate nucleotide totals at each position
 #    counts{nucleotide}[position] is the number of times the nucleotide appears
 #          at the position
-  sub Calc_nucleotide_counts_andINFO {
+# 	 Calculates information content at each position in the motifs
+#    Pushes sufficiently "informational" positions to @informational
+ sub Calc_nucleotide_counts_andINFO 
+ {
      my (@motif_sequences) = @_;
      my $motif;
      my $position;
@@ -241,37 +251,36 @@
            }
         }
      }
+ 
+     foreach $position (0 .. $motif_length - 1) 
+	 {
+        foreach $nucleotide ('A', 'G', 'C', 'T') 
+		{
 
-
-
-     
-     foreach $position (0 .. $motif_length - 1) {
-        foreach $nucleotide ('A', 'G', 'C', 'T') {
-
-
-           if (defined (($counts{$nucleotide}[$position]))){
-           $count = ($counts{$nucleotide}[$position]);
-		   $prob = $count/$N;
-           #$pseudoct_score = (($count + $B * $bg_frequency{$nucleotide}) / ($N + $B));
-           $uncertainty += -($prob * (log($prob)/log(2)));
-           
+           if (defined (($counts{$nucleotide}[$position])))
+		   {
+			   $count = ($counts{$nucleotide}[$position]);
+			   $prob = $count/$N;
+			   #$pseudoct_score = (($count + $B * $bg_frequency{$nucleotide}) / ($N + $B));
+			   $uncertainty += -($prob * (log($prob)/log(2)));          
            }
         }
-		$information_content = 2 - $uncertainty;
-        print "$position\t$information_content\n";
-     if ($information_content > $info_threshold) {
-        push (@informational, $position);
-        }
+		
+			$information_content = 2 - $uncertainty;
+			print "$position\t$information_content\n";
+			
+			if ($information_content > $info_threshold) 
+			{
+				push (@informational, $position);
+			}
+			
       $uncertainty = 0;
-
      }
 
      print "@informational\n";
      return @informational;
 
-
-
-  }
+}
 
 #### CALC_NUCLEOTIDE_FREQUENCIES (motif sequences)
 #    Calculates the adjusted frequency at each position.

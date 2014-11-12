@@ -1,4 +1,25 @@
 #!/usr/local/bin/perl
+
+#### Parser_fpkm_tracking
+
+#    PURPOSE: Extracts information from *.fpkm_tracking
+#		output from RNA-seq transcript assembler, Cufflinks.
+#		
+#    INPUT: From file $file_gene_input, via command-line shift
+#
+#    OUTPUT: From file $file_gene_output, via command-line shift
+#		- Output is Chromosome-centric, each line of output consists of
+#			(for each given chromosome):
+#			- Chromosome Number
+#			- Total Genes counted 
+#			- Total number of genes with non-zero fpkm
+#			- Smallest fpkm value found
+#			- Largest fpkm  value found
+#			- Average fpkm
+#			- Gene with the smallest fpkm
+#			- Gene with the largest fpkm
+
+############### LIBRARIES AND PRAGMAS ###############
 $|++;
 use warnings;
 use strict;

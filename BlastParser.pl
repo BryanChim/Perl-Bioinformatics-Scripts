@@ -3,8 +3,10 @@
 
 #### BLASTPARSER
 
-#    VERSION: 4 (3 September 2004)
+#    ORIGINAL AUTHORS: Jeff Elhai and Paul Fawcett (Fall 2004)
+#	 MODIFICATIONS BY: Bryan Chim (Fall 2013)
 #    PURPOSE: Extract information from BLAST output
+#	 		  Compatible with output from BLASTn 2.2.28+
 #    INPUT: From file $blast_path, with format:
 #       (header)
 #       ...
@@ -73,7 +75,7 @@
 
 ################### MAIN PROGRAM ####################
 #
-# We'll accumlate the items of information for each query in the
+# We'll accumulate the items of information for each query in the
 # array @query_info
 #
 # Then, for each line of the BLAST file, we check for two things: the start
