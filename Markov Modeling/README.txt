@@ -16,7 +16,7 @@ Basic workflow is as follows:
      
 3) Feed your model and sequences-to-be-scored into NUCLEOTIDE/PROTEIN_Use_Markov.pl 
     ~ FROM $model_file_name and FROM $input_file_name respectively
-    (example test files used are 6803Orfs.nt (nucleotide) and 6803prots.nt (protein))
+    (example test files used are 6803Orfs.nt (nucleotide) and 6803prots.fa (protein))
   
 4) Resultant scores, calculated as summed log-odds ratios, are outputted to a score file
     alongside the annotations for each of your sequences ~FROM $output_file_name
@@ -27,8 +27,8 @@ NOTES:
 ** Generally speaking, higher and more positive scores indicate closer relation to the training set
 
 ** If you choose a very high (3rd+) Markov Order or if your training set is not sufficiently large, 
-    certain transition states may never occur and, therefore, never be accounted for in the Model. 
-    This can especially be a problem with creating a model for protein sequences, since there are 
+    certain transition states may never be seen and, therefore, not be accounted for in the model. 
+    This can especially be a problem when creating a model for protein sequences, since there are 
     so many more possible transition states. 
     
     (20 amino acids vs 4 nucleotides -- so for a 3rd order protein Markov Model there are:
@@ -38,5 +38,5 @@ NOTES:
     training set, or distribute pseudo-counts to adjust for non-occurrences. 
     
 *** I've currently and naively assigned a constant negative pseudoscore for those cases where 
-    a transition was never counted (currently set to -8). This would need to be tweaked for
-    greater accuracy/validity in the future.
+    a transition was never counted ($dummy_pseudo_score -- currently set to -8). This will need 
+    to be tweaked for greater accuracy/validity sometime the future.
