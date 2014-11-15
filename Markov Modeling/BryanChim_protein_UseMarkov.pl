@@ -83,10 +83,10 @@
   my $model_file_name = 'model.dat';
   %model = Get_Model($model_file_name);        # Restore Markov model
 
-  my $input_file_name = 'BryanChim_6803_prots.fa';
+  my $input_file_name = '6803_prots.fa';
   my $number_of_sequences = Read_FastA_sequences($input_file_name);
 
-  my $output_file_name = 'BryanChim_6803_prot-scores.txt';
+  my $output_file_name = '6803_prot-scores.txt';
   open OUTPUT, ">$output_file_name" or die "Can't open $output_file_name: $!\n";
 
 ################### MAIN PROGRAM ####################
