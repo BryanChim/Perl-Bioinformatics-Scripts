@@ -3,29 +3,38 @@
 # FINDMOTIF_mod
 #
 #    ORIGINAL AUTHORS: Jeff Elhai and Paul Fawcett (Fall 2003)
+#
 #	 MODIFICATIONS BY: Bryan Chim (Fall 2013 - VERSION 5)
+#		** SEE "DIFFERS FROM VERSION 4" section BELOW
+#
 #    PURPOSE: Calculates position-specific scoring matrix
 #		       from aligned sequence
 #             Finds sequences in genome sequence that PSSM
 #                fits best
+#
 #    INPUT FILES:
 #             motif_input: input file of aligned motifs
 #                          alignments may have gaps, represented by "."
 #             sequence_file: input file containing sequences in FA format
 #                          May contain multiple contigs
+#
 #    OUTPUT FILE: Description of format of output filesuse strict;
 #             motif_hits: output file of best motifs within sequence file
 #                Each line is name of sequence, score, start_coord, sequence
-
+#
 #    DIFFERS FROM VERSION 3 in that the subroutine Calc_motif_frequency has been split
 #             into two subroutines to facilitate later modification of the program.
 #             The two are:
 #                 Calc_nucleotide_counts
 #                 Calc_nucleotide_frequencies
-
-#	DIFFERS FROM VERSION 4 -- information content is calculated for each position
-#			  Functionality is combined with the subroutine CALC_NUCLEOTIDE_COUNTS () into:
-#				CALC_NUCLEOTIDE_COUNTS_ANDINFO (motif sequences) - LINES 230-283
+#
+#    DIFFERS FROM VERSION 4 in that information content is calculated for each position in the 
+#			motif training set ~ $motif_input
+#		* Functionality is combined with the subroutine CALC_NUCLEOTIDE_COUNTS () into:
+#			CALC_NUCLEOTIDE_COUNTS_ANDINFO (motif sequences) - LINES 230-283
+#		* If information content exceeds a user-defined threshold ~ $info_threshold
+#			then it gets scored in the score_of_region() subroutine. 
+#			(other positions are ignored)
 #
 # REMOVE FOLLOWING LINE IN READ_CONTIGS AFTER TESTING !!!!
 #
