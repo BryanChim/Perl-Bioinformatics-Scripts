@@ -1,17 +1,25 @@
 #!/usr/bin/perl -w
-# Hamlet
-#    VERSION: Version 9 (15 June 2004)
-#    PURPOSE:  Makes Markov model of Hamlet's speeches
-#         Outputs new speeches based on model
-#    INPUT FILES: Text file containing training text, in format:
-#              {text}
-#              {text}
-#         Each bracketful of text represents one utterance
-#         In creating new speeches, the program will begin with {
-#            and end with } (but won't print either symbol)
-#    OUTPUT FILES: None
-#    DIFFERS FROM VERSION 9:
-#         Clarifies program somewhat by adding new variables
+#### PROTEIN_Make_Markov
+#
+#	 ORIGINAL AUTHORS: Jeff Elhai and Paul Fawcett (Version 9, Summer 2004)
+#
+#	 MODIFICATIONS: Bryan Chim (Version 10, Fall 2013)	 
+#	** Implemented amino acid translation of the Training Set
+#	** Modified Markov modelling functionality to be compatible with AMINO ACID sequences
+#	** Make_speech and Print_speech subroutines are no longer called (but are left as they were)
+#
+#    PURPOSE:  Creates a Markov Model from nucleotide sequence inputs 
+#		of user-specified order ($order)
+#		** based on previously written code by Jeff/Paul which modelled
+#		   word-sequences from Hamlet's speeches
+#
+#    INPUT FILES: From $input_file_name; FASTA/NT format:
+#			(header)
+#			(sequence)
+#			...
+#
+#    OUTPUT FILES: From $model_file_name; binary data file containing
+#			hash of all states of order <$order> and their transition counts
 
 ############## LIBRARIES AND PRAGMAS ################
 
@@ -71,46 +79,45 @@
 my $input_file_name = '6803PHX.nt';
 my $model_file_name = 'model.dat';
 
-
-
-
 my $seqcount = Read_FastA_sequences ($input_file_name);
-
-#print "SeqCount = $seqcount\n";
 
 my ($header, $sequence, $protein_sequence, $codon, $amino_acid);
 my $i = 1;
 my $p = 0;
 my @seqarray;
-while ($i <= $seqcount) {
-        ($header, $sequence) = Get_sequence_info ($i);
 
-        while ($p < length($sequence)) {
-                $codon = substr($sequence, $p, 3);
-                $amino_acid = $DNA_TranslationHash{$codon};
-                unless ($amino_acid eq '_') {
-                        $protein_sequence .= $amino_acid;
-                        }
-                $p = $p + 3;
-                }
-                
- #print $sequence, $LF, $LF;
- #print $protein_sequence, $LF, $LF;
+while ($i <= $seqcount) 
+{
+	($header, $sequence) = Get_sequence_info ($i);
 
- push @seqarray, $protein_sequence;
- 
- $sequence = "";
- $protein_sequence = "";
- $p = 0;
- $i++;
+	while ($p < length($sequence)) 
+	{
+		$codon = substr($sequence, $p, 3);
+		$amino_acid = $DNA_TranslationHash{$codon};
+		
+		unless ($amino_acid eq '_') 
+		{
+			$protein_sequence .= $amino_acid;
+		}
+		
+		$p = $p + 3;
+	}
 
+	push @seqarray, $protein_sequence;
+	 
+	$sequence = "";
+	$protein_sequence = "";
+	$p = 0;
+	$i++;
+	
 }
+
 ################### MAIN PROGRAM ####################
 ### Three parts:
-###   Analyze text: Extracts letters from lines of text 
+###   Analyze text: Extracts letters (amino acids) from lines of text (sequences)
 ###                 and adds information to growing Markov model
-###   Produce text: Uses Markov model to create new text in the
-###                 style of the training set
+###   Produce text: Uses Markov model to create new text in the #### No longer performed in this version
+###                 style of the training set					####
 ###   Store model:  Puts Markov model as a hash into a file
    
   ### ANALYZE TEXT

@@ -1,17 +1,26 @@
 #!/usr/bin/perl -w
 # Hamlet
-#    VERSION: Version 9 (15 June 2004)
-#    PURPOSE:  Makes Markov model of Hamlet's speeches
-#         Outputs new speeches based on model
-#    INPUT FILES: Text file containing training text, in format:
-#              {text}
-#              {text}
-#         Each bracketful of text represents one utterance
-#         In creating new speeches, the program will begin with {
-#            and end with } (but won't print either symbol)
-#    OUTPUT FILES: None
-#    DIFFERS FROM VERSION 9:
-#         Clarifies program somewhat by adding new variables
+#
+#	 ORIGINAL AUTHORS: Jeff Elhai and Paul Fawcett (Version 9, Summer 2004)
+#
+#	 MODIFICATIONS: Bryan Chim (Version 10, Fall 2013)	 
+#	** Modified Markov modelling functionality to be compatible with NUCLEOTIDE sequences
+#	** Make_speech and Print_speech subroutines are no longer called (but are left as they were)
+#
+#    PURPOSE:  Creates a Markov Model from nucleotide sequence inputs 
+#		of user-specified order ($order)
+#		** based on previously written code by Jeff/Paul which modelled
+#		   word-sequences from Hamlet's speeches
+#
+#    INPUT FILES: From $input_file_name; FASTA/NT format:
+#			(header)
+#			(sequence)
+#			...
+#
+#    OUTPUT FILES: From $model_file_name; binary data file containing
+#			hash of all states of order <$order> and their transition counts
+
+
 
 ############## LIBRARIES AND PRAGMAS ################
 
@@ -21,24 +30,29 @@
 
 #################### CONSTANTS ######################
 
-  my $true = 1;			# Perl doesn't have logical variables so
+  my $true = 1;					# Perl doesn't have logical variables so
   my $false = ! $true;          #    we simulate them
   my $LF = "\n";                # Linefeed
   my $tab = "\t";               # Tab
-  my $linewidth = 60;		# Print no more than this many characters/line
-  my $begin_speech = "ATG";	# Symbol representing beginning of speech
-  my $end_speech = "}";		# Symbol representing end of speech
-  my $order = 3;		# Order of Markov Model used
-  my $sum_symbol = chr(255);
+  my $linewidth = 60;			# Print no more than this many characters/line
+  my $begin_speech = "ATG";		# Symbol representing beginning of speech
+  my $end_speech = "}";			# Symbol representing end of speech	#### No longer used in nucleotide MM
+  my $order = 3;				# Order of Markov Model used		#### MODIFY MARKOV ORDER HERE
+  my $sum_symbol = chr(255);	# Symbol preceding the sum of transitions after a set of states
+  
+  #### Added for nucleotide MM ####
+  my $i = 1;					# used as a loop iterator for each header/sequence obtained from Get_sequence_info($i)		
+  my ($header, $sequence);		# assigned to the respective header/sequence output from Get_sequence_info
+  my @seqarray;					# array containing all input sequences
 
 #################### VARIABLES ######################
 
   $| = 1;
   my %model;                    # Markov Model for all text
-  my @model_keys;		# List of characters encountered in text
-	  			#   (i.e., letters not people!)
+  my @model_keys;				# List of characters encountered in text
+								#   (i.e., letters not people!)
 
-  my $speech;			# Contains speech currently considered
+  my $speech;					# Contains speech currently considered		#### No longer used in nucleotide MM
   my $line;                     # One line of text read from input file
   my @letters;                  # Individual lettes within line of text
   my $starting_letter;          # Beginning letter of moving window 
@@ -47,39 +61,33 @@
   my $last_starting_letter;     # Last position in line of starting letter
   my @window;                   # Current characters, length = order + 1
   my %letters_seen;             # Hash of characters encountered in text 
-  my $do_more = $true;		# Variable to tell program when you're through
+  my $do_more = $true;			# Variable to tell program when you're through
 
 ###################### FILES ########################
 
-
 my $input_file_name = '6803PHX.nt';
-  #my $input_file_name = 'HamletSpeech.txt';
-  open INPUT_FILE, "<$input_file_name" or die "Can't open $input_file_name: $!\n";
+#my $input_file_name = 'HamletSpeech.txt';
 
-  my $model_file_name = 'model.dat';
+open INPUT_FILE, "<$input_file_name" or die "Can't open $input_file_name: $!\n";
 
+my $model_file_name = 'model.dat';
 
-
-
+# obtain FastA sequences via the FastA_module, push to @seqarray
 my $seqcount = Read_FastA_sequences ("6803PHX.nt");
 
-#print "SeqCount = $seqcount\n";
-
-my ($header, $sequence);
-my $i = 1;
-my @seqarray;
-while ($i < $seqcount) {
-($header, $sequence) = Get_sequence_info ($i);
- print $sequence, $LF;
- push @seqarray, $sequence;
- $i++;
+while ($i < $seqcount) 
+{
+	($header, $sequence) = Get_sequence_info ($i);
+	 #print $sequence, $LF;
+	 push @seqarray, $sequence;
+	 $i++;
 }
 ################### MAIN PROGRAM ####################
 ### Three parts:
-###   Analyze text: Extracts letters from lines of text 
+###   Analyze text: Extracts letters (nucleotides) from lines of text (sequences)
 ###                 and adds information to growing Markov model
-###   Produce text: Uses Markov model to create new text in the
-###                 style of the training set
+###   Produce text: Uses Markov model to create new text in the #### No longer performed in this version
+###                 style of the training set					####
 ###   Store model:  Puts Markov model as a hash into a file
    
   ### ANALYZE TEXT
@@ -88,8 +96,10 @@ while ($i < $seqcount) {
   ###   Pass a window from one end of the line to the other
   ###   Update Markov model according to letters within window
   
-  print "Please wait a few seconds for Hamlet to be created...", "\n";
-  foreach my $seq (@seqarray) {
+  print "Please wait a few seconds for the Markov Model to be created...", "\n";
+  
+  foreach my $seq (@seqarray) 
+  {
   $line = $seq;
   print "sequence\n";
   print "$seq\n";
@@ -99,13 +109,12 @@ while ($i < $seqcount) {
      $size_of_line = Size(@letters);
      $last_starting_letter = $size_of_line - 1 - $order;
 
-                                   # Move window of size order+1 over line
-                                   #   incrementing every window encountered
+                                  
      foreach $starting_letter (0 .. $last_starting_letter) {
         @window = @letters[$starting_letter .. $starting_letter+$order];
         Update_entry(@window);
      }
-     }
+  }
 
 
   print $LF, "UPDATE COMPLETE", $LF;

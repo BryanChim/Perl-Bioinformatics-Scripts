@@ -1,0 +1,3165 @@
+   5.3	ssr3571	264	none	hypothetical protein
+  11.7	sgl0001	120	none	-
+   9.0	sgl0002	150	none	
+ 130.3	sll0002	2583	none	ponA: penicillin-binding protein 1A
+  96.1	sll0005	2046	none	ABC1-like
+  56.0	sll0006	1185	1e-170	aspC or aat: aspartate aminotransferase
+  36.3	sll0007	576	none	hypothetical protein
+   3.3	sll0008	510	none	-
+  -8.4	sll0010	381	none	-
+  13.5	sll0012	786	none	ISY523_f: transposase
+  43.2	sll0016	1152	1e-110	mltA: membrane-bound lytic transglycosylase
+  45.1	sll0017	1302	none	hemL or gsa: glutamate-1-semialdehyde 21- am
+  52.0	sll0018	1080	1e-176	cbbA or cfxA: fructose-16-bisphosphate aldol
+  59.7	sll0019	1185	1e-156	hypothetical protein
+ 145.6	sll0020	2466	none	clpC: ATP-dependent Clp protease regulatory
+  77.2	sll0021	1251	1e-162	-
+  35.0	sll0022	750	none	-
+  61.0	sll0023	1344	none	hypothetical protein
+  22.2	sll0024	822	none	-
+  80.2	sll0026	1905	1e-179	ndhF: NADH dehydrogenase subunit 5
+  70.2	sll0027	1524	1e-126	ndhD: NADH dehydrogenase subunit 4
+  53.6	sll0030	915	none	cmpR: transcription regulator required for e
+  51.1	sll0031	1188	2e-86	-
+  86.0	sll0033	1506	none	-
+  46.7	sll0034	777	9e-55	-
+  74.1	sll0036	1302	3e-81	hypothetical protein
+  49.6	sll0037	1011	none	-
+  56.2	sll0038	1209	2e-84	PatA subfamily
+  11.0	sll0039	360	3e-33	CheY subfamily
+  11.3	sll0040	444	5e-17	-
+ 165.1	sll0041	3003	1e-109	tsr or cheD
+  31.7	sll0042	492	none	tar or cheM: methyl-accepting chemotaxis pro
+ 247.1	sll0043	4209	1e-127	CheA like protein
+  25.9	sll0044	486	none	-
+  85.8	sll0045	2163	6e-43	sps: sucrose phosphate synthase
+  -0.9	sll0047	282	.00000004	-
+  42.3	sll0048	939	none	-
+  27.8	sll0051	480	6e-18	hypothetical protein
+  86.0	sll0053	1347	none	accC or fabG: biotin carboxylase
+  74.1	sll0055	1287	1e-126	processing protease
+  43.3	sll0057	750	7e-51	grpE: heat shock protein GrpE
+  91.3	sll0058	2079	none	dnaK: DnaK protein
+  39.8	sll0060	1035	none	-
+  17.1	sll0062	372	9e-12	-
+  60.1	sll0063	1188	1e-106	-
+  49.2	sll0064	828	none	-
+  33.0	sll0065	519	2e-77	ilvN: acetolactate synthase
+  47.8	sll0066	948	3e-17	-
+  38.4	sll0067	555	3e-63	gst or parB: glutathione S-transferase
+ 179.9	sll0068	3630	4e-61	-
+  32.0	sll0069	771	none	-
+  35.0	sll0070	855	1e-120	purU or tgs: phosphoribosylglycinamide formy
+  28.2	sll0071	1002	1e-123	-
+  25.1	sll0072	684	1e-21	-
+ 118.4	sll0078	1812	none	thrS: threonyl-tRNA synthetase
+  38.5	sll0080	1056	1e-148	argC: N-acetyl-gamma-glutamyl-phosphate redu
+   5.3	sll0082	357	none	-
+  29.1	sll0083	585	none	gmhA: phosphoheptose isomerase
+  30.2	sll0084	486	none	hisB: imidazoleglycerol-phosphate dehydratas
+  57.9	sll0085	1212	none	-
+  52.2	sll0086	1191	none	hypothetical protein
+  41.2	sll0088	723	1e-67	-
+ -15.6	sll0092	687	none	ISY391_c: transposase
+  42.0	sll0094	1374	none	sensory transduction histidine kinase
+  86.2	sll0095	1596	none	ABC1-like
+  70.2	sll0096	1347	1e-134	-
+  67.4	sll0098	1053	1e-120	hypothetical protein
+  73.4	sll0099	1278	3e-44	cbiE or cobL: precorrin-6y methylase
+  68.1	sll0100	1182	1e-166	ama: N-acyl-L-amino acid amidohydrolase
+   7.2	sll0101	309	none	-
+  76.6	sll0102	1077	6e-89	-
+  67.3	sll0103	1263	1e-134	-
+  39.1	sll0107	549	6e-59	eda or hga: 4-hydroxy-2-oxoglutarate aldolas
+  38.6	sll0108	1524	1e-139	amt1: ammonium/methylammonium permease
+   3.5	sll0109	384	5e-41	aroH: chorismate mutase
+  61.2	sll0135	957	1e-117	hypothetical protein
+  66.9	sll0136	1326	1e-156	pepP: aminopeptidase P
+  86.8	sll0141	1404	1e-70	hypothetical protein
+ 186.1	sll0142	3228	none	cation or drug efflux system protein
+  42.1	sll0144	783	1e-108	pyrH or smbA: uridine monophosphate kinase
+  33.2	sll0145	549	6e-72	frr or rrf: ribosome releasing factor
+  46.7	sll0146	1119	1e-100	high-affinity branched-chain amino acid tran
+  76.9	sll0147	2007	none	-
+ 131.0	sll0148	2208	1e-31	
+  70.0	sll0149	1755	1e-128	-
+  63.3	sll0154	1389	1e-167	hypothetical 35.6 kD protein
+  36.2	sll0156	627	none	-
+  40.7	sll0157	771	2e-75	-
+  70.5	sll0158	2313	none	glgB: 14-alpha-glucan branching enzyme
+  36.1	sll0160	675	2e-42	-
+  -3.1	sll0161	303	none	ISY524_p: transposase
+  40.2	sll0162	585	5e-30	-
+ 217.2	sll0163	5082	1e-145	beta transducin-like protein
+ 105.4	sll0166	1617	1e-133	hemD: uroporphyrin-III synthase
+  22.4	sll0167	495	none	-
+  19.0	sll0168	336	5e-24	hypothetical protein
+  75.4	sll0169	2145	1e-75	-
+ 118.1	sll0170	1911	none	dnaK: DnaK protein
+  53.5	sll0171	1119	1e-137	gcvT: aminomethyltransferase
+  20.4	sll0172	459	none	-
+  31.9	sll0173	1059	none	virginiamycin B hydrolase (VGB)
+  21.3	sll0174	855	none	-
+  81.6	sll0175	1623	none	putative;  ORF1
+  17.1	sll0176	324	2e-33	-
+  56.9	sll0177	1329	1e-120	-
+ -32.7	sll0178	3960	none	-
+  75.7	sll0179	1452	none	gltX: glutamyl-tRNA synthetase
+  84.1	sll0180	1506	none	-
+  12.3	sll0181	624	none	-
+  77.9	sll0182	1986	1e-115	ABC transporter
+  49.0	sll0183	780	4e-41	hypothetical protein
+  67.9	sll0184	1215	1e-133	rpoD: RNA polymerase sigma factor
+  61.7	sll0185	1260	1e-172	-
+  88.1	sll0188	1506	.00008	-
+  36.8	sll0189	453	3e-22	hypothetical protein
+  10.3	sll0191	750	none	-
+  55.9	sll0192	1272	1e-96	-
+  18.3	sll0194	765	2e-91	ycf43: hypothetical protein
+  23.9	sll0195	645	3e-73	ATP-dependent proteinase BsgA
+  43.8	sll0198	576	none	-
+  13.2	sll0199	381	2e-25	petE: plastocyanin
+  -1.8	sll0200	360	none	ISY100_s: transposase
+   6.6	sll0201	495	none	ISY100_s: transposase
+ 114.6	sll0202	1908	none	gidA: glucose inhibited division protein A
+  72.6	sll0204	1371	1e-174	gidA: glucose inhibited division protein A
+   3.0	sll0205	378	none	-
+  46.5	sll0207	1182	1e-135	rfbA: glucose-1-phosphate thymidylyltransfer
+  32.9	sll0208	696	1e-102	hypothetical protein
+  45.2	sll0209	1023	1e-155	hypothetical protein
+  44.4	sll0210	981	4e-96	hypothetical protein
+  34.9	sll0216	633	9e-71	hypothetical protein
+  44.8	sll0217	1737	none	potential FMN-protein
+  17.3	sll0218	519	2e-38	
+  41.0	sll0219	1785	none	potential FMN-protein
+  82.9	sll0220	1896	none	glmS: L-glutamine:D-fructose-6-P amidotransf
+  26.7	sll0221	555	4e-58	bcp: bacterioferritin comigratory protein
+  53.3	sll0222	981	none	phoA: alkaline phosphatase
+  54.3	sll0223	1566	1e-175	ndhB: NADH dehydrogenase subunit 2
+  56.4	sll0224	897	3e-58	hypothetical protein
+  46.5	sll0225	1539	none	-
+  32.2	sll0226	567	1e-65	ycf4: hypothetical protein
+  30.6	sll0227	741	none	ppiB: peptidyl-prolyl cis-trans isomerase B
+  44.7	sll0228	921	1e-21	arginase
+  15.9	sll0230	306	none	hypothetical protein
+  95.9	sll0236	1677	none	-
+  51.0	sll0237	1032	none	-
+  68.0	sll0238	1605	none	-
+  22.9	sll0240	657	none	ABC transporter
+  40.2	sll0241	1023	9e-16	-
+  45.1	sll0242	2790	none	-
+  -8.2	sll0243	1251	none	-
+  41.4	sll0244	1017	1e-129	galE or galD: UDP-glucose 4-epimerase
+  69.5	sll0245	1092	1e-143	hypothetical protein
+  48.0	sll0247	1029	1e-122	isiA: iron-stress chlorophyll-binding protei
+  24.6	sll0248	513	3e-68	isiB: flavodoxin
+  24.3	sll0249	756	4e-45	hypothetical protein
+  63.9	sll0250	1209	1e-142	dfp: pantothenate metabolism flavoprotein
+  54.0	sll0252	1287	none	-
+  18.9	sll0253	540	3e-15	-
+ 113.6	sll0254	1953	none	-
+  28.5	sll0257	474	4e-36	hypothetical protein
+  26.1	sll0258	483	1e-37	psbV: cytochrome c550
+  66.8	sll0260	1347	1e-113	hemolysin
+  87.8	sll0261	1707	none	potassium channel
+  29.3	sll0262	1080	none	desD(des6): delta-6 desaturase
+  43.5	sll0263	720	none	-
+  41.0	sll0264	1089	1e-81	-
+  27.5	sll0265	906	none	-
+  33.6	sll0266	1239	none	-
+ 225.5	sll0267	4602	none	hypothetical protein
+  32.6	sll0268	408	9e-15	
+  28.5	sll0269	414	1e-27	-
+ 146.8	sll0270	2496	none	priA: primosomal protein N'
+  34.9	sll0271	828	2e-50	nusB: N utilization substance protein B
+  30.1	sll0272	426	1e-28	
+  64.9	sll0273	1623	1e-124	Na+/H+ exchanger
+  16.5	sll0274	591	2e-36	-
+  35.6	sll0280	1104	3e-19	-
+  59.5	sll0281	1173	2e-17	-
+  34.9	sll0282	981	none	-
+  19.9	sll0283	1239	1e-132	-
+  92.6	sll0284	1740	none	-
+  24.5	sll0286	516	6e-65	hypothetical protein
+  32.4	sll0288	744	1e-40	minC: septum site-determining protein MinC
+  42.1	sll0289	801	1e-75	minD: septum site-determining protein MinD
+  96.1	sll0290	2187	none	ppk: polyphosphate kinase
+  17.6	sll0293	513	none	-
+  65.7	sll0294	1203	1e-141	
+  32.7	sll0295	807	4e-57	-
+   9.0	sll0296	561	none	unidentified open reading frame
+  22.6	sll0297	588	9e-41	hypothetical protein
+  23.1	sll0298	633	none	-
+  26.3	sll0300	681	2e-60	ribC: riboflavin synthase alpha chain
+  16.7	sll0301	510	1e-43	-
+  53.4	sll0306	1038	1e-137	rpoD: RNA polymerase sigma factor
+  24.0	sll0309	699	none	-
+  50.7	sll0310	909	none	-
+  23.5	sll0312	1014	1e-115	OppB in a binding protein-dependent transpor
+  16.5	sll0314	945	1e-63	-
+ -24.4	sll0315	684	none	ISY203_i2: transposase
+  -4.1	sll0317	399	none	ISY203_i1: transposase
+  43.3	sll0318	639	1e-48	-
+  38.1	sll0319	894	none	-
+  23.3	sll0320	654	7e-71	rnd: ribonuclease D
+  59.1	sll0321	1497	none	-
+  74.5	sll0322	2304	1e-151	hypF: transcriptional regulatory protein Hyp
+  64.3	sll0325	1491	1e-116	-
+  18.7	sll0327	420	none	
+  18.1	sll0328	420	none	-
+  75.1	sll0329	1449	none	gnd: 6-phosphogluconate dehydrogenase
+  47.8	sll0330	780	3e-84	fabG: 3-ketoacyl-acyl carrier protein reduct
+  73.9	sll0335	1446	none	hypothetical protein
+  57.1	sll0336	981	1e-123	accD or ycf11: acetyl-CoA carboxylase beta s
+  48.7	sll0337	1152	7e-87	sphS: regulation of the phosphate regulon
+ 123.3	sll0350	2412	1e-159	-
+  19.3	sll0354	465	3e-42	-
+  39.5	sll0355	993	3e-88	-
+  39.3	sll0356	657	4e-61	trpF: 5'-phosphoribosyl anthranilate isomera
+   0.4	sll0359	387	1e-48	-
+  56.4	sll0360	834	1e-30	-
+  26.9	sll0361	471	.00000005	-
+ 165.0	sll0362	2634	none	alaS or lovB: alanyl-tRNA synthetase
+  18.3	sll0364	420	8e-44	-
+  23.5	sll0368	537	2e-70	pyrR: pyrimidine operon regulatory protein P
+  17.0	sll0369	429	none	-
+ 189.1	sll0370	3318	none	carB or pyrA: carbamoyl-phosphate synthase,
+ -22.7	sll0371	1566	none	-
+  25.0	sll0372	597	3e-50	-
+  63.0	sll0373	1302	1e-148	proA: gamma-glutamyl phosphate reductase
+  35.7	sll0374	750	6e-90	braG or livF or livG: high-affinity branched
+  17.8	sll0376	306	none	-
+ 146.1	sll0377	3489	none	mfd: transcription-repair coupling factor
+  46.3	sll0378	792	2e-98	cysG or cobA: uroporphyrin-III C-methyltrans
+  36.5	sll0379	888	1e-86	lpxA: acyl-[acyl-carrier-protein]--UDP-N-ace
+  59.4	sll0380	1098	2e-93	rfbW: mannosyl transferase
+  40.8	sll0381	885	none	-
+  21.8	sll0382	531	none	-
+  27.6	sll0383	645	none	cbiM: CbiM protein
+  31.0	sll0384	774	.0004	-
+  55.9	sll0385	855	9e-30	ABC transporter
+  17.8	sll0394	627	none	-
+  26.5	sll0395	639	7e-76	hypothetical protein
+  28.7	sll0396	675	3e-83	OmpR subfamily
+  21.4	sll0397	654	2e-43	-
+  69.4	sll0398	1323	none	dgt: dGTP triphosphohydrolase
+  25.0	sll0400	495	3e-40	hypothetical protein
+  55.9	sll0401	1185	1e-168	gltA or gluT: citrate synthase
+  54.2	sll0402	1170	1e-153	aspC or aat: aspartate aminotransferase
+   5.0	sll0403	423	none	-
+  95.1	sll0404	1479	none	glcD: glycolate oxidase subunit GlcD
+  -0.8	sll0405	786	none	-
+   5.8	sll0406	486	none	-
+  67.6	sll0408	1209	1e-107	hypothetical protein
+  52.2	sll0409	963	5e-61	-
+  29.6	sll0410	501	3e-45	-
+  72.8	sll0412	1260	1e-136	-
+  22.7	sll0413	624	6e-41	-
+  17.5	sll0414	861	none	hypothetical protein
+  55.9	sll0415	1065	1e-107	ABC transporter
+ 113.3	sll0416	1659	none	groEL-2: 60kD chaperonin 2
+  50.2	sll0418	957	1e-142	sterol-C-methyltransferase
+  16.5	sll0419	465	none	-
+  14.6	sll0420	318	2e-41	ureB: urease beta subunit
+  60.2	sll0421	1296	none	purB: adenylosuccinate lyase
+  56.7	sll0422	990	1e-112	asparaginase
+  26.4	sll0423	468	1e-51	-
+  81.2	sll0424	1605	none	hypothetical protein
+  26.7	sll0426	363	none	-
+  21.9	sll0427	825	7e-87	psbO: photosystem II manganese-stabilizing p
+ -13.6	sll0428	1053	none	-
+ 104.2	sll0430	1977	none	htpG: heat shock protein
+   1.2	sll0431	849	none	ISY100_h: transposase
+  15.4	sll0436	456	2e-57	-
+  11.5	sll0441	1383	none	-
+  11.8	sll0442	336	1e-34	-
+  54.2	sll0443	1410	none	-
+  15.4	sll0444	504	none	-
+  46.8	sll0445	1488	none	-
+  67.0	sll0446	3219	none	-
+   0.2	sll0447	726	none	-
+  22.7	sll0448	1206	none	-
+  39.3	sll0449	1119	none	-
+ 111.6	sll0450	2211	none	norB: cytochrome b subunit of nitric oxide r
+   3.0	sll0451	465	.00004	hypothetical protein
+  53.1	sll0454	996	1e-145	pheS: phenylalanyl-tRNA synthetase alpha cha
+  84.9	sll0455	1302	1e-153	thrA or hom: homoserine dehydrogenase
+  51.0	sll0456	1002	1e-101	-
+  92.8	sll0459	2010	none	uvrB: excinuclease ABC subunit B
+  48.8	sll0461	1263	1e-125	proA: gamma-glutamyl phosphate reductase
+  58.6	sll0462	1101	none	-
+  63.0	sll0467	1101	1e-114	queA: queuosine biosynthesis protein QueA
+  28.0	sll0469	1002	1e-154	prsA or prs: ribose-phosphate pyrophosphokin
+  16.3	sll0470	561	5e-30	-
+ 114.5	sll0471	2055	none	-
+  29.1	sll0473	990	none	-
+  85.4	sll0474	2421	7e-78	sensory transduction histidine kinase
+  19.8	sll0477	765	none	-
+  15.4	sll0478	444	none	-
+  30.4	sll0479	453	none	-
+  45.5	sll0480	1239	none	hypothetical protein
+  31.8	sll0481	468	none	
+  60.5	sll0482	1158	none	hypothetical protein
+  35.2	sll0484	738	5e-77	ABC transporter
+  14.9	sll0485	900	none	NarL subfamily
+   9.0	sll0486	309	none	PCC7942 clock gene...ORFE
+  38.9	sll0487	1209	1e-145	hypothetical protein
+  27.5	sll0488	612	none	-
+  65.4	sll0489	1029	1e-108	ABC transporter
+  32.2	sll0493	687	3e-53	hypothetical protein
+  -2.6	sll0494	906	none	-
+  61.9	sll0495	1542	none	asnS: asparaginyl-tRNA synthetase
+  38.6	sll0496	1185	none	-
+  24.8	sll0497	828	3e-58	-
+   8.2	sll0498	453	none	-
+ 124.5	sll0499	2847	1e-66	-
+  38.5	sll0501	957	none	hypothetical protein
+  63.2	sll0502	1755	none	argS: arginyl-tRNA-synthetase
+  79.9	sll0503	1425	1e-135	-
+  67.2	sll0504	1410	1e-179	lysA: diaminopimelate decarboxylase
+  48.4	sll0505	912	2e-81	hypothetical protein
+  59.1	sll0506	750	1e-107	hypothetical protein
+  38.0	sll0507	1164	none	magnesium and cobalt transport protein
+  17.9	sll0508	513	none	-
+  56.3	sll0509	909	5e-46	Ap-4-A phosphorylase II
+  24.0	sll0513	834	1e-108	-
+  80.4	sll0514	1665	1e-136	-
+  14.7	sll0517	306	3e-29	rbpA: RNA binding protein
+  38.7	sll0518	1158	3e-13	-
+  53.8	sll0519	1119	1e-169	ndhA: NADH dehydrogenase subunit 1
+   2.5	sll0520	582	7e-97	ndhI: NADH dehydrogenase subunit NdhI
+  23.2	sll0521	597	5e-63	ndhG: NADH dehydrogenase subunit 6
+  -6.1	sll0522	306	2e-31	ndhE: NADH dehydrogenase subunit 4L
+  64.9	sll0524	1344	1e-110	hypothetical protein
+  11.0	sll0525	396	2e-26	-
+  54.8	sll0528	1140	1e-114	hypothetical protein
+ 139.0	sll0529	2196	none	-
+  82.2	sll0533	1416	1e-107	tig: trigger factor
+  34.8	sll0534	681	3e-94	clpP: ATP-dependent Clp protease proteolytic
+  65.3	sll0535	1338	none	clpX: ATP-dependent protease ATPase subunit
+  54.8	sll0536	1071	none	hypothetical protein
+  72.4	sll0537	1626	none	amt3: ammonium/methylammonium permease
+ -30.8	sll0539	1194	none	
+  60.7	sll0540	924	2e-48	hypothetical protein
+  19.9	sll0541	957	1e-115	desC(des9): acyl-CoA desaturase 1
+  94.2	sll0542	1962	none	acs: acetyl-coenzyme A synthetase
+  15.1	sll0543	447	none	-
+  53.5	sll0544	1002	2e-76	-
+  34.3	sll0545	723	1e-31	hypothetical protein
+  21.8	sll0546	336	2e-27	hypothetical protein
+  39.7	sll0547	663	none	hypothetical protein
+  25.1	sll0549	750	1e-57	-
+  68.1	sll0550	1722	none	flavoprotein
+  34.3	sll0552	507	none	-
+  40.6	sll0553	921	1e-104	-
+  17.4	sll0554	357	6e-50	ftrC: ferredoxin-thioredoxin reductase, cata
+  52.1	sll0555	843	1e-108	map: methionine aminopeptidase
+ 104.9	sll0556	1896	1e-165	-
+  50.3	sll0558	702	1e-63	hypothetical protein
+  12.0	sll0563	633	none	-
+  50.6	sll0564	984	5e-98	-
+  19.7	sll0565	402	.00008	-
+  16.7	sll0567	498	4e-47	fur: ferric uptake regulation protein
+  80.0	sll0569	1065	1e-121	recA: RecA gene product
+  71.9	sll0572	1413	none	-
+  70.5	sll0573	927	none	arcC: carbamate kinase
+  28.6	sll0574	816	3e-86	rfbA: integral membrane O-antigen translocat
+  23.1	sll0575	765	4e-90	rfbB: ATP-binding protein
+  38.7	sll0576	939	6e-19	HrEpiB
+  16.5	sll0577	510	5e-32	-
+  74.1	sll0578	1167	1e-108	purK: phosphoribosyl aminoimidazole carboxyl
+  24.4	sll0584	522	1e-32	ycf36: hypothetical protein
+  24.0	sll0585	954	1e-125	hypothetical protein
+  70.2	sll0586	1227	1e-111	hypothetical protein
+  78.7	sll0587	1422	none	pykF: pyruvate kinase
+  11.1	sll0588	462	none	-
+ -25.9	sll0590	1695	none	-
+  52.8	sll0593	1068	1e-101	glk: glucokinase
+  28.5	sll0594	618	4e-23	transcriptional regulatory protein
+  20.8	sll0595	432	none	-
+  40.2	sll0596	735	1e-107	-
+  54.3	sll0597	1128	5e-44	hypothetical protein
+  51.8	sll0601	819	1e-116	hypothetical protein
+ 108.1	sll0602	2076	1e-116	-
+  92.2	sll0603	1788	1e-129	menD: 2-succinyl-6-hydroxy-24-cyclohexadiene
+  88.6	sll0606	1431	5e-84	-
+  15.9	sll0608	315	1e-29	hypothetical protein
+  22.1	sll0609	321	9e-19	
+  20.9	sll0611	447	1e-25	-
+  56.7	sll0613	1086	1e-130	ruvB: Holliday junction DNA helicase RuvB
+  18.3	sll0614	399	none	-
+  28.1	sll0615	621	1e-61	transmembrane protein FT27
+ 135.1	sll0616	2799	none	secA: preprotein translocase SecA subunit
+  40.3	sll0617	804	3e-61	im30: chloroplast membrane-associated 30 kD
+  33.7	sll0621	747	3e-50	dsbD or cycZ: thiol:disulfide interchange pr
+  40.0	sll0622	957	1e-138	nadA: quinolinate synthetase
+  45.5	sll0623	690	.00000001	-
+  -6.1	sll0624	318	none	
+  34.2	sll0625	678	none	
+  74.9	sll0626	1470	1e-82	lim17: LIM17 protein
+  13.8	sll0629	387	none	psaK: photosystem I subunit X
+  20.2	sll0630	438	none	-
+  88.5	sll0631	1662	none	nadB: L-aspartate oxidase
+  51.5	sll0634	864	1e-116	btpA: affect to accumulation of PsaA and Psa
+  50.5	sll0635	1032	1e-115	thiE: thiamin biosynthetic bifunctional enzy
+  81.8	sll0638	1350	3e-47	-
+  40.4	sll0639	1254	1e-138	hypothetical protein
+  90.0	sll0640	1839	none	Sac1: sulfur deprivation response regulator
+  40.0	sll0641	1530	none	-
+  40.6	sll0643	621	2e-89	ureG: urease accessory protein G
+  51.7	sll0644	996	none	esterase
+  32.1	sll0645	768	3e-11	-
+ 105.1	sll0646	2271	1e-161	cyaA: adenylate cyclase
+  29.9	sll0647	771	none	-
+  46.8	sll0648	1077	4e-92	lim: lipophilic protein
+  47.4	sll0649	738	1e-86	OmpR subfamily
+  -3.0	sll0650	360	none	ISY100_j: transposase
+   5.7	sll0651	495	none	ISY100_j: transposase
+ 179.1	sll0654	4230	1e-119	alkaline phosphatase
+ 168.0	sll0656	5640	1e-145	nucH: extracellular nuclease
+  58.3	sll0657	1098	1e-106	mraY: phospho-N-acetylmuramoyl-pentapeptide-
+   5.2	sll0658	495	5e-15	-
+  43.8	sll0659	1569	1e-156	-
+  62.6	sll0660	1050	1e-121	pdxA: pyridoxal phosphate biosynthetic prote
+  22.8	sll0661	387	9e-49	ycf35: ycf35 gene product
+  22.9	sll0662	402	3e-36	ferredoxin (bacterial type ferredoxin family
+   2.3	sll0664	921	none	-
+  10.0	sll0665	345	none	ISY523_r: transposase
+   5.2	sll0666	420	none	ISY523_r: transposase
+ -18.1	sll0667	660	none	ISY352_e2: transposase
+   0.2	sll0668	381	none	ISY352_e2: transposase
+  12.8	sll0669	321	none	-
+  18.1	sll0670	510	6e-49	-
+  14.9	sll0671	1143	1e-127	magnesium and cobalt transport protein
+  89.2	sll0672	2838	none	cation-transporting ATPase(E1-E2 ATPase)
+  11.5	sll0676	543	none	-
+  13.5	sll0677	786	none	ISY523_h: transposase
+  -3.0	sll0678	438	2e-20	
+  42.8	sll0679	1011	1e-105	sphX: SphX protein precursor
+  62.4	sll0680	1152	1e-112	pstS or phoS: phosphate-binding periplasmic
+  45.6	sll0681	954	1e-104	pstC or phoW: phosphate transport system per
+  50.7	sll0682	864	6e-71	pstA or phoT: phosphate transport system per
+  44.6	sll0683	810	1e-109	pstB or phoT: phosphate transport ATP-bindin
+  34.8	sll0684	801	none	pstB or phoT: phosphate transport ATP-bindin
+  26.4	sll0685	489	5e-34	-
+  30.4	sll0686	828	2e-69	hypothetical protein
+  21.7	sll0687	558	7e-35	hypothetical protein
+  39.5	sll0688	804	4e-26	-
+  77.1	sll0689	1386	1e-123	Na/H+ antiporter
+   0.6	sll0690	402	7e-17	vapC: virulence associated protein C
+  27.1	sll0691	603	2e-32	-
+  35.0	sll0696	873	4e-55	-
+  77.8	sll0698	1992	none	dfr: drug sensory protein A
+  -1.8	sll0699	360	none	ISY100_i: transposase
+   6.6	sll0700	495	none	ISY100_i: transposase
+   7.4	sll0702	393	3e-9	-
+  32.5	sll0703	1200	none	-
+  54.1	sll0704	1176	1e-131	nifS: NifS protein
+  42.1	sll0708	855	7e-62	ksgA: dimethyladenosine transferase
+ -24.0	sll0709	1389	none	llaI.2: 2nd component required for LlaI rest
+ -22.8	sll0710	2181	none	-
+  55.5	sll0711	948	1e-80	hypothetical protein
+  54.3	sll0712	978	1e-148	cysM: cysteine synthase
+  39.4	sll0716	591	3e-55	lepB: leader peptidase I
+   2.4	sll0720	444	none	apxIC gene product  hemolysin activation pro
+  56.6	sll0721	3873	4e-31	leukotoxin (LtA)
+   9.3	sll0722	651	none	-
+  76.3	sll0723	5316	none	-
+ 109.0	sll0726	1704	none	pgm: phosphoglucomutase
+  43.4	sll0727	1743	8e-89	-
+  50.3	sll0728	981	1e-110	accA: acetyl-CoA carboxylase alpha subunit
+  24.5	sll0729	858	2e-89	modification methylase
+  25.0	sll0732	576	none	-
+   6.3	sll0733	450	none	
+  44.8	sll0735	1590	none	-
+  65.5	sll0736	1227	2e-96	-
+ 120.5	sll0737	2586	none	-
+  25.3	sll0738	813	3e-53	modA: molybdate-binding periplasmic protein
+  88.0	sll0739	1848	none	ABC transporter
+  23.8	sll0740	708	1e-65	-
+ 200.5	sll0741	3600	none	nifJ: pyruvate oxidoreductase
+  11.6	sll0742	450	none	hypothetical protein
+   9.7	sll0743	483	none	hypothetical protein
+  23.0	sll0744	1032	1e-118	-
+  28.6	sll0745	1155	none	pfkA: phosphofructokinase
+  29.2	sll0749	600	9e-30	-
+  44.7	sll0750	1152	1e-102	sarA: sensory transduction histidine kinase
+  19.6	sll0751	510	none	ycf22: hypothetical protein
+  43.2	sll0752	864	none	-
+  57.0	sll0753	885	1e-111	folD: methylenetetrahydrofolate dehydrogenas
+  24.3	sll0754	402	5e-41	hypothetical protein
+  14.8	sll0755	603	5e-88	thiol-specific antioxidant protein
+   7.1	sll0756	609	none	-
+  52.3	sll0757	1488	none	purF: amidophosphoribosyltransferase
+  46.5	sll0759	1044	1e-128	ABC transporter
+  40.5	sll0760	885	1e-104	ycf38: ycf38 gene product
+   8.3	sll0761	360	none	-
+   8.5	sll0762	351	none	-
+  15.4	sll0763	360	.0000003	-
+  64.3	sll0764	1122	1e-104	livG: high-affinity branched-chain amino aci
+  45.1	sll0765	837	5e-88	hypothetical protein
+  34.8	sll0766	732	6e-91	radC: RadC protein
+  26.2	sll0767	354	1e-34	rpl20: 50S ribosomal protein L20
+  76.2	sll0771	1407	none	glcP: glucose transport protein
+  54.3	sll0772	1641	none	-
+  17.9	sll0775	378	none	-
+  -9.6	sll0776	1518	none	pknA: eukaryotic protein  kinase
+  12.0	sll0777	918	none	-
+  63.5	sll0778	2373	1e-72	ABC transporter
+  86.5	sll0779	2655	3e-46	PleD gene product homologue
+  -1.0	sll0780	303	none	-
+  15.5	sll0781	468	none	-
+   7.5	sll0782	1110	6e-20	putative protein kinase
+  -4.1	sll0783	483	none	-
+  28.1	sll0784	1041	none	merR: nitrilase
+   1.4	sll0785	1089	none	-
+   1.1	sll0786	579	none	-
+   9.2	sll0787	969	none	hypothetical protein
+  31.0	sll0788	591	9e-30	hypothetical protein
+  15.6	sll0789	699	1e-78	OmpR subfamily
+  42.0	sll0790	1377	1e-105	sensory transduction histidine kinase
+   0.4	sll0792	399	2e-37	smtB: transcriptional repressor SmtB
+   6.0	sll0793	327	none	hypothetical protein
+  -1.7	sll0794	1113	1e-129	merR/cobH: mercuric resistance operon regula
+  28.3	sll0797	705	none	OmpR subfamily
+  36.4	sll0798	1365	none	sensory transduction histidine kinase
+   5.7	sll0800	399	none	-
+  14.9	sll0802	444	none	hypothetical protein
+  15.5	sll0803	480	none	hypothetical protein
+  69.4	sll0804	1362	1e-116	-
+  25.6	sll0807	693	1e-112	cfxE: pentose-5-phosphate-3-epimerase
+  -1.0	sll0808	567	none	ISY508_a: transposase
+  41.2	sll0809	672	4e-59	-
+ -11.1	sll0810	561	none	-
+ -14.2	sll0811	345	none	-
+  17.9	sll0812	462	1e-33	
+  43.9	sll0813	903	3e-65	ctaC or coxB: cytochrome c oxidase subunit I
+  54.0	sll0814	912	1e-101	-
+  13.0	sll0815	795	3e-15	hypothetical protein
+  63.8	sll0816	1116	1e-113	hypothetical protein
+  47.9	sll0817	912	1e-100	miaA or trpX: tRNA delta-2-isopentenylpyroph
+  50.8	sll0818	840	7e-82	hypothetical protein
+  24.8	sll0819	498	2e-47	psaF: photosystem I subunit III
+ 193.5	sll0821	3831	none	hypothetical protein
+  16.3	sll0822	390	1e-38	-
+  42.9	sll0823	738	none	sdhB: succinate dehydrogenase iron-sulfur pr
+  65.7	sll0825	1251	8e-99	pcnB: polyA polymerase
+  50.2	sll0827	1491	7e-75	-
+  89.7	sll0828	1521	1e-140	nylA: 6-aminohexanoate-cyclic-dimer hydrolas
+  24.5	sll0829	639	7e-68	rapQ: methyltransferase
+ 116.1	sll0830	2010	none	fus: elongation factor EF-G
+  28.6	sll0832	456	6e-42	-
+  58.7	sll0833	1116	1e-142	OppC in a binding protein-dependent transpor
+  71.3	sll0834	1695	none	low affinity sulfate transporter
+  55.5	sll0837	885	4e-63	-
+  49.2	sll0838	696	4e-73	pyrF: orotidine 5' monophosphate decarboxyla
+  34.9	sll0839	594	3e-20	-
+  67.5	sll0842	1527	1e-173	nplT: neopullulanase
+  22.6	sll0843	1098	none	-
+  50.5	sll0844	1077	1e-143	hypothetical protein
+  19.7	sll0846	309	2e-22	-
+  17.3	sll0847	606	.00005	-
+  42.7	sll0848	1344	1e-157	dnaA: chromosomal replication initiator prot
+  31.1	sll0849	1059	none	psbD: photosystem II D2 protein
+  33.6	sll0851	1419	none	psbC: photosystem II CP43 protein
+  14.4	sll0853	561	none	-
+  54.9	sll0854	927	1e-126	-
+  58.6	sll0855	1356	none	hypothetical protein
+  16.8	sll0856	561	none	rpoE: RNA polymerase sigma-E factor
+  18.1	sll0857	369	none	-
+  24.1	sll0858	594	none	-
+  22.9	sll0860	522	3e-40	-
+  47.4	sll0861	918	1e-111	hypothetical protein
+  91.3	sll0862	1512	1e-147	-
+  19.2	sll0863	402	1e-19	
+  29.7	sll0864	474	4e-16	-
+  92.1	sll0865	1881	none	uvrC: excinuclease ABC subunit C
+  51.1	sll0867	1209	1e-157	-
+  27.9	sll0868	912	1e-123	lipA or lip: lipoic acid synthetase
+  33.5	sll0869	597	2e-55	aat: Leu/Phe-tRNA-protein transferase
+  26.7	sll0871	429	3e-26	-
+  21.8	sll0872	393	none	-
+  46.7	sll0873	1164	none	napC: carboxynorspermidine decarboxylase
+  54.6	sll0875	777	1e-66	hypothetical protein
+  36.4	sll0876	636	8e-35	ruvA: Holliday junction DNA helicase RuvA
+  58.9	sll0877	1371	4e-77	-
+  52.7	sll0886	840	9e-98	hypothetical protein
+  55.7	sll0887	1341	1e-158	-
+  18.9	sll0888	573	5e-65	-
+  48.8	sll0891	975	1e-99	citH or ldh: 2-ketoacid dehydrogenase (malat
+  26.0	sll0892	438	5e-21	panD: aspartate 1-decarboxylase
+  40.1	sll0895	876	7e-85	cysQ or amtA: ammonium transport protein
+  28.0	sll0896	504	2e-16	Holliday juction resolvase ruvC
+  73.6	sll0897	1134	1e-139	dnaJ: DnaJ protein
+  59.6	sll0898	1110	1e-103	hypothetical protein
+  72.0	sll0899	1371	1e-171	glmU: UDP-N-acetylglucosamine pyrophosphoryl
+  42.3	sll0900	633	5e-78	hisG: ATP phosphoribosyltransferase
+  37.7	sll0901	531	2e-68	purE or ade6: phosphoribosylaminoimidazole c
+  48.8	sll0902	927	1e-116	argF: ornithine carbamoyltransferase chain f
+  34.3	sll0905	588	7e-59	maf: maf protein
+   3.6	sll0909	687	.00004	-
+ -22.7	sll0910	1092	none	hypothetical protein
+   3.3	sll0911	387	none	-
+ 113.7	sll0912	1911	none	ABC transporter
+   6.9	sll0913	606	none	hypothetical protein
+  -1.6	sll0914	1131	none	-
+  80.0	sll0915	1575	1e-158	pqqE: protease
+  26.7	sll0916	654	none	cbiC or cobH: precorrin isomerase
+ 150.5	sll0920	3105	none	ppc: phosphoenolpyruvate carboxylase
+  40.6	sll0921	669	2e-67	NarL subfamily
+   1.6	sll0922	351	none	
+  71.5	sll0923	2271	4e-54	epsB: exopolysaccharide export protein
+  16.9	sll0924	555	3e-35	-
+  20.9	sll0925	609	6e-45	-
+  45.6	sll0926	1005	none	hypothetical protein
+  66.5	sll0927	1230	1e-162	metX: S-adenosylmethionine synthetase
+   9.5	sll0928	486	1e-62	apcD: allophycocyanin-B
+  16.7	sll0930	594	none	
+  29.1	sll0931	471	none	-
+  44.6	sll0932	1014	4e-76	-
+  24.9	sll0933	477	8e-13	-
+  50.5	sll0934	1056	1e-161	ccmA: carboxysome formation protein
+  99.9	sll0936	1506	none	hypothetical protein
+  80.8	sll0938	1176	1e-140	aspartate transaminase
+  16.3	sll0939	378	none	-
+  22.9	sll0943	663	none	-
+   9.5	sll0944	495	2e-32	-
+  66.7	sll0945	1434	none	glgA: glycogen synthase
+  21.9	sll0947	576	1e-70	lrtA: light repressed protein
+  54.2	sll0980	1191	none	-
+  24.3	sll0981	498	none	-
+  24.8	sll0982	387	.0004	-
+  29.3	sll0983	921	5e-43	-
+  13.0	sll0984	447	6e-52	-
+  54.8	sll0985	2043	1e-51	-
+  -4.7	sll0986	387	none	ISY120_f: transposase
+  42.2	sll0990	1110	1e-122	formaldehyde dehydrogenase (glutathione)
+  14.1	sll0992	831	3e-84	esterase
+  49.9	sll0993	1098	1e-119	potassium channel
+  19.5	sll0994	810	none	-
+  30.6	sll0995	696	none	-
+  65.3	sll0996	1356	none	hypothetical protein
+  25.5	sll0997	1092	none	-
+  45.5	sll0998	1038	1e-143	LysR transcriptional regulator
+  54.7	sll1001	783	6e-97	ABC transporter
+  82.6	sll1002	1371	4e-58	ycf22: hypothetical protein
+  35.5	sll1003	1986	none	sensory transduction histidine kinase
+  70.2	sll1004	1185	1e-124	-
+  48.8	sll1005	810	1e-82	regulatory protein for beta-lactamase
+  41.8	sll1006	1098	none	-
+  -5.3	sll1009	1776	5e-44	frpC: iron-regulated protein
+  30.6	sll1011	813	8e-35	hypothetical protein
+  42.7	sll1017	1329	none	amt2: ammonium/methylammonium permease
+  67.3	sll1018	1326	7e-98	pyrC: dihydroorotase
+  30.0	sll1019	774	1e-98	HAGH1: glyoxalase II
+  52.0	sll1020	822	none	-
+ 146.8	sll1021	2022	none	-
+  15.9	sll1022	729	3e-58	-
+  74.1	sll1023	1206	2e-65	sucC: succinate--CoA ligase
+  36.5	sll1024	825	1e-87	hypothetical protein
+  72.4	sll1025	1179	4e-67	-
+  82.3	sll1027	1485	none	gltD: NADH-glutamate synthase small subunit
+  13.6	sll1028	312	8e-48	ccmK: carbon dioxide concentrating mechanism
+  20.4	sll1029	336	9e-49	ccmK: carbon dioxide concentrating mechanism
+  14.8	sll1030	303	1e-27	ccmL: carbon dioxide concentrating mechanism
+  71.2	sll1031	2064	1e-131	ccmM: carbon dioxide concentrating mechanism
+  26.0	sll1032	726	2e-26	ccmN: hypothetical protein
+  80.9	sll1033	2007	1e-123	-
+  39.5	sll1035	651	9e-82	upp or uraP: uracil phosphoribosyltransferas
+  32.9	sll1036	879	2e-99	-
+  65.5	sll1037	1476	none	-
+  28.9	sll1039	1005	none	hypothetical protein
+  90.8	sll1040	2298	none	-
+  44.5	sll1041	783	none	ABC transporter
+ 112.2	sll1043	2157	none	pnp: polyribonucleotide nucleotidyltransfera
+  26.0	sll1045	411	1e-24	mutT: mutator MutT protein
+  62.4	sll1049	1695	none	-
+  40.8	sll1051	645	4e-40	cpcF: phycocyanin alpha phycocyanobilin lyas
+  19.5	sll1052	375	3e-27	-
+  92.0	sll1053	1563	7e-57	hypothetical protein
+  50.6	sll1054	564	4e-61	hypothetical protein
+ 134.4	sll1056	2307	none	purL or purI: phosphoribosylformyl glycinami
+   5.6	sll1057	381	2e-23	trx: thioredoxin M
+  42.9	sll1058	828	1e-112	dapB: dihydrodipicolinate reductase
+  25.5	sll1059	546	4e-52	adk: adenylate kinase
+ 101.6	sll1060	3030	none	-
+  -0.4	sll1061	516	none	-
+   6.1	sll1062	378	none	-
+  32.7	sll1063	660	2e-35	-
+  58.7	sll1064	1707	.0000003	-
+  13.1	sll1068	432	none	-
+  64.6	sll1069	1251	1e-171	fabF or fabJ: beta ketoacyl-acyl carrier pro
+ 106.3	sll1070	2013	none	tktA: transketolase
+  37.9	sll1071	828	1e-103	hypothetical protein
+  18.1	sll1072	672	2e-52	-
+ 152.1	sll1074	2610	none	leuS: leucyl-tRNA synthetase
+ 130.5	sll1076	2889	none	ziaA: Zinc exporter
+  68.8	sll1077	1173	none	speB: agmatine ureohydrolase
+  19.1	sll1078	363	none	hypothetical protein
+  21.9	sll1079	690	none	hypB: hydrogenase expression/formation prote
+  49.3	sll1080	1059	none	-
+  24.3	sll1081	843	none	integral membrane components of other bindin
+  38.3	sll1082	801	none	nrtD: nitrate transport protein NrtD
+ 115.6	sll1084	2598	none	-
+  83.3	sll1085	1662	none	glpD or glyD: glycerol-3-phosphate dehydroge
+  20.5	sll1086	468	5e-9	-
+  69.5	sll1087	1539	none	sodium-coupled permease
+  20.8	sll1089	642	none	-
+  48.0	sll1091	1224	1e-170	391 aa (43 kD) bacteriochlorophyll synthase
+   2.4	sll1092	387	none	-
+  -0.6	sll1094	303	2e-12	unclassified: transposase
+  18.9	sll1095	636	6e-47	hypothetical protein
+  19.7	sll1096	381	2e-63	rps12: 30S ribosomal protein S12
+  35.8	sll1097	471	5e-65	rps7: 30S ribosomal protein S7
+  94.5	sll1098	2076	none	fus: elongation factor EF-G
+  51.8	sll1099	1200	1e-175	tufA: protein synthesis elongation factor Tu
+  17.6	sll1101	318	3e-54	rps10: 30S ribosomal protein S10
+  22.7	sll1102	540	5e-63	-
+  53.8	sll1103	1338	1e-157	hypothetical protein
+  40.0	sll1104	891	2e-52	glnH: glutamine-binding protein
+  28.2	sll1106	516	none	-
+  31.6	sll1107	777	8e-72	-
+  37.8	sll1108	828	4e-91	hypothetical protein
+  25.2	sll1109	585	3e-32	
+  52.7	sll1110	1098	1e-164	prfA or sueB: peptide chain release factor
+  17.2	sll1112	459	8e-50	aroQ: carbonic 3-dehydroquinase
+  23.2	sll1118	327	4e-38	hypothetical protein
+  54.7	sll1119	1086	none	-
+ 203.8	sll1120	3603	none	chromosome segregation protein SMC1
+ 155.3	sll1121	2313	none	-
+  29.1	sll1123	771	9e-47	-
+ 190.4	sll1124	4116	none	sensory transduction histidine kinase
+  45.7	sll1127	828	1e-139	menB: naphthoate synthase
+  49.8	sll1129	891	3e-76	todF: 2-hydroxy-6-oxohepta-24-dienoate hydro
+   6.0	sll1130	348	.00000005	-
+  15.9	sll1131	429	none	-
+  38.6	sll1132	1452	none	-
+  46.7	sll1135	1005	3e-24	-
+  42.1	sll1138	747	1e-62	-
+  24.9	sll1142	522	2e-63	hypothetical protein
+ 109.8	sll1143	2376	none	uvrD or mutU: DNA helicase II
+  39.5	sll1144	918	6e-88	hypothetical protein
+  27.9	sll1147	414	none	glutathione S-transferase
+  30.1	sll1150	759	6e-24	hypothetical protein
+  76.4	sll1151	1818	4e-20	-
+  62.7	sll1154	1257	1e-71	norA: quinolene resistance protein NorA
+  16.2	sll1155	342	2e-19	-
+  -0.2	sll1156	426	none	ISY120_b: transposase
+   0.1	sll1157	417	none	ISY120_b: transposase
+  15.3	sll1158	417	2e-29	-
+  -0.7	sll1159	657	none	-
+   8.6	sll1160	483	3e-16	-
+  20.2	sll1161	1008	none	adenylate cyclase
+   7.2	sll1162	708	1e-70	-
+   5.0	sll1163	408	none	-
+  16.0	sll1164	1050	5e-69	-
+ 132.1	sll1165	2739	1e-163	mutS or fdv: DNA mismatch repair protein
+  42.2	sll1166	1104	none	hypothetical protein
+  66.5	sll1167	1245	none	pbp: penicillin-binding protein 4
+  12.3	sll1169	717	none	-
+  35.9	sll1170	1584	none	hypothetical protein
+  66.5	sll1172	1149	1e-156	thrC: threonine synthase
+  24.7	sll1173	735	8e-16	hypothetical protein
+  32.4	sll1174	825	none	-
+  85.9	sll1178	1848	none	nodulation protein
+ 113.7	sll1180	3036	none	hlyB: HlyB family
+  68.2	sll1181	1752	1e-118	hlyD: HlyD family of secretion proteins
+  17.3	sll1182	402	2e-25	petC: cytochrome b6/f complex iron-sulfur su
+  44.9	sll1184	723	9e-99	ho1: heme oxygenase
+  55.5	sll1185	1023	1e-150	hemF: coproporphyrinogen III oxidase
+  24.9	sll1186	651	none	-
+  29.7	sll1187	852	4e-94	lgt or umpA: prolipoprotein diacylglyceryl t
+  29.1	sll1188	495	none	hypothetical protein
+  55.5	sll1189	1305	1e-100	glcE: glycolate oxidase subunit  GlcE
+  16.5	sll1191	312	none	
+  15.4	sll1192	423	5e-18	hypothetical protein
+  11.0	sll1193	498	5e-72	-
+  18.8	sll1194	396	2e-29	psbU: photosystem II 12 kD extrinsic protein
+  67.8	sll1196	1086	1e-119	pfkA: phosphofructokinase
+  41.5	sll1198	696	3e-90	trmD: tRNA(m1G37)methyltransferase
+  36.4	sll1200	1176	2e-45	-
+  23.9	sll1201	795	none	-
+  -4.6	sll1202	1044	8e-67	-
+   7.4	sll1203	966	1e-104	-
+   3.4	sll1204	1284	8e-80	hypothetical protein
+  26.5	sll1205	981	3e-73	pchR: regulatory protein PchR
+  92.9	sll1206	2556	none	iutA: ferric aerobactin receptor
+ 101.1	sll1209	2010	none	lig or ligA: DNA ligase
+  37.2	sll1212	1089	1e-134	rfbD: GDP-D-mannose dehydratase
+  61.0	sll1213	939	1e-149	hypothetical protein
+  49.0	sll1214	1077	1e-172	PNIL 34 or AT103: phytochrome-regulated gene
+  31.2	sll1217	678	none	-
+  19.7	sll1218	660	2e-72	ycf39: hypothetical protein
+  20.7	sll1219	327	1e-13	-
+  30.0	sll1220	522	5e-62	potential NAD-reducing hydrogenase subunit
+  81.3	sll1221	1491	none	hoxF: hydrogenase subunit
+  18.8	sll1222	639	none	-
+  32.0	sll1223	717	2e-95	hoxU: hydrogenase subunit
+  13.1	sll1224	549	1e-62	hoxY: hydrogenase small subunit
+   4.3	sll1225	450	.000002	-
+  68.2	sll1226	1425	none	hoxH: hydrogenase large subunit
+  90.0	sll1228	1902	none	transmitter/receiver
+  44.4	sll1229	1137	none	receiver/transmitter
+  46.9	sll1231	1200	none	mtfB: Mannosyltransferase B
+  24.4	sll1232	564	2e-66	hypothetical protein
+  47.5	sll1233	885	none	hypothetical protein
+  72.3	sll1234	1278	none	ahcY: S-adenosylhomocysteine hydrolase
+   6.6	sll1236	384	none	-
+  37.7	sll1237	900	1e-72	hemK: protoporphyrinogen oxidase
+   0.9	sll1239	537	none	-
+   1.6	sll1240	474	none	-
+   4.3	sll1241	759	none	-
+  81.8	sll1242	1611	none	-
+  43.0	sll1244	459	3e-43	rpl9: 50S ribosomal protein L9
+  20.3	sll1245	387	1e-30	cytM: cytochrome CytM
+  43.9	sll1247	1374	7e-24	-
+  75.1	sll1249	1542	1e-146	panC/kcy: pantothenate synthetase/cytidylate
+  11.1	sll1250	387	none	hypothetical protein
+  45.7	sll1251	891	3e-32	-
+  45.1	sll1252	780	1e-106	hypothetical protein
+ 135.4	sll1253	2829	none	pcnB: polyA polymerase
+  45.9	sll1254	1041	1e-125	hemolysin
+ -21.7	sll1255	1017	none	ISY203_c: transposase
+  -1.8	sll1256	360	none	ISY100_p: transposase
+   6.6	sll1257	495	none	ISY100_p: transposase
+  27.7	sll1258	582	4e-83	-
+  51.0	sll1260	810	1e-112	rps2: 30S ribosomal protein S2
+  38.2	sll1261	657	6e-54	tsf: elongation factor TS
+  33.6	sll1262	486	2e-49	hypothetical protein
+  40.8	sll1263	933	1e-23	hypothetical protein
+ 307.9	sll1265	5937	none	-
+  28.7	sll1267	591	none	-
+  19.2	sll1268	1554	none	-
+  84.6	sll1270	1593	1e-127	glnH/glnP: glutamine-binding periplasmic pro
+  54.0	sll1271	1719	none	-
+ -30.3	sll1272	771	none	-
+ -45.8	sll1273	1425	none	-
+  18.7	sll1274	516	3e-75	-
+ 102.2	sll1275	1776	none	pykF: pyruvate kinase
+  75.4	sll1276	1605	1e-178	ABC transporter
+  65.2	sll1277	1155	1e-103	recF: RecF protein
+  48.7	sll1280	888	1e-117	hypothetical protein
+   2.4	sll1281	324	2e-20	ycf9: ycf9 gene product
+  32.4	sll1282	495	5e-64	ribH: riboflavin synthase beta subunit
+  50.9	sll1283	1176	5e-90	spoIID: sporulation protein SpoIID
+  31.8	sll1284	615	4e-48	serine esterase
+  32.4	sll1285	942	1e-101	hypothetical protein
+  48.5	sll1286	645	1e-37	-
+  29.1	sll1289	585	6e-67	-
+ 124.3	sll1290	2001	none	rnb: ribonuclease II
+  27.3	sll1291	1206	none	PatA subfamily
+  14.8	sll1292	366	none	CheY subfamily
+  30.1	sll1293	468	none	-
+ 167.6	sll1294	2862	none	pilJ: methyl-accepting chemotaxis protein (M
+ 142.7	sll1296	2775	none	CheA like protein
+  25.5	sll1297	1017	none	pobA: phenoxybenzoate dioxygenase
+  37.1	sll1298	741	1e-84	clcD: dienelactone hydrolase
+  48.8	sll1299	1242	1e-129	ackA: acetate kinase
+  15.3	sll1300	636	1e-54	hypothetical protein
+  31.6	sll1304	864	.00001	-
+  31.5	sll1305	888	9e-20	-
+  31.3	sll1306	1008	.0000002	-
+  31.1	sll1307	528	none	-
+  36.5	sll1308	747	none	hypothetical protein
+  24.9	sll1314	1110	none	dctP: C4-dicarboxylase binding protein
+  34.3	sll1315	1059	none	-
+  21.5	sll1316	543	1e-76	petC: plastoquinol--plastocyanin reductase
+  54.9	sll1317	987	1e-119	petA: apocytochrome f
+  35.2	sll1318	669	4e-70	-
+  29.6	sll1319	990	1e-36	-
+   8.2	sll1321	354	2e-18	atp1: hypothetical protein
+  14.0	sll1322	747	6e-81	atpI: ATP synthase subunit a
+  22.1	sll1323	432	5e-39	atpG: ATP synthase subunit b'
+  36.4	sll1324	540	2e-22	atpF: ATP synthase subunit b
+  18.5	sll1325	558	9e-48	atpD: ATP synthase d subunit
+  99.3	sll1326	1512	none	atpA: ATP synthase a subunit
+  61.4	sll1327	945	1e-117	atpC: ATP synthase g subunit
+  46.1	sll1329	864	5e-83	monophosphatase
+  14.4	sll1330	753	2e-93	OmpR subfamily
+  27.6	sll1333	708	none	-
+  24.4	sll1334	1530	1e-62	-
+  94.5	sll1336	2118	none	hypothetical protein
+  11.9	sll1338	564	none	-
+   9.5	sll1340	303	2e-29	-
+  17.1	sll1341	471	none	bfr: bacterioferritin
+  39.2	sll1342	1014	1e-154	gap2: glyceraldehyde-3-phosphate dehydrogena
+ 152.3	sll1343	2610	none	ape2 or pepN: aminopeptidase
+  14.3	sll1344	762	none	-
+  24.5	sll1348	933	1e-119	hypothetical protein
+  35.6	sll1349	666	3e-59	cbbZp: phosphoglycolate phosphatase
+  29.2	sll1350	1197	1e-109	-
+  63.8	sll1352	1419	none	-
+  59.8	sll1353	2997	none	sensory transduction histidine kinase
+ 124.5	sll1354	2280	none	recJ: single-strand-DNA-specific exonuclease
+  10.3	sll1355	546	none	hypothetical protein
+ 111.0	sll1356	2550	none	glgP or glgY: glycogen phosphorylase
+  52.6	sll1358	1185	.00005	-
+  89.2	sll1359	2037	none	-
+ 119.5	sll1360	3351	1e-93	dnaX or dnaZ: DNA polymerase III subunit
+ 131.6	sll1362	2967	none	ileS: isoleucyl-tRNA synthetase
+  42.5	sll1363	1104	1e-154	ilvC: ketol-acid reductoisomerase
+  81.6	sll1365	1902	none	-
+ 201.8	sll1366	3120	none	helicase of the snf2/rad54 family
+  41.4	sll1367	786	none	-
+  62.8	sll1369	1293	2e-89	-
+  50.1	sll1370	1104	1e-127	rfbM: GDP-mannose pyrophosphorylase
+  27.8	sll1371	699	6e-65	catabolite gene activator protein
+  29.1	sll1372	828	1e-59	-
+  12.9	sll1373	552	none	-
+  59.8	sll1374	1635	7e-69	melB: melibiose carrier protein
+  57.3	sll1376	1233	1e-104	-
+  78.0	sll1377	1440	1e-134	hypothetical protein
+  32.7	sll1378	903	2e-34	-
+  30.7	sll1380	645	2e-19	-
+  23.4	sll1381	414	none	-
+  12.3	sll1382	369	1e-49	petF: ferredoxin
+  53.7	sll1383	864	1e-102	suhB or ssyA: extragenic suppressor SuhB
+  38.8	sll1384	945	9e-49	-
+  24.2	sll1386	516	6e-44	-
+  28.4	sll1387	765	5e-86	-
+  19.9	sll1388	465	6e-21	hypothetical protein
+  20.4	sll1389	567	none	-
+  36.1	sll1390	750	8e-48	hypothetical protein
+  25.0	sll1392	612	.0003	hypothetical protein
+  35.3	sll1393	1476	none	glgA: glycogen (starch) synthase
+  36.1	sll1394	669	1e-93	msrA or pms: peptide methionine sulfoxide re
+  41.8	sll1395	843	4e-81	rfbD: dTDP-6-deoxy-L-mannose-dehydrogenase
+   6.9	sll1396	675	none	-
+   1.2	sll1397	849	none	ISY100_a: transposase
+  12.1	sll1398	339	1e-38	psb13: photosystem II 13 kD protein
+  59.5	sll1399	1206	1e-130	hypothetical protein
+   3.8	sll1400	342	5e-17	-
+ -31.6	sll1401	1011	none	-
+  28.0	sll1404	633	5e-58	exbB: biopolymer transport ExbB protein
+  19.9	sll1405	429	2e-19	biopolymer transport ExbD protein homologue
+  68.8	sll1406	2487	none	fhuA: ferrichrome-iron receptor
+  -9.0	sll1407	798	none	-
+  -5.6	sll1408	1041	9e-80	pcrR: regulatory protein PcrR
+  26.1	sll1409	2592	none	fhuA: ferrichrome-iron receptor
+  -3.4	sll1411	438	none	hypothetical protein
+  28.5	sll1414	723	5e-43	hypothetical protein
+  42.7	sll1415	924	1e-117	hypothetical protein
+  24.4	sll1418	567	4e-39	-
+  27.9	sll1423	678	1e-104	ntcA: global nitrogen regulator
+  63.3	sll1424	1476	4e-77	hypothetical protein
+  95.4	sll1425	1812	none	proS or drpA: proline-tRNA ligase
+   9.8	sll1426	468	none	-
+  78.1	sll1427	1251	1e-110	hhoB or htrH: protease HhoB
+  39.4	sll1428	879	5e-54	P3 protein
+  13.8	sll1429	915	none	-
+  18.9	sll1430	519	2e-68	apt: adenine phosphoribosyltransferase
+  60.1	sll1432	858	4e-58	hypB: hydrogenase isoenzymes formation prote
+  62.1	sll1433	1575	1e-135	hypothetical protein
+  85.1	sll1434	1953	none	mrcA or ponA: penicillin-binding protein 1B
+  85.0	sll1435	1560	none	pet112: PET112 protein
+  -1.8	sll1436	360	none	ISY100_q: transposase
+   6.6	sll1437	495	none	ISY100_q: transposase
+ -15.4	sll1439	804	none	-
+  30.8	sll1440	693	4e-72	pdxH: pyridoxamine 5'-phosphate oxidase
+  37.3	sll1441	1080	1e-141	desB: delta 15 desaturase
+   1.7	sll1442	348	none	-
+  78.5	sll1443	1641	none	pyrG: CTP synthetase
+  43.1	sll1444	603	3e-59	leuD: 3-isopropylmalate dehydratase
+  15.4	sll1446	963	none	hypothetical protein
+  15.0	sll1447	381	2e-23	-
+  50.9	sll1450	1341	1e-149	nrtA: nitrate transport 45kD protein
+  39.4	sll1451	828	1e-77	nrtB: nitrate transport protein NrtB
+ 116.9	sll1452	2013	none	nrtC: nitrate transport protein NrtC
+  71.6	sll1453	999	none	nrtD: nitrate transport protein NrtD
+  58.6	sll1454	2145	none	narB: nitrate reductase
+  24.7	sll1455	468	2e-40	-
+  47.4	sll1456	909	none	-
+  43.5	sll1457	957	1e-101	rfbJ: RfbJ protein
+  39.6	sll1459	678	4e-63	hypothetical protein
+  19.0	sll1461	663	2e-77	-
+  52.9	sll1462	1038	7e-76	hypE: hydrogenase expression/formation prote
+ 109.4	sll1463	1887	none	ftsH: cell division protein FtsH
+  61.4	sll1464	1434	1e-158	hypothetical protein
+  54.2	sll1466	1242	none	-
+  21.9	sll1468	939	1e-123	bhy: b-carotene hydroxylase
+  37.8	sll1469	858	8e-71	-
+  49.2	sll1470	1407	none	leuC: 3-isopropylmalate dehydratase
+  14.7	sll1471	750	2e-50	cpcG: phycobilisome rod-core linker polypept
+  23.5	sll1472	444	none	-
+  64.1	sll1473	1446	none	putative chromatic adaptation sensor recepto
+ -21.9	sll1474	1017	6e-11	ISY203_g: transposase
+  25.5	sll1475	894	none	sensory transduction histidine kinase
+  13.1	sll1476	309	none	-
+ 125.7	sll1477	2499	none	-
+  44.3	sll1479	723	1e-79	devB: glucose-6-P-dehydrogenase
+  92.4	sll1481	1356	3e-86	ABC-transporter DevB homologue
+  60.2	sll1482	1152	1e-118	ABC-transporter DevC homologue
+  44.4	sll1483	543	3e-34	transforming growth factor induced protein
+  79.6	sll1484	1464	3e-99	ndh: NADH dehydrogenase
+  26.6	sll1485	489	1e-45	-
+  40.0	sll1486	633	1e-62	-
+  27.3	sll1488	666	1e-48	-
+  46.8	sll1489	840	2e-95	hypothetical protein
+  44.2	sll1491	1047	none	beta transducin-like protein
+  55.8	sll1495	1194	1e-161	hypothetical protein
+ 145.7	sll1496	2532	none	mannose-1-phosphate guanyltransferase
+  57.4	sll1498	1275	1e-166	carA or pyrA: carbamoyl-phosphate synthetase
+ 200.8	sll1499	4641	none	gltB: ferredoxin-dependent glutamate synthas
+  53.4	sll1500	1110	1e-102	hypothetical protein
+  81.9	sll1501	1449	1e-131	cbiA or cobB: cobyrinic acid a,c-diamide syn
+ 273.2	sll1502	4653	none	gltB: glutamate synthase (ferredoxin)
+  -3.8	sll1503	1527	.000007	-
+   7.8	sll1504	309	none	hypothetical protein
+   2.9	sll1505	336	none	hypothetical protein
+  17.5	sll1507	546	1e-29	-
+  42.7	sll1508	831	4e-77	lpxC or envA: UDP-3-0-acyl N-acetylglcosamin
+  11.0	sll1509	330	1e-22	ycf20: hypothetical protein
+   9.6	sll1510	741	.000001	-
+  19.9	sll1511	618	none	-
+   2.9	sll1512	408	2e-21	hypothetical protein
+  51.8	sll1513	1005	1e-134	ccsA: c-type cytochrome synthesis protein
+  22.2	sll1514	441	7e-29	hsp17: 16.6 kDa small heat shock protein, mo
+  24.6	sll1515	450	none	-
+  87.9	sll1516	1875	1e-133	-
+ 134.1	sll1520	1755	1e-169	recN: DNA repair protein RecN
+  99.4	sll1521	1794	none	hypothetical protein
+  34.6	sll1522	540	2e-37	pgsA: CDP-diacylglycerol--glycerol-3-phospha
+  38.3	sll1524	840	6e-68	hypothetical protein
+  31.4	sll1525	999	1e-141	prk or ptk: phosphoribulokinase
+  58.8	sll1526	1521	none	-
+  91.6	sll1527	3507	none	-
+ 110.2	sll1528	2991	none	-
+  47.5	sll1530	1161	none	-
+  45.9	sll1531	1827	none	-
+  36.1	sll1532	636	2e-25	
+  59.0	sll1533	1287	1e-153	pilT: twitching mobility protein
+  48.0	sll1534	1137	1e-147	hypothetical protein
+  22.0	sll1535	732	2e-77	rfbP: galactosyl-1-phosphate transferase
+  43.7	sll1536	1179	1e-166	moeB or chlN: molybdopterin biosynthesis Moe
+  31.1	sll1537	420	none	-
+  76.1	sll1538	1617	2e-34	bgl: beta-glucosidase
+  49.9	sll1540	1173	1e-121	dpm1 or sed3: dolichyl-phosphate-mannose syn
+  58.8	sll1541	1473	1e-164	lignostilbene-alpha,beta-dioxygenase
+  26.7	sll1542	903	1e-28	-
+   9.7	sll1543	438	4e-16	-
+  42.8	sll1544	687	none	response regulator like protein
+  37.8	sll1545	816	1e-83	gst1: glutathione S-transferase
+  91.8	sll1546	1623	none	ppx: exopolyphosphatase
+  22.4	sll1547	459	2e-34	hypothetical protein
+  30.4	sll1549	717	none	-
+  56.4	sll1550	1635	1e-122	-
+   8.5	sll1552	903	none	-
+ 128.2	sll1553	2433	none	pheT: phenylalanyl-tRNA synthetase
+  59.7	sll1555	1107	2e-86	receiver/transmitter
+  67.2	sll1556	1050	3e-80	hypothetical protein
+  48.8	sll1557	909	5e-71	sucD: succinyl-CoA synthetase
+  57.7	sll1558	1167	1e-173	mannose-1-phosphate guanyltransferase
+  68.1	sll1559	1155	4e-43	soluble hydrogenase 42 kD subunit
+ -22.1	sll1560	1017	none	ISY203_d: transposase
+ 164.7	sll1561	2973	none	putA: delta-1-pyrroline-5-carboxylate dehydr
+  -8.7	sll1562	465	none	
+ -65.5	sll1563	2820	none	-
+  52.6	sll1564	1644	none	leuA: alpha-isopropylmalate synthase
+  58.9	sll1566	1500	none	otsA: alpha,alpha-trehalose-phosphate syntha
+  34.2	sll1568	609	1e-53	fibrillin
+  26.6	sll1570	732	none	-
+  24.0	sll1571	942	5e-32	-
+  76.1	sll1572	1377	1e-122	dnaE or polC: DNA polymerase III alpha subun
+  -9.5	sll1573	444	2e-34	
+  23.9	sll1574	312	none	-
+  57.1	sll1575	1251	1e-104	serine/threonine protein kinase
+   8.1	sll1577	519	5e-74	cpcB: phycocyanin b subunit
+  19.8	sll1578	489	2e-67	cpcA: phycocyanin a subunit
+  12.3	sll1579	822	none	cpcC: phycocyanin associated linker protein
+  14.8	sll1580	876	1e-102	cpcC: phycocyanin associated linker protein
+  47.1	sll1581	1515	3e-93	gumB: GumB  protein
+  38.3	sll1582	3357	none	-
+  85.5	sll1583	1689	none	lig or ligA: DNA ligase
+   7.2	sll1584	405	.00000006	-
+ 277.9	sll1586	5250	1e-167	-
+  48.9	sll1590	1053	5e-98	sensory transduction histidine kinase
+  34.3	sll1592	681	4e-74	NarL subfamily
+  40.3	sll1594	951	1e-109	rbcR: rubisco operon transcriptional regulat
+  54.0	sll1595	1707	none	hypothetical protein (PCC7942 clock gene...O
+  18.3	sll1596	327	none	PCC7942 clock gene...ORFE
+  37.4	sll1598	993	8e-35	mntC: Mn transporter MntC
+  38.7	sll1599	783	4e-49	mntA: Mn transporter MntA
+  26.7	sll1600	921	1e-55	mntB: Mn transporter MntB
+  59.6	sll1601	1245	none	hypothetical protein
+  37.2	sll1605	501	2e-55	fabZ or sefA: (3R)-hydroxymyristol acyl carr
+  37.2	sll1606	789	1e-50	hypothetical protein
+  91.4	sll1608	2313	none	-
+  20.6	sll1609	534	1e-32	-
+  23.9	sll1611	1110	none	-
+  65.0	sll1612	1287	1e-112	folC or dedC: folyl-polyglutamate synthetase
+  21.7	sll1613	438	none	-
+ 128.0	sll1614	2718	none	pma1: cation-transporting ATPase(E1-E2 ATPas
+  83.3	sll1615	1371	1e-162	thdF or trmE: thiophen and furan oxidation p
+  38.0	sll1618	603	none	-
+  27.6	sll1620	477	1e-34	-
+  16.2	sll1621	570	4e-52	membrane protein
+  42.3	sll1623	672	1e-76	ABC transporter
+  48.1	sll1624	1005	2e-67	unclassified
+  60.0	sll1625	996	1e-135	sdhB: succinate dehydrogenase iron- sulphur
+  39.4	sll1626	612	5e-53	lexA: SOS function regulatory protein
+  60.8	sll1628	1155	4e-35	-
+  56.4	sll1629	1362	none	phr: DNA photolyase
+  17.4	sll1630	426	none	-
+  22.6	sll1631	495	7e-47	hypothetical protein
+  35.5	sll1632	810	5e-37	-
+  66.6	sll1633	1293	1e-138	ftsZ: cell division FtsZ protein
+  59.3	sll1634	1050	1e-106	-
+  34.1	sll1635	648	none	Thy1 protein homologue
+  19.0	sll1636	573	1e-51	fbp or yrda: ferripyochelin binding protein
+  19.1	sll1638	450	5e-19	-
+  29.3	sll1639	726	1e-54	ureD: urease accessory protein D
+  63.5	sll1640	966	none	hypothetical protein
+  78.1	sll1641	1404	none	gad: glutamate decarboxylase
+   4.0	sll1642	492	2e-13	-
+  26.6	sll1643	567	5e-23	hypothetical protein
+  23.4	sll1647	519	1e-50	hypothetical protein
+  10.5	sll1652	252	none	-
+  39.8	sll1653	717	1e-74	gerCb: spore germination protein c2
+  35.6	sll1654	411	3e-45	hypothetical protein
+  46.6	sll1655	825	5e-38	birA: biotin [acetyl-CoA-carboxylase] ligase
+  16.8	sll1656	576	5e-23	-
+  26.0	sll1658	477	1e-23	-
+  56.8	sll1659	1179	1e-140	hypothetical protein
+  38.2	sll1660	585	2e-49	hypothetical protein
+  51.6	sll1662	894	1e-72	pheA: chorismate mutase /prephenate dehydrat
+  32.5	sll1663	663	1e-54	-
+  49.6	sll1664	939	1e-140	-
+  89.2	sll1665	1770	none	-
+  24.0	sll1666	480	9e-31	dnaJ: DnaJ protein
+  37.8	sll1667	801	4e-38	mom72: mitochondrial outer membrane 72K prot
+  43.0	sll1669	570	2e-50	aroK: shikimate kinase
+  62.2	sll1670	1137	5e-92	hrcA: CIRCE binding repressor
+  13.5	sll1671	483	2e-15	hypothetical protein
+  34.5	sll1672	2505	3e-98	transmitter/receiver
+  58.5	sll1673	1359	none	unclassified
+  27.7	sll1675	453	3e-53	-
+  59.8	sll1676	1518	none	malQ: 4-alpha-glucanotransferase
+  41.1	sll1677	612	none	spore maturation protein B
+  29.9	sll1678	549	none	spore maturation protein A
+  79.3	sll1679	1185	1e-120	hhoA: protease HhoA
+  10.8	sll1680	531	1e-59	hypothetical protein
+  68.6	sll1681	1524	none	-
+  49.0	sll1682	1083	1e-112	alanine dehydrogenase
+  71.1	sll1683	1452	1e-127	cad: lysine decarboxylase
+  29.5	sll1685	1182	none	ycf10: heme binding protein precursor
+  81.2	sll1686	1467	1e-117	-
+ 102.0	sll1687	2913	1e-56	PleD gene product homologue
+  82.8	sll1688	1302	none	thrC: threonine synthase
+  72.2	sll1689	1110	1e-107	rpoD: RNA polymerase sigma factor
+   7.7	sll1691	453	none	-
+   8.6	sll1692	438	none	hypothetical protein
+  29.6	sll1693	1323	none	hypothetical protein
+   8.0	sll1694	507	2e-9	hofG or hopG: general secretion pathway prot
+  -8.8	sll1695	513	none	hofG or hopG: general secretion pathway prot
+   5.0	sll1696	813	4e-51	-
+  44.4	sll1697	966	1e-120	-
+  13.8	sll1698	381	7e-39	
+ 103.7	sll1699	1896	none	extracellular solute-binding protein
+  25.4	sll1702	513	2e-40	hypothetical protein
+  99.2	sll1703	1833	1e-136	sppA: protease IV
+  35.6	sll1704	771	5e-75	csgA ir spoC: cell-cell signaling protein, C
+  35.2	sll1708	681	2e-77	NarL subfamily
+  49.2	sll1709	747	none	gdh: glucose dehydrogenase
+  14.8	sll1710	786	none	ISY523_b: transposase
+  18.4	sll1712	303	5e-33	DNA binding protein HU
+  16.6	sll1713	1107	1e-105	hisC: histidinol-phosphate aminotransferase
+   3.2	sll1714	402	none	-
+  -9.6	sll1715	474	none	-
+  14.8	sll1716	786	none	ISY523_a: transposase
+ -30.6	sll1717	1536	none	-
+  38.8	sll1721	975	1e-157	pdhB: pyruvate dehydrogenase E1 beta subunit
+  52.8	sll1722	1302	1e-113	-
+  55.1	sll1723	1242	1e-145	hypothetical protein
+  31.9	sll1724	1140	1e-120	icsA: LPS glycosyltransferase IcsA
+ 101.0	sll1725	1833	none	ABC transporter
+  44.5	sll1726	990	3e-64	-
+  26.8	sll1730	633	none	-
+  26.9	sll1732	1848	none	ndhF: NADH dehydrogenase subunit 5
+  46.5	sll1733	1509	1e-169	ndhD3: NADH dehydrogenase subunit 4
+  32.3	sll1734	1296	none	-
+  17.9	sll1735	402	3e-53	secreted protein MPB70
+  21.4	sll1736	384	2e-26	-
+  11.4	sll1737	483	1e-32	hypothetical protein
+  38.6	sll1738	696	4e-46	hypothetical protein
+  16.6	sll1739	1080	none	-
+  23.8	sll1740	369	9e-51	rpl19: 50S ribosomal protein L19
+  27.7	sll1742	618	4e-84	nusG: transcription antitermination protein
+  22.7	sll1743	426	2e-64	rpl11: 50S ribosomal protein L11
+  33.2	sll1744	717	1e-103	rpl1: 50S ribosomal protein L1
+  31.2	sll1745	522	3e-58	rpl10: 50S ribosomal protein L10
+  36.6	sll1746	387	1e-31	rpl12: 50S ribosomal protein L12
+  57.3	sll1747	1089	1e-173	aroC: chorismate synthase
+  16.2	sll1749	471	none	hypothetical protein
+  88.2	sll1750	1710	none	ureC: urease alpha subunit
+  16.0	sll1751	336	5e-42	-
+  35.0	sll1752	723	9e-62	-
+  47.5	sll1755	1224	none	-
+  45.2	sll1757	879	3e-26	-
+  63.7	sll1758	1446	1e-165	hypothetical protein
+  77.6	sll1760	921	9e-57	thrB: homoserine kinase
+   6.4	sll1761	615	none	-
+  41.2	sll1762	900	none	-
+  19.1	sll1763	405	none	-
+  28.3	sll1764	435	none	-
+   8.8	sll1765	480	none	-
+  59.4	sll1766	1197	.000008	aslB or atsB: putative arylsulfatase regulat
+  15.1	sll1767	342	6e-21	rps6: 30S ribosomal protein S6
+  50.1	sll1768	981	1e-103	OppB in a binding protein-dependent transpor
+  14.1	sll1769	318	5e-21	-
+  90.1	sll1770	1758	none	ABC1-like
+  23.6	sll1771	765	5e-80	hypothetical protein
+ 170.5	sll1772	2469	none	mutS: DNA mismatch repair protein MutS
+  20.2	sll1773	699	1e-70	hypothetical protein
+  21.0	sll1774	783	none	-
+ 131.1	sll1775	2454	none	hypothetical protein
+  42.2	sll1776	678	4e-69	deoC or dra: deoxyribose-phosphate aldolase
+ -21.9	sll1780	1017	none	ISY203_b: transposase
+  15.9	sll1783	444	none	-
+  24.5	sll1784	804	none	-
+  36.1	sll1785	807	none	-
+  46.9	sll1786	786	6e-99	hypothetical protein
+ 167.9	sll1787	3309	none	rpoB: RNA polymerase beta subunit
+ 232.1	sll1789	3954	none	rpoC2: RNA polymerase beta prime subunit
+   1.3	sll1791	387	6e-51	ISY802_a: transposase
+ -13.6	sll1792	429	3e-52	ISY802_a: transposase
+  21.9	sll1796	363	3e-25	petJ: cytochrome c553
+  -3.3	sll1797	609	7e-51	ycf21: ycf21 gene product
+  24.9	sll1799	642	8e-75	rpl3: 50S ribosomal protein L3
+  40.9	sll1800	633	3e-87	rpl4: 50S ribosomal protein L4
+  10.9	sll1801	306	7e-28	rpl23: 50S ribosomal protein L23
+  34.0	sll1802	831	1e-116	rpl2: 50S ribosomal protein L2
+  10.3	sll1803	366	6e-46	rpl22: 50S ribosomal protein L22
+  27.6	sll1804	723	2e-89	rps3: 30S ribosomal protein S3
+  28.5	sll1805	420	6e-67	rpl16: 50S ribosomal protein L16
+  17.4	sll1806	369	2e-53	rpl14: 50S ribosomal protein L14
+  15.3	sll1807	318	1e-36	rpl24: 50S ribosomal protein L24
+  23.6	sll1808	603	4e-83	rpl5: 50S ribosomal protein L5
+  18.5	sll1809	402	4e-51	rps8: 30S ribosomal protein S8
+  32.4	sll1810	540	5e-71	rpl6: 50S ribosomal protein L6
+  22.8	sll1811	363	7e-39	rpl18: 50S ribosomal protein L18
+  29.8	sll1812	522	2e-71	rps5: 30S ribosomal protein S5
+  32.1	sll1813	444	2e-36	rpl15: 50S ribosomal protein L15
+  56.1	sll1814	1329	1e-145	secY: preprotein translocase SecY subunit
+  26.8	sll1815	564	4e-52	adk: adenylate kinase
+   7.8	sll1816	384	2e-42	rps13: 30S ribosomal protein S13
+  24.6	sll1817	393	2e-45	rps11: 30S ribosomal protein S11
+  17.1	sll1818	945	1e-128	rpoA: RNA polymerase alpha subunit
+   5.9	sll1819	351	5e-46	rpl17: 50S ribosomal protein L17
+  34.2	sll1820	828	1e-107	truA or hisT: pseudouridine synthase 1
+  22.3	sll1821	456	3e-60	rpl13: 50S ribosomal protein L13
+  29.3	sll1822	414	3e-59	rps9: 30S ribosomal protein S9
+  13.4	sll1823	1332	1e-179	purA or adeK: adenylosuccinate synthetase
+  21.1	sll1824	357	6e-26	-
+   7.4	sll1825	591	none	aklaviketone reductase
+  53.8	sll1830	1077	6e-17	-
+  64.9	sll1831	1383	1e-179	glcF: glycolate oxidase subunit, (Fe-S)prote
+  18.0	sll1832	459	3e-15	-
+  99.3	sll1833	1824	1e-173	ftsI or pbpB: penicillin-binding protein
+  14.3	sll1834	405	6e-19	-
+   7.4	sll1835	798	2e-11	-
+  16.3	sll1837	438	none	-
+  78.3	sll1841	1302	1e-139	odh B or citM: dihydrolipoamide acetyltransf
+  20.3	sll1845	480	5e-35	-
+  41.3	sll1848	678	6e-63	-
+  19.6	sll1849	636	none	hypothetical protein
+   5.4	sll1851	387	none	-
+  25.4	sll1852	450	2e-38	ndkR: nucleoside diphosphate kinase
+  28.6	sll1853	465	none	-
+  39.4	sll1854	798	1e-95	xthA or xth: exodeoxyribonuclease III
+ 101.0	sll1858	1884	3e-23	-
+  13.5	sll1860	786	none	ISY523_d: transposase
+   3.9	sll1861	765	none	ISY523_o: transposase
+  10.5	sll1862	432	none	-
+  14.0	sll1863	324	none	-
+ 142.6	sll1864	2700	none	chloride channel protein
+  26.8	sll1865	1008	1e-111	prfB: peptide chain release factor
+  38.8	sll1866	600	5e-52	hypothetical protein
+ -10.6	sll1867	1083	none	psbA3: photosystem II D1 protein
+  75.5	sll1868	1908	1e-162	dnaG: DNA primase
+  48.9	sll1869	1074	1e-130	cbaB: 3-chlorobenzoate-34-dioxygenase
+  24.5	sll1870	681	1e-46	ABC transporter
+  21.2	sll1871	2025	2e-65	sensory transduction histidine kinase
+  52.1	sll1872	1392	1e-111	lytR: membrane bound protein LytR
+  33.0	sll1873	366	none	-
+  43.9	sll1874	1077	1e-125	AT103: phytochrome-regulated gene
+  19.7	sll1875	753	none	ho2: heme oxygenase
+  40.9	sll1876	1401	1e-153	hemN: oxygen independent coprophorphyrinogen
+  65.2	sll1878	1107	1e-99	ABC transporter
+  77.1	sll1879	1689	4e-74	-
+  12.4	sll1880	444	1e-49	hypothetical protein
+  15.9	sll1882	525	none	hypothetical protein
+  65.1	sll1883	1242	1e-175	argJ: ornithine acetyltransferase
+  49.0	sll1884	1125	2e-24	-
+  63.3	sll1885	2538	none	-
+  18.1	sll1886	567	1e-28	-
+  69.4	sll1888	1299	2e-89	sensory transduction histidine kinase
+  36.0	sll1890	555	none	cobN: CobN protein
+  45.1	sll1891	759	4e-13	-
+  34.4	sll1892	747	none	-
+  37.3	sll1893	786	1e-119	hisF: cyclase
+  96.2	sll1894	1671	none	ribA: GTP cyclohydrolase II
+  40.4	sll1895	2091	none	hypothetical protein
+  11.6	sll1897	426	none	-
+  47.7	sll1898	999	3e-89	-
+  40.7	sll1899	951	1e-100	ctaB: cytochrome c oxidase folding protein
+  31.0	sll1900	630	none	act: acetyltransferase
+  55.3	sll1902	1200	1e-156	hypothetical protein
+ 129.4	sll1905	3045	none	receiver/transmitter/receiver/transmitter
+  90.2	sll1906	1455	1e-136	428 aa (44.5 kD) bacteriochlorophyll synthas
+  99.3	sll1908	1581	none	serA: phosphoglycerate dehydrogenase
+  54.5	sll1909	903	1e-100	prmA: ribosomal protein L11 methyltransferas
+  87.7	sll1910	2346	none	zam: protein conferring resistance to acetaz
+  20.8	sll1911	246	none	-
+  14.0	sll1912	375	none	-
+  71.9	sll1913	1800	1e-167	-
+  26.3	sll1915	552	6e-68	-
+  37.7	sll1916	603	2e-43	-
+  58.7	sll1917	1239	6e-97	hemN: oxygen independent coprophorphyrinogen
+ 122.0	sll1920	2238	none	cation-transporting ATPase(E1-E2 ATPase)
+  28.7	sll1921	756	none	-
+  14.7	sll1924	726	none	hypothetical protein
+  35.7	sll1925	717	3e-41	-
+  13.2	sll1926	258	2e-11	-
+ 119.8	sll1927	1854	none	ABC transporter
+  86.4	sll1929	2130	2e-98	comEc: comE ORF3
+   6.5	sll1930	495	none	ISY100_k: transposase
+  76.3	sll1931	1284	none	gylA: serine hydroxymethyltransferase
+ 141.0	sll1932	2316	none	dnaK: DnaK protein
+  65.7	sll1933	924	1e-76	dnaJ: DnaJ protein
+  33.1	sll1934	447	6e-42	-
+  20.9	sll1937	417	7e-31	fur: ferric uptake regulation protein
+  27.7	sll1938	612	none	-
+  22.0	sll1939	645	4e-22	-
+  24.8	sll1940	474	9e-30	-
+ 148.1	sll1941	2763	none	gyrA: DNA gyrase A subunit
+  45.4	sll1942	765	2e-11	-
+  75.6	sll1945	1923	none	hypothetical protein
+ 129.1	sll1946	2478	1e-97	-
+  42.6	sll1949	744	3e-11	-
+  28.7	sll1950	735	none	-
+  86.0	sll1951	5226	none	hemolysin
+  -9.0	sll1954	606	none	-
+  11.6	sll1956	579	none	hypothetical protein
+  11.9	sll1957	315	7e-28	arsA: arsenical resistance operon repressor
+  55.1	sll1958	1104	6e-69	hisC: histidinol phosphate aminotransferase
+  40.8	sll1959	804	none	suhB or ssyA: extragenic suppressor
+  12.5	sll1960	423	1e-16	
+  61.1	sll1961	1032	3e-96	-
+  -0.2	sll1965	273	6e-19	-
+  58.9	sll1967	1392	1e-147	hypothetical protein
+   6.5	sll1968	669	2e-28	pmgA: essential for photomixotrophic growth,
+  25.9	sll1969	609	5e-54	-
+  63.3	sll1971	1188	1e-164	hypothetical protein
+  35.3	sll1973	669	7e-50	hypothetical protein
+  19.3	sll1979	429	9e-34	-
+  27.7	sll1980	543	1e-43	trxA: thiol:disulfide interchange protein Tr
+  94.8	sll1981	1653	none	ilvB: acetolactate synthase
+ -27.2	sll1982	714	none	ISY352_c2: transposase
+  -1.8	sll1983	360	none	ISY100_n: transposase
+   6.6	sll1984	495	none	ISY100_n: transposase
+  -4.7	sll1985	360	none	ISY352_c1: transposase
+  78.1	sll1987	2190	none	katG: catalase hpi
+  57.7	sll1988	909	1e-123	hypothetical protein
+  58.5	sll1994	984	1e-156	hemB: porphobilinogen synthase
+  27.0	sll1995	930	none	-
+  -6.9	sll1997	468	none	ISY203_h2: transposase
+   0.0	sll1998	849	none	ISY100_d: transposase
+ -11.1	sll1999	519	none	ISY203_h1: transposase
+  92.3	sll2001	1527	1e-180	lap: leucine aminopeptidase
+  38.5	sll2002	879	4e-95	hypothetical protein
+  34.7	sll2003	1554	2e-65	-
+  70.8	sll2005	3237	1e-165	gyrB: DNA gyrase B subunit
+   4.7	sll2006	357	9e-10	-
+   2.6	sll2007	417	1e-31	-
+  72.1	sll2008	1293	1e-111	processing protease
+  56.9	sll2009	1308	1e-134	processing protease
+  63.3	sll2010	1359	1e-145	murD: UDP-N-acetylmuramoylalanine--D-glutama
+  23.8	sll2011	627	2e-9	hypothetical protein
+  55.3	sll2012	957	1e-118	rpoD: RNA polymerase sigma factor
+  30.0	sll2013	588	3e-47	hypothetical protein
+  16.2	sll2014	714	1e-87	sfsA: sugar fermentation stimulation protein
+  23.1	sll2015	615	none	-
+  24.1	slr0001	483	none	hypothetical protein
+  30.9	slr0006	654	none	-
+  29.1	slr0007	762	none	-
+  72.9	slr0008	1284	1e-135	ctpA: carboxyl-terminal processing protease
+  36.2	slr0009	1413	none	rbcL: ribulose bisphosphate carboxylase larg
+  13.8	slr0011	411	1e-22	rbcX: unknown function
+  18.3	slr0012	342	9e-42	rbcS: ribulose bisphosphate carboxylase smal
+  23.2	slr0013	528	1e-36	-
+  21.9	slr0014	705	9e-9	mgtC: Mg2+ transport ATPase
+  65.6	slr0015	1185	1e-105	lpxB: lipid A disaccharide synthase
+  20.0	slr0016	549	4e-28	-
+  66.3	slr0017	1317	1e-153	murZ: UDP-N-acetylglucosamine 1-carboxyvinyl
+  70.1	slr0018	1401	3e-92	fumC: fumarase
+  78.3	slr0019	2679	none	-
+ 114.4	slr0020	2496	none	recG: DNA recombinase
+  58.8	slr0021	834	1e-111	sppA: protease IV
+  14.9	slr0022	372	1e-28	
+  36.0	slr0023	615	none	-
+  62.8	slr0031	1755	none	hypothetical protein
+  53.1	slr0032	918	none	ilvE: branched-chain amino acid aminotransfe
+  23.7	slr0033	315	5e-25	-
+  49.4	slr0036	1170	1e-120	aspC or aat: aspartate aminotransferase
+  16.0	slr0038	399	9e-28	
+  58.4	slr0039	1074	1e-100	-
+  71.9	slr0040	1359	1e-158	cmpA: bicarbonate transporter
+  31.5	slr0041	843	5e-83	cmpB: -
+  55.3	slr0042	1731	none	-
+ 124.5	slr0043	2004	none	nrtC: nitrate transport protein NrtC
+  45.8	slr0044	849	1e-120	nrtD: nitrate transport protein NrtD
+  58.7	slr0049	1197	none	-
+  52.3	slr0050	981	1e-114	hypothetical protein
+  30.4	slr0051	792	6e-38	icfA: carbonic anhydrase
+  17.2	slr0053	540	3e-42	hypothetical protein
+  20.4	slr0054	528	3e-32	dgkA: diacylglycerol kinase
+  21.6	slr0055	492	2e-64	trpG: anthranilate synthase component II
+  48.7	slr0056	975	1e-154	chlG: chlorophyll a synthase
+  20.8	slr0058	429	3e-39	-
+   8.3	slr0059	306	none	-
+  39.9	slr0060	1110	none	-
+  36.3	slr0061	666	none	-
+  86.5	slr0063	2019	none	gspE: general secretion pathway protein E
+  40.7	slr0064	1155	none	hypothetical protein
+  34.4	slr0065	639	1e-66	hypothetical protein
+  42.6	slr0066	1107	1e-121	ribG: riboflavin biosynthesis protein
+  72.8	slr0067	1062	1e-146	put. ATPase
+  25.6	slr0069	660	none	hypothetical protein
+  62.1	slr0070	993	1e-106	fmt: methionyl-tRNA formyltransferase
+  51.4	slr0072	795	2e-60	gidB: glucose inhibited division protein B
+  38.6	slr0073	948	none	sensory transduction histidine kinase
+  68.5	slr0074	1443	none	ycf24: ABC transporter subunit
+  31.4	slr0075	771	1e-99	ycf16: ABC transporter subunit
+  44.7	slr0076	1362	5e-99	hypothetical protein
+  58.4	slr0077	1263	1e-167	nifS: NifS protein
+  22.0	slr0078	390	2e-11	hypothetical protein
+ 149.5	slr0079	2442	none	gspE: general secretion pathway protein E
+  29.7	slr0080	483	none	rnhA: ribonuclease H
+  30.6	slr0081	789	2e-90	OmpR subfamily
+  63.9	slr0082	1332	none	hypothetical protein
+  94.6	slr0083	1479	1e-154	deaD: ATP-dependent RNA helicase DeaD
+  39.0	slr0084	633	2e-75	hisH: N-acetyl-glutamate-gamma-semialdehyde
+  95.8	slr0086	1596	1e-173	-
+  87.5	slr0088	1629	none	crtO: b-carotene ketolase
+  47.5	slr0089	954	1e-100	erg6 or sed6: delta(24)-sterol C-methyltrans
+  19.0	slr0090	1020	9e-48	ppd: 4-hydroxyphenylpyruvic acid dioxgenase
+  51.1	slr0091	1371	1e-144	aldehyde dehydrogenase
+  38.5	slr0092	774	5e-50	hypothetical protein
+  62.9	slr0093	999	1e-103	dnaJ: DnaJ protein
+  34.7	slr0095	663	2e-61	O-methyltransferase
+  83.4	slr0096	1671	1e-179	low affinity sulfate transporter
+ -25.3	slr0099	1020	none	ISY352_f: transposase
+   8.8	slr0103	441	none	-
+ 117.9	slr0104	2436	1e-153	hypothetical protein
+  28.5	slr0105	1389	6e-17	-
+   9.7	slr0106	705	none	-
+  44.4	slr0108	1257	none	-
+  48.2	slr0109	957	none	-
+  29.9	slr0110	636	6e-33	hypothetical protein
+  31.9	slr0111	522	none	-
+  19.1	slr0112	558	none	-
+  67.8	slr0114	1533	1e-42	-
+  25.4	slr0115	726	1e-122	OmpR subfamily
+  45.6	slr0116	747	2e-82	-
+  46.1	slr0118	1380	none	thiC: ThiC protein
+  25.5	slr0119	957	2e-30	brkB: serum resistance locus BrkB
+  36.3	slr0120	723	5e-55	hypothetical protein
+  88.3	slr0121	1488	5e-65	-
+  20.2	slr0142	735	none	-
+ 197.8	slr0143	3576	none	beta transducin-like protein
+  32.6	slr0144	789	none	-
+  29.3	slr0145	411	none	-
+  16.9	slr0146	513	none	-
+  43.2	slr0147	666	none	-
+  17.2	slr0148	483	none	ferredoxin
+  13.5	slr0149	471	none	-
+  15.9	slr0150	312	none	petF: ferredoxin
+  52.8	slr0151	963	none	-
+  60.2	slr0152	1896	none	serine/threonine protein kinase
+ 119.5	slr0156	2697	none	clpB: ClpB protein
+  -3.4	slr0157	489	none	-
+  58.5	slr0161	1110	1e-152	pilT: twitching motility protein
+  25.3	slr0162	498	none	gspF: general secretion pathway protein F
+  36.7	slr0163	744	3e-86	pilC: pilin biogenesis protein
+  25.9	slr0164	678	6e-78	clpP: ATP-dependent Clp protease proteolytic
+  31.9	slr0165	609	1e-78	clpP: ATP-dependent Clp protease proteolytic
+  -3.4	slr0166	303	none	ISY523_n: transposase
+  67.7	slr0168	1932	none	-
+  43.7	slr0169	642	4e-79	-
+  21.5	slr0171	528	4e-48	ycf37: ycf37 gene product
+  34.5	slr0172	468	3e-52	guaB: IMP dehydrogenase
+   4.1	slr0179	1074	2e-9	-
+ -24.2	slr0180	1017	none	ISY203_f: transposase
+  36.7	slr0181	783	3e-50	-
+   3.7	slr0184	621	none	-
+  40.7	slr0185	597	1e-70	umpS: uridine 5'-monophosphate synthase
+  68.0	slr0186	1602	none	leuA: 2-isopropylmalate synthase
+  85.0	slr0191	1608	1e-139	lytB: amidase enhancer
+  25.7	slr0192	345	1e-32	hypothetical protein
+  23.8	slr0193	456	4e-35	RNA-binding protein
+  57.3	slr0194	708	2e-89	rpiA: ribose 5-phosphate isomerase
+  35.0	slr0195	552	1e-41	-
+   7.8	slr0196	282	none	-
+  69.6	slr0197	1662	1e-146	comE ORF1
+  18.6	slr0199	876	7e-78	hypothetical protein
+  56.7	slr0201	906	1e-129	hdrB: heterodisulfide reductase subunit B
+  26.9	slr0204	417	2e-22	-
+  49.2	slr0207	1623	1e-139	-
+  37.0	slr0208	780	2e-62	-
+  13.7	slr0209	1047	none	-
+  39.4	slr0210	1254	none	sensory transduction histidine kinase
+  51.7	slr0211	1212	1e-106	-
+ 154.1	slr0212	3588	none	metH: 5-methyltetrahydrofolate--homocysteine
+  61.2	slr0213	1629	none	guaA: GMP synthetase
+  23.2	slr0214	1275	1e-99	cytosine-specific methyltransferase(5'-CGATC
+  15.7	slr0216	558	2e-50	cobU or cobP: cobinamide kinase / cobinamide
+  17.5	slr0217	423	2e-36	-
+ 103.2	slr0220	2169	none	glyS: glycyl-tRNA synthetase beta chain
+  79.6	slr0222	3537	2e-63	receiver/transmitter
+   8.5	slr0224	696	none	hypothetical protein
+  38.5	slr0226	1449	none	-
+ 101.5	slr0228	1884	none	ftsH: cell division protein FtsH
+  20.1	slr0229	873	3e-21	mmsB: 3-hydroxyisobutyrate dehydrogenase
+   0.4	slr0230	849	none	ISY100_f: transposase
+  12.3	slr0231	459	none	-
+  37.7	slr0232	657	4e-58	hypothetical protein
+  25.5	slr0233	318	2e-32	trxM: thioredoxin M
+  24.2	slr0236	669	none	-
+  86.3	slr0237	2241	none	glgX: glycogen operon protein GlgX
+  28.6	slr0238	423	2e-13	-
+  31.0	slr0239	795	5e-93	cbiF or cobM: precorrin methylase
+  29.2	slr0240	423	6e-43	-
+  39.7	slr0241	846	4e-42	-
+  13.0	slr0242	483	3e-54	bcp: bacterioferritin comigratory protein
+  31.9	slr0243	528	4e-22	-
+  34.8	slr0244	855	5e-92	-
+  36.0	slr0245	915	1e-104	acetylpolyamine aminohydolase
+  15.7	slr0249	375	2e-30	-
+  26.5	slr0250	537	2e-35	-
+  35.9	slr0251	759	1e-90	ABC transporter
+  47.3	slr0252	786	2e-10	hypothetical protein
+  39.6	slr0254	801	6e-59	-
+  58.0	slr0257	1389	none	ctpB: carboxyl-terminal protease
+  32.1	slr0260	612	1e-84	cobA or cobO: cob(I)alamin adenosyltransfera
+  45.6	slr0261	1155	none	ndhH: NADH dehydrogenase subunit 7
+  19.4	slr0262	405	none	-
+   7.2	slr0263	306	1e-17	-
+  59.4	slr0264	1110	1e-100	hypothetical protein
+  11.9	slr0265	786	none	ISY523_c: transposase
+  48.6	slr0267	840	3e-87	hypothetical protein
+  22.2	slr0269	600	6e-38	
+  11.5	slr0270	321	2e-26	-
+   7.2	slr0271	519	.00003	-
+  12.4	slr0272	627	none	-
+  36.0	slr0273	951	none	-
+ 101.9	slr0280	1833	1e-120	-
+  10.6	slr0284	351	8e-23	hypothetical protein
+  11.1	slr0285	678	none	-
+  25.2	slr0286	1281	none	-
+  10.4	slr0287	357	6e-16	-
+  94.6	slr0288	2175	none	glnN: glutamate--ammonia ligase
+  13.8	slr0291	435	none	hypothetical protein
+  19.3	slr0292	831	1e-26	-
+ 143.8	slr0293	2952	none	gcvP: P protein of glycine cleavage complex
+  -1.3	slr0294	480	none	-
+  23.9	slr0298	633	1e-45	fraH: heterocyst to vegetative cell connecti
+  28.8	slr0299	708	none	-
+  16.4	slr0300	585	none	-
+ 113.1	slr0301	2457	none	ppsA or pps: phosphoenolpyruvate synthase
+  63.2	slr0302	2307	2e-57	PleD gene product homologue
+  27.9	slr0303	969	1e-134	-
+  26.4	slr0304	1011	1e-124	-
+  21.0	slr0305	630	2e-92	hypothetical protein
+  77.4	slr0306	1521	none	-
+   4.3	slr0309	1422	none	P-methylase
+ -34.4	slr0311	2280	none	sensory transduction histidine kinase
+  -1.9	slr0312	630	1e-106	NarL subfamily
+   3.6	slr0313	558	3e-69	-
+   7.2	slr0314	831	none	bromoperoxidase
+  12.3	slr0315	735	9e-83	hypothetical protein
+  -1.6	slr0316	792	1e-109	-
+ -17.4	slr0317	864	5e-15	hypothetical protein
+   7.1	slr0318	612	none	hypothetical protein
+ -19.4	slr0319	915	1e-35	blaOXA-3: beta-lactamase
+  70.2	slr0320	1596	none	-
+  54.8	slr0321	948	5e-97	Era: GTP-binding protein Era
+ 143.8	slr0322	3288	none	CheA like protein
+  90.9	slr0323	3129	none	ams1: alpha-mannosidase
+  41.5	slr0324	885	1e-79	OppC in a binding protein-dependent transpor
+  23.2	slr0325	486	2e-25	-
+   8.0	slr0326	444	9e-22	
+  71.7	slr0327	1674	1e-47	hitB: iron utilization protein
+  27.1	slr0328	474	5e-53	low molecular weight phosphotyrosine protein
+  67.2	slr0329	984	2e-91	xylR: xylose repressor
+  75.8	slr0331	1578	none	ndhD: NADH dehydrogenase subunit 4
+   1.5	slr0333	321	none	-
+   5.1	slr0334	333	none	-
+ 131.1	slr0335	2691	none	apcE: phycobilisome LCM core-membrane linker
+  92.7	slr0337	2190	1e-159	-
+  54.9	slr0338	1071	1e-125	-
+  36.2	slr0341	957	none	-
+  19.0	slr0342	669	1e-106	petB: cytochrome b6
+  21.2	slr0343	483	4e-60	petD: cytochrome b6-f complex subunit 4
+  16.0	slr0344	1422	none	rfbW: mannosyl transferase
+  21.3	slr0345	408	none	
+  38.6	slr0346	735	5e-44	rnc: ribonuclease III
+  31.2	slr0347	786	1e-61	-
+  65.2	slr0348	1221	1e-172	hypothetical protein
+  15.0	slr0350	786	none	ISY523_e: transposase
+  50.4	slr0351	1239	4e-98	-
+   2.3	slr0352	849	none	ISY100_e: transposase
+ -11.8	slr0353	366	none	-
+  24.7	slr0354	633	1e-79	ABC transporter
+  54.5	slr0355	996	1e-117	-
+  35.0	slr0356	591	1e-32	-
+  65.6	slr0357	1344	4e-21	hisS: histidyl-tRNA synthetase
+  57.3	slr0358	1125	.00000003	-
+ 166.6	slr0359	3735	1e-178	hypothetical protein
+  97.9	slr0360	1608	none	-
+  51.2	slr0361	750	6e-77	hypothetical protein
+  34.8	slr0362	525	3e-54	hypothetical protein
+  31.6	slr0363	576	3e-25	-
+ 106.9	slr0364	9090	none	-
+ 119.2	slr0366	5229	4e-46	-
+ 148.7	slr0369	3093	none	cation or drug efflux system protein
+  78.0	slr0370	1365	1e-161	gabD: succinate-semialdehyde dehydrogenase (
+  12.9	slr0373	381	1e-29	-
+  63.3	slr0374	1506	none	cell division cycle protein
+   1.6	slr0376	351	4e-56	-
+  42.7	slr0377	1230	none	-
+  99.1	slr0378	2115	4e-10	7-beta-(4-carbaxybutanamido)cephalosporanic
+  43.8	slr0379	711	5e-13	hypothetical protein
+  65.9	slr0380	1380	1e-45	-
+  20.4	slr0381	396	6e-59	hypothetical protein
+  34.3	slr0383	561	2e-59	hypothetical protein
+  62.5	slr0384	1137	1e-141	hypothetical protein
+  58.8	slr0386	1239	.000006	-
+  50.5	slr0387	1161	1e-118	nifS: NifS protein
+  43.1	slr0388	675	8e-34	hypothetical protein
+  -1.0	slr0392	396	none	-
+   6.8	slr0393	366	none	-
+  55.5	slr0394	1203	1e-161	pgk: phosphoglycerate kinase
+  50.4	slr0395	930	1e-82	ntcB: transcriptional activator protein NtcB
+  22.7	slr0397	576	none	
+  28.8	slr0398	474	none	-
+  49.5	slr0399	981	1e-108	ycf39: ycf39 gene product
+  52.7	slr0400	918	1e-131	hypothetical protein
+  51.7	slr0401	1155	1e-80	spermidine/putrescine-binding periplasmic pr
+  32.6	slr0402	585	1e-64	hypothetical protein
+  60.7	slr0404	1002	1e-50	hypothetical protein
+  29.5	slr0406	1029	none	pyrC: dihydroorotase
+  24.9	slr0407	813	none	hypothetical protein
+ 366.1	slr0408	12600	none	integrin alpha- subunit domain homologue
+ 125.9	slr0415	2097	1e-143	napA: Na(+)/H(+) antiporter
+  22.7	slr0416	441	none	-
+ 148.3	slr0417	2583	none	gyrA: DNA gyrase A subunit
+  59.0	slr0418	912	2e-87	hypothetical protein
+  31.5	slr0420	684	1e-19	-
+   2.9	slr0421	750	none	-
+  35.5	slr0423	684	3e-40	rlpA: rare lipoprotein A
+  23.5	slr0426	705	3e-99	folE or gchL: GTP cyclohydrolase I
+  79.4	slr0427	1251	1e-143	hypothetical protein
+  35.9	slr0431	753	2e-42	-
+  33.1	slr0434	564	5e-77	efp: elongation factor P
+  33.2	slr0435	465	6e-34	accB or fabE: biotin carboxyl carrier protei
+  51.4	slr0436	894	1e-83	ccmK: carbon dioxide concentrating mechanism
+  11.1	slr0438	324	1e-18	-
+  62.8	slr0439	1506	none	-
+  41.7	slr0440	804	none	hypothetical protein
+ -19.1	slr0442	1836	none	-
+  12.6	slr0443	378	1e-9	
+  77.6	slr0444	1251	2e-33	aroA: 3-phosphoshikimate 1-carboxyvinyltrans
+  36.5	slr0445	633	7e-58	-
+  56.8	slr0446	960	9e-87	dnaX and dnaZ: DNA polymerase III subunit
+  85.5	slr0447	1341	1e-172	amiC: negative aliphatic amidase regulator
+  93.3	slr0448	1518	1e-169	sms or radA: sms protein
+  34.9	slr0449	717	9e-14	DNR protein
+ 176.8	slr0451	3021	none	ski2: antiviral protein
+ 101.1	slr0452	1686	none	ilvD: dihydroxyacid dehydratase
+  79.8	slr0453	2466	none	hypothetical protein
+ 172.4	slr0454	2673	1e-153	cation or drug efflux system protein
+  34.6	slr0455	393	2e-23	-
+  25.7	slr0456	477	3e-13	-
+  31.3	slr0457	891	5e-70	truB or p35: tRNA pseudouridine 55 synthase
+  33.0	slr0458	636	none	-
+  61.3	slr0459	1425	1e-121	-
+ -17.3	slr0460	474	none	ISY352_g1: transposase
+   3.7	slr0462	525	none	ISY352_g2: transposase
+  42.9	slr0467	804	5e-96	natA: conserved component of ABC transporter
+ -13.0	slr0468	1311	none	-
+  21.5	slr0469	609	8e-91	rps4: 30S ribosomal protein S4
+ 110.2	slr0473	2247	none	phy: phytochrome
+  22.5	slr0474	444	3e-53	CheY subfamily
+  21.9	slr0476	411	4e-9	-
+  32.8	slr0477	654	4e-68	purN: phosphoribosylglycinamide formyltransf
+  37.2	slr0479	723	2e-36	-
+  83.5	slr0480	1500	none	ycf46: hypothetical protein
+  44.8	slr0482	759	none	-
+  20.3	slr0483	450	5e-22	hypothetical protein
+  88.5	slr0484	2028	none	sensory transduction histidine kinase
+  25.5	slr0487	492	none	-
+  62.7	slr0488	1602	1e-128	-
+   6.4	slr0489	456	none	-
+  20.7	slr0491	435	4e-25	-
+  62.9	slr0492	1494	2e-70	menE: O-succinylbenzoic acid--CoA ligase
+  22.6	slr0493	387	3e-56	rfbM: phosphomannose isomerase
+  32.6	slr0495	741	4e-20	lipopeptide antibiotics iturin a biosynthesi
+  12.3	slr0496	330	none	-
+   5.7	slr0498	618	none	-
+  33.1	slr0500	633	7e-95	hisB: imidazoleglycerol-phosphate dehydratas
+  60.5	slr0502	1059	1e-110	cobW: CobW protein
+  59.0	slr0503	1014	2e-44	hypothetical protein
+  20.4	slr0505	573	2e-48	-
+  54.9	slr0506	969	1e-115	pcr: protochlorophyllide oxido-reductase
+  14.8	slr0509	618	7e-52	alkaline phosphatase like protein
+  36.8	slr0510	1518	3e-16	hypothetical protein
+  12.8	slr0511	780	none	ISY523_g: transposase
+  35.3	slr0513	1041	none	periplasmic iron-binding protein
+  18.4	slr0514	795	none	-
+  32.7	slr0516	501	none	hypothetical protein
+  32.4	slr0517	615	1e-39	-
+  -0.4	slr0518	534	none	abfB: arabinofuranosidase
+  15.5	slr0519	276	2e-25	hypothetical protein
+  37.4	slr0520	675	1e-86	purL or purI: phosphoribosyl formylglycinami
+  49.6	slr0521	1014	none	-
+ -16.3	slr0522	891	none	-
+  44.5	slr0523	714	2e-47	dethiobiotin synthetase (bioD)
+  42.4	slr0525	693	2e-89	chlM: Mg-protoporphyrin IX methyl transferas
+  44.5	slr0526	783	9e-98	panB: alpha-ketopantoate hydroxymethyl trans
+  44.3	slr0527	699	5e-59	exsB: ExsB protein
+  80.0	slr0528	1518	none	murE: UDP-MurNac-tripeptide synthetase
+  79.0	slr0529	1266	none	-
+  26.6	slr0530	840	none	membrane bound sugar transport protein
+  42.2	slr0531	897	none	membrane bound sugar transport protein
+  57.5	slr0533	1218	1e-114	sensory transduction histidine kinase
+ 124.3	slr0534	2544	1e-155	slt: soluble lytic transglycosylase
+  75.8	slr0535	1842	1e-170	serine proteinase
+  54.7	slr0536	1053	1e-158	hemE: uroporphyrinogen decarboxylase
+  56.1	slr0537	1002	none	-
+  35.9	slr0541	711	none	hypothetical protein
+  25.1	slr0542	597	8e-87	clpP: ATP-dependent protease ClpP
+  52.0	slr0543	1239	none	trpB: tryptophan synthase beta subunit
+  39.9	slr0544	801	2e-84	ABC transporter
+  51.2	slr0545	945	1e-100	auxin-induced protein
+  49.3	slr0546	888	1e-109	trpC: indole-3-glycerol phosphate synthase
+  64.0	slr0549	810	1e-118	asd: aspartate beta-semialdehyde dehydrogene
+  52.5	slr0550	906	5e-92	dapA: dihydrodipicolinate synthase
+  77.0	slr0551	1923	none	hypothetical protein
+  45.2	slr0552	735	4e-43	-
+  35.8	slr0553	606	3e-51	hypothetical protein
+ 161.1	slr0554	3111	1e-123	hypothetical protein
+  44.8	slr0556	657	2e-52	hypothetical protein
+ 147.5	slr0557	2733	none	valS: valyl-tRNA synthetase
+  70.7	slr0559	1365	1e-125	natB: periplasmic binding protein of ABC tra
+  47.7	slr0565	978	3e-69	-
+  65.0	slr0569	1494	none	-
+   2.8	slr0572	441	none	-
+  -1.3	slr0573	444	none	
+  43.9	slr0574	1335	1e-32	cyp: cytochrome P450
+  37.2	slr0575	555	9e-43	-
+  10.8	slr0579	354	none	-
+  57.8	slr0580	1248	1e-175	hypothetical protein
+  20.7	slr0581	333	none	hypothetical protein
+  14.3	slr0582	381	none	-
+  44.8	slr0583	933	none	hypothetical protein
+  72.3	slr0585	1203	none	argG: argininosuccinate synthetase
+  31.0	slr0586	774	2e-69	-
+  14.1	slr0587	333	none	-
+   8.4	slr0588	393	8e-21	-
+  31.4	slr0589	555	7e-24	-
+  34.6	slr0590	717	1e-27	-
+   6.9	slr0591	1068	none	-
+   7.4	slr0592	615	1e-124	-
+  79.9	slr0593	1305	none	cAMP protein kinase regulatory chain
+  65.0	slr0594	1224	1e-113	hypothetical protein
+  47.9	slr0596	822	6e-90	creatinine amidohydrolase (EC 3.5.2.10)
+ 111.2	slr0597	1662	none	purH: phosphoribosyl aminoimidazole carboxy
+  14.1	slr0598	309	4e-37	-
+  92.6	slr0599	1608	2e-99	eukaryotic protein  kinase
+  42.0	slr0600	981	1e-109	-
+  23.2	slr0601	387	none	
+  15.0	slr0602	390	none	-
+  96.5	slr0603	2694	none	dnaE or polC: DNA polymerase III alpha subun
+ 108.3	slr0604	1812	none	lepA: LepA gene product
+  38.6	slr0605	960	8e-72	hypothetical protein
+  52.0	slr0606	954	8e-90	-
+  13.2	slr0607	390	3e-19	-
+  38.0	slr0608	648	3e-90	hisI: phosphoribosyl-ATP pyrophosphohydrolas
+  43.2	slr0609	1152	1e-140	47 kD protein
+  -0.4	slr0610	792	2e-77	-
+  47.3	slr0611	972	1e-127	sds: solanesyl diphosphate synthase
+  13.8	slr0612	693	2e-42	hypothetical protein
+  28.9	slr0613	522	2e-41	
+  98.3	slr0615	1743	none	ABC transporter
+  58.1	slr0616	1257	none	hypothetical protein
+  61.5	slr0617	1356	none	-
+  55.6	slr0618	1584	none	cbiP or cobQ: cobyric acid synthase
+  21.1	slr0619	1047	none	-
+  10.6	slr0623	324	2e-50	trxA: thioredoxin
+  70.6	slr0624	1116	1e-151	hypothetical protein
+  69.4	slr0625	1464	none	-
+  41.5	slr0626	1197	1e-104	hypothetical protein
+  17.6	slr0628	303	3e-31	rps14: 30S ribosomal protein S14
+  36.3	slr0630	660	2e-55	-
+ 116.8	slr0633	1971	none	thiG: ThiG protein
+  31.2	slr0634	579	none	-
+  58.0	slr0635	939	2e-56	-
+  25.9	slr0636	783	2e-50	hypothetical protein
+  52.7	slr0637	786	5e-40	-
+  29.5	slr0638	900	1e-144	glyQ or glyS(a): glycyl-tRNA synthetase alph
+  24.5	slr0639	891	7e-30	hypothetical protein
+  46.1	slr0640	1326	1e-111	sensory transduction histidine kinase
+  67.7	slr0642	1485	1e-135	integral membrane protein
+  85.2	slr0643	1482	1e-142	-
+  66.9	slr0644	1068	1e-125	hypothetical protein
+  26.0	slr0645	621	5e-69	-
+  80.2	slr0646	1461	8e-71	dacB or pbp: penicillin-binding protein 4
+  74.0	slr0649	1599	none	metS: methionyl-tRNA synthetase
+  22.0	slr0650	606	2e-87	hypothetical protein
+  18.8	slr0651	384	2e-39	-
+  35.5	slr0652	771	2e-90	hisA: phosphorybosilformimino-5-amino- phosp
+  53.9	slr0653	1278	1e-134	rpoDI: RNA polymerase sigma factor
+  36.6	slr0654	762	none	-
+  15.7	slr0655	543	9e-57	hypothetical protein
+  42.7	slr0656	1197	1e-155	-
+ 125.1	slr0657	1803	none	lysC: aspartate kinase
+ -30.6	slr0658	996	none	-
+ 134.1	slr0659	2142	none	prlC or opdA: oligopeptidase A
+  58.2	slr0661	804	8e-85	proC: pyrroline carboxylate reductase
+ 100.4	slr0662	2088	none	speA: arginine decarboxylase
+  -0.5	slr0664	363	2e-32	-
+ 129.6	slr0665	2607	none	hypothetical protein
+ -24.0	slr0666	828	none	-
+  12.2	slr0667	522	none	-
+  -1.3	slr0668	537	none	-
+  29.7	slr0670	876	none	-
+  25.8	slr0676	534	none	cysC: adenylylsulfate 3'-phosphotransferase
+  26.6	slr0677	684	6e-45	exbB: biopolymer transport ExbB protein
+  42.7	slr0678	810	5e-35	-
+  67.7	slr0679	1341	1e-123	fmu and fmv: fmu and fmv protein
+  14.0	slr0680	423	6e-30	-
+  48.9	slr0681	1107	none	hypothetical protein
+  78.0	slr0682	1230	none	hisD: histidinol dehydrogenase
+  21.3	slr0686	360	.0001	
+  69.7	slr0687	1446	none	pleD: PleD gene product
+  52.8	slr0688	1032	1e-96	-
+  81.3	slr0689	1197	1e-176	hypothetical protein
+ 108.6	slr0692	1770	none	ycf45: hypothetical protein
+  38.9	slr0695	522	1e-40	-
+ 151.3	slr0697	3759	none	hypothetical protein
+  31.4	slr0698	465	5e-46	-
+  20.7	slr0699	423	none	-
+   6.4	slr0700	1359	none	-
+  -3.8	slr0701	414	3e-13	merR: mercuric resistance operon regulatory
+  13.4	slr0702	1254	none	-
+  14.6	slr0703	786	1e-62	ISY523_i: transposase
+   0.4	slr0704	849	none	ISY100_g: transposase
+ 140.5	slr0707	2961	none	polA or resA: DNA polymerase I
+  70.6	slr0708	1209	none	
+  28.3	slr0709	393	7e-44	hypothetical protein
+  55.5	slr0710	1287	1e-102	gdhA: glutamate dehydrogenase (NADP+)
+  21.4	slr0711	414	1e-53	-
+  45.2	slr0712	969	.00003	hypothetical protein
+  46.9	slr0713	1125	1e-149	tgt: transfer RNA-guanine transglycosylase
+  48.8	slr0719	1167	2e-15	hypothetical protein
+  86.3	slr0721	1392	none	me: malic enzyme
+  38.0	slr0722	723	6e-53	hypothetical protein
+  58.8	slr0723	1092	9e-77	-
+   5.4	slr0724	333	none	sohA or PrlF: HtaR suppressor protein
+  12.3	slr0725	417	none	hypothetical protein
+ -42.7	slr0727	975	none	-
+  44.3	slr0728	1077	5e-60	-
+  30.7	slr0729	306	5e-18	-
+   8.2	slr0730	399	5e-43	-
+  79.3	slr0731	1209	5e-81	
+  16.1	slr0732	468	2e-28	hypothetical protein
+  40.9	slr0733	942	3e-70	xerC: integrase-recombinase protein
+  60.2	slr0734	1119	1e-86	-
+  27.6	slr0737	426	1e-47	psaD: photosystem I subunit II
+  74.9	slr0738	1527	none	trpE: anthranilate synthetase alpha-subunit
+  54.0	slr0739	909	1e-105	crtE: geranylgeranyl pyrophosphate synthase
+  22.6	slr0740	396	7e-34	-
+  33.1	slr0741	675	6e-74	phoU or nmpA: a negative regulator of pho re
+  19.1	slr0742	531	3e-39	hypothetical protein
+ 104.0	slr0743	1377	1e-152	nusA: N utilization substance protein
+ 157.1	slr0744	3006	none	infB: initiation factor IF-2
+  74.4	slr0746	1269	none	stpA: glucosylglycerolphosphate phosphatase
+  60.0	slr0747	1092	1e-77	ggtA:  ATP-binding subunit of an ABC-type os
+  43.6	slr0748	693	4e-46	-
+  44.1	slr0749	936	1e-137	chlL: light-independent protochlorophyllide
+  61.5	slr0750	1410	none	chlN: protochlorophillide reductase subunit
+  16.4	slr0751	747	none	hypothetical protein
+  87.3	slr0752	1299	1e-173	eno: enolase
+  42.9	slr0753	1350	1e-165	p: P protein
+   4.9	slr0755	558	9e-75	hypothetical protein
+  18.7	slr0756	900	5e-25	PCC7942 clock gene...ORFD
+  14.6	slr0757	318	2e-46	PCC7942 clock gene...ORFE
+  69.7	slr0758	1560	none	PCC7942 clock gene...ORFF
+  90.7	slr0765	1854	none	-
+  39.1	slr0769	615	6e-40	hypothetical protein
+   7.2	slr0770	321	6e-11	-
+   1.5	slr0771	336	2e-12	-
+  73.2	slr0772	1527	none	chlB: protochlorophyllide reductase ChlB sub
+  41.9	slr0773	681	2e-81	hypothetical protein
+  89.2	slr0774	1359	1e-145	secD: protein-export membrane protein SecD
+  31.1	slr0775	948	1e-95	secF: protein-export membrane protein SecF
+  37.9	slr0776	1035	1e-110	lpxD: UDP-3-o-[3-hydroxymyristoyl] glucosami
+  21.9	slr0779	621	4e-39	-
+  11.2	slr0780	486	none	hypothetical protein
+  36.0	slr0782	1416	2e-10	amine oxidase
+  31.6	slr0783	729	1e-102	tpi: triosephosphate isomerase
+  58.5	slr0784	1023	1e-74	hypothetical protein
+  -1.0	slr0786	825	none	map or pepM: methionine aminopeptidase
+  32.6	slr0787	1020	none	-
+  39.8	slr0788	1389	none	pre-B cell enhancing factor
+  15.0	slr0789	558	none	-
+   3.7	slr0790	351	none	umuC: UmuC protein
+  29.7	slr0793	648	none	-
+ 117.8	slr0794	3165	none	cation or drug efflux system protein
+  19.8	slr0795	828	none	-
+  25.2	slr0796	1338	1e-123	nreB: nickel resistance
+  50.0	slr0797	1929	none	cation-transporting ATPase(E1-E2 ATPase)
+  31.1	slr0798	2166	none	-
+   4.1	slr0799	324	none	ISY802_c: transposase
+ -12.5	slr0800	429	none	ISY802_c: transposase
+  36.5	slr0801	1251	none	-
+  42.4	slr0804	945	none	dacB: D-alanyl-D-alanine carboxypeptidase
+  63.8	slr0806	1320	1e-103	-
+  52.1	slr0807	1047	1e-129	gcp: putative glycoprotease
+  38.4	slr0808	558	6e-41	-
+  31.8	slr0809	987	1e-152	rfbB: dTDP-glucose 4-6-dehydratase
+  11.5	slr0810	360	1e-23	-
+  31.7	slr0812	774	1e-50	-
+  42.6	slr0813	1170	3e-12	ceramide glucosyltransferase
+  21.4	slr0815	366	9e-19	-
+  27.6	slr0816	504	3e-36	-
+  52.2	slr0817	1425	1e-88	entC: isochorismate synthase
+  77.7	slr0818	1356	1e-76	-
+  75.5	slr0819	1560	1e-133	int or cutE: apolipoprotein N-acyltransferas
+  82.8	slr0820	1437	1e-81	glucosyltransferase
+  16.4	slr0821	276	3e-30	hypothetical protein
+ 153.5	slr0822	2862	none	cation-transporting ATPase(E1-E2 ATPase)
+  23.2	slr0823	522	1e-79	ycf3: hypothetical protein
+  88.9	slr0825	1914	.00002	hypothetical protein
+  65.9	slr0827	1203	1e-133	alr or dal: alanine racemase
+  54.8	slr0829	2490	2e-52	PleD gene product homologue
+  15.1	slr0833	2619	none	dnaB: replicative DNA helicase
+  47.7	slr0835	912	1e-125	moxR: MoxR protein
+  61.4	slr0836	1029	1e-155	rfbB: dTDP-glucose 46-dehydratase
+  58.2	slr0838	1026	2e-24	purM or purG: phosphoribosyl formylglycinami
+  63.0	slr0839	1164	1e-162	hemH: ferrochelatase
+  21.0	slr0841	876	none	-
+  55.1	slr0842	1215	none	hypothetical protein
+  95.7	slr0844	2046	none	ndhF: NADH dehydrogenase subunit 5
+  31.3	slr0845	573	3e-56	-
+  33.5	slr0846	474	4e-53	hypothetical protein
+  16.7	slr0847	480	1e-61	kdtB: KdtB protein
+  53.3	slr0848	834	6e-16	hypothetical protein
+  68.2	slr0851	1338	1e-148	ndh: NADH dehydrogenase
+  29.3	slr0852	429	4e-9	-
+  32.5	slr0853	477	1e-36	rimI: ribosomal-protein-alanine acetyltransf
+  67.0	slr0854	1467	1e-178	phr: deoxyribopyrimidine photolyase
+  -2.7	slr0856	360	none	ISY100_l: transposase
+   5.3	slr0857	495	none	ISY100_l: transposase
+  67.5	slr0861	1176	1e-153	purT: glycinamide ribonucleotide transformyl
+  44.9	slr0862	981	none	lmbP: LmbP protein
+  92.0	slr0863	1392	none	hypothetical protein
+ 126.6	slr0864	1725	none	ABC transporter
+  49.3	slr0865	1014	1e-96	-
+  20.0	slr0867	408	none	-
+   7.1	slr0868	306	none	-
+  34.4	slr0869	2439	none	-
+  -0.2	slr0870	363	2e-14	-
+   9.7	slr0871	384	none	-
+  55.2	slr0872	1119	2e-54	-
+  22.1	slr0875	438	none	mscL: large-conductance mechanosensitive cha
+  69.3	slr0876	1230	2e-14	hypothetical protein
+  85.3	slr0877	1452	none	amidase
+  43.7	slr0878	738	6e-59	hypothetical protein
+  25.5	slr0879	399	3e-35	gcvH: glycine decarboxylase complex H-protei
+  96.5	slr0880	1773	1e-164	secreted protein MPB70 precursor
+  17.9	slr0881	312	.000009	-
+  45.9	slr0882	1185	1e-121	-
+  79.4	slr0883	1446	8e-87	psr: regulation of penicillin binding protei
+  56.1	slr0884	1065	1e-146	gap1: glyceraldehyde 3-phosphate dehydrogena
+  27.3	slr0885	576	1e-62	-
+  36.6	slr0886	744	1e-99	fabG: 3-oxoacyl-[acyl-carrier protein] reduc
+  24.0	slr0887	810	5e-59	-
+  22.9	slr0888	507	4e-21	-
+  58.1	slr0889	1227	1e-146	ABC1-like
+   2.9	slr0890	396	none	-
+  83.7	slr0891	1776	1e-167	amiA: N-acetylmuramoyl-L-alanine amidase
+  19.7	slr0895	564	none	-
+  39.5	slr0896	1386	none	hypothetical protein
+ 110.6	slr0897	3213	none	endo-14-beta-glucanase
+  67.0	slr0898	1509	none	nirA: ferredoxin--nitrite reductase
+  10.8	slr0899	450	7e-58	cynS: cyanate lyase
+  45.8	slr0900	1173	3e-33	moeA: molybdopterin biosynthesis MoeA
+  11.0	slr0901	984	2e-37	moaA: molybdenum cofactor biosynthesis prote
+  44.4	slr0902	1044	4e-26	moaC: molybdenum cofactor biosynthesis prote
+  19.9	slr0903	438	1e-21	moaE: molybdopterin (MPT) converting factor,
+  76.4	slr0904	1530	none	hypothetical protein
+  14.2	slr0905	1500	none	bchE: Mg-protoporphyrin IX monomethyl ester
+  36.7	slr0906	1524	none	psbB: photosystem II CP47 protein
+ 121.2	slr0907	3045	none	-
+  41.4	slr0909	1353	none	-
+ -10.8	slr0912	777	none	-
+ -24.5	slr0913	1620	none	-
+   0.5	slr0914	1797	none	-
+   1.8	slr0915	453	none	putative endonuclease
+  53.0	slr0917	1314	1e-110	bioF: 7-keto-8-aminopelargonic acid syntheta
+  48.3	slr0918	762	1e-114	map, pepM: methionine aminopeptidase
+  18.7	slr0919	456	none	-
+  37.7	slr0920	450	9e-41	hypothetical protein
+  21.4	slr0921	387	8e-15	-
+  28.0	slr0922	585	2e-62	pth: peptidyl-tRNA hydrolase
+  10.4	slr0923	339	2e-27	hypothetical protein
+  34.4	slr0924	729	2e-20	-
+  17.6	slr0925	366	1e-40	ssb: single-stranded DNA-binding protein
+  42.8	slr0926	879	2e-94	ubiA or cyr: 4-hydroxybenzoate-octaprenyl tr
+  33.1	slr0927	1059	none	psbD2: photosystem II D2 protein
+  38.8	slr0929	588	1e-44	-
+  48.8	slr0930	1311	1e-113	-
+  23.2	slr0935	459	1e-32	-
+  54.9	slr0936	888	6e-90	nadC: nicotinate-nucleotide pyrophosphorylas
+  58.4	slr0937	1254	none	-
+  66.8	slr0938	1380	1e-161	hypothetical protein
+  69.9	slr0940	1470	none	crtQ or zds: zeta-carotene desaturase precur
+  23.4	slr0941	444	2e-65	-
+  24.3	slr0942	984	none	aldehyde reductase
+  26.1	slr0943	903	none	fda: fructose-bisphosphate aldolase
+  57.0	slr0944	1152	1e-167	hypothetical protein
+  40.1	slr0945	621	4e-21	-
+  27.3	slr0946	396	3e-46	arsC: arsenate reductase
+  41.7	slr0947	705	1e-120	OmpR subfamily
+  35.7	slr0948	648	3e-71	-
+  48.0	slr0949	861	1e-92	livH: high-affinity branched-chain amino aci
+  66.0	slr0950	825	2e-80	hypothetical protein
+  42.5	slr0951	693	2e-84	hypothetical protein
+  40.8	slr0952	1044	1e-152	fbp or fdp: fructose 16-bisphosphatase
+  33.4	slr0953	735	3e-32	-
+  13.8	slr0954	432	4e-18	hypothetical protein
+  58.5	slr0955	1155	1e-91	hypothetical protein
+  10.3	slr0957	312	2e-17	-
+  66.9	slr0958	1452	1e-173	cysS: cysteinyl-tRNA synthetase
+  79.0	slr0959	1590	1e-77	-
+   9.6	slr0960	441	none	-
+  81.5	slr0962	1434	6e-10	-
+ 102.1	slr0963	1908	none	sir: ferredoxin-sulfite reductase
+  67.7	slr0964	927	3e-60	hypothetical protein
+  65.0	slr0965	1176	1e-117	dnaN: DNA polymerase III beta subunit
+  51.4	slr0966	795	1e-93	trpA: tryptophan synthase alpha chain
+  24.3	slr0967	453	6e-34	hypothetical protein
+ 117.5	slr0969	1884	2e-59	cbiH or cobJ: precorrin methylase
+  70.2	slr0971	1356	1e-17	-
+  25.9	slr0974	534	5e-66	infC: initiation factor IF-3
+  37.3	slr0975	858	3e-68	hypothetical protein
+  19.7	slr0976	729	1e-68	-
+  23.3	slr0977	831	none	ABC transporter
+  -5.0	slr0978	408	none	-
+  -0.3	slr0980	432	none	hypothetical protein
+  13.5	slr0981	564	5e-62	-
+  27.9	slr0982	1293	none	rfbB: ABC transporter
+  15.8	slr0983	771	1e-105	rfbF: alpha-D-glucose-1-phosphate cytidylylt
+  -8.7	slr0984	1083	none	rfbG: CDP-glucose 46-dehydratase
+  18.1	slr0985	570	3e-40	rfbC: dTDP-6-deoxy-L-mannose-dehydrogenase
+  54.5	slr0989	762	1e-83	hypothetical protein
+  50.7	slr0990	1170	1e-145	-
+  16.5	slr0992	462	3e-46	hypothetical protein
+  97.1	slr0993	2148	1e-59	nlpD: lipoprotein NlpD
+  18.7	slr0994	684	3e-72	lipB: LipB protein
+  48.6	slr1019	945	6e-13	hypothetical protein
+  35.0	slr1020	1152	none	sqdB: sulfolipid biosynthesis protein SqdB
+  61.5	slr1022	1290	1e-179	argD or dtu: N-acetylornithine aminotransfer
+  15.9	slr1023	315	none	-
+  30.4	slr1024	642	1e-48	-
+  13.5	slr1025	339	none	-
+ 140.7	slr1028	11919	none	integrin alpha- subunit domain homologue
+  68.1	slr1030	1074	1e-148	chlI: Mg chelatase subunit ChlI
+  55.8	slr1031	1215	1e-150	tyrS: tyrosyl tRNA synthetase
+  -3.9	slr1032	354	none	-
+ -42.9	slr1033	1698	none	-
+  17.5	slr1034	390	2e-29	-
+  25.8	slr1035	528	3e-46	-
+  24.7	slr1037	396	4e-31	CheY subfamily
+  27.6	slr1039	702	1e-60	-
+  57.2	slr1041	1167	5e-81	PatA subfamily
+  16.7	slr1042	366	1e-49	CheY subfamily
+  23.4	slr1043	564	1e-57	-
+ 119.4	slr1044	2610	1e-138	mcpA: methyl-accepting chemotaxis protein
+  27.3	slr1045	792	3e-99	hypothetical protein
+  19.1	slr1046	381	9e-25	hypothetical protein
+  26.4	slr1047	1395	none	pleD: PleD gene product
+ 126.3	slr1048	3021	none	-
+  62.6	slr1050	1434	1e-103	-
+  45.4	slr1051	777	1e-109	envM or fabI: enoyl-[acyl-carrier-protein] r
+  41.7	slr1052	513	6e-24	-
+  47.9	slr1053	804	6e-14	-
+ 210.1	slr1055	3996	none	chlH: Mg-chelatase subunit ChlH
+  -9.8	slr1056	2019	none	-
+   1.0	slr1062	348	none	-
+ -56.3	slr1063	2070	8e-16	hypothetical protein
+  -1.0	slr1064	1104	none	rfbU or mtfA: mannosyltransferase B
+  -6.4	slr1065	966	none	-
+  -0.1	slr1066	1206	none	-
+ -34.7	slr1067	1023	1e-128	galE or galD: UDP-glucose 4-epimerase
+   8.3	slr1068	357	.0000008	-
+ -13.7	slr1069	414	none	-
+ -10.4	slr1070	858	none	-
+ -10.3	slr1071	807	.0000007	-
+  12.7	slr1072	963	none	yefA or rfbD: GDP-D-mannose dehydratase
+ -15.1	slr1073	1155	.0004	-
+ -41.6	slr1074	1332	none	-
+   0.4	slr1075	849	none	ISY100_b: transposase
+  22.3	slr1076	1146	1e-131	-
+  29.7	slr1077	1161	3e-37	-
+  13.8	slr1078	318	none	galE: UDPglucose 4-epimerase
+   6.7	slr1079	495	none	-
+  18.6	slr1081	633	none	-
+   6.9	slr1082	411	none	-
+  18.6	slr1083	546	6e-42	-
+  25.9	slr1084	441	3e-16	hypothetical protein
+  57.9	slr1085	1275	1e-112	-
+  49.4	slr1087	1086	7e-48	-
+  66.5	slr1090	1107	1e-112	GTP-binding protein
+  28.5	slr1093	588	5e-21	folK:  7 8-dihydro-6-hydroxymethylpterin-pyr
+  37.1	slr1094	786	9e-79	-
+  31.2	slr1095	648	none	-
+  94.0	slr1096	1425	none	phdD or lpd: dihydrolipoamide dehydrogenase
+  21.9	slr1097	492	2e-47	-
+  37.7	slr1098	759	1e-73	-
+  46.1	slr1099	621	8e-88	ubiX: 3-octaprenyl-4-hydroxybenzoate carboxy
+  12.6	slr1100	381	none	-
+  -3.5	slr1101	486	none	hypothetical protein
+ 110.3	slr1102	2562	none	hypothetical protein
+  68.8	slr1103	2121	none	hypothetical protein
+  55.9	slr1104	1842	none	hypothetical protein
+  86.2	slr1105	1677	none	fus: elongation factor EF-G
+  59.0	slr1106	849	1e-103	phb: prohibitin
+  60.0	slr1107	1335	none	-
+  69.7	slr1109	1326	7e-50	ank: erythroid ankyrin
+  38.1	slr1110	579	9e-41	-
+  41.0	slr1113	999	9e-98	ABC transporter
+  69.7	slr1114	1758	3e-24	-
+  25.8	slr1115	774	none	-
+   7.6	slr1116	522	none	-
+   6.2	slr1117	762	none	-
+  25.8	slr1118	756	none	rffM: UDP-N-acetyl-D-mannosaminuronic acid t
+  40.0	slr1119	702	1e-80	-
+  42.9	slr1120	810	2e-59	hofD or hopD: type 4 prepilin peptidase
+  38.9	slr1122	753	4e-45	-
+  44.6	slr1123	576	6e-53	gmk or spoR: guanylate kinase
+  55.2	slr1124	1332	1e-118	gpmB: phosphoglycerate mutase
+  40.9	slr1125	1209	none	crtX: zeaxanthin glucosyl transferase
+  20.3	slr1127	792	none	-
+  47.7	slr1128	966	1e-105	erthyrocyte band 7 integral membrane protein
+  87.5	slr1129	2025	none	rne: ribonuclease E
+  34.9	slr1130	573	9e-49	rhnB: ribonuclease HII
+  82.0	slr1133	1386	none	argH: L-argininosuccinate lyase
+  18.6	slr1134	447	4e-43	hypothetical protein
+ -27.1	slr1135	2148	none	-
+  26.7	slr1136	999	1e-87	ctaC or coxB: cytochrome c oxidase subunit I
+  66.9	slr1137	1656	none	ctaD: cytochrome c oxidase subunit I
+  22.0	slr1138	702	2e-67	ctaE: cytochrome c oxidase subunit III
+  23.5	slr1139	330	3e-28	trxA or trx: thioredoxin
+  58.3	slr1140	1137	none	3-amino-5-hydroxybenzoic acid synthase
+  -0.8	slr1142	510	none	-
+  31.3	slr1143	1032	none	hypothetical protein
+  47.1	slr1145	1209	none	gltS: glutamate permease
+  56.1	slr1147	1305	2e-63	sensory transduction histidine kinase
+  -1.5	slr1148	567	none	-
+  80.2	slr1149	1806	none	ABC transporter
+  24.7	slr1150	513	none	-
+  23.1	slr1152	996	none	hypothetical protein
+  77.0	slr1159	1260	1e-137	purD: glycinamide ribonucleotide synthetase
+  16.1	slr1160	615	1e-43	-
+  11.6	slr1161	600	none	-
+  10.2	slr1162	945	4e-17	hypothetical protein
+  40.5	slr1163	1671	none	-
+  61.3	slr1164	2304	none	nrdA or dnaF: ribonucleotide reductase subun
+  71.3	slr1165	1173	1e-162	met3 or sopT: sulfate adenylyltransferase
+  51.2	slr1166	1065	1e-108	hypothetical protein
+  64.5	slr1167	1116	1e-125	gldA: glycerol dehydrogenase
+  10.8	slr1168	312	none	-
+  40.9	slr1169	837	.000005	-
+  13.9	slr1170	354	1e-21	-
+  28.7	slr1171	510	none	glutathione peroxidase
+  59.2	slr1173	1392	1e-152	-
+  36.3	slr1174	789	2e-83	-
+  27.7	slr1176	1320	none	agp: ADP-glucose pyrophosphorylase
+  30.7	slr1177	849	1e-49	-
+  17.2	slr1178	468	1e-11	-
+  51.1	slr1179	1131	1e-119	hypothetical protein
+  26.9	slr1181	1083	none	psbA1: photosystem II D1 protein
+  22.3	slr1182	513	.000004	-
+  28.5	slr1183	585	none	-
+  17.3	slr1184	495	4e-38	hypothetical protein
+  34.4	slr1185	537	1e-67	petC: cytochrome b6/f-complex iron-sulfur pr
+  14.7	slr1186	447	none	-
+  65.7	slr1187	1041	none	-
+  38.0	slr1188	672	none	im30: chloroplast membrane-associated 30 kD
+  36.7	slr1189	942	none	-
+  46.7	slr1192	1011	5e-22	zinc-containing alcohol dehydrogenase family
+  34.5	slr1194	669	5e-68	hypothetical protein
+  18.2	slr1195	465	7e-52	-
+  47.3	slr1196	1290	1e-44	-
+  67.3	slr1197	1197	1e-111	hypothetical protein
+  27.6	slr1198	636	8e-96	rehydrin
+  94.3	slr1199	1692	1e-155	mutL: DNA mismatch repair protein MutL
+  47.0	slr1200	1167	1e-114	livH: high-affinity branched-chain amino aci
+  50.6	slr1201	1233	1e-121	-
+  35.3	slr1202	897	1e-101	lacF: lactose transport system permease prot
+  12.6	slr1203	438	none	hypothetical protein
+  75.2	slr1204	1359	1e-123	htrA: serine protease HtrA
+  25.7	slr1205	354	7e-36	ferredoxin component
+  41.8	slr1206	636	3e-49	-
+  94.3	slr1207	1545	2e-82	-
+  89.8	slr1208	1974	none	short-chain alcohol dehydrogenase family
+  10.7	slr1209	330	2e-17	-
+   5.8	slr1210	390	none	-
+ 132.2	slr1211	3279	none	cobN: CobN protein
+  51.5	slr1212	2535	2e-93	ETR1: ethylene response sensor protein
+  21.3	slr1213	726	none	AraC subfamily
+  39.2	slr1214	1119	none	PatA subfamily
+  34.9	slr1215	669	5e-46	-
+  70.4	slr1216	1392	1e-140	mgtE: Mg2+ transporter
+  23.0	slr1218	477	1e-20	-
+  28.6	slr1219	429	3e-27	ureE: urease accessory protein E
+  51.1	slr1220	954	1e-71	-
+  -9.1	slr1222	588	none	
+  52.9	slr1223	924	1e-92	sulA or rcp: cell division inhibitor
+  72.5	slr1224	1227	1e-138	malK: cytoplasmic membrane protein for malto
+  87.8	slr1225	1488	none	pknA: protein kinase PknA
+  39.8	slr1226	795	4e-84	purC: phosphoribosyl aminoidazole succinocar
+ 101.6	slr1227	2586	none	IAP75: chloroplast import-associated channel
+  86.3	slr1228	1644	none	prfC or tos: peptide-chain-release factor 3
+  66.2	slr1229	1362	1e-177	hypothetical protein
+  41.2	slr1230	864	3e-89	-
+  14.9	slr1232	537	none	-
+  90.3	slr1233	1728	none	frdA: succinate dehydrogenase flavoprotein s
+  24.3	slr1234	345	1e-36	protein kinase C inhibitor
+  46.1	slr1235	882	8e-98	-
+  25.6	slr1236	534	3e-28	-
+  54.7	slr1237	1353	none	codA: cytosine deaminase
+  50.5	slr1238	963	1e-115	gshB: glutathione synthetase
+ 109.7	slr1239	1593	1e-73	pntA: pyridine nucleotide transhydrogenase a
+  20.4	slr1240	540	none	-
+  10.4	slr1241	348	none	hypothetical protein
+ -15.8	slr1243	3195	.0000003	-
+  16.0	slr1245	909	none	transcriptional regulator
+ -11.7	slr1246	537	none	ISY802_b: transposase
+  50.6	slr1247	1002	2e-80	pstS or phoS: periplasmic phosphate binding
+  44.5	slr1248	987	3e-93	pstC or phoW: phosphate transport system per
+  38.0	slr1249	873	2e-69	pstA or phoT: phosphate transport system per
+  24.8	slr1250	816	1e-104	pstB or phoT: phosphate transport ATP-bindin
+  33.3	slr1251	513	none	cyp or rot1: peptidyl-prolyl cis-trans isome
+   5.7	slr1253	315	none	
+  49.9	slr1254	1419	none	pds: phytoene desaturase
+  53.9	slr1255	1014	1e-124	pys: phytoene synthase
+  17.7	slr1256	303	2e-44	ureA: urease gamma subunit
+  42.7	slr1257	1194	2e-34	-
+  40.3	slr1258	756	none	-
+  23.6	slr1259	699	3e-87	hypothetical protein
+  30.6	slr1260	534	1e-17	hypothetical protein
+  38.0	slr1261	540	4e-32	hypothetical protein
+  48.7	slr1262	867	4e-68	-
+  62.3	slr1263	1413	1e-132	-
+ 100.7	slr1265	1881	none	rpoC1: RNA polymerase gamma-subunit
+  34.4	slr1266	558	none	-
+  54.3	slr1267	1182	1e-110	mrdB or rodA: rod-shape-determining protein
+  95.9	slr1269	1557	7e-41	ggt: gamma-glutamyltranspeptidase
+ 101.5	slr1270	1581	4e-87	-
+  33.4	slr1271	741	2e-76	rffM: UDP-N-acetyl-D-mannosaminuronic acid t
+  42.0	slr1272	765	none	-
+  15.3	slr1273	441	4e-38	-
+  44.0	slr1274	1104	1e-130	pilM: membrane protein
+  40.4	slr1275	855	4e-26	-
+  17.5	slr1276	828	1e-28	-
+  37.6	slr1277	2358	1e-110	gspD: general secretion pathway protein D
+  48.4	slr1278	993	2e-85	hypothetical protein
+  14.8	slr1279	363	2e-57	ndhC: NADH dehydrogenase subunit 3
+  38.3	slr1280	747	1e-108	ndhK: NADH dehydrogenase subunit NdhK
+  20.8	slr1281	540	9e-77	ndhJ: NADH dehydrogenase subunit I
+   7.0	slr1282	360	.0001	ISY508_b: transposase
+  -9.3	slr1283	474	2e-12	ISY508_b: transposase
+  74.2	slr1285	1395	3e-74	sensory transduction histidine kinase
+  53.4	slr1287	1011	1e-104	hypothetical protein
+  25.7	slr1288	585	5e-29	-
+  64.8	slr1289	1428	none	icd: isocitrate dehydrogenase (NADP+)
+  17.3	slr1290	573	1e-67	-
+  60.1	slr1291	1680	none	ndhD2: NADH dehydrogenase subunit 4
+  71.2	slr1293	1524	none	-
+  42.1	slr1295	1083	9e-35	sufA: iron transport protein
+  95.7	slr1298	2268	none	hypothetical protein
+  50.0	slr1299	1362	none	UDP-glucose dehydrogenase
+  59.1	slr1300	1245	1e-107	ubiH or visB: UbiH protein
+  75.1	slr1301	1608	3e-58	-
+  64.7	slr1302	1149	1e-148	-
+  40.9	slr1303	1233	1e-111	-
+ 109.1	slr1305	2523	none	unclassified
+  95.1	slr1306	1458	1e-50	-
+  29.6	slr1307	588	2e-25	-
+  -5.6	slr1311	1083	none	psbA2: photosystem II D1 protein
+  58.6	slr1312	1980	none	speA: arginine decarboxylase
+  12.8	slr1315	609	none	-
+  51.4	slr1316	1032	7e-93	fecC: iron(III) dicitrate transport system p
+  54.8	slr1317	1050	7e-85	fecD: iron(III) dicitrate transport system p
+  44.1	slr1318	807	2e-98	fecE: iron(III) dicitrate transport system p
+  15.6	slr1319	948	2e-47	fecB: iron(III) dicitrate transport system p
+  58.2	slr1322	1470	none	hypothetical protein
+  50.6	slr1324	1263	2e-90	receiver/transmitter
+ 130.3	slr1325	2283	none	spoT: (p)ppGpp 3'-pyrophosphohydrolase
+  15.3	slr1327	435	8e-27	-
+  57.8	slr1329	1452	none	atpB: ATP synthase b subunit
+  25.9	slr1330	411	9e-36	atpE: ATP synthase e subunit
+  87.8	slr1331	1542	1e-140	ymxG: processing protease
+  67.1	slr1332	1215	3e-87	fabF or fabJ: beta ketoacyl-acyl carrier pro
+  75.1	slr1334	1473	1e-153	-
+  38.2	slr1336	1119	1e-125	H+/Ca2+ exchanger
+  25.8	slr1338	603	none	-
+  14.5	slr1339	459	.0000002	-
+   2.8	slr1340	537	.00000002	-
+  63.9	slr1342	1338	1e-149	-
+  60.8	slr1343	1515	none	-
+  39.8	slr1344	852	none	hypothetical protein
+  43.8	slr1347	936	none	icfA: carbonic anhydrase
+  24.8	slr1348	750	2e-88	cysE: serine acetyltransferase
+  83.2	slr1349	1596	none	pgi: glucose-6-phosphate isomerase
+  48.8	slr1350	1056	1e-117	desA: fatty acid desaturase
+  71.4	slr1351	1365	1e-132	murF or mra: UDP-N-acetylmuramoylalanyl-D-gl
+  28.4	slr1353	876	1e-30	-
+  45.6	slr1356	987	1e-147	rps1: 30S ribosomal protein S1
+  -0.1	slr1357	849	none	ISY100_c: transposase
+  24.5	slr1362	402	2e-15	-
+  92.5	slr1363	1503	1e-39	hypothetical protein
+  56.8	slr1364	1089	3e-39	bioB: biotin synthetase
+  19.9	slr1365	654	5e-44	bioY: BioY protein
+  26.3	slr1366	486	1e-36	lspA: lipoprotein signal peptidase
+ 113.3	slr1367	2568	9e-15	glgP or glgY: glycogen phosphorylase
+  33.9	slr1368	684	3e-74	cbiT or cobL: precorrin decarbocylase
+  32.6	slr1369	882	1e-76	cdsA or cds: phosphatidate cytidylyltransfer
+  19.1	slr1376	333	6e-37	-
+  31.9	slr1377	657	2e-51	lepB: leader peptidase I
+  19.2	slr1378	714	7e-64	-
+  49.5	slr1379	1452	none	cydA or cyd-1: cytochrome oxidase d subunit
+  51.1	slr1380	1011	1e-122	cydB or cyd-2: cytochrome oxidase d subunit
+  -0.9	slr1383	489	none	-
+  65.6	slr1384	1176	none	-
+  26.6	slr1385	969	none	-
+ 145.9	slr1390	1929	none	ftsH: cell division protein FtsH
+  27.4	slr1391	471	3e-13	
+  70.8	slr1392	1845	1e-22	feoB: ferrous iron transport protein B
+ 141.6	slr1393	2925	8e-95	sensory transduction histidine kinase
+  29.3	slr1394	456	1e-51	hypothetical protein
+  63.2	slr1395	1077	1e-117	-
+  -6.8	slr1396	618	none	-
+ -10.7	slr1397	624	none	-
+ -17.0	slr1398	753	none	-
+  35.1	slr1400	1143	1e-97	receiver/transmitter
+ 177.4	slr1403	9051	none	integrin alpha- and beta4- subunit domain ho
+  21.0	slr1406	546	none	-
+  21.1	slr1407	870	none	-
+  38.6	slr1409	981	none	beta transducin-like protein
+  32.1	slr1410	1005	none	beta transducin-like protein
+  73.1	slr1411	1269	1e-138	-
+ 100.3	slr1413	1446	1e-144	-
+  61.6	slr1414	1080	9e-40	sensory transduction histidine kinase
+  44.9	slr1415	1149	8e-47	-
+  62.8	slr1416	894	7e-97	morR: MorR protein
+  20.6	slr1417	357	2e-51	hypothetical protein
+  41.9	slr1418	1146	1e-103	pyrD: dihydroorotate dehydrogenase
+  21.1	slr1419	480	8e-53	hypothetical protein
+  56.6	slr1420	1278	1e-125	-
+   6.0	slr1421	324	none	-
+  81.4	slr1423	1518	1e-156	murC: UDP-N-acetylmuramate-alanine ligase
+  41.5	slr1424	954	3e-94	hypothetical protein
+  12.0	slr1425	354	none	-
+  36.8	slr1426	699	1e-49	recR: recombination protein
+ 104.9	slr1428	1875	none	-
+  34.8	slr1429	870	9e-56	-
+  78.3	slr1431	1428	none	-
+  70.8	slr1434	1443	1e-108	pntB: pyridine nucleotide transhydrogenase b
+  59.0	slr1435	1284	1e-124	pmbA: PmbA protein
+  22.0	slr1436	852	none	-
+  14.2	slr1437	339	none	-
+  30.4	slr1438	870	2e-78	-
+  29.0	slr1440	432	none	-
+  22.4	slr1441	390	none	-
+  36.4	slr1442	858	4e-56	-
+  76.4	slr1443	1845	none	pknA: protein kinase
+  37.9	slr1444	1002	2e-62	-
+  41.3	slr1448	924	3e-90	cscK: fructokinase
+   5.0	slr1449	594	none	-
+   5.2	slr1450	315	none	
+  48.3	slr1451	786	8e-25	-
+  63.0	slr1452	1059	8e-99	sbpA: sulfate binding protein SbpA
+  30.7	slr1453	861	1e-83	cysT: sulfate transport system permease prot
+  26.3	slr1454	831	3e-86	cysW: sulfate transport system permease prot
+  43.2	slr1455	1068	1e-109	cysA: sulfate transport system permease prot
+   1.1	slr1456	528	none	general secretion pathway protein G
+  79.2	slr1457	1200	1e-108	chrA: chromate transport protein
+  16.2	slr1459	510	1e-61	apcF: phycobilisome core component
+  30.4	slr1461	597	none	hypothetical protein
+ 103.4	slr1462	1686	1e-162	-
+ 127.1	slr1463	2088	none	fus: elongation factor EF-G
+  44.2	slr1464	798	2e-66	hypothetical protein
+  27.0	slr1467	669	1e-69	precorrin isomerase
+  24.6	slr1468	450	5e-49	tymocyte protein cThy28kD
+   8.4	slr1469	375	3e-19	rnpA: protein subunit of ribonuclease P (RNa
+   9.5	slr1470	396	6e-51	-
+  61.3	slr1471	1155	1e-134	inner membrane protein
+  19.6	slr1472	495	4e-28	-
+  46.7	slr1474	810	2e-56	-
+  39.4	slr1476	996	1e-136	pyrB: aspartate carbamoyltransferase
+  63.7	slr1478	954	6e-81	-
+  88.8	slr1484	1599	.00005	-
+  40.9	slr1485	1050	none	hypothetical protein
+  38.8	slr1488	1818	1e-160	ABC transporter
+  11.6	slr1489	993	2e-71	pchR: regulatory protein PchR
+  39.9	slr1490	2562	none	fhuA: ferrichrome-iron receptor
+   7.4	slr1491	993	none	fecB: iron(III) dicitrate-binding periplasmi
+  44.0	slr1492	936	2e-80	fecB: iron(III) dicitrate-binding periplasmi
+   7.4	slr1493	375	6e-20	-
+  63.1	slr1494	1842	1e-153	ABC transporter
+ 102.1	slr1495	1650	1e-77	-
+  54.4	slr1498	1125	1e-100	hypD: hydrogenase isoenzymes formation prote
+  25.5	slr1501	678	none	-
+  36.7	slr1503	993	1e-120	-
+  35.0	slr1505	597	none	-
+  84.9	slr1506	1734	none	-
+  52.7	slr1507	1017	1e-159	-
+  65.9	slr1508	1170	1e-131	-
+  63.0	slr1509	1335	1e-129	ntpJ: Na+ -ATPase subunit J
+  52.5	slr1510	1047	1e-110	plsX: PlsX protein
+  24.9	slr1511	993	1e-106	fabH: beta-ketoacyl-acyl carrier protein syn
+  19.7	slr1512	1125	1e-146	-
+   6.7	slr1513	333	2e-41	
+  66.0	slr1515	1425	1e-111	-
+  24.9	slr1516	600	2e-66	sodB: superoxide dismutase
+  61.9	slr1517	1089	1e-163	leuB: 3-isopropylmalate dehydrogenase
+  34.6	slr1518	846	7e-83	menA: 14-dihydroxy-2-naphtoic acid prenyltra
+  29.8	slr1519	738	none	hglK: HglK
+  19.1	slr1520	1116	1e-118	-
+  92.3	slr1521	1605	1e-170	hflX: GTP-binding protein HflX
+ -26.1	slr1522	1077	none	ISY352_d: transposase
+  -6.6	slr1523	660	none	unclassified: transposase
+  -6.1	slr1524	516	none	ISY100_u: transposase
+ 104.8	slr1529	2508	none	nitrogen assimilation regulatory protein
+  43.5	slr1530	843	3e-35	-
+  71.6	slr1531	1449	1e-174	ffh: signal recognition particle protein
+  20.9	slr1533	348	2e-26	-
+  44.2	slr1534	906	1e-102	hypothetical protein
+  81.9	slr1535	1470	none	-
+  79.9	slr1536	1437	1e-132	recQ: ATP-dependent DNA helicase RecQ
+  31.6	slr1537	870	none	-
+  47.2	slr1538	1095	3e-99	cbiD: CbiD protein
+  43.5	slr1540	936	1e-119	hypothetical protein
+  25.5	slr1541	633	none	-
+  28.3	slr1542	486	4e-64	hypothetical protein
+  60.8	slr1543	1419	none	DNA-damage-inducible protein
+  10.8	slr1544	312	none	-
+  25.1	slr1545	672	2e-84	rpoE: RNA polymerase sigma-E factor
+  20.9	slr1546	639	3e-10	
+  26.0	slr1547	999	none	-
+  26.0	slr1549	564	2e-72	def or fms: polypeptide deformylase
+  86.0	slr1550	1533	none	lysS or herC: lysyl-tRNA synthetase
+  61.8	slr1552	2535	none	-
+  26.3	slr1556	1002	1e-108	ddh: 2-hydroxyaciddehydrogenase
+  74.0	slr1557	1110	3e-29	-
+  34.8	slr1559	873	1e-86	aroE: shikimate 5-dehydrogenase
+  56.9	slr1560	1206	1e-102	hisS: histidyl tRNA synthetase
+  22.3	slr1562	330	1e-34	grxC: glutaredoxin
+  45.4	slr1563	888	1e-100	hypothetical protein
+  29.9	slr1564	777	6e-77	rpoF: RNA polymerase sigma-37
+  15.9	slr1565	342	1e-21	hypothetical protein
+  73.1	slr1566	1188	1e-108	-
+  93.6	slr1567	2298	none	-
+  21.4	slr1568	411	4e-20	-
+  12.0	slr1570	660	none	-
+  42.0	slr1571	681	none	-
+  33.9	slr1572	855	none	-
+  40.4	slr1573	789	7e-71	-
+  60.6	slr1575	1440	none	hypothetical protein
+  17.7	slr1576	321	none	-
+  31.2	slr1577	489	7e-51	-
+  73.3	slr1579	1569	9e-80	-
+  12.9	slr1583	363	2e-43	-
+  33.3	slr1584	705	3e-69	OmpR subfamily
+   6.7	slr1585	387	none	ISY508_c: transposase
+ -10.2	slr1586	321	none	ISY508_c: transposase
+  31.7	slr1588	1266	none	unclassified
+  47.1	slr1590	888	1e-115	-
+  36.3	slr1591	1149	2e-81	-
+  30.7	slr1592	954	none	hypothetical protein
+  10.2	slr1593	912	none	hypothetical protein
+  36.9	slr1594	1188	none	PatA subfamily
+  20.5	slr1595	1233	none	Na/H antiporter
+  51.2	slr1596	1323	5e-93	pxcA: a protein in the cytoplasmic membrane
+  44.9	slr1597	897	1e-100	hypothetical protein
+  35.7	slr1598	870	1e-136	lipA or lip: lipoic acid synthetase
+  17.9	slr1599	729	4e-76	-
+  24.3	slr1600	450	2e-33	-
+  18.1	slr1601	378	1e-10	-
+  70.0	slr1603	1323	1e-104	hypothetical protein
+  90.3	slr1604	1851	none	ftsH: cell division protein FtsH
+  66.9	slr1608	1239	4e-15	gdhB: glucose dehydrogenase-B
+ 104.0	slr1609	2091	none	long-chain-fatty-acid CoA ligase
+  38.0	slr1610	1302	.00002	hypothetical protein
+   8.4	slr1611	453	none	hypothetical protein
+  12.8	slr1612	861	none	-
+  12.0	slr1613	591	none	-
+   3.5	slr1614	306	none	-
+  26.6	slr1615	1137	none	rfbE: perosamine synthetase
+  -6.0	slr1616	1026	none	-
+ -40.6	slr1617	1236	none	-
+ -15.4	slr1618	786	none	-
+   7.7	slr1619	750	none	hypothetical protein
+  26.9	slr1622	510	2e-79	ppa: inorganic pyrophosphatase
+  12.3	slr1623	366	2e-43	-
+  60.5	slr1624	1377	6e-90	-
+  13.0	slr1626	357	6e-31	hypothetical protein
+   3.5	slr1627	621	none	hypothetical protein
+  26.4	slr1628	405	2e-45	-
+  58.4	slr1629	984	1e-112	hypothetical protein
+  10.8	slr1634	375	2e-15	-
+ -21.9	slr1635	1017	none	ISY203_e: transposase
+   9.6	slr1636	621	6e-28	-
+   2.0	slr1638	324	4e-28	-
+   6.5	slr1639	465	2e-53	smpB: small protein
+ 138.4	slr1641	2619	none	clpB: ClpB protein
+  53.8	slr1643	1242	1e-143	petH: ferredoxin-NADP oxidoreductase
+  40.5	slr1644	873	4e-45	-
+  24.4	slr1645	408	4e-32	psbZ: photosystem II 11 kD protein
+  43.3	slr1646	696	9e-30	rnc: ribonuclease III
+  36.5	slr1647	780	2e-60	hypothetical protein
+  64.9	slr1648	1443	1e-124	-
+  35.8	slr1649	591	9e-70	hypothetical protein
+  68.2	slr1651	2202	none	hlyB: haemolysin secretion ATP-binding prote
+  30.7	slr1652	702	4e-41	-
+  65.9	slr1653	1215	1e-156	ama: N-acyl-L-amino acid amidohydrolase
+  20.6	slr1655	474	2e-20	psaL: photosystem I subunit XI
+  59.1	slr1656	1116	5e-81	murG: UDP-N-acetylglucosamine--N-acetylmuram
+  42.6	slr1657	828	none	PleD gene product
+  19.9	slr1658	600	none	-
+   6.5	slr1659	342	none	-
+  34.1	slr1660	579	1e-47	-
+  71.5	slr1661	1965	1e-84	-
+  51.0	slr1664	2013	none	-
+  52.6	slr1665	840	7e-98	dapF: diaminopimelate epimerase
+  64.2	slr1666	1158	2e-94	degT: pleiotropic regulatory protein
+ -10.4	slr1667	537	none	-
+   4.5	slr1668	843	none	-
+ 141.2	slr1670	2658	none	-
+  49.8	slr1672	1488	1e-177	glpK: glycerol kinase
+  51.2	slr1673	825	1e-56	spoU: rRNA methylase
+  12.3	slr1674	351	3e-35	hypothetical protein
+  28.0	slr1675	342	1e-10	hypA: hydrogenase expression/formation prote
+  18.9	slr1676	492	1e-40	hypothetical protein
+  54.6	slr1677	1284	1e-109	-
+  29.0	slr1678	375	3e-29	rpl21: 50S ribosomal protein L21
+  27.2	slr1679	744	6e-62	-
+  15.2	slr1681	963	.001	-
+ -21.5	slr1682	408	none	ISY391_b1: transposase
+  -8.6	slr1683	396	none	ISY391_b2: transposase
+  -4.6	slr1684	453	none	ISY391_b2: transposase
+  11.4	slr1686	426	none	-
+  35.1	slr1687	672	3e-79	-
+  43.5	slr1689	864	6e-87	mutM or fpg: formamidopyrimidine-DNA glycosy
+  12.7	slr1690	786	1e-94	hypothetical protein
+  73.9	slr1691	1677	none	nadE or adgA: NH(3)-dependent NAD(+) synthet
+  29.4	slr1692	999	none	hypothetical protein
+  37.0	slr1693	1143	none	PatA subfamily
+  12.8	slr1694	453	none	activator of photopigment and puc expression
+  62.2	slr1697	1725	1e-127	pknA: eukariotic protein kinase
+  35.9	slr1699	849	2e-84	hypothetical protein
+  52.8	slr1702	756	2e-51	-
+  48.5	slr1703	1293	1e-151	serS: seryl-tRNA synthetase
+  32.3	slr1704	825	5e-13	-
+  37.0	slr1705	867	1e-59	aspA or asp: aspartoacylase, ASP
+  52.2	slr1706	1008	1e-126	dfrA: dihydroflavonol 4-reductase
+  42.3	slr1708	1236	3e-47	lysostaphin
+ 140.9	slr1710	2250	none	mrcB or ponB: penicillin-binding protein 1B
+  29.6	slr1712	807	none	-
+  -1.8	slr1715	360	none	ISY100_m: transposase
+   6.6	slr1716	495	none	ISY100_m: transposase
+  54.8	slr1717	807	1e-114	hypothetical protein
+  40.2	slr1718	726	5e-71	-
+  49.8	slr1719	606	4e-18	drgA: DrgA gene product
+  85.8	slr1720	1800	none	aspS: aspartyl-tRNA synthetase
+  89.9	slr1721	1479	none	-
+  58.7	slr1722	1164	1e-177	guaB or gnaB: IMP dehydrogenase subunit
+  34.3	slr1723	813	3e-92	lacG: lactose transport system permease prot
+  33.7	slr1724	795	9e-37	-
+  42.0	slr1726	723	none	
+  69.9	slr1727	1584	1e-134	eukaryotic Na+/H+ exchanger
+  79.9	slr1728	1677	none	kdpA: potassium-transporting ATPase A chain
+ 112.4	slr1729	2073	none	kdpB: potassium-transporting ATPase B chain
+  19.4	slr1730	573	1e-61	kdpC: potassium-transporting ATPase C chain
+  75.2	slr1731	1113	1e-124	kdpD: potassium-transporting ATPase D chain
+  34.5	slr1732	450	4e-41	-
+  80.1	slr1734	1428	1e-136	opcA: OxPPCycle gene
+  52.1	slr1735	759	9e-65	ABC transporter
+  14.6	slr1736	789	4e-79	-
+  49.6	slr1737	1092	6e-93	-
+  17.8	slr1738	420	none	-
+  18.8	slr1739	369	2e-38	photosystem II 13kD  protein(PsbW) hohologue
+  77.0	slr1740	1749	none	extracellular solute-binding protein
+  38.9	slr1742	771	1e-103	-
+  72.8	slr1743	1215	1e-111	ndh: NADH dehydrogenase
+  81.7	slr1744	1950	1e-107	amiA: N-acetylmuramoyl-L-alanine amidase
+  35.5	slr1746	840	1e-103	murI or dga: glutamate racemase
+  56.0	slr1747	1410	2e-59	hypothetical protein
+  28.7	slr1748	645	none	hypothetical protein
+  75.5	slr1751	1272	1e-150	prc or tsp: carboxyl-terminal protease
+  23.5	slr1752	666	none	-
+  94.2	slr1753	5250	5e-38	-
+  58.1	slr1755	954	1e-101	gpsA: NAD+ dependent glycerol-3-phosphate de
+  73.9	slr1756	1422	none	glnA: glutamate--ammonia ligase
+ 175.8	slr1759	4389	1e-178	transmitter/receiver/receiver/transmitter
+  48.5	slr1760	948	3e-88	unclassified
+  32.0	slr1761	606	1e-45	ytfC: FKBP-type peptidyl-prolyl cis-trans is
+  19.7	slr1762	753	6e-39	-
+  67.7	slr1763	1203	none	hypothetical protein
+ -14.7	slr1764	540	none	capA: cAMP binding protein
+  -0.7	slr1767	339	1e-35	-
+  46.9	slr1768	897	none	-
+  11.4	slr1770	336	3e-22	-
+  81.3	slr1771	1608	none	-
+  40.4	slr1772	1134	none	-
+  23.4	slr1773	777	none	-
+  32.6	slr1774	870	none	-
+  60.5	slr1776	1701	none	high affinity sulfate transporter
+ 148.8	slr1777	2031	none	chlD: Mg chelatase subunit ChlD
+   6.8	slr1778	534	none	-
+  25.3	slr1779	726	3e-78	pdxJ: pyridoxal phosphate biosynthetic prote
+  21.4	slr1780	321	3e-22	hypothetical protein
+  33.8	slr1783	849	3e-79	NarL subfamily
+  30.8	slr1784	987	6e-91	bvdR: biliverdin reductase
+  19.0	slr1787	1044	1e-79	hypothetical protein
+  21.6	slr1788	1056	none	-
+  39.2	slr1789	1482	none	-
+  23.4	slr1790	582	3e-67	hypothetical protein
+  36.3	slr1791	750	3e-27	cysH: 3'-phosphoadenosine-5'-phosphosulfate
+  69.6	slr1793	1137	1e-134	talB: transaldolase
+  57.9	slr1794	1089	3e-99	hypothetical protein
+  37.5	slr1795	645	none	msrA or pms: peptide methionine sulfoxide re
+  16.3	slr1796	606	7e-49	-
+  38.0	slr1798	1758	none	pleD: PleD gene product
+ 132.5	slr1799	1914	1e-112	-
+  55.0	slr1800	1068	1e-126	-
+  13.5	slr1803	930	4e-53	mbpA: adenine-specific DNA metylase
+ 104.2	slr1805	2112	none	sensory transduction histidine kinase
+  45.4	slr1807	786	2e-41	-
+  71.4	slr1808	1392	1e-154	hemA: transfer RNA-Gln reductase
+  62.5	slr1809	798	none	-
+  -2.0	slr1811	480	none	hypothetical protein
+  12.4	slr1812	477	none	hypothetical protein
+  -0.8	slr1813	462	none	hypothetical protein
+   5.9	slr1814	465	none	hypothetical protein
+  -8.6	slr1815	537	none	-
+  12.3	slr1816	2154	1e-121	-
+  33.1	slr1818	606	none	-
+  36.5	slr1819	996	1e-44	hypothetical protein
+  24.6	slr1820	1473	none	-
+  56.3	slr1821	1101	1e-89	hypothetical protein
+  47.6	slr1822	660	4e-89	nth: endonuclease III
+  24.9	slr1826	393	2e-24	-
+  18.7	slr1827	996	6e-52	-
+   8.4	slr1828	321	1e-39	petF: ferredoxin
+  57.2	slr1829	993	none	-
+  61.4	slr1830	1137	none	phbC: poly(3-hydroxyalkanoate) synthase
+  17.8	slr1834	2256	none	psaA: P700 apoprotein subunit Ia
+  32.4	slr1835	2196	none	psaB: P700 apoprotein subunit Ib
+  34.7	slr1837	705	3e-53	OmpR subfamily
+  11.0	slr1838	312	4e-29	ccmK: carbon dioxide concentrating mechanism
+  19.6	slr1839	339	6e-37	ccmK: carbon dioxide concentrating mechanism
+  37.1	slr1840	1116	none	hypothetical protein
+  28.0	slr1841	1893	1e-120	-
+  52.4	slr1842	939	1e-126	cysK: cysteine synthase
+  45.8	slr1843	1530	none	zwf: glucose 6-phosphate dehydrogenase
+ 108.7	slr1844	2913	none	uvrA: excinuclease ABC subunit A
+  18.3	slr1846	324	3e-47	hypothetical protein
+  26.1	slr1847	345	3e-31	hypothetical protein
+  74.3	slr1848	1305	2e-77	hisD: histidinol dehydrogenase
+  45.4	slr1849	1557	none	merA: mercuric reductase
+ -18.8	slr1851	489	none	hypothetical protein
+  32.7	slr1852	567	none	-
+  23.4	slr1853	342	none	-
+  31.7	slr1854	597	.000001	-
+  84.3	slr1855	1824	none	-
+  16.5	slr1856	330	none	anti-sigma B factor antagonist
+  86.0	slr1857	2124	none	glgX: glycogen operon protein GlgX
+  17.1	slr1859	327	none	-
+  24.4	slr1860	1905	none	ICFG: ICFG protein
+  13.4	slr1861	432	none	-
+   4.6	slr1862	705	none	-
+   7.4	slr1863	1521	none	-
+   6.2	slr1864	1071	7e-56	-
+  34.3	slr1865	1263	none	-
+  19.2	slr1866	1002	none	-
+  38.6	slr1867	1047	1e-101	trpD: anthranilate phosphoribosyltransferase
+  17.4	slr1869	750	none	-
+  34.6	slr1870	750	none	-
+  35.5	slr1871	888	none	transcriptional regulator
+  60.9	slr1874	1065	1e-138	ddlA: D-alanine:D-alanine ligase-related pro
+  46.3	slr1875	639	1e-54	exoD: exopolysaccharide synthesis protein Ex
+  33.0	slr1876	474	4e-25	-
+  45.7	slr1877	831	5e-94	hpcE:  5-oxo-125-tricarboxilic-3-penten acid
+  37.9	slr1878	819	2e-75	cpcE: phycocyanin alpha phycocyanobilin lyas
+  42.3	slr1879	729	2e-28	cbiL or cobI: S-adenosyl-methionine: precorr
+  44.8	slr1880	1134	1e-118	-
+  30.4	slr1881	723	4e-80	livF: high-affinity branched-chain amino aci
+  23.3	slr1882	942	4e-72	hypothetical protein
+  35.6	slr1884	1014	1e-149	trpS: tryptophanyl-tRNA synthetase
+  18.4	slr1885	579	none	hypothetical protein
+  19.1	slr1886	465	2e-34	putative iojap protein
+  53.3	slr1887	963	1e-117	hemC: porphobilinogen deaminase
+  84.7	slr1888	1893	2e-16	hypothetical protein
+  16.3	slr1890	531	none	bfr: bacterioferritin
+  17.0	slr1894	471	2e-51	hypothetical protein
+  35.0	slr1895	1215	6e-16	-
+  11.4	slr1896	393	1e-38	hypothetical protein
+  55.3	slr1897	1302	1e-139	srrA: SrrA
+  46.7	slr1898	894	1e-121	argB: N-acetylglutamate kinase
+   5.8	slr1899	543	4e-58	ureF: urease accessory protein F
+  27.7	slr1900	744	3e-40	-
+  63.9	slr1901	981	1e-115	ABC transporter
+  -4.0	slr1902	426	none	ISY120_a: transposase
+   2.3	slr1903	417	none	ISY120_a: transposase
+  30.0	slr1906	585	2e-17	-
+  25.4	slr1907	435	7e-35	-
+  35.2	slr1908	1776	1e-115	-
+  20.3	slr1909	642	7e-73	NarL subfamily
+  45.6	slr1910	1017	none	amiA: N-acetylmuramoyl-L-alanine amidase
+  26.9	slr1911	429	2e-22	-
+  19.0	slr1912	357	2e-11	anti-sigma F factor antagonist
+  13.7	slr1913	354	2e-23	-
+  11.1	slr1914	357	7e-22	-
+  20.6	slr1915	315	4e-46	-
+  44.8	slr1916	852	5e-86	esterase
+  54.3	slr1917	909	1e-110	-
+  31.4	slr1918	630	2e-36	-
+  77.9	slr1919	1701	none	ABC1-like
+  31.4	slr1920	1107	none	-
+  63.6	slr1923	1197	none	hypothetical protein
+  29.4	slr1924	1203	8e-24	D-alanyl-D-alanine carboxypeptidase
+  26.4	slr1925	1029	9e-96	cbiB or cobD: CbiB protein
+  19.9	slr1926	672	1e-58	-
+  53.7	slr1927	1221	2e-98	-
+  -0.4	slr1928	459	none	-
+ -10.8	slr1929	552	none	-
+  -3.9	slr1930	561	none	-
+ -21.1	slr1931	918	none	-
+  23.3	slr1932	696	none	-
+  24.5	slr1933	549	4e-63	rfbC: dTDP-4-dehydrorhamnose 35-epimerase
+  38.5	slr1934	1029	1e-150	pyruvate dehydrogenase E1 component, alpha s
+  78.6	slr1935	1398	1e-108	-
+  -1.8	slr1936	360	none	ISY100_r: transposase
+   6.6	slr1937	495	none	ISY101_r: transposase
+  60.3	slr1938	1056	1e-124	hypothetical protein
+  52.9	slr1939	2010	5e-36	-
+  54.8	slr1940	1449	1e-75	-
+  67.3	slr1942	1518	none	PCC7942 clock gene...ORFF
+  36.7	slr1943	996	1e-118	dpm1 or sed3: dolichol phosphate mannose syn
+  57.6	slr1944	1617	3e-90	-
+  92.3	slr1945	1599	none	yibO or pgm: 23-bisphosphoglycerate-independ
+  24.0	slr1946	786	5e-37	-
+  39.2	slr1949	639	2e-70	-
+ 141.2	slr1950	2343	1e-168	cation-transporting ATPase(E1-E2 ATPase)
+  12.6	slr1951	474	2e-30	-
+  32.9	slr1956	519	none	-
+  20.4	slr1957	321	4e-34	
+  26.7	slr1958	603	none	-
+  45.8	slr1959	2484	none	-
+  60.5	slr1962	1113	1e-134	-
+  52.1	slr1963	954	1e-139	
+  18.0	slr1964	405	3e-27	-
+  36.4	slr1966	630	3e-59	-
+ 120.7	slr1968	2805	none	-
+  92.4	slr1969	2253	1e-117	transmitter/receiver
+  30.8	slr1970	522	7e-47	-
+  34.6	slr1971	852	5e-54	hypothetical protein
+  50.5	slr1972	1080	1e-137	hypothetical protein
+  82.7	slr1974	1359	none	hypothetical protein
+  68.5	slr1975	1176	1e-172	renin-binding protein
+  44.1	slr1977	735	1e-20	-
+  40.0	slr1978	876	2e-88	-
+  43.6	slr1979	1380	none	trpE: anthranilate synthase component I
+  14.0	slr1980	894	none	-
+  10.5	slr1982	372	none	CheY subfamily
+  33.0	slr1983	1812	2e-28	unclassified
+  39.9	slr1984	918	4e-62	rps1: 30S ribosomal protein S1
+   9.1	slr1986	486	3e-78	apcB: allophycocyanin b chain
+  38.7	slr1990	723	7e-66	-
+  30.3	slr1991	1014	none	cyaA: adenylate cyclase
+  30.0	slr1992	465	none	glutathione peroxidase
+  68.9	slr1993	1230	none	thl or thi: acetyl coenzyme A acetyltransfer
+  54.7	slr1994	723	none	fabG: 3-ketoacyl-acyl carrier protein reduct
+  71.7	slr1998	1278	none	-
+  14.3	slr1999	411	3e-17	hypothetical protein
+  44.5	slr2000	966	4e-65	hypothetical protein
+  28.3	slr2001	816	5e-99	-
+ 113.7	slr2002	2622	none	-
+  37.7	slr2003	630	4e-18	-
+ -12.0	slr2004	1425	none	-
+  38.8	slr2005	786	1e-76	-
+  12.3	slr2006	345	6e-35	hypothetical protein
+  74.1	slr2007	1464	1e-123	ndhD: NADH dehydrogenase subunit 4
+  11.9	slr2008	351	none	hypothetical protein
+  64.1	slr2009	1488	none	ndhF: NADH dehydrogenase subunit 5
+  22.1	slr2010	393	7e-33	-
+  43.5	slr2011	600	2e-29	-
+  46.0	slr2012	648	2e-45	-
+  64.3	slr2013	1308	1e-127	-
+  52.6	slr2015	1143	none	-
+  12.1	slr2016	477	none	-
+  23.6	slr2017	1083	none	-
+  14.3	slr2018	2400	none	-
+ 112.6	slr2019	1782	none	ABC transporter
+  38.3	slr2023	882	7e-86	fabD or tfpA: malonyl coenzyme A-acyl carrie
+  27.0	slr2024	543	4e-48	CheY subfamily
+  28.1	slr2025	462	8e-31	-
+  45.9	slr2026	870	5e-97	folP or dhpS: dihydropteroate pyrophosphoryl
+  32.6	slr2027	1395	none	-
+  57.2	slr2030	1356	1e-177	-
+  34.8	slr2031	1359	1e-130	sigma factor SibG regulation protein RsbU
+  48.8	slr2032	747	2e-63	ycf23: hypothetical protein
+  16.4	slr2033	348	3e-22	rub: rubredoxin
+  52.0	slr2034	1029	1e-116	hypothetical protein
+  53.3	slr2035	1128	1e-126	proB: glutamate 5-kinase
+ -24.7	slr2036	1017	none	ISY203_a: transposase
+   8.4	slr2037	903	none	-
+   3.3	slr2038	651	none	-
+  19.2	slr2041	408	6e-43	divK: cell division response regulator DivK
+  46.2	slr2042	828	6e-65	hypothetical protein
+  43.6	slr2043	1017	5e-21	zntC: periplasmic binding protein component
+  46.4	slr2044	870	none	ABC transporter
+  27.3	slr2045	846	none	hypothetical protein
+  56.3	slr2046	5898	2e-25	Fat protein
+  67.5	slr2047	987	1e-109	phoH or psiH: phosphate starvation-inducible
+  35.4	slr2048	1152	5e-22	hypothetical protein
+  23.3	slr2049	579	1e-47	hypothetical protein
+   8.3	slr2051	750	none	cpcG: phycobilisome rod-core linker polypept
+  31.0	slr2052	897	2e-45	-
+  34.3	slr2053	852	1e-74	-
+  37.3	slr2057	744	none	apqZ: water channel protein
+ 165.6	slr2058	2697	none	topA: DNA topoisomerase I
+  12.9	slr2059	405	1e-57	ferredoxin
+  77.3	slr2060	1398	1e-135	-
+  13.0	slr2062	1203	1e-124	ISY052_a: transposase
+  22.2	slr2067	486	2e-70	apcA: allophycocyanin a chain
+  15.5	slr2070	855	3e-24	-
+  16.0	slr2071	324	none	-
+  89.6	slr2072	1527	none	ilvA: L-threonine deaminase
+  23.2	slr2073	561	1e-43	-
+  20.4	slr2074	390	none	manA or pmi: mannose-6-phosphate isomerase
+  21.5	slr2075	312	2e-41	groES: 10kD chaperonin
+ 106.8	slr2076	1626	none	groEL: 60kD chaperonin 1
+  38.0	slr2077	2199	none	hypothetical protein
+  28.6	slr2078	585	4e-53	hypothetical protein
+  39.5	slr2079	984	1e-58	-
+  -2.8	slr2080	453	7e-25	-
+  39.2	slr2081	840	4e-89	tyrA: prephenate dehydrogenase
+  81.1	slr2082	1635	none	ctaD: cytochrome c oxidase subunit I
+  27.8	slr2083	597	4e-38	ctaE: cytochrome c oxidase subunit III
+  16.6	slr2084	666	1e-45	-
+  52.3	slr2087	1377	1e-144	ycf44: hypothetical protein
+  96.0	slr2088	1866	none	ilvG: acetohydroxy acid synthase
+  86.7	slr2089	1944	none	shc: squalene-hopene-cyclase
+  22.3	slr2092	402	none	-
+  52.1	slr2094	1038	1e-167	glpX: GlpX protein
+  -1.9	slr2095	426	none	ISY120_c: transposase
+  -1.9	slr2096	417	none	ISY120_c: transposase
+  21.0	slr2097	375	none	glbN: cyanoglobin
+ 200.3	slr2098	3786	none	transmitter/receiver/receiver/transmitter
+  49.2	slr2099	1101	none	receiver/transmitter
+  69.5	slr2100	1107	none	unclassified
+  30.3	slr2101	432	none	hypothetical protein
+  98.1	slr2102	1515	1e-147	ftsY: cell division protein FtsY
+  37.3	slr2103	885	1e-99	-
+ 126.3	slr2104	2853	none	transmitter/receiver/transmitter
+  81.3	slr2105	1788	1e-106	-
+  30.6	slr2107	909	1e-101	kpsM: polysialic acid transport protein KpsM
+  11.9	slr2108	1116	2e-99	kpsT: polysialic acid transport ATP-binding
+  -1.5	slr2110	342	none	-
+   0.1	slr2111	474	none	-
+  -2.5	slr2112	360	none	ISY100_o: transposase
+   6.6	slr2113	495	none	ISY100_o: transposase
+  -1.1	slr2114	1038	none	spsC: spore coat polysaccharide biosynthesis
+ -10.9	slr2115	1569	none	-
+   7.0	slr2116	831	3e-31	spsA: spore coat polysaccharide biosynthesis
+  -5.8	slr2117	546	none	-
+ -25.7	slr2118	1266	none	-
+  13.5	slr2119	837	none	-
+  43.0	slr2120	993	none	-
+  20.3	slr2121	648	2e-11	hypothetical protein
+  27.5	slr2122	678	none	-
+  18.1	slr2123	957	none	D-isomer specific 2-hydroxyacid dehydrogenas
+  14.4	slr2124	750	none	short-chain alcohol dehydrogenase family
+ -18.2	slr2125	795	none	-
+  -7.9	slr2126	867	1e-25	-
+  26.3	slr2127	576	none	-
+   8.5	slr2128	453	none	hypothetical protein
+  64.8	slr2130	1086	1e-122	aroB: 3-dehydroquinate synthase
+ 168.8	slr2131	3186	none	cation or drug efflux system protein
+  84.2	slr2132	2094	none	pta: phosphotransacetylase
+  23.4	slr2135	777	3e-20	hupE: hydrogenase accessory protein
+  54.6	slr2136	1212	none	gcpE: GcpE protein
+  63.2	slr2141	1023	1e-118	-
+  57.1	slr2143	1206	1e-107	cefD: isopenicillin N epimerase
+  60.4	slr2144	906	8e-53	-
+   6.0	sml0001	117	none	psbI: photosystem II PsbI protein
+  10.3	sml0002	120	9e-13	psbX: photosystem II PsbX protein
+   5.5	sml0003	108	8e-9	psbM: photosystem II PsbM protein
+   0.6	sml0004	90	7e-10	ycf6: hypothetical protein
+  15.2	sml0005	138	2e-17	psbK: photosystem II PsbK protein
+  -2.6	sml0006	117	.000002	rpl36: 50S ribosomal protein L36
+   1.7	sml0007	120	none	ycf32
+   8.0	sml0008	123	3e-10	psaJ: photosystem I subunit IX
+   6.7	smr0001	96	2e-10	psbT: photosystem II PsbT protein
+  -6.4	smr0002	105	none	ISY100_v2: transposase
+   3.9	smr0003	111	none	petM: cytochrome b6-f complex subunit PetM
+   2.5	smr0004	123	.0003	psaI: photosystem I subunit VIII
+   8.7	smr0005	96	none	psaM
+   8.6	smr0006	135	3e-16	psbF: cytochrome b559 b subunit
+   9.3	smr0007	120	.000005	psbL: photosystem II PsbL protein
+   4.0	smr0008	120	.0001	psbJ: photosystem II PsbJ protein
+   2.7	smr0009	132	3e-11	psbN: photosystem II PsbN protein
+   0.7	smr0010	117	none	petG: PetG subunit of the cytochrome b6f com
+   5.4	smr0011	138	2e-15	rpl34: 50S ribosomal protein L34
+  13.9	ssl0020	294	3e-28	petF: ferredoxin
+  -1.5	ssl0172	270	none	ISY391_c: transposase
+  12.0	ssl0242	237	1e-9	
+  12.8	ssl0259	222	.00001	-
+  15.3	ssl0294	213	6e-14	-
+   8.2	ssl0296	255	none	ISY523_p: transposase
+   0.1	ssl0312	201	none	
+  11.8	ssl0331	240	4e-21	hypothetical protein
+   6.2	ssl0350	204	none	-
+   6.0	ssl0352	177	1e-21	hypothetical protein
+   8.3	ssl0353	294	1e-29	hypothetical protein
+   5.4	ssl0410	273	none	-
+  -1.0	ssl0426	294	none	ISY100_t: transposase
+   7.8	ssl0438	270	none	50S ribosomal protein L12 honologue
+   9.4	ssl0452	189	none	nblA: phycobilisome degradation protein NblA
+   9.3	ssl0453	183	none	nblA: phycobilisome degradation protein NblA
+   7.0	ssl0461	252	6e-21	-
+  11.7	ssl0467	216	none	-
+  -3.3	ssl0483	201	none	-
+   6.7	ssl0511	186	.0002	-
+  21.5	ssl0546	294	5e-18	minE: septum site-determining protein MinE
+  -2.9	ssl0563	246	6e-45	psaC: photosystem I subunit VII
+  12.6	ssl0564	270	1e-34	response regulator like protein
+   3.4	ssl0601	183	8e-16	rps21: 30S ribosomal protein S21
+  -6.5	ssl0707	339	8e-39	glnB: nitrogen regulatory protein P-II
+   8.9	ssl0738	219	none	-
+   8.0	ssl0750	282	none	-
+  -1.3	ssl0769	195	none	unclassified: transposase
+   0.8	ssl0787	354	none	-
+  22.4	ssl0788	294	.00000001	-
+  16.9	ssl0832	282	none	-
+   6.3	ssl1004	279	7e-9	hypothetical protein
+  11.1	ssl1045	228	none	-
+  11.4	ssl1046	255	none	-
+  10.4	ssl1255	270	7e-9	-
+   5.2	ssl1263	243	2e-19	-
+  -3.9	ssl1277	198	none	unclassified: transposase
+   6.1	ssl1300	258	none	PEMI-like protein homologue
+   7.7	ssl1326	258	none	-
+  12.1	ssl1378	255	2e-14	-
+   6.1	ssl1417	201	3e-14	ycf33: ycf33 gene product
+  10.7	ssl1426	204	2e-22	rpl35: 50S ribosomal protein L35
+  14.3	ssl1464	291	none	-
+  14.2	ssl1498	186	.0000003	-
+  -6.5	ssl1507	201	none	ISY508_a: transposase
+  10.4	ssl1520	228	none	-
+  13.0	ssl1533	219	none	
+  17.9	ssl1552	264	none	-
+   0.2	ssl1633	144	none	CAB/ELIP/HLIP superfamily
+  10.1	ssl1690	219	2e-20	-
+   9.3	ssl1707	255	6e-19	-
+   6.1	ssl1784	270	2e-28	rps15: 30S ribosomal protein S15
+  11.7	ssl1792	300	none	-
+  13.1	ssl1807	291	2e-14	-
+   2.7	ssl1911	198	1e-14	-
+  14.5	ssl1918	294	7e-20	-
+   9.8	ssl1920	282	none	ISY523_l: transposase
+   4.8	ssl1922	252	none	ISY523_l: transposase
+   2.5	ssl1923	159	none	
+  15.8	ssl1972	282	8e-19	-
+  14.5	ssl2009	300	.000009	-
+  20.6	ssl2069	252	2e-22	-
+  23.8	ssl2084	234	2e-24	acp: acyl carrier protein
+   6.9	ssl2138	207	none	-
+  21.8	ssl2148	297	1e-10	-
+  21.2	ssl2153	297	none	rpiB: ribose phosphate isomerase B
+   6.3	ssl2162	216	none	
+  14.9	ssl2233	294	4e-20	rps20: 30S ribosomal protein S20
+   4.9	ssl2245	267	.00004	-
+   4.2	ssl2250	177	none	glycoprotein 64
+  14.3	ssl2296	291	6e-17	dcoH: pterin-4a-carbinolamine dehydratase
+  13.4	ssl2384	174	none	-
+  16.1	ssl2420	255	.0005	-
+  11.9	ssl2471	162	none	hypothetical protein
+  27.8	ssl2501	270	none	-
+   5.7	ssl2542	213	none	hliA: high light-inducible protein
+   9.0	ssl2559	297	none	ferredoxin
+  11.6	ssl2595	270	6e-35	-
+  -6.5	ssl2598	195	7e-20	psbH: photosystem II PsbH protein
+  13.1	ssl2615	246	3e-20	atpH: ATP synthase subunit c
+  12.4	ssl2667	231	5e-35	NifU protein
+   8.7	ssl2717	213	5e-24	-
+  -2.5	ssl2733	231	3e-25	-
+  -0.2	ssl2749	291	none	hypothetical protein
+  10.6	ssl2781	249	1e-29	-
+ -18.0	ssl2789	216	none	unclassified: resolvase
+   7.3	ssl2823	228	2e-13	hypothetical protein
+  13.0	ssl2874	270	4e-34	-
+  19.8	ssl2920	219	none	
+  10.5	ssl2922	228	none	vapB: virulence associated protein B
+  11.1	ssl2923	252	none	vapC: virulence associated protein C
+  27.5	ssl2971	300	2e-9	
+  13.7	ssl2982	231	7e-20	hypothetical protein
+  11.2	ssl3044	300	9e-37	hydrogenase component
+   9.3	ssl3093	252	none	cpcD: phycocyanin associated linker protein
+   8.1	ssl3127	228	none	-
+   9.0	ssl3177	273	none	repA: rare lipoprotein A
+  20.3	ssl3291	285	7e-37	-
+   9.3	ssl3335	246	3e-15	secE: secretory protein SecE
+  17.8	ssl3364	225	4e-21	hypothetical protein
+   8.0	ssl3379	297	6e-43	-
+   9.5	ssl3382	177	2e-13	-
+  12.6	ssl3383	273	none	-
+   5.8	ssl3432	279	1e-41	rps19: 30S ribosomal protein S19
+  10.2	ssl3436	222	6e-19	rpl29: 50S ribosomal protein L29
+  17.0	ssl3437	246	1e-32	rps17: 30S ribosomal protein S17
+   8.0	ssl3441	204	4e-32	infA: initiation factor IF-1
+  12.7	ssl3445	246	1e-31	rpl31: 50S ribosomal protein L31
+   8.5	ssl3446	180	none	-
+  18.5	ssl3451	246	7e-15	-
+  11.4	ssl3549	231	1e-17	-
+  11.0	ssl3573	285	none	-
+  10.0	ssl3580	231	4e-9	hypC: hydrogenase expression/formation prote
+   6.2	ssl3615	285	none	-
+  16.4	ssl3692	297	none	-
+  16.5	ssl3712	525	4e-22	
+   6.5	ssl3769	225	none	
+  14.6	ssl3829	258	3e-16	-
+  19.2	ssr0102	216	1e-25	ycf40: hypothetical protein
+  14.6	ssr0109	189	2e-12	-
+   7.7	ssr0256	255	none	ISY523_n: transposase
+  12.9	ssr0330	228	2e-24	ftrV: ferredoxin-thioredoxin reductase, vari
+  15.8	ssr0332	213	7e-27	-
+   9.6	ssr0336	237	none	-
+  12.7	ssr0349	192	7e-16	
+  13.9	ssr0390	261	6e-14	psaK: photosystem I subunit X
+  13.1	ssr0482	249	1e-33	rps16: 30S ribosomal protein S16
+  18.9	ssr0536	255	none	-
+  20.6	ssr0657	294	2e-17	-
+   6.9	ssr0692	156	.00002	-
+   6.7	ssr0693	288	none	-
+   6.2	ssr0756	186	none	-
+  -0.7	ssr0759	240	none	-
+  10.3	ssr0761	285	none	
+ -10.4	ssr0817	213	none	ISY352_g2: transposase
+  -6.3	ssr0871	159	none	ISY352_e1: transposase
+   8.7	ssr1038	237	none	-
+   3.5	ssr1041	240	4e-27	NAD-reducing hydrogenase gamma subunit homol
+  10.1	ssr1114	261	9e-12	-
+   7.8	ssr1155	204	1e-12	-
+   8.1	ssr1169	165	3e-19	ESI3: salt-stress induced hydrophobic peptid
+  -6.2	ssr1175	285	none	ISY100_v1: transposase
+   7.4	ssr1176	294	none	ISY100_v3: transposase
+  12.3	ssr1256	258	none	-
+  -0.8	ssr1258	210	2e-18	-
+   4.1	ssr1375	195	2e-11	-
+   2.6	ssr1386	243	none	ndhL: NADH dehydrogenase subunit NdhL
+  11.8	ssr1391	282	2e-25	hypothetical protein
+   8.8	ssr1398	198	5e-28	rpl33: 50S ribosomal protein L33
+   9.7	ssr1399	216	2e-29	rps18: 30S ribosomal protein S18
+ -12.1	ssr1407	282	none	-
+  11.2	ssr1425	249	2e-37	ycf34: ycf34 gene product
+   9.1	ssr1480	252	none	RNA-binding protein
+   9.5	ssr1499	270	none	-
+  11.7	ssr1513	198	none	hypothetical protein
+  12.3	ssr1527	246	none	-
+  16.8	ssr1528	285	2e-27	
+  21.7	ssr1558	279	6e-25	hypothetical protein
+   2.6	ssr1562	252	4e-25	-
+  -9.9	ssr1600	351	1e-18	-
+  22.9	ssr1604	237	2e-32	rpl28: 50S ribosomal protein L28
+  16.6	ssr1698	291	9e-24	hypothetical protein
+  13.8	ssr1720	237	none	tyrS: tyrosyl tRNA synthetase
+  15.2	ssr1736	174	3e-17	rps32: 50S ribosomal protein L32
+   9.2	ssr1765	255	none	hypothetical protein
+   8.7	ssr1766	231	7e-11	-
+  -1.7	ssr1768	198	none	-
+   7.8	ssr1789	174	2e-19	hliA: high light inducible protein
+  13.8	ssr1853	288	none	-
+  14.6	ssr1951	177	.0000002	-
+  13.3	ssr2009	273	none	-
+   8.7	ssr2016	198	.000005	-
+   8.3	ssr2047	264	3e-23	-
+   8.5	ssr2049	252	none	bchB or bchK: protochlorophillide reductase
+   4.9	ssr2060	240	none	-
+  14.3	ssr2061	267	5e-26	grxC: glutaredoxin 3
+  11.3	ssr2062	267	7e-19	-
+   8.0	ssr2067	231	none	-
+  -1.8	ssr2078	261	none	ISY802_b: transposase
+  12.4	ssr2087	255	none	-
+  24.1	ssr2130	189	.0000007	
+  12.3	ssr2142	273	4e-21	ycf19: hypothetical protein
+   5.5	ssr2153	198	none	-
+  13.7	ssr2194	198	none	-
+   6.3	ssr2201	219	none	-
+  11.3	ssr2227	288	none	unclassified: transposase
+  -3.0	ssr2317	273	none	-
+  11.8	ssr2318	264	none	-
+  13.0	ssr2333	240	none	-
+  16.8	ssr2406	225	none	-
+   2.1	ssr2422	255	none	-
+   7.4	ssr2439	294	5e-12	hypothetical protein
+   7.5	ssr2549	171	none	-
+  12.4	ssr2551	285	1e-19	-
+  17.2	ssr2554	267	5e-15	-
+   4.0	ssr2595	213	6e-15	high light inducible protein
+  10.5	ssr2611	198	6e-18	-
+  -0.6	ssr2699	249	none	ISY523_k: transposase
+   7.7	ssr2708	162	none	-
+ -12.3	ssr2711	315	none	-
+   6.2	ssr2723	291	8e-35	-
+  13.6	ssr2754	264	4e-11	
+  21.8	ssr2781	252	9e-20	-
+  14.6	ssr2799	264	1e-36	rpl27: 50S ribosomal protein L27
+   0.9	ssr2802	162	none	ABC transporter
+   9.4	ssr2803	252	none	hypothetical protein
+  12.5	ssr2806	180	none	-
+  10.0	ssr2831	225	8e-19	psaE: photosystem I subunit IV
+  18.2	ssr2843	264	1e-29	-
+  11.9	ssr2848	219	none	-
+  16.1	ssr2857	195	7e-12	-
+   4.6	ssr2898	207	none	ISY523_m: transposase
+  14.5	ssr2912	258	none	
+  -7.2	ssr2962	225	2e-31	-
+   5.8	ssr2972	171	none	
+  17.5	ssr2998	198	1e-15	hypothetical protein
+  22.9	ssr3000	288	2e-19	-
+  14.1	ssr3122	258	3e-22	hypothetical protein
+   6.8	ssr3129	186	none	-
+  19.3	ssr3184	228	2e-37	ferredoxin
+  15.7	ssr3188	270	2e-23	hypothetical protein
+  14.2	ssr3189	168	.00001	-
+   4.5	ssr3300	252	none	-
+  12.7	ssr3304	177	7e-17	-
+  12.2	ssr3307	234	9e-17	ycf47: hypothetical protein
+  10.8	ssr3341	213	2e-14	-
+   8.2	ssr3383	204	4e-27	apcC: phycobilisome LC linker polypeptide
+  14.6	ssr3402	291	none	-
+  19.2	ssr3409	252	1e-21	-
+  10.0	ssr3410	297	1e-12	-
+   9.3	ssr3451	246	6e-35	psbE: cytochrome b559 a subunit
+   0.5	ssr3452	174	none	ISY352_a: transposase
+  13.3	ssr3465	240	none	
+  -2.7	ssr3467	288	none	-
+   8.9	ssr3532	243	none	-
+  10.0	ssr3570	186	none	-
