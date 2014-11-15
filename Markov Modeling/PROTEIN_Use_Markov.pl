@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-# PROTEIN_UseMarkov
+# PROTEIN_Use_Markov
 #
 #	 ORIGINAL AUTHORS: Paul Fawcett and Jeff Elhai (Fall 2004)
 #
