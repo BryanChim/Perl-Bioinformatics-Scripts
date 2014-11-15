@@ -18,7 +18,7 @@
 #             sequence_file: input file containing sequences in FA format
 #                          May contain multiple contigs
 #
-#    OUTPUT FILE: Description of format of output filesuse strict;
+#    OUTPUT FILE: Description of format of output files use strict;
 #             motif_hits: output file of best motifs within sequence file
 #                Each line is name of sequence, score, start_coord, sequence
 #
