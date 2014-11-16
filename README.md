@@ -6,7 +6,7 @@ A collection of Perl programs written over the past few years for bioinformatics
 
 - **Cluster_Analysis** - performs weighted average, single, or complete linkage clustering on an input microarray dataset and outputs .cdt and .gtr files that are compatible with Java TreeView
 
-- **Extractor_FASTA_sequences** - given an input file containing lines of <Accession ID> <Start> <End>, attempts to search an input FASTA file to find those sequences by <Accession ID>, and output truncated sequences from their <Start> to <End>
+- **Extractor_FASTA_sequences** - given an input file containing lines of Accession ID -- Start -- End, attempts to search an input FASTA file to find those sequences by Accession ID, and output truncated sequences from the specified Start to End
 
 - **Markov_Modeling** - using an input training set of DNA sequences, generates a Markov Model of user-specified order for either nucleotide or amino acid transition states and then scores an input DNA or protein sequence
 
