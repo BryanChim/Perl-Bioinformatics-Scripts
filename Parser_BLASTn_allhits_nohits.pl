@@ -1,7 +1,7 @@
 
 #!/usr/bin/perl -w
 
-#### BLASTPARSER
+#### Parser_BLASTn_allhits_nohits
 
 #    ORIGINAL AUTHORS: Jeff Elhai and Paul Fawcett (Fall 2004)
 #
