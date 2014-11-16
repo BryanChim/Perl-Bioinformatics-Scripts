@@ -1,4 +1,8 @@
-A basic Perl implementation of FASTA sequence extraction.
+A basic Perl implementation of FASTA sequence extraction. 
+
+Inputs are read in via shift from the command-line in the order: 
+<ID-start-end file> <Input FASTA file> <Output FASTA file name>
+
 
 Program Flow:
 
@@ -10,7 +14,7 @@ Program Flow:
 
 2) Attempts to find AccessionID matches in the input FASTA file
 
-~ $inputFA, EXAMPLE: 16S_MICROBIOME_REF_FILE.FA
+~ $inputFA, EXAMPLE: 16S_MICROBIOME_REF_FILE.fa
 
 
 3) Once (if) a match is found for the ID, pulls out the specific
@@ -18,7 +22,7 @@ nucleotide sequence using substr() and writes it to an output FASTA file:
 <Accession ID> | <Start> | <End>
 <Sequence> 
 
-~ $outputFA
+~ $outputFA, EXAMPLE: 16S_extracted_sequences.fa
 
 
 Note: VERSION 2 (SeqExtraction2.pl) was redesigned for greater memory

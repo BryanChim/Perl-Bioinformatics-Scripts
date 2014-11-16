@@ -2,17 +2,17 @@
 
 #### SeqExtraction
 #
-#	 VERSION 1: Memory-inefficient -- closes reopens filehandle of FASTA
+#	 VERSION 1: Memory-inefficient -- closes and reopens filehandle of FASTA
 #			for EVERY sequence to be extracted
 #
 #    PURPOSE: Extracts specific fragments of sequences from a FASTA file
 #			using a read-in list of Accession IDs, start coordinates and 
 #			end coordinates.
 #		
-#    INPUT: From $inputFA, a nucleotide sequence file in FASTA format
-#			From $seqID, contains IDs of desired sequences to be extracted:
+#    INPUT: From $seqID, contains IDs of desired sequences to be extracted:
 #				Format: <Accession ID>	<Start> <End>
-#
+#			From $inputFA, a nucleotide sequence file in FASTA format
+#			
 #    OUTPUT: From file $outputFA, contains extracted sequences in the format:
 #				<Accession ID> | <start> | <end>
 #				<sequence>
@@ -24,15 +24,15 @@ use warnings;
 use strict;
 
 ####################### FILES #######################
-my $inputFA = shift;
 my $seqID = shift;
+my $inputFA = shift;
 my $outputFA = shift;
 
 if (!defined ($outputFA)) 
 	{die "USAGE: perl $0 need inputFA seqID and outputFA\n";}
 
-open INFA, $inputFA or die "could not open input FA file";
 open SEQ, $seqID or die "could not open sequence id file";
+open INFA, $inputFA or die "could not open input FA file";
 open OUTFA, ">$outputFA" or die "could not open output FA file";
 
 #################### VARIABLES ######################
