@@ -1,13 +1,27 @@
 #!/usr/local/bin/perl
-# MyCluster.pl
-#    VERSION: Version 2.0 (16 November 2004)
-#    PURPOSE: Clusters Microarray data using average linkage hierarchical clustering
-#             Output files suitable for use with Michael Eisen's "TreeView"
-#              Version is an almost working shell with key functionality disabled.
+# BryanChim_Linkage.pl
+#
+#	 ORIGINAL AUTHORS: Paul Fawcett and Jeff Elhai (Fall 2004)
+#
+###*** MODIFICATIONS BY: Bryan Chim -- Version 3 (Fall 2013) ***###############################
+#		** Implemented Pearson Coefficient calculation for determining node distances (sub CalculatePearson)
+#		** Implemented WEIGHTED Average Linkage Clustering functionality (sub AverageVectors)
+#		** Implemented  both Single Linkage and Complete Linkage Clustering functionality 
+#			(the BULK of the changes ~ sub GetArrayData and sub MakeNode)
+#
+###*** NOTE: Specify your desired linkage clustering type in the variable $clusteringtype (line 53)
+#
+#    PURPOSE: Clusters Microarray data using either:
+#				- Weighted average linkage clustering 
+#				- Single linkage clustering or 
+#				- Complete linkage clustering
+#             Output files are suitable for use with Michael Eisen's "Java TreeView"
+#
 #    INPUT FILES:
 #             1. Tab Delimited log-transformed Spotted Microarray Ratio data
 #                first column is gene ID, all subsequent represent microarray
 #                ratio data.  The first row is assumed to be column headers
+#
 #    OUTPUT FILES:
 #             1. *.cdt file
 #             2. *.gtr file
@@ -29,15 +43,16 @@ sub AverageVectors(\@\@$$); # Averages two vectors on an element-by-element basi
 
 sub MakeNode ();       # joins all the genes and nodes
 
-sub OrderTheGenes ($); # Depth-first search of the node tree to output genes    #############################
-                                                                                # LINKAGE CLUSTERING TYPE  ##
-sub GetArrayData;      # Reads the array data from an input file               ## Specify either:         ###
-                                                                              ### "average"             #####
-#################### CONSTANTS ######################                        #### "single" or     ###########
-                                                                          ####### "complete"   ##############
-my $clusteringtype = "complete"; ################################################
+sub OrderTheGenes ($); # Depth-first search of the node tree to output genes    
+                                                                                
+sub GetArrayData;      # Reads the array data from an input file               
+                                                                            
+#################### CONSTANTS ######################
 
-my $filename  = "ratiodata";
+##*** Specify clustering type -- either "average" "single" or "complete" ***###                                                                    
+my $clusteringtype = "complete"; ############################################## 
+
+my $filename  = "BacillusData2";
 my $inputfile = $filename . ".txt";
 my $gtr_file  = ($filename . "_" . $clusteringtype . ".gtr");
 my $cdt_file  = ($filename . "_" . $clusteringtype . ".cdt");
@@ -173,42 +188,37 @@ sub GetArrayData
 ################################################################################
 
 sub CalculatePearson (\@\@)
+{
+	 my $deltas;
+	 my $r;
+	 my $xiyi = 0;
+	 my $xi = 0;
+	 my $yi = 0;
+	 my $xi2 = 0;
+	 my $yi2 = 0;
+	(my $arrayX, my $arrayY) = @_;
+	 my $size = scalar(@{$arrayX});
 
-        ## Oh Oh.  This version actually seems to calculate the Euclidean
-        ## distance rather than the Pearson correlation coefficient
-        ## But it looks like Eisen's TreeView is designed to work with Pearson....
+	for (my $i = 0; $i < $size; $i++)
+	{
+		$xiyi += (${$arrayX}[$i] * ${$arrayY}[$i]);
+		$xi += ${$arrayX}[$i];
+		$yi += ${$arrayY}[$i];
+		$xi2 += (${$arrayX}[$i]**2);
+		$yi2 += (${$arrayY}[$i]**2);
+	}
 
-        {
-         my $deltas;
-         my $r;
-         my $xiyi = 0;
-         my $xi = 0;
-         my $yi = 0;
-         my $xi2 = 0;
-         my $yi2 = 0;
-        (my $arrayX, my $arrayY) = @_;
-         my $size = scalar(@{$arrayX});
-
-        for (my $i = 0; $i < $size; $i++)
-                {
-                $xiyi += (${$arrayX}[$i] * ${$arrayY}[$i]);
-                $xi += ${$arrayX}[$i];
-                $yi += ${$arrayY}[$i];
-                $xi2 += (${$arrayX}[$i]**2);
-                $yi2 += (${$arrayY}[$i]**2);
-                }
-
-        $r = (($size * $xiyi) - ($xi * $yi))/
-        (sqrt(($size * $xi2) - $xi**2) *
-        (sqrt(($size * $yi2) - $yi**2))
-        );
+	$r = (($size * $xiyi) - ($xi * $yi))/
+	(sqrt(($size * $xi2) - $xi**2) *
+	(sqrt(($size * $yi2) - $yi**2))
+	);
 
 
 
 
-        return $r;
+	return $r;
 
-        }
+}
 
 ################################################################################
 ## AverageVectors:                                                             #
@@ -240,230 +250,223 @@ sub AverageVectors (\@\@$$)    ## This is suitable for Average Linkage Clusterin
 ################################################################################
 
 sub MakeNode()
-        {
+{
+	print "Building the initial similarity table\n";
+	my $bestPearson;
+	my $bestKeyLeft;
+	my $bestKeyRight;
 
+	 ### First we make an initial table of Gene similarities
+	 ### Keep track of the best Pearson observed (and between which genes)
 
-        print "Building the initial similarity table\n";
-        my $bestPearson;
-        my $bestKeyLeft;
-        my $bestKeyRight;
+	 $bestPearson = -999;  ## Start off with an obvious bogus value
 
-         ### First we make an initial table of Gene similarities
-         ### Keep track of the best Pearson observed (and between which genes)
+	foreach my $key (keys %nodehash)  ## iterate over all the genes
+	{
+		foreach (keys %nodehash)  ## compare each gene to all others
+		{
+			if ( ($_ eq $key) || (defined $similarity{$key.$_}))
+			{
+				next; ## Don't calculate self similarity or reciprocal keys
+			}
 
-         $bestPearson = -999;  ## Start off with an obvious bogus value
+			my $tempPearson = CalculatePearson
+							(
+							@{$nodehash{$key}->[$data]},
+							@{$nodehash{$_}  ->[$data]}
+							);
 
-         foreach my $key (keys %nodehash)  ## iterate over all the genes
-                {
-                foreach (keys %nodehash)  ## compare each gene to all others
-                        {
-                        if ( ($_ eq $key) || (defined $similarity{$key.$_}))
-                                {
-                                next; ## Don't calculate self similarity or reciprocal keys
-                                }
+			$similarity{$key.$_} = $tempPearson;
+			$similarity{$_.$key} = $tempPearson;
 
-                       # print "$key , @{$nodehash{$key}->[$data]}, \n";
-                       # print "$_ , @{$nodehash{$_}->[$data]}, \n";
+			if ($tempPearson >= $bestPearson)
+			{
+				$bestPearson  = $tempPearson;
+				$bestKeyLeft  = $key;
+				$bestKeyRight = $_;
+			}
+		}
+	}
 
-                        my $tempPearson = CalculatePearson
-                                        (
-                                        @{$nodehash{$key}->[$data]},
-                                        @{$nodehash{$_}  ->[$data]}
-                                        );
+	## Now we have built an initial hash of similarities, that we need only
+	## update when a new node is created. Now to the job of making nodes...
 
-                        #print $tempPearson, "\n\n";
+	my $newweight;
 
-                        $similarity{$key.$_} = $tempPearson;
-                        $similarity{$_.$key} = $tempPearson;
+	for ($i = 1; $i < $rows; $i++) ## we must create ($rows-1) nodes.
+	{
+		print GTR_FILE "NODE$i","X\t$bestKeyLeft","X\t$bestKeyRight","X\t$bestPearson\n";
+		print "Creating NODE$i","\ from $bestKeyLeft"," and $bestKeyRight "," correlation $bestPearson\n";
 
-                        if ($tempPearson >= $bestPearson)
-                                {
-                                $bestPearson  = $tempPearson;
-                                $bestKeyLeft  = $key;
-                                $bestKeyRight = $_;
-                                }
-                        }
-                }
+		## First, mark our bestKeyLeft and bestKeyRight nodes as "paired"
+		$nodehash{$bestKeyRight}->[$taken] = "paired";
+		$nodehash{$bestKeyLeft }->[$taken] = "paired";
 
+		## Now create a new node based on the bestKeyLeft and bestKeyRight
 
+####### if $clusteringtype chosen is "average," take the weighted average of the two vectors		
+		if ($clusteringtype eq "average" ) 
+		{  
+			my @tempAverage = AverageVectors                                                         
+						(                                                                         
+						@{$nodehash{$bestKeyRight}->[$data]},
+						@{$nodehash{$bestKeyLeft }->[$data]},
+						$nodehash{$bestKeyRight}->[$weight],
+						$nodehash{$bestKeyLeft }->[$weight]
+						);
+						
+			my $newweight = $nodehash{$bestKeyRight}->[$weight] + $nodehash{$bestKeyLeft }->[$weight];
+			$nodehash{"NODE".$i} =
+			[
+			"NODE".$i,      # Names really only needed for genes, but anyway..
+			"unpaired",     # All new nodes are initially unpaired
+			\@tempAverage,  # Remember, we must store a reference to a list, not a list
+			$bestKeyLeft,   # It is was made from left...
+			$bestKeyRight,  #    ...and right nodes
+			$bestPearson,    # Keep track of the pearson for reporting later
+			$newweight
+			];
+		}
+		
+####### if single or complete linkage is specified, collapse their gene lists together into one								
+		if ($clusteringtype eq "single" || $clusteringtype eq "complete" ) 
+		{   
+		
+			push @newgenelist, (@{$nodehash{$bestKeyRight}->[$genelist]},
+								@{$nodehash{$bestKeyLeft}->[$genelist]}
+							   );
 
+			$nodehash{"NODE".$i} =
+			[
+			"NODE".$i,      # Names really only needed for genes, but anyway..
+			"unpaired",     # All new nodes are initially unpaired
+			"",  # Remember, we must store a reference to a list, not a list
+			$bestKeyLeft,   # It is was made from left...
+			$bestKeyRight,  #    ...and right nodes
+			$bestPearson,    # Keep track of the pearson for reporting later
+			\@newgenelist
+			];
+		}
 
-        ## Now we have built an initial hash of similarities, that we need only
-        ## update when a new node is created. Now to the job of making nodes...
+		# Now we must update the similarity hash
+		
+####### If $clusteringtype chosen is "average" then all pairwise Pearson values must be recalculated
+		if ($clusteringtype eq "average") 
+		{                                  
+			foreach (keys %nodehash)  ## iterate over all the extant nodes for the update                     
+			{                                                                                         
+				#print "working on key ", $_, "\n";
 
-        my $newweight;
+				if (  ($nodehash{$_}->[$taken] eq "paired")  #don't bother with paired nodes
+				   || ($_ eq "NODE".$i)                      #don't bother with itself
+				   || (defined($similarity{$_."NODE".$i}))   #don't bother with reciprocal keys
+				   )
+				{
+					#print "skipped key ", $_, "\n";
+					next;
+				}
+				
+				else
+				{
+					my $tempPearson = CalculatePearson         # find Pearson between
+							(                                  # just created nodes
+							@{$nodehash{$_}->[$data]},         # and the remaining nodes/genes
+							@{$nodehash{"NODE".$i}->[$data]}
+							);
 
-        for ($i = 1; $i < $rows; $i++) ## we must create ($rows-1) nodes.
-                {
+					$similarity{"NODE".$i.$_} = $tempPearson;  # record for both the normal
+					$similarity{$_."NODE".$i} = $tempPearson;  # and reciprocal key
+				}
+			}
+		}
+			
+############ If $clusteringtype chosen is "single" or "complete" then we must iterate through:
+		#### 	- all keys of nodehash (outer for loop)
+		#### 	- all genes in NODE$i's new gene list (middle for loop)
+		#### 	- unpaired/nonidentical genes in all the gene lists of all nodes in nodehash (inner for loop)
+		#### Then find the best Pearson out of all possible pairs between NODE$i and each of the other nodes
+		#### * (single linkage - closest distance - highest Pearson)
+		#### * (complete linkage - furthest distance - lowest Pearson)
+		if (($clusteringtype eq "single") || ($clusteringtype eq "complete")) 
+		{      
+			### outer for loop																		  
+			foreach (keys %nodehash) 
+			{                                                   
+				### set dummy values 																	  
+				if ($clusteringtype eq "single") 
+					{$bestPearson = -999;}                             
+				if ($clusteringtype eq "complete") 
+					{$bestPearson = 999;}                                         
+				
+				### middle for loop
+				foreach my $geneInNODE(@{$nodehash{"NODE".$i}->[$genelist]}) 
+				{   
+					### inner for loop
+					foreach  my $nodeGene (@{$nodehash{$_}->[$genelist]}) 
+					{      
 
-                print GTR_FILE "NODE$i","X\t$bestKeyLeft","X\t$bestKeyRight","X\t$bestPearson\n";
-                print "Creating NODE$i","\ from $bestKeyLeft"," and $bestKeyRight "," correlation $bestPearson\n";
+						if ( ($nodehash{$_}->[$taken] eq "paired")
+								|| ($_ eq "NODE".$i)
+								|| ($nodeGene eq $geneInNODE)
+						   ) {next;}
+										 
+						my $tempPearson = $similarity{$nodeGene.$geneInNODE};
 
-                ## First, mark our bestKeyLeft and bestKeyRight nodes as "paired"
-                $nodehash{$bestKeyRight}->[$taken] = "paired";
-                $nodehash{$bestKeyLeft }->[$taken] = "paired";
+							
+						if ($clusteringtype eq "single") 
+						{
+							if ($tempPearson > $bestPearson) 
+								{$bestPearson = $tempPearson;}
+						}
+						
+						if ($clusteringtype eq "complete") 
+						{	if ($tempPearson < $bestPearson) 
+								{$bestPearson = $tempPearson;}
+						}
 
+						$similarity{"NODE".$i.$_} = $bestPearson;
+						$similarity{$_."NODE".$i} = $bestPearson;
 
-                ## Now create a new node based on the bestKeyLeft and bestKeyRight
-                if ($clusteringtype eq "average" ) {                                 ############################## added a check for if you specify
-                        my @tempAverage = AverageVectors                                                         ## average -> in which case, perform
-                                        (                                                                         # (weighted) average clustering
-                                        @{$nodehash{$bestKeyRight}->[$data]},
-                                        @{$nodehash{$bestKeyLeft }->[$data]},
-                                        $nodehash{$bestKeyRight}->[$weight],
-                                        $nodehash{$bestKeyLeft }->[$weight]
-                                        );
-                        my $newweight = $nodehash{$bestKeyRight}->[$weight] + $nodehash{$bestKeyLeft }->[$weight];
-                        $nodehash{"NODE".$i} =
-                        [
-                        "NODE".$i,      # Names really only needed for genes, but anyway..
-                        "unpaired",     # All new nodes are initially unpaired
-                        \@tempAverage,  # Remember, we must store a reference to a list, not a list
-                        $bestKeyLeft,   # It is was made from left...
-                        $bestKeyRight,  #    ...and right nodes
-                        $bestPearson,    # Keep track of the pearson for reporting later
-                        $newweight
-                        ];
-                        }
-                        
-                        
-                        if ($clusteringtype eq "single" || $clusteringtype eq "complete" ) {   ##################### if single or complete linkage is
-                                                                                                                   # specified, collapse their gene
-                                my @newgenelist;                                                                   # lists together into one
-                                push @newgenelist, (@{$nodehash{$bestKeyRight}->[$genelist]},
-                                                    @{$nodehash{$bestKeyLeft}->[$genelist]}
-                                                   );
+					}
+				}
+			}
+		}
 
-                        $nodehash{"NODE".$i} =
-                        [
-                        "NODE".$i,      # Names really only needed for genes, but anyway..
-                        "unpaired",     # All new nodes are initially unpaired
-                        "",  # Remember, we must store a reference to a list, not a list
-                        $bestKeyLeft,   # It is was made from left...
-                        $bestKeyRight,  #    ...and right nodes
-                        $bestPearson,    # Keep track of the pearson for reporting later
-                        \@newgenelist
-                        ];
-                }
+		### OK, now we must iterate through the similarity hash
+		### to find our next 'bestPearson', 'bestRightKey', & 'bestLeftKey' for
+		### creating the next node.
+		### Note that this is a little different than the way we did it in the
+		### initial table, which contained only Genes, and no Nodes.
 
-                ## Now we must update the similarity hash
+		$bestPearson = $DUMMY;  ## reinitialize with an obviously bogus value
 
+		foreach (keys %similarity)  ## iterate over the similarity keys
+		{
 
-                if ($clusteringtype eq "average") {                                  ############################## again, a check for average linkage;
-                foreach (keys %nodehash)  ## iterate over all the extant nodes for the update                     # if specified - update similaritiy
-                        {                                                                                         # hash accordingly
-                        #print "working on key ", $_, "\n";
+			/([A-Z]{4}[0-9]+)/;            ## recover the individual keys from $_
+			my $keyLeft = $1;              ## Parenthesised regexp groups are stored in $1
+			/((?<=[0-9])[A-Z]{4}[0-9]+)/;  ## a lookbehind regex to obtain keyRight
+			my $keyRight = $1;
 
-                        if (  ($nodehash{$_}->[$taken] eq "paired")  #don't bother with paired nodes
-                           || ($_ eq "NODE".$i)                      #don't bother with itself
-                           || (defined($similarity{$_."NODE".$i}))   #don't bother with reciprocal keys
-                           )
-                                {
-                                #print "skipped key ", $_, "\n";
-                                next;
-                                }
-                        else
-                                {
-                                my $tempPearson = CalculatePearson         # find Pearson between
-                                        (                                  # just created nodes
-                                        @{$nodehash{$_}->[$data]},         # and the remaining nodes/genes
-                                        @{$nodehash{"NODE".$i}->[$data]}
-                                        );
+				#print "Now matching for $_\n";
 
-                                $similarity{"NODE".$i.$_} = $tempPearson;  # record for both the normal
-                                $similarity{$_."NODE".$i} = $tempPearson;  # and reciprocal key
-                                }
-                        }
-                }
-                
-                
-                if (($clusteringtype eq "single") || ($clusteringtype eq "complete")) {      ############ if you chose single or
-                                                                                                  ####### complete linkage clustering,
-                        foreach (keys %nodehash) {                                                   #### we iterate through:
-                                                                                                      ### - the keys of nodehash (outer for loop)
-                                if ($clusteringtype eq "single") {      ### set dummy values           ## - the genes in NODE$i's new gene list (middle for loop)
-                                        $bestPearson = -999;}                                          ## - the unpaired/nonidentical genes in all
-                                if ($clusteringtype eq "complete") {                                    #       the gene lists of all nodes in nodehash (inner for loop)
-                                        $bestPearson = 999;}                                            # ... find the best Pearson out of all possible pairs
-                                                                                                        # between NODE$i and each of the other nodes.
-                                foreach my $geneInNODE(@{$nodehash{"NODE".$i}->[$genelist]}) {          # (single linkage - closest distance - highest Pearson)
-                                                                                                        # (complete linkage - furthest distance - lowest Pearson)
-                                        foreach  my $nodeGene (@{$nodehash{$_}->[$genelist]}) {         # -- Finally, update the similarity hash with the new distances!
-
-                                                if ( ($nodehash{$_}->[$taken] eq "paired")
-                                                        || ($_ eq "NODE".$i)
-                                                        || ($nodeGene eq $geneInNODE)
-                                                   ) {next;}
-                                                                 
-                                                my $tempPearson = $similarity{$nodeGene.$geneInNODE};
-												
-												#CalculatePearson
-                                                #(
-                                                #@{$nodehash{$nodeGene}->[$data]},
-                                                #@{$nodehash{$geneInNODE}->[$data]}
-                                                #);
-                                                                
-                                                    #      print "$geneInNODE\t$nodeGene\n";
-                                                    #      print "TEMP: $tempPearson\n";
-                                                    #      print "BEST: $bestPearson\n";
-                                                    
-                                                if ($clusteringtype eq "single") {if ($tempPearson > $bestPearson) {
-                                                         $bestPearson = $tempPearson; }}
-                                                if ($clusteringtype eq "complete") {if ($tempPearson < $bestPearson) {
-                                                         $bestPearson = $tempPearson;}}
-
-
-                                                $similarity{"NODE".$i.$_} = $bestPearson;
-                                                $similarity{$_."NODE".$i} = $bestPearson;
-
-                                                }
-
-                                        }
-                                 }
-                        }
-
-
-
-
-
-                                        
-
-
-                ### OK, now we must iterate through the similarity hash
-                ### to find our next 'bestPearson', 'bestRightKey', & 'bestLeftKey' for
-                ### creating the next node.
-                ### Note that this is a little different than the way we did it in the
-                ### initial table, which contained only Genes, and no Nodes.
-
-                $bestPearson = $DUMMY;  ## reinitialize with an obviously bogus value
-
-                foreach (keys %similarity)  ## iterate over the similarity keys
-                        {
-
-                        /([A-Z]{4}[0-9]+)/;            ## recover the individual keys from $_
-                        my $keyLeft = $1;              ## Parenthesised regexp groups are stored in $1
-                        /((?<=[0-9])[A-Z]{4}[0-9]+)/;  ## Oh my goodness!! (a 'lookbehind', Cozens pg. 175)
-                        my $keyRight = $1;
-
-                        #print "Now matching for $_\n";
-
-                        if (  $nodehash{$keyLeft }->[$taken] eq "paired"
-                           || $nodehash{$keyRight}->[$taken] eq "paired" )
-                                {
-                                next;  #as usual, consider only unpaired combos
-                                }
-                        if ($similarity{$_} >= $bestPearson)
-                                {
-                              #  print "Best Pearson reassigned to $_!!!\n";
-                                $bestPearson  = $similarity{$_};
-
-                                $bestKeyLeft =  $keyLeft;
-                                $bestKeyRight = $keyRight;
-                              #  print "Best keys: L: $bestKeyLeft  R: $bestKeyRight\n";
-                                }
-                        }
-                }
-        }
+			if (  $nodehash{$keyLeft }->[$taken] eq "paired"
+			   || $nodehash{$keyRight}->[$taken] eq "paired" )
+			{
+				next;  #as usual, consider only unpaired combos
+			}
+		
+			if ($similarity{$_} >= $bestPearson)
+			{
+			  #  print "Best Pearson reassigned to $_!!!\n";
+				$bestPearson  = $similarity{$_};
+				$bestKeyLeft =  $keyLeft;
+				$bestKeyRight = $keyRight;
+			  #  print "Best keys: L: $bestKeyLeft  R: $bestKeyRight\n";
+			}
+		}
+    }
+}
 
 
 ################################################################################
@@ -508,20 +511,20 @@ sub OrderTheGenes ($)      # get in the habit of always using a function prototy
 ################################################################################
 
 sub PrintNode
-        {
-        (my $currentnode, my $direction) = @_;
+{
+	(my $currentnode, my $direction) = @_;
 
-        print CDT_FILE $nodehash{$currentnode}->[$direction], "X\t";   ## print GENEnumberX
-        print CDT_FILE $nodehash{$nodehash{$currentnode}->[$direction]}->[$name], "\t"; #gene name duplicated
-        print CDT_FILE $nodehash{$nodehash{$currentnode}->[$direction]}->[$name], "\t";  #
-        print CDT_FILE "1";  # for Eisen's EWEIGHT column
+	print CDT_FILE $nodehash{$currentnode}->[$direction], "X\t";   ## print GENEnumberX
+	print CDT_FILE $nodehash{$nodehash{$currentnode}->[$direction]}->[$name], "\t"; #gene name duplicated
+	print CDT_FILE $nodehash{$nodehash{$currentnode}->[$direction]}->[$name], "\t";  #
+	print CDT_FILE "1";  # for Eisen's EWEIGHT column
 
-        foreach (@{$nodehash{$nodehash{$currentnode}->[$direction]}->[$data]}) # my goodness!!
-                {                                                              # Isn't Perl code lovely?
-                print CDT_FILE "\t$_";  # Get at, print & tab-delimit each data item
-                }
-        print CDT_FILE "\n";
-        return;
-        }
+	foreach (@{$nodehash{$nodehash{$currentnode}->[$direction]}->[$data]}) # my goodness!!
+			{                                                              # Isn't Perl code lovely?
+			print CDT_FILE "\t$_";  # Get at, print & tab-delimit each data item
+			}
+	print CDT_FILE "\n";
+	return;
+}
         
 
