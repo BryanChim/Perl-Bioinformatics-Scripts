@@ -1,117 +1,16 @@
-#!/usr/local/bin/perl
-
-#### BryanChim_Blast_prot
-#
+#!/usr/bin/perl -w
+# BlastN 
+#    VERSION: Version 3.2 (10 October 2003)
 #    PURPOSE: Basic local alignment sequence tool
-#             Local alignment of two amino acid sequences
-#			  * Uses the seed-word match and extension algorithm
-#			  * Utilizes a Point-Accepted Mutation (PAM) table for scoring
-#
-#	 NOTE: Based on Paul Fawcett/Jeff Elhai's homegrown implementation
-#		of nucleotide blast (see BlastN.pl)
-#	
-####**** MODIFICATIONS Made by Bryan Chim for Protein BLAST Implementation ****###########
-#		** Did away with discrete match reward and mismatch penalty scoring system
-#		** Implemented scoring system using a PAM120 table (constructed and called as a hash)
-#		** Implemented dual sliding window to compare and score every possible
-#			$word-length combination of query and target
-#		** Coordinates of satisfactorily scoring seed-words (and their scores)
-#			are passed on to Process_match for alignment extension
-#		** Once again, the scoring from diagonal trace-back has been modified
-#			to use the PAM120 table
-#
-###*** INPUT FILES (* file name variables have been moved up in the program for convenience): 
-#			  1. PAM1 matrix, as a tab-delimited text file ~ $PAM1_filename, line 34
-#             2. FastA file used as query ~ $query_path, line 35
-#             3. FastA file used as target/subject  ~ $target_path, line 36
-#
-###*** OTHER CHANGEABLE PARAMETERS ********************************************############
-#			  N -- line 44 -- the desired evolutionary distance in PAM units ~ PAM *N* 
-#			  BLAST Parameters -- line 48-51: gap begin penalty, gap extension penalty, 
-#				desired seed-word length and seed-word score threshold (before allowing extension)
-#
+#             Local alignment of two DNA sequences
+#    INPUT FILES:  
+#             1. FastA file used as query
+#             2. FastA file used as target (=subject)
 #    OUTPUT FILES: Output to screen
 #             Gives each extended match found, including coordinates
-#				** See BLASTP_example_output.jpg
 
-############### LIBRARIES AND PRAGMAS ###############
-use strict;
-use warnings;
-
-###################### FILES ########################
-  my $PAM1_filename = "PAM1.txt";       # Input file containing initial PAM1 probability matrix
-  my $query_path = "numbat.txt";		# Query protien sequence input file
-  my $target_path = "quoll.txt";		# Target protein sequence input file
-
-#### PAM Matrix PARAMETER - $N percent evolutionary distance  
-  my $N = 120;                    
-  
-#### BLAST PARAMETERS
-  my $gap_begin_penalty = 11;
-  my $gap_extend_penalty = 1;
-  my $word_length = 3;
-  my $word_threshold = 15;
-
-######################################
-########## PAMN CONSTRUCTION #########
-######################################
-
-my ($i, $line, $size);          # General purpose iterator, the variable for each line read in from the file, and the size of the amino acid alphabet.
-my (@PAM1, @PAMN, @alphabet);   # The array containing the PAM1 matrix we start with, the PAMN matrix we build, and the order of the amino acids in the input file.
-my %PAM;                        #The scoring hash we are going to create and print out. Keys are in the form aminoacid1.aminoacid2 in the one-letter code.
-
-my %aa_frequencies = (  "G" => 0.089, "R" => 0.041, "A" => 0.087, "N" => 0.040, "L" => 0.085, "F" => 0.040,
-                        "K" => 0.081, "Q" => 0.038, "S" => 0.070, "I" => 0.037, "V" => 0.065, "H" => 0.034,
-                        "T" => 0.058, "C" => 0.033, "P" => 0.051, "Y" => 0.030, "E" => 0.050, "M" => 0.015,
-                        "D" => 0.047, "W" => 0.010); 
-
-######################################
-# Read the PAM1 file into a 2D array #
-######################################
-
-open PAM1_FILE, "<$PAM1_filename" or die "Can't open $PAM1_filename: $!\n";
-
-$line = <PAM1_FILE>;    # read the initial header line of the PAM file indicating the amino acid ordering in the table
-chomp ($line);          # chew off the endline character
-@alphabet = split /\t/, $line;  # Break up the tab-delimited line into an array indicating the order the amino acids appear in the table
-shift @alphabet;        # This peels off and throws away the first element, which is not an amino acid, just a label.
-
-$size = @alphabet - 1;  # Record how many amino acids were in the input table (some PAM charts include ambiguity characters)
-
-$line = <PAM1_FILE>;    # Get the next line, which is first line of matrix.
-$i = 0;
-
-while (defined $line)
-        {
-        chomp ($line);                  # strip off the trailing line feed.
-        my @line = split /\t/, $line;   # Grab the whole tab-delimited line as an array. Old C++ paranoia makes me redeclare the variable each time through
-        shift @line;                    # dump the first element, which is an AA, not a number.
-        $PAM1[$i++] = \@line;           # This little cheat of taking a reference of the list populates the 2D array with only one loop.
-        $line = <PAM1_FILE>;            # Grab the next line
-        }
-
-foreach $i (0 .. $size) {$PAM1[$i][$_] *= 0.0001 foreach (0 .. $size);}   # Divide each element by 10000
-
-########################################################################
-# Now Convert from a PAM1 to PAMN by successive matrix multiplications #
-########################################################################
-
-@PAMN = @PAM1;  # We need to start off by multiplying PAM1 by itself, so we need a copy
-
-@PAMN = MatrixMultiply(\@PAMN, \@PAM1) foreach (1 .. --$N);  # The --"predecrement" operator here makes sure that we loop N-1 times
-
-foreach $i (0 .. $size)            # Convert to a log odds forumulation
-        {
-        $PAMN[$i][$_] = log($PAMN[$i][$_]/$aa_frequencies{$alphabet[$i]})/log(10) foreach (0..$size);
-        #print "@{$PAMN[$i]}", "\n";
-        }
-
- foreach $i (0 .. $size)        # Average the reciprocal values, multiply by 10, round, and build the final hash
-        {
-        $PAM{$alphabet[$i].$alphabet[$_]} = round(10*(($PAMN[$i][$_] + $PAMN[$_][$i]) / 2)) foreach (0 .. $size);
-        }
-
-
+############## LIBRARIES AND PRAGMAS ################
+  use strict;
 
 #################### CONSTANTS ######################
 
@@ -125,7 +24,13 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
   my $forwards = +1;           # Indicates desire to extend match right to left
   my $max_segment_length = 50; # Nucleotides per line in output
 
+#### BLAST PARAMETERS
 
+  my $match_reward = 1;
+  my $mismatch_penalty = 2;
+  my $gap_begin_penalty = 5;
+  my $gap_extend_penalty = 2;
+  my $word_length = 5;
 
 #################### VARIABLES ######################
 
@@ -135,11 +40,10 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
   my $query_word;             # Sequence of word match
   my $query_word_pattern;     # 
   my $effective_query_end;    # Length of query, less word length
-  my $effective_target_end;
+                              #    (actually last coordinate - word length + 1)
   my $target_name;            # Header of FastA file used as target (subject) for Blast
   my $target;                 # Sequence used as target
   my $target_word_start;      # Position within target where word match found
-  my $seedword_score;
 
 #### USED ONLY IN SUBROUTINES
 #    These variables are used in multiple subroutines and so are declared
@@ -157,7 +61,10 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
   my %seen;                   # Keeps track of which full matches have already been
                               #   encountered, to avoid duplications
 
+###################### FILES ########################
 
+  my $query_path = "q.txt";
+  my $target_path = "t.txt";
 
 ################### MAIN PROGRAM ####################
 
@@ -168,12 +75,12 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
   ($query_name, $query) = Get_FastA_sequence($query_path);
   ($target_name, $target) = Get_FastA_sequence($target_path);
   $effective_query_end = (length($query) - 1) - $word_length + 1; 
-  $effective_target_end = (length($target) - 1) - $word_length + 1;############## for use in the
-  print "Query: $query_name", $LF;                                            ### sliding window
-  print "Target: $target_name", $LF;                                          ### below
+
+  print "Query: $query_name", $LF;
+  print "Target: $target_name", $LF;
   print $LF;
 
-#### RUN WINDOW THROUGH QUERY, PROTEIN BY PROTEIN
+#### RUN WINDOW THROUGH QUERY, NUCLEOTIDE BY NUCLEOTIDE
 #    Move window from beginning to (effective) end of query
 #    Extract word from query. Compiling the pattern ($query_word_pattern) 
 #       saves execution time.
@@ -182,29 +89,15 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
 #    Begin next search for a match just beyond current match, to allow
 #       for the possibility of overlapping matches
 
-  for $query_word_start (0 .. $effective_query_end) {                           # nested for loops to iterate
-                                                                                # through all combinations of
-        for $target_word_start (0 .. $effective_target_end) {                   # sliding windows across
-                                                                                # the target and query
+  for $query_word_start (0 .. $effective_query_end) {
      $query_word = substr($query, $query_word_start, $word_length);
-     
-     my $target_word = substr($target, $target_word_start, $word_length);
-
-     my $word_score = 0;
-
-        for (my $t = 0; $t < $word_length; $t++) {                              # for loop to score each set of
-                $word_score += $PAM{substr($target_word, $t, 1).                # words found in the sliding windows
-                                     substr($query_word, $t, 1)};               # via the PAM hash
-                }
-
-
-        if ($word_score > $word_threshold) {                                    # process the word if its score
-        Process_match($target_word_start, $query_word_start, $word_score);      # meets the threshold - also pass
-        }                                                                       # its score to initialize the seed
+     $query_word_pattern = qr/$query_word/;
+     while ($target =~ /$query_word_pattern/g) {
+        $target_word_start = pos($target) - $word_length;
+        Process_match($target_word_start, $query_word_start);
         pos($target) = $target_word_start+1;
      }
   }
-
 
 #################### SUBROUTINES ####################
 
@@ -244,20 +137,20 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
 # Extends matches in forwards then backwards directions
 # Assembles full target hit and query hit
 # Prints hit
-  sub Process_match {                                                           # the $word_score variable is captured
-     ###  Calculate query and target words                                      # here under the name, "$seedword_score"-
-     my ($target_word_start, $query_word_start, $seedword_score) = @_;          # it is further passed along to the
-     my $target_word_end = $target_word_start + $word_length - 1;               # subroutine "Extend_match_in_one_direction"
+  sub Process_match {
+     ###  Calculate query and target words
+     my ($target_word_start, $query_word_start) = @_;
+     my $target_word_end = $target_word_start + $word_length - 1;
      my $query_word_end = $query_word_start + $word_length - 1;
      my $target_word = substr($target, $target_word_start, $word_length);
      my $query_word = substr($query, $query_word_start, $word_length);
    
      ###  Extend match in each direction
      my ($target_max, $query_max, $forward_target, $forward_query)
-        = Extend_match_in_one_direction($forwards, $target_word_end, $query_word_end, $seedword_score);
+        = Extend_match_in_one_direction($forwards, $target_word_end, $query_word_end);
 
      my ($target_min, $query_min, $backward_target, $backward_query)
-        = Extend_match_in_one_direction($backwards, $target_word_start, $query_word_start, $seedword_score);
+        = Extend_match_in_one_direction($backwards, $target_word_start, $query_word_start);
 
      ###  Assemble full target hit and query hit
      my $target_hit = $backward_target . $target_word . $forward_target;
@@ -279,7 +172,7 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
 #      query extension sequence
 #
   sub Extend_match_in_one_direction {
-     ($direction, $target_boundary, $query_boundary, $seedword_score) = @_;
+     ($direction, $target_boundary, $query_boundary) = @_;
      @traceback_i = ();          # Initialize traceback table...
      @traceback_j = ();          #
      $traceback_i[0][0] = -1;    # ... setting first element (corner) to -1
@@ -287,8 +180,8 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
      $max_i = 0;                 # Initialize position of best score to 
      $max_j = 0;                 #     first element
      @score = ();                # Initialize scoring table
-     $score[0][0] = $seedword_score;    ######################################### $seedword_score is used to initialize
-     $max_score = $score[0][0];                                                 # the score at the [0][0] position
+     $score[0][0] = $match_reward * $word_length;
+     $max_score = $score[0][0];
 
      Go_through_diagonal(0,0);
 
@@ -412,7 +305,7 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
            $max_in_column = Max($max_in_column, $new_score);
         }
         $penalty = $gap_extend_penalty;
-     } until ($new_score == 0 && $i > $previous_last_i);
+     } until ($new_score == 0 & $i > $previous_last_i);
      while (@first_position) {
         $i = shift(@first_position);
         $penalty = $gap_begin_penalty;
@@ -522,7 +415,7 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
 #      or penalty (if mismatch)
   sub Diagonal_score_of {
      my ($i, $j) = @_;
-     if ($i==0 || $j==0) {return 0}
+     if ($i==0 | $j==0) {return 0}
      my $target_pos = $target_boundary + $i*$direction;
      if ($target_pos < 0 or $target_pos >= length($target)) {
        return 0;
@@ -533,9 +426,10 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
        return 0;
      }   
 
-     my $change_amount = $PAM{substr($target, $target_pos, 1).  ################# the PAM hash is called once again
-                                substr($query, $query_pos, 1)};                 # to determine the score change that
-                                                                                # results from a diagonal traceback
+     my $change_amount;
+     if (substr($target, $target_pos, 1) eq substr($query, $query_pos, 1)) {
+        $change_amount = $match_reward 
+     } else { $change_amount = -$mismatch_penalty }
 
      if (defined $score[$i-1][$j-1]) {
         return $score[$i-1][$j-1] + $change_amount;
@@ -676,41 +570,4 @@ foreach $i (0 .. $size)            # Convert to a log odds forumulation
      return $max_of; 
   }
    
-##############################################################################################
-# Taking array references as arguments, multiply two matrices, A and B, and return matrix C  #
-##############################################################################################
-
-sub MatrixMultiply
-        {
-        (my $arrayA_ref, my $arrayB_ref) = @_;
-        my @array_C;
-        my $rows    = scalar(@{$arrayA_ref});           # Rows of A
-        my $cols    = scalar(@{$arrayB_ref->[0]});      # Columns of B
-        my $rowcols = scalar(@{$arrayA_ref->[0]});      # Number of columns in A and rows in B
-        my ($i,$j,$k);  # iterators
-
-        for (my $i = 0; $i < $rows ; $i++)  # iterate over rows of A
-                {
-                for ($j = 0; $j < $cols; $j++)  # iterate over columns of B.
-                        {
-                        for ($k = 0; $k < $rowcols; $k++) # iterate over columns of A and rows of B
-                                {
-                                $array_C[$i][$j] += $arrayA_ref -> [$i][$k] * $arrayB_ref -> [$k][$j];
-                                }
-                        }
-                }
-
-        return @array_C;
-        }
-
-#########################################
-# Round a number to the nearest integer #
-#########################################
-
- sub round
-        {
-        my $num = $_[0];
-        $num += 0.5 * ($num <=> 0);
-        return int($num);
-        }
 
