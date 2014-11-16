@@ -20,7 +20,7 @@
 #    INPUT FILES:
 #             1. Tab Delimited log-transformed Spotted Microarray Ratio data
 #                first column is gene ID, all subsequent represent microarray
-#                ratio data.  The first row is assumed to be column headers
+#                ratio data.  The first row is assumed to be column headers--- ~ (base)$filename, line 55
 #
 #    OUTPUT FILES:
 #             1. *.cdt file
@@ -215,7 +215,7 @@ sub CalculatePearson (\@\@)
 
 
 
-
+ 
 	return $r;
 
 }
